@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2084243311338963331",
+    "created_at": "2026-08-03T15:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084297043884089508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883714858040070144",
+          "start": 0,
+          "username": "amakiyu_yuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084297043884089508",
+    "in_reply_to_user_id": "1883714858040070144",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084243311338963331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amakiyu_yuji ◉‿◉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2084243233912258560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy4La7aAAA6wh8.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2084243248579768320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy4MRkacAAi-XK.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2352,
+        "media_key": "3_2084243277293993984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOy4N8iawAAwKQG.jpg",
+        "width": 3070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2084243311338963331",
+        "created_at": "2026-08-03T15:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084297043884089508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883714858040070144",
+              "start": 0,
+              "username": "amakiyu_yuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084297043884089508",
+        "in_reply_to_user_id": "1883714858040070144",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084243311338963331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amakiyu_yuji ◉‿◉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084243233912258560",
+            "3_2084243248579768320",
+            "3_2084243277293993984"
+          ]
+        },
+        "author_id": "1883714858040070144",
+        "conversation_id": "2084243311338963331",
+        "created_at": "2026-08-03T11:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084243311338963331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwsE6NCp66",
+              "end": 43,
+              "expanded_url": "https://x.com/amakiyu_yuji/status/2084243311338963331/photo/1",
+              "media_key": "3_2084243233912258560",
+              "start": 20,
+              "url": "https://t.co/EwsE6NCp66"
+            },
+            {
+              "display_url": "pic.x.com/EwsE6NCp66",
+              "end": 43,
+              "expanded_url": "https://x.com/amakiyu_yuji/status/2084243311338963331/photo/1",
+              "media_key": "3_2084243248579768320",
+              "start": 20,
+              "url": "https://t.co/EwsE6NCp66"
+            },
+            {
+              "display_url": "pic.x.com/EwsE6NCp66",
+              "end": 43,
+              "expanded_url": "https://x.com/amakiyu_yuji/status/2084243311338963331/photo/1",
+              "media_key": "3_2084243277293993984",
+              "start": 20,
+              "url": "https://t.co/EwsE6NCp66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084243311338963331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1124,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考落榜成功！\n获得收藏品：录取通知书 https://t.co/EwsE6NCp66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5439,
+          "following_count": 7500,
+          "like_count": 681,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 12329
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T03:13:22.000Z",
+        "description": "08|📖|🏳️‍⚧️|概括不下\n真理变成了女性",
+        "id": "1883714858040070144",
+        "location": "雨季",
+        "name": "再会☔",
+        "pinned_tweet_id": "2059903077126443428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077941598051340288/8oezzWXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 87,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "amakiyu_yuji",
+        "verified": true
+      }
+    ]
+  }
+}
