@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1936379121095020639",
+    "created_at": "2025-06-21T11:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T12:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936380630901891338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494700894763433991",
+          "start": 0,
+          "username": "LittleXiaYuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936380630901891338",
+    "in_reply_to_user_id": "1494700894763433991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936379121095020639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleXiaYuan ｢(ﾟﾍﾟ)\n夏鸢不要伤心了~(ˊ˘ˋ*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1936379121095020639",
+        "created_at": "2025-06-21T11:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936380630901891338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494700894763433991",
+              "start": 0,
+              "username": "LittleXiaYuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936380630901891338",
+        "in_reply_to_user_id": "1494700894763433991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936379121095020639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleXiaYuan ｢(ﾟﾍﾟ)\n夏鸢不要伤心了~(ˊ˘ˋ*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494700894763433991",
+        "conversation_id": "1936379121095020639",
+        "created_at": "2025-06-21T11:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936379121095020639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936379121095020639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千言万语化作一句唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 7480,
+          "like_count": 620,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 1712
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T15:50:48.000Z",
+        "description": "“Pain is my superpower”｜现居青岛｜GNU/Linux用户｜超业余级的全栈开发者｜头图是自设｜ 退役OIer｜我的日月我的明灯 @4ntid0te_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "4ntid0te_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.OwO.today",
+                "end": 23,
+                "expanded_url": "https://me.OwO.today",
+                "start": 0,
+                "url": "https://t.co/rFjNzwGZE4"
+              }
+            ]
+          }
+        },
+        "id": "1494700894763433991",
+        "location": "青霭流鸢",
+        "name": "小夏鸢~♪~OwO.today",
+        "pinned_tweet_id": "1932115866612887775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903750361133027328/Glh0PhpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4606,
+          "following_count": 1717,
+          "like_count": 94958,
+          "listed_count": 7,
+          "media_count": 276,
+          "tweet_count": 3829
+        },
+        "url": "https://t.co/rFjNzwGZE4",
+        "username": "LittleXiaYuan",
+        "verified": false
+      }
+    ]
+  }
+}

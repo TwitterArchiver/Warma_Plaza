@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2060386853812072877",
+    "created_at": "2026-05-29T22:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T23:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060491908070441121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1594302945218158593",
+          "start": 0,
+          "username": "sanitf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060491908070441121",
+    "in_reply_to_user_id": "1594302945218158593",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060386853812072877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanitf1 (⁠・⁠∀⁠・⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2060386853812072877",
+        "created_at": "2026-05-29T22:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060491908070441121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594302945218158593",
+              "start": 0,
+              "username": "sanitf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060491908070441121",
+        "in_reply_to_user_id": "1594302945218158593",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060386853812072877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanitf1 (⁠・⁠∀⁠・⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594302945218158593",
+        "conversation_id": "2060386853812072877",
+        "created_at": "2026-05-29T15:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060386853812072877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060386853812072877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳各位外国友人们好！我是来自中国的中国人!\n我是喜欢中国的中国人🇨🇳\n我很高兴，因为这个软件我可以和大家聊天🥰\n我在美国住了0年，我喜欢中国文化，所以自己学习了中文，中文真的真的非常困难对我\n但是我已经不需要翻译器，希望大家多多聊天和我\n很高兴认识你们💞💞\n爱来自瓷器，还请多多关照💖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5110,
+          "following_count": 7499,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 571,
+          "tweet_count": 10004
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T12:13:48.000Z",
+        "description": "萨尼铁塔好，萨尼铁塔好！萨尼给你扎个针还送你个包!\n似乎是梦到啥干啥的入\n☭\n❤️Gustav Mahler❤️\n📷\n小号:@svaghglm2nd\n推荐👉 @dilei114\n@VicoOci_olvidar \n医疗下属:@Claudio1260783\n凡尔登司令:@RX_Xron28390",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "svaghglm2nd"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dilei114"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "VicoOci_olvidar"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "Claudio1260783"
+              },
+              {
+                "end": 147,
+                "start": 134,
+                "username": "RX_Xron28390"
+              }
+            ]
+          }
+        },
+        "id": "1594302945218158593",
+        "location": "極地監獄 C點圓形監獄 地下一層/防衛塔樓",
+        "name": "💉萨尼!Hilf mir!💉(淡推中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916448773007716352/Ew8n4LGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 2634,
+          "like_count": 94532,
+          "listed_count": 6,
+          "media_count": 728,
+          "tweet_count": 5452
+        },
+        "username": "sanitf1",
+        "verified": false
+      }
+    ]
+  }
+}

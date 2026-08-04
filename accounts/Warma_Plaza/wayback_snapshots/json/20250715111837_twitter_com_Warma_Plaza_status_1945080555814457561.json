@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1945037465791680920",
+    "created_at": "2025-07-15T11:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T12:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945080555814457561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862018067691413504",
+          "start": 0,
+          "username": "baka8964qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945080555814457561",
+    "in_reply_to_user_id": "1862018067691413504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945037465791680920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baka8964qwq (◞‸◟ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945037452856451072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4pQhRW4AApgrh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1945037465791680920",
+        "created_at": "2025-07-15T11:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T12:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945080555814457561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862018067691413504",
+              "start": 0,
+              "username": "baka8964qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945080555814457561",
+        "in_reply_to_user_id": "1862018067691413504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945037465791680920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baka8964qwq (◞‸◟ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945037452856451072"
+          ]
+        },
+        "author_id": "1862018067691413504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945037465791680920",
+        "created_at": "2025-07-15T08:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T09:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945037465791680920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fFui1MD51A",
+              "end": 37,
+              "expanded_url": "https://x.com/baka8964qwq/status/1945037465791680920/photo/1",
+              "media_key": "3_1945037452856451072",
+              "start": 14,
+              "url": "https://t.co/fFui1MD51A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945037465791680920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的賬號被黑客攻擊了😨😱😱 https://t.co/fFui1MD51A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 7487,
+          "like_count": 638,
+          "listed_count": 4,
+          "media_count": 444,
+          "tweet_count": 2002
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T06:18:03.000Z",
+        "description": "00後男生【左翼三民主義🇹🇼】【進步主義/社會民主主義🌹】【社會自由主義🗽】【對🏳️‍🌈🏳️‍⚧️友好】【自由泛亞主義🇰🇷🇹🇼🇯🇵】【中立主義⚖️（偏自由派）】【和平主義🌍🌏🌎🇺🇦❤️🇵🇸🤝🇮🇱】【繁體/簡體/English/日本語】 小號及逃生艙：@Milkqwq666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Milkqwq666"
+              }
+            ]
+          }
+        },
+        "id": "1862018067691413504",
+        "location": "Australia",
+        "name": "baka （暫時保護狀態，請關注小號）🇹🇼🇯🇵🇦🇺🇺🇦🌹🚩",
+        "pinned_tweet_id": "1945040966898810973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926493715050213376/BEWaspK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1246,
+          "like_count": 5161,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 1581
+        },
+        "username": "baka8964qwq",
+        "verified": false
+      }
+    ]
+  }
+}

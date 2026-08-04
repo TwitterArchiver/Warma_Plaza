@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2057139976991826128",
+    "created_at": "2026-05-20T20:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T21:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057195769619464347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1954474751260585984",
+          "start": 0,
+          "username": "TheLongMarchAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057195769619464347",
+    "in_reply_to_user_id": "1954474751260585984",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057139976991826128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheLongMarchAI ⊙⁠﹏⁠⊙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2057139972768149504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxt5_IaMAAAQoz.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2057139976991826128",
+        "created_at": "2026-05-20T20:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057195769619464347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1954474751260585984",
+              "start": 0,
+              "username": "TheLongMarchAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057195769619464347",
+        "in_reply_to_user_id": "1954474751260585984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057139976991826128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheLongMarchAI ⊙⁠﹏⁠⊙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057139972768149504"
+          ]
+        },
+        "author_id": "1954474751260585984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2057139976991826128",
+        "created_at": "2026-05-20T16:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057139976991826128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2056225296911892480/zxNP3jo-?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056225296911892480/zxNP3jo-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/JQDmWnccVH"
+            },
+            {
+              "display_url": "pic.x.com/2x9OPMKrPK",
+              "end": 64,
+              "expanded_url": "https://x.com/TheLongMarchAI/status/2057139976991826128/photo/1",
+              "media_key": "3_2057139972768149504",
+              "start": 41,
+              "url": "https://t.co/2x9OPMKrPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057139976991826128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/JQDmWnccVH https://t.co/2x9OPMKrPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5038,
+          "following_count": 7498,
+          "like_count": 669,
+          "listed_count": 6,
+          "media_count": 569,
+          "tweet_count": 9271
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T09:28:03.000Z",
+        "description": "中国人(PRC)🇨🇳，一中各表🇨🇳🇹🇼认可，中国朝鲜族\n新左派/民主主义者/共产主义者☭/温和毛主义者/ENTJ\n厌恶支黑，青鸟，极端民族主义与分裂主义\n✈️：🇨🇳🇰🇷🇯🇵🇭🇰🇲🇴🇩🇪🇫🇷🇮🇹🇨🇭🇦🇹🇧🇪🇪🇸🇵🇹🇸🇬🇹🇭🇹🇷🇷🇺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mc.163.com",
+                "end": 23,
+                "expanded_url": "https://mc.163.com",
+                "start": 0,
+                "url": "https://t.co/tCeyYxQN4d"
+              }
+            ]
+          }
+        },
+        "id": "1954474751260585984",
+        "location": "东亚防御倡议协定 中华人民共和国",
+        "name": "The Long March☭🇨🇳🇰🇷",
+        "pinned_tweet_id": "2045410580635546038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052059995928440832/A3jrfAnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 532,
+          "like_count": 8408,
+          "listed_count": 4,
+          "media_count": 658,
+          "tweet_count": 6224
+        },
+        "url": "https://t.co/tCeyYxQN4d",
+        "username": "TheLongMarchAI",
+        "verified": true
+      }
+    ]
+  }
+}

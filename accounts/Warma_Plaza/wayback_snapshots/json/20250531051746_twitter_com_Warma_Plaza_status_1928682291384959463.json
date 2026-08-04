@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928682283655114752"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1928666543744786853",
+    "created_at": "2025-05-31T05:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T06:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928682291384959463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845668678387515392",
+          "start": 0,
+          "username": "baojiangdilei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xm9LNCNjaS",
+          "end": 38,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1928682291384959463/photo/1",
+          "media_key": "3_1928682283655114752",
+          "start": 15,
+          "url": "https://t.co/xm9LNCNjaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928682291384959463",
+    "in_reply_to_user_id": "1845668678387515392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928666543744786853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baojiangdilei https://t.co/xm9LNCNjaS"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1928666543744786853].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928666543744786853",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1928666543744786853"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_1928682283655114752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQOUYHaMAABZ84.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928682283655114752"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1928666543744786853",
+        "created_at": "2025-05-31T05:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928682291384959463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845668678387515392",
+              "start": 0,
+              "username": "baojiangdilei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xm9LNCNjaS",
+              "end": 38,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1928682291384959463/photo/1",
+              "media_key": "3_1928682283655114752",
+              "start": 15,
+              "url": "https://t.co/xm9LNCNjaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928682291384959463",
+        "in_reply_to_user_id": "1845668678387515392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928666543744786853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baojiangdilei https://t.co/xm9LNCNjaS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 7496,
+          "like_count": 591,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1485
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "我会很友善的对待大家的哟 ✧(≖ ◡ ≖✿) 丨不对线｜会尽最大努力避免与任何人发生冲突｜想做个很温和的岁静人｜绝对不会主动骂人或人身攻击！｜很讨厌戾气重、乱骂人的人，见到了就屏蔽｜不会因立场不同而屏蔽或辱骂他人｜有时可能会出现误屏蔽的情况，十分抱歉🙏｜善待每一位能好好说话的推友❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/Gv9IRu64Ni"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘(淡推中)",
+        "pinned_tweet_id": "1913817499562639368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 608,
+          "like_count": 124399,
+          "listed_count": 2,
+          "media_count": 755,
+          "tweet_count": 9056
+        },
+        "url": "https://t.co/Gv9IRu64Ni",
+        "username": "baojiangdilei",
+        "verified": false
+      }
+    ]
+  }
+}

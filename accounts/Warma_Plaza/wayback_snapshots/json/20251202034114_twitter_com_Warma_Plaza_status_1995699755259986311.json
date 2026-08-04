@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1995151411102032276",
+    "created_at": "2025-12-02T03:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T04:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995699755259986311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667151730868617217",
+          "start": 0,
+          "username": "ArDeA___CinEreA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995699755259986311",
+    "in_reply_to_user_id": "1667151730868617217",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995151411102032276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArDeA___CinEreA (▲( ෴ )▲)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1995151400989503488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AzoOEaMAA2j2-.jpg",
+        "width": 790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1995151411102032276",
+        "created_at": "2025-12-02T03:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T04:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995699755259986311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667151730868617217",
+              "start": 0,
+              "username": "ArDeA___CinEreA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995699755259986311",
+        "in_reply_to_user_id": "1667151730868617217",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995151411102032276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArDeA___CinEreA (▲( ෴ )▲)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995151400989503488"
+          ]
+        },
+        "author_id": "1667151730868617217",
+        "conversation_id": "1995151411102032276",
+        "created_at": "2025-11-30T15:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995151411102032276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrBUZbaPZy",
+              "end": 32,
+              "expanded_url": "https://x.com/ArDeA___CinEreA/status/1995151411102032276/photo/1",
+              "media_key": "3_1995151400989503488",
+              "start": 9,
+              "url": "https://t.co/RrBUZbaPZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995151411102032276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 99667,
+          "like_count": 1246,
+          "quote_count": 7,
+          "reply_count": 44,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "😁不選4活全家了 https://t.co/RrBUZbaPZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4446,
+          "following_count": 7491,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 4634
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T12:49:03.000Z",
+        "description": "咪喔",
+        "id": "1667151730868617217",
+        "location": "你背後",
+        "name": "烏鷺鷺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950427225679167489/kM6L1XcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 352,
+          "like_count": 32844,
+          "listed_count": 5,
+          "media_count": 464,
+          "tweet_count": 1599
+        },
+        "username": "ArDeA___CinEreA",
+        "verified": false
+      }
+    ]
+  }
+}

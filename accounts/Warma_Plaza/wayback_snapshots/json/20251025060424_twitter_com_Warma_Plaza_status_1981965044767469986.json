@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981774593401794816",
+    "created_at": "2025-10-25T06:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T07:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981965044767469986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        },
+        {
+          "end": 30,
+          "id": "1529012909568827392",
+          "start": 15,
+          "username": "hahaer81232865"
+        },
+        {
+          "end": 44,
+          "id": "1425376680051314693",
+          "start": 31,
+          "username": "xuejianosaka"
+        },
+        {
+          "end": 61,
+          "id": "1886969144031240192",
+          "start": 45,
+          "username": "SpoxCHN_MaoNing"
+        },
+        {
+          "end": 75,
+          "id": "1815304684808376320",
+          "start": 62,
+          "username": "CNYouthDaily"
+        },
+        {
+          "end": 92,
+          "id": "1233144962583343105",
+          "start": 76,
+          "username": "ChinaAmbUN19_24"
+        },
+        {
+          "end": 108,
+          "id": "89421672",
+          "start": 93,
+          "username": "USA_China_Talk"
+        },
+        {
+          "end": 123,
+          "id": "1638423170071023616",
+          "start": 109,
+          "username": "AmbWuJianghao"
+        },
+        {
+          "end": 135,
+          "id": "1273416484094525440",
+          "start": 124,
+          "username": "ChinaAmbUN"
+        },
+        {
+          "end": 152,
+          "id": "1183698123719200768",
+          "start": 136,
+          "username": "SpokespersonCHN"
+        },
+        {
+          "end": 169,
+          "id": "1266430726645387265",
+          "start": 153,
+          "username": "AgnimitraTalap1"
+        },
+        {
+          "end": 180,
+          "id": "1506126984300367874",
+          "start": 170,
+          "username": "Bnnsfty16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981965044767469986",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981962111892009004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 @hahaer81232865 @xuejianosaka @SpoxCHN_MaoNing @CNYouthDaily @ChinaAmbUN19_24 @USA_China_Talk @AmbWuJianghao @ChinaAmbUN @SpokespersonCHN @AgnimitraTalap1 @Bnnsfty16 沃呢QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981774593401794816",
+        "created_at": "2025-10-25T06:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981965044767469986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            },
+            {
+              "end": 30,
+              "id": "1529012909568827392",
+              "start": 15,
+              "username": "hahaer81232865"
+            },
+            {
+              "end": 44,
+              "id": "1425376680051314693",
+              "start": 31,
+              "username": "xuejianosaka"
+            },
+            {
+              "end": 61,
+              "id": "1886969144031240192",
+              "start": 45,
+              "username": "SpoxCHN_MaoNing"
+            },
+            {
+              "end": 75,
+              "id": "1815304684808376320",
+              "start": 62,
+              "username": "CNYouthDaily"
+            },
+            {
+              "end": 92,
+              "id": "1233144962583343105",
+              "start": 76,
+              "username": "ChinaAmbUN19_24"
+            },
+            {
+              "end": 108,
+              "id": "89421672",
+              "start": 93,
+              "username": "USA_China_Talk"
+            },
+            {
+              "end": 123,
+              "id": "1638423170071023616",
+              "start": 109,
+              "username": "AmbWuJianghao"
+            },
+            {
+              "end": 135,
+              "id": "1273416484094525440",
+              "start": 124,
+              "username": "ChinaAmbUN"
+            },
+            {
+              "end": 152,
+              "id": "1183698123719200768",
+              "start": 136,
+              "username": "SpokespersonCHN"
+            },
+            {
+              "end": 169,
+              "id": "1266430726645387265",
+              "start": 153,
+              "username": "AgnimitraTalap1"
+            },
+            {
+              "end": 180,
+              "id": "1506126984300367874",
+              "start": 170,
+              "username": "Bnnsfty16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981965044767469986",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981962111892009004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 @hahaer81232865 @xuejianosaka @SpoxCHN_MaoNing @CNYouthDaily @ChinaAmbUN19_24 @USA_China_Talk @AmbWuJianghao @ChinaAmbUN @SpokespersonCHN @AgnimitraTalap1 @Bnnsfty16 沃呢QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164467672819499008",
+        "conversation_id": "1981774593401794816",
+        "created_at": "2025-10-25T05:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981962111892009004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529012909568827392",
+              "start": 0,
+              "username": "hahaer81232865"
+            },
+            {
+              "end": 29,
+              "id": "1425376680051314693",
+              "start": 16,
+              "username": "xuejianosaka"
+            },
+            {
+              "end": 46,
+              "id": "1886969144031240192",
+              "start": 30,
+              "username": "SpoxCHN_MaoNing"
+            },
+            {
+              "end": 60,
+              "id": "1815304684808376320",
+              "start": 47,
+              "username": "CNYouthDaily"
+            },
+            {
+              "end": 77,
+              "id": "1233144962583343105",
+              "start": 61,
+              "username": "ChinaAmbUN19_24"
+            },
+            {
+              "end": 93,
+              "id": "89421672",
+              "start": 78,
+              "username": "USA_China_Talk"
+            },
+            {
+              "end": 108,
+              "id": "1638423170071023616",
+              "start": 94,
+              "username": "AmbWuJianghao"
+            },
+            {
+              "end": 120,
+              "id": "1273416484094525440",
+              "start": 109,
+              "username": "ChinaAmbUN"
+            },
+            {
+              "end": 137,
+              "id": "1183698123719200768",
+              "start": 121,
+              "username": "SpokespersonCHN"
+            },
+            {
+              "end": 154,
+              "id": "1266430726645387265",
+              "start": 138,
+              "username": "AgnimitraTalap1"
+            },
+            {
+              "end": 165,
+              "id": "1506126984300367874",
+              "start": 155,
+              "username": "Bnnsfty16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981962111892009004",
+        "in_reply_to_user_id": "1529012909568827392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981961308607230073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahaer81232865 @xuejianosaka @SpoxCHN_MaoNing @CNYouthDaily @ChinaAmbUN19_24 @USA_China_Talk @AmbWuJianghao @ChinaAmbUN @SpokespersonCHN @AgnimitraTalap1 @Bnnsfty16 Fo了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 7490,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 505,
+          "tweet_count": 3650
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "台灣中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/泛藍/左翼/科學主義的支持者 | Glory to China | \n\n我想漲粉謝謝，全力衝刺目標：1000 followers🙏🙏  |\n\n別跟我聊台灣政治台灣政治就跟一坨💩一樣 |\n\n民主退步黨下台👎",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 612,
+          "like_count": 6210,
+          "listed_count": 5,
+          "media_count": 664,
+          "tweet_count": 7117
+        },
+        "username": "whitelate0001",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T08:15:05.000Z",
+        "description": "❤️，必回；fo，必回。互👍🏻。冲20000粉，在线秒回。若侵犯版权，请联系本人及时删除，谢谢！",
+        "id": "1529012909568827392",
+        "name": "hahaer（互关互赞❤️）",
+        "pinned_tweet_id": "1974246535958573411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866849537610092544/W1JFdZF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15896,
+          "following_count": 6690,
+          "like_count": 246136,
+          "listed_count": 41,
+          "media_count": 925,
+          "tweet_count": 34735
+        },
+        "username": "hahaer81232865",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T08:41:12.000Z",
+        "description": "中华人民共和国驻大阪总领事\n中華人民共和国駐大阪総領事\nConsul General of P.R.C  in Osaka",
+        "id": "1425376680051314693",
+        "name": "薛剑XueJian",
+        "pinned_tweet_id": "1981529393454600283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443181580118233089/VYw4z2K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95163,
+          "following_count": 3116,
+          "like_count": 463003,
+          "listed_count": 453,
+          "media_count": 21808,
+          "tweet_count": 369697
+        },
+        "username": "xuejianosaka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T02:45:17.000Z",
+        "description": "Spokesperson of Ministry of Foreign Affairs of China\nDG of Department of Press,\nCommunication and Public Diplomacy",
+        "id": "1886969144031240192",
+        "name": "Mao Ning 毛宁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888800829660168193/uCHvf1z7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143292,
+          "following_count": 243,
+          "like_count": 1,
+          "listed_count": 460,
+          "media_count": 839,
+          "tweet_count": 878
+        },
+        "username": "SpoxCHN_MaoNing",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-22T08:35:56.000Z",
+        "description": "Official account of China Youth Daily. To serve youth growth and promote social progress.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en-cyd.youth.cn",
+                "end": 23,
+                "expanded_url": "https://en-cyd.youth.cn/",
+                "start": 0,
+                "url": "https://t.co/ythBieKISS"
+              }
+            ]
+          }
+        },
+        "id": "1815304684808376320",
+        "location": "北京",
+        "name": "China Youth Daily",
+        "pinned_tweet_id": "1981910323960680730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829061096944398336/Vqs9Eq1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11817,
+          "following_count": 857,
+          "like_count": 42410,
+          "listed_count": 12,
+          "media_count": 2071,
+          "tweet_count": 18155
+        },
+        "url": "https://t.co/ythBieKISS",
+        "username": "CNYouthDaily",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-27T21:41:11.000Z",
+        "description": "Permanent Representative of the People's Republic of China to the United Nations (2019-2024)",
+        "id": "1233144962583343105",
+        "location": "New York",
+        "name": "Zhang Jun",
+        "pinned_tweet_id": "1773368457561587845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233145432676741127/a9-nlN7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83129,
+          "following_count": 394,
+          "like_count": 9363,
+          "listed_count": 510,
+          "media_count": 940,
+          "tweet_count": 5025
+        },
+        "username": "ChinaAmbUN19_24",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxnfm9K 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxnfm9K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rVGG"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697294,
+          "following_count": 175,
+          "like_count": 12,
+          "listed_count": 4238,
+          "media_count": 3709,
+          "tweet_count": 20038
+        },
+        "url": "https://t.co/EJ5I77rVGG",
+        "username": "USA_China_Talk",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-22T06:12:22.000Z",
+        "description": "中国駐日本大使・呉江浩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.china-embassy.gov.cn/jpn/",
+                "end": 23,
+                "expanded_url": "http://jp.china-embassy.gov.cn/jpn/",
+                "start": 0,
+                "url": "https://t.co/kPBbMgfYuB"
+              }
+            ]
+          }
+        },
+        "id": "1638423170071023616",
+        "name": "吴江浩WuJianghao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878079016705634304/NnTpHwCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9016,
+          "following_count": 40,
+          "like_count": 26,
+          "listed_count": 62,
+          "media_count": 1540,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/kPBbMgfYuB",
+        "username": "AmbWuJianghao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-18T00:45:39.000Z",
+        "description": "Permanent Representative of the People's Republic of China to the United Nations. Former Chinese Ambassador to the EU.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "un.china-mission.gov.cn/eng/",
+                "end": 23,
+                "expanded_url": "http://un.china-mission.gov.cn/eng/",
+                "start": 0,
+                "url": "https://t.co/9rkTnkLd1q"
+              }
+            ]
+          }
+        },
+        "id": "1273416484094525440",
+        "location": "New York City",
+        "name": "FU Cong 傅聪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636112008390082565/curJYJ07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27758,
+          "following_count": 205,
+          "like_count": 2135,
+          "listed_count": 259,
+          "media_count": 986,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/9rkTnkLd1q",
+        "username": "ChinaAmbUN",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-14T10:56:54.000Z",
+        "description": "Vice Minister of Foreign Affairs",
+        "id": "1183698123719200768",
+        "location": "中国，北京 Beijing PRC",
+        "name": "Hua Chunying 华春莹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1227841332653150211/NkDULzuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783796,
+          "following_count": 224,
+          "like_count": 3,
+          "listed_count": 3867,
+          "media_count": 6206,
+          "tweet_count": 13211
+        },
+        "username": "SpokespersonCHN",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-29T18:07:49.000Z",
+        "description": "Philosophy+Music+Photography=NATURE. Thinking myself, not confined in any religion or country.Except retweets, photos are taken by me. Interactive.",
+        "id": "1266430726645387265",
+        "location": "Durgapur, India",
+        "name": "Agnimitra Talapatra",
+        "pinned_tweet_id": "1329665464654471168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897305259959099392/9llF7KvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4067,
+          "following_count": 398,
+          "like_count": 1065215,
+          "listed_count": 15,
+          "media_count": 27887,
+          "tweet_count": 221825
+        },
+        "username": "AgnimitraTalap1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T04:37:19.000Z",
+        "description": "Royal..Keep It Simple , everything is not possible,love the humanity and nature,Art Lover,professional (technician/supervisor)..No parking in Air....",
+        "id": "1506126984300367874",
+        "location": "sikar,rajasthan,union of India",
+        "name": "Royal_Raaz(Rakesh)",
+        "pinned_tweet_id": "1900436211703177493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904766781014892544/xhSbB3oh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7338,
+          "following_count": 7625,
+          "like_count": 89506,
+          "listed_count": 9,
+          "media_count": 27697,
+          "tweet_count": 103577
+        },
+        "username": "Bnnsfty16",
+        "verified": true
+      }
+    ]
+  }
+}

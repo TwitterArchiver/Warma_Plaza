@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2008500187178955056",
+    "created_at": "2026-01-06T11:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008506038191092035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008506038191092035",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008500187178955056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog (●_●)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2008500185161150464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-gRuPWMAA8Spj.jpg",
+        "width": 693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2008500187178955056",
+        "created_at": "2026-01-06T11:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008506038191092035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008506038191092035",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008500187178955056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog (●_●)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008500185161150464"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2008500187178955056",
+        "created_at": "2026-01-06T11:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008500187178955056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "大冲塔运动"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "腊哥"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "湖南kd王"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DachLcR9db",
+              "end": 61,
+              "expanded_url": "https://x.com/GFWfrog/status/2008500187178955056/photo/1",
+              "media_key": "3_2008500185161150464",
+              "start": 38,
+              "url": "https://t.co/DachLcR9db"
+            },
+            {
+              "display_url": "x.com/GFWfrog/status…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/GFWfrog/status/2008328260283674707",
+              "start": 62,
+              "url": "https://t.co/jbnohSWcfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008500187178955056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 904,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008328260283674707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#大冲塔运动\n\nB站还把 #腊哥 以及 #湖南kd王 弄成热搜词了是吧🤪？ https://t.co/DachLcR9db https://t.co/jbnohSWcfp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 7492,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5507
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信投稿 新加坡/XJP/习近平粉丝群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 45,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 22,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 72,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 49,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸(习近平=新加坡=XJP)",
+        "pinned_tweet_id": "2007586275759665358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257521,
+          "following_count": 2206,
+          "like_count": 113162,
+          "listed_count": 880,
+          "media_count": 6298,
+          "tweet_count": 11697
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

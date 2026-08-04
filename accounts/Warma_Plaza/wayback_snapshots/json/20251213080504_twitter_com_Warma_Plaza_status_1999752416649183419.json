@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1999623053861675506",
+    "created_at": "2025-12-13T08:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999752416649183419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655519627794079745",
+          "start": 0,
+          "username": "googluck520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999752416649183419",
+    "in_reply_to_user_id": "1655519627794079745",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999623053861675506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@googluck520 (◞‸◟ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11800,
+        "height": 1130,
+        "media_key": "7_1999623019485126656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999623019485126656/pu/img/yRTFB0X7agxu0DkO.jpg",
+        "public_metrics": {
+          "view_count": 50285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999623019485126656/pu/vid/avc1/320x502/j_0KIYzR-g6cfOjF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999623019485126656/pu/vid/avc1/480x752/aumYRazhTbyuJ3z4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999623019485126656/pu/vid/avc1/720x1130/484Ji8k_CkVe5Z3a.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999623019485126656/pu/pl/VVHSB6r7-nKh6Qqa.m3u8?tag=12&v=77c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1999623053861675506",
+        "created_at": "2025-12-13T08:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999752416649183419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655519627794079745",
+              "start": 0,
+              "username": "googluck520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999752416649183419",
+        "in_reply_to_user_id": "1655519627794079745",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999623053861675506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@googluck520 (◞‸◟ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999623019485126656"
+          ]
+        },
+        "author_id": "1655519627794079745",
+        "conversation_id": "1999623053861675506",
+        "created_at": "2025-12-12T23:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999623053861675506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 47,
+              "tag": "中国人民抗日战争胜利80周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/siesoWuhmC",
+              "end": 86,
+              "expanded_url": "https://x.com/googluck520/status/1999623053861675506/video/1",
+              "media_key": "7_1999623019485126656",
+              "start": 63,
+              "url": "https://t.co/siesoWuhmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999623053861675506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 56039,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "南京一商场疑似宣传日系文化\n男子怒斥：这里是南京，不是东京！\n敌特就在身边，一刻都不能放松！\n#中国人民抗日战争胜利80周年 https://t.co/siesoWuhmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4518,
+          "following_count": 7495,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 522,
+          "tweet_count": 4902
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T10:27:03.000Z",
+        "description": "生活虐我千百遍，我待生活如初恋！\n一个用力生活的小啰啰！\nLife has abused me thousands of times, and I treat life like first love！\nA little guy who works hard and lives diligently!",
+        "id": "1655519627794079745",
+        "location": "中华人民共和国",
+        "name": "高高的山岗上",
+        "pinned_tweet_id": "1993471243321032918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689672990446018560/I4ft9AKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27560,
+          "following_count": 28215,
+          "like_count": 59482,
+          "listed_count": 70,
+          "media_count": 2179,
+          "tweet_count": 20719
+        },
+        "username": "googluck520",
+        "verified": false
+      }
+    ]
+  }
+}

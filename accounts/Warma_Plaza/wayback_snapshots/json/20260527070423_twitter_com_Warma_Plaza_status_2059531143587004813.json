@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2059386910645350615",
+    "created_at": "2026-05-27T07:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059531143587004813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043541321361600512",
+          "start": 0,
+          "username": "johndutton0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059531143587004813",
+    "in_reply_to_user_id": "2043541321361600512",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059386910645350615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johndutton0412 (⁠´⁠ ⁠.⁠ ⁠.̫⁠ ⁠.⁠ ⁠`⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2059386894606286848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRpeDQaQAAWKr4.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2059386910645350615",
+        "created_at": "2026-05-27T07:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059531143587004813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043541321361600512",
+              "start": 0,
+              "username": "johndutton0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059531143587004813",
+        "in_reply_to_user_id": "2043541321361600512",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059386910645350615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johndutton0412 (⁠´⁠ ⁠.⁠ ⁠.̫⁠ ⁠.⁠ ⁠`⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059386894606286848"
+          ]
+        },
+        "author_id": "2043541321361600512",
+        "conversation_id": "2059386910645350615",
+        "created_at": "2026-05-26T21:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059386910645350615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxsEnmZQS8",
+              "end": 35,
+              "expanded_url": "https://x.com/johndutton0412/status/2059386910645350615/photo/1",
+              "media_key": "3_2059386894606286848",
+              "start": 12,
+              "url": "https://t.co/zxsEnmZQS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059386910645350615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 34546,
+          "like_count": 268,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "“李强”也成敏感词了？ https://t.co/zxsEnmZQS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 7497,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9698
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T04:06:52.000Z",
+        "description": "著名老色批（第12个号），Telegram：@walawala2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "walawala2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/johndutton0412",
+                "end": 23,
+                "expanded_url": "http://www.x.com/johndutton0412",
+                "start": 0,
+                "url": "https://t.co/MnA78I6RSe"
+              }
+            ]
+          }
+        },
+        "id": "2043541321361600512",
+        "location": "Electra Ave,Rowland Heights",
+        "name": "老槍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058279748200169473/H2rwkV4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 2203,
+          "like_count": 5141,
+          "listed_count": 6,
+          "media_count": 727,
+          "tweet_count": 6066
+        },
+        "url": "https://t.co/MnA78I6RSe",
+        "username": "johndutton0412",
+        "verified": true
+      }
+    ]
+  }
+}

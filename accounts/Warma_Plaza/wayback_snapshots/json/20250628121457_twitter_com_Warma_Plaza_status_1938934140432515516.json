@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938901424047603790",
+    "created_at": "2025-06-28T12:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T13:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938934140432515516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "Makinotouruko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938934140432515516",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938901424047603790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makinotouruko ヽ(*。&gt;Д&lt;)o゜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938901424047603790",
+        "created_at": "2025-06-28T12:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T13:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938934140432515516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "Makinotouruko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938934140432515516",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938901424047603790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makinotouruko ヽ(*。&gt;Д&lt;)o゜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "1938901424047603790",
+        "created_at": "2025-06-28T10:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938901424047603790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alina_medverov…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/alina_medverova/status/1938476249158193496",
+              "start": 133,
+              "url": "https://t.co/brMJnwjzBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938901424047603790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938476249158193496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一说一这种说话特别冲，而且还带有一种不知天高意味的大吹法螺意味的人，还是挺有取乐价值的\n你们为什么会觉得“还能忍”？没准对方只是当成个乐子\n顺带一提，有些时候还真的挺羡慕这种还有精力和勇气去瞎骂、耀武扬威的小郭楠的，这说明了他们潜意识里还是觉得自己有家可回可躺的 https://t.co/brMJnwjzBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 7493,
+          "like_count": 628,
+          "listed_count": 4,
+          "media_count": 434,
+          "tweet_count": 1871
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "橘猫硬件实验室主创 自认是ISFP-T但是测出的是INTJ-T/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Makinotooruko",
+                "end": 23,
+                "expanded_url": "http://t.me/Makinotooruko",
+                "start": 0,
+                "url": "https://t.co/OG6fIDbGzo"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "牧野トオル子@橘猫硬件实验室",
+        "pinned_tweet_id": "1937817014262984802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888197682927374336/kqtpp-C0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 454,
+          "like_count": 17741,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 4020
+        },
+        "url": "https://t.co/OG6fIDbGzo",
+        "username": "Makinotouruko",
+        "verified": false
+      }
+    ]
+  }
+}

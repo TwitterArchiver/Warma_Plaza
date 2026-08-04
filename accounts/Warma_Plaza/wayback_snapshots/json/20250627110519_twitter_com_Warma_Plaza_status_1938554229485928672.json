@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938549845280629128",
+    "created_at": "2025-06-27T11:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938554229485928672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917695669550108672",
+          "start": 0,
+          "username": "zzyreform19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938554229485928672",
+    "in_reply_to_user_id": "1917695669550108672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938549845280629128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzyreform19 ( ´ﾟжﾟ｀ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938549845280629128",
+        "created_at": "2025-06-27T11:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938554229485928672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917695669550108672",
+              "start": 0,
+              "username": "zzyreform19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938554229485928672",
+        "in_reply_to_user_id": "1917695669550108672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938549845280629128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzyreform19 ( ´ﾟжﾟ｀ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917695669550108672",
+        "conversation_id": "1938549845280629128",
+        "created_at": "2025-06-27T10:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T11:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938549845280629128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938549845280629128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近感觉发什么都没有流量，随便发一条推文试试🤔🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 7491,
+          "like_count": 622,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 1792
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T21:42:03.000Z",
+        "description": "原名赵修业，河南滑县人，1919年10月生，1932年3月加入中国共产主义青年团，1937年参加革命工作，1938年2月加入中国共产党。曾任中共中央总书记，中共中央军委副主席，国家中央军委副主席，国务院总理，中央财经领导小组组长，国务院科技领导小组组长。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cppcc.gov.cn",
+                "end": 23,
+                "expanded_url": "http://cppcc.gov.cn",
+                "start": 0,
+                "url": "https://t.co/doCYhKAaAk"
+              }
+            ]
+          }
+        },
+        "id": "1917695669550108672",
+        "location": "河南滑县",
+        "name": "赵紫阳 Ziyang Zhao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925907438688976896/xJA0Mt9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 234,
+          "like_count": 2020,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/doCYhKAaAk",
+        "username": "zzyreform19",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1976967815023452604",
+    "created_at": "2025-10-11T12:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T13:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976995715252728249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559223020245331971",
+          "start": 0,
+          "username": "tiegang10086"
+        },
+        {
+          "end": 27,
+          "id": "1975178922095775744",
+          "start": 14,
+          "username": "twiays114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976995715252728249",
+    "in_reply_to_user_id": "1559223020245331971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976968832523944143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiegang10086 @twiays114514 可能你不喜欢碳酸饮料呐ヽ(✿￫∀￩)ﾉ ♫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1976967815023452604",
+        "created_at": "2025-10-11T12:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976995715252728249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559223020245331971",
+              "start": 0,
+              "username": "tiegang10086"
+            },
+            {
+              "end": 27,
+              "id": "1975178922095775744",
+              "start": 14,
+              "username": "twiays114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976995715252728249",
+        "in_reply_to_user_id": "1559223020245331971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976968832523944143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiegang10086 @twiays114514 可能你不喜欢碳酸饮料呐ヽ(✿￫∀￩)ﾉ ♫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559223020245331971",
+        "conversation_id": "1976967815023452604",
+        "created_at": "2025-10-11T11:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976968832523944143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975178922095775744",
+              "start": 0,
+              "username": "twiays114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976968832523944143",
+        "in_reply_to_user_id": "1975178922095775744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976967815023452604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twiays114514 我可以说我这辈子没有喝过一次可乐。\n你们不觉得辣吗还有那个北冰洋和任何气泡水。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288,
+          "following_count": 7489,
+          "like_count": 668,
+          "listed_count": 7,
+          "media_count": 495,
+          "tweet_count": 3219
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T16:58:41.000Z",
+        "description": "Love peace🌏 Love freedom❤️丨 支持台海「維持現狀」丨日本語勉強中🇯🇵丨FREEPALESTINE/無神論/東亞共同體🇨🇳🇯🇵🇰🇷/平權主義/民主自由/男女平等/反威權、霸權/自由平等博愛；附屬賬戶：@tiegang114514 丨發表的一切言論僅為自己看法，關注並轉發≠認可。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "tiegang114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tiegang114514",
+                "end": 23,
+                "expanded_url": "https://x.com/tiegang114514",
+                "start": 0,
+                "url": "https://t.co/5fMQ1vszYo"
+              }
+            ]
+          }
+        },
+        "id": "1559223020245331971",
+        "location": "理想鄉 Utopia🇺🇳",
+        "name": "漣絵樹羅EzraRan🇺🇦🇵🇸🇺🇳",
+        "pinned_tweet_id": "1968497576744984581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970506166284492802/Wyrey_UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1522,
+          "like_count": 7623,
+          "listed_count": 6,
+          "media_count": 511,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/5fMQ1vszYo",
+        "username": "tiegang10086",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T12:39:10.000Z",
+        "description": "捧起一束鲜花\n向你所在的方向抛去\n月光照亮了你的背影\n我也因喜悦而哭泣\n千百腾挪，辗转反侧\n以爱恋之心祈愿相遇\n我所深信不疑的奇迹",
+        "id": "1975178922095775744",
+        "name": "爱恋的厄洛斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976876540291166208/x3AVJSv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 51,
+          "like_count": 1240,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 262
+        },
+        "username": "twiays114514",
+        "verified": false
+      }
+    ]
+  }
+}

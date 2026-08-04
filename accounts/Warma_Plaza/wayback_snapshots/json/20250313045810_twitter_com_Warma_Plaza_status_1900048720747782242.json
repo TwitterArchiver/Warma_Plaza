@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1898990037397905440",
+    "created_at": "2025-03-13T04:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T05:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900048720747782242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1428240212233236480",
+          "start": 0,
+          "username": "Ayamimimi137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900048720747782242",
+    "in_reply_to_user_id": "1428240212233236480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898990037397905440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayamimimi137 ╭☞( ￣ ▽￣)╭☞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1161,
+        "media_key": "3_1898990029734866944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqRXupa8AA9UeT.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1898990037397905440",
+        "created_at": "2025-03-13T04:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T05:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900048720747782242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1428240212233236480",
+              "start": 0,
+              "username": "Ayamimimi137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900048720747782242",
+        "in_reply_to_user_id": "1428240212233236480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898990037397905440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayamimimi137 ╭☞( ￣ ▽￣)╭☞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898990029734866944"
+          ]
+        },
+        "author_id": "1428240212233236480",
+        "conversation_id": "1898990037397905440",
+        "created_at": "2025-03-10T06:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898990037397905440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiydzMWSrM",
+              "end": 90,
+              "expanded_url": "https://x.com/Ayamimimi137/status/1898990037397905440/photo/1",
+              "media_key": "3_1898990029734866944",
+              "start": 67,
+              "url": "https://t.co/iiydzMWSrM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898990037397905440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8972,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "开整！\n大概是这样的感觉 偏草稿风 自动铅手绘\n关注以后 评论or转推or引用 就可以参加啦\n截止到3.14 22点整 陆续发出来x https://t.co/iiydzMWSrM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3226,
+          "following_count": 7481,
+          "like_count": 557,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1150
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-19T06:19:53.000Z",
+        "description": "💕🍬 @Neko_shinotsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "Neko_shinotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1428240212233236480",
+        "location": "已被隐藏",
+        "name": "黒塗り██宛て███",
+        "pinned_tweet_id": "1856367160924532777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892520484501078016/U5zqYmRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 807,
+          "like_count": 74419,
+          "listed_count": 7,
+          "media_count": 839,
+          "tweet_count": 6029
+        },
+        "username": "Ayamimimi137",
+        "verified": false
+      }
+    ]
+  }
+}

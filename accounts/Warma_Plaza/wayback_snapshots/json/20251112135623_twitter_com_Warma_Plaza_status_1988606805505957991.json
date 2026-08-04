@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1988567960324096142",
+    "created_at": "2025-11-12T13:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988606805505957991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762829544556560384",
+          "start": 0,
+          "username": "HarlanIsma98151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988606805505957991",
+    "in_reply_to_user_id": "1762829544556560384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988598027066687641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarlanIsma98151 (〒Д〒人 )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988598000491585536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jrWGxaYAAcsCd.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1988567960324096142",
+        "created_at": "2025-11-12T13:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988606805505957991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1762829544556560384",
+              "start": 0,
+              "username": "HarlanIsma98151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988606805505957991",
+        "in_reply_to_user_id": "1762829544556560384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988598027066687641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarlanIsma98151 (〒Д〒人 )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988598000491585536"
+          ]
+        },
+        "author_id": "1762829544556560384",
+        "conversation_id": "1988567960324096142",
+        "created_at": "2025-11-12T13:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988598027066687641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJNaqolGnB",
+              "end": 43,
+              "expanded_url": "https://x.com/HarlanIsma98151/status/1988598027066687641/photo/1",
+              "media_key": "3_1988598000491585536",
+              "start": 20,
+              "url": "https://t.co/fJNaqolGnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988598027066687641",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988591925784727831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 跑的是它们。 https://t.co/fJNaqolGnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 7489,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 3955
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T13:18:26.000Z",
+        "description": "www",
+        "id": "1762829544556560384",
+        "location": "无锡",
+        "name": "还是舍不得",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771904085119340544/knyEeWWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 75,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 246
+        },
+        "username": "HarlanIsma98151",
+        "verified": false
+      }
+    ]
+  }
+}

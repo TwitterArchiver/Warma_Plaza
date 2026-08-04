@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981725753411604654",
+    "created_at": "2025-10-25T05:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981963203665076448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2835005616",
+          "start": 0,
+          "username": "GEtrius114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981963203665076448",
+    "in_reply_to_user_id": "2835005616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981725753411604654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEtrius114514 (●･̆⍛･̆●)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 903,
+        "media_key": "3_1981725744423202816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CBEJ6XcAA5ZPA.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981725753411604654",
+        "created_at": "2025-10-25T05:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981963203665076448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2835005616",
+              "start": 0,
+              "username": "GEtrius114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981963203665076448",
+        "in_reply_to_user_id": "2835005616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981725753411604654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEtrius114514 (●･̆⍛･̆●)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981725744423202816"
+          ]
+        },
+        "author_id": "2835005616",
+        "conversation_id": "1981725753411604654",
+        "created_at": "2025-10-24T14:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981725753411604654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0axlLUWnQ",
+              "end": 23,
+              "expanded_url": "https://x.com/GEtrius114514/status/1981725753411604654/photo/1",
+              "media_key": "3_1981725744423202816",
+              "start": 0,
+              "url": "https://t.co/G0axlLUWnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981725753411604654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2728,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G0axlLUWnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 7490,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 504,
+          "tweet_count": 3644
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-28T12:36:08.000Z",
+        "description": "✝️/從一個「碾」字領悟對付反動派的理念/還有什麼能阻擋中華民族的偉大復興嗎？絕對沒有！輕易沒有呀！",
+        "id": "2835005616",
+        "location": "大漢駐下北沢都護府114樓514號辦公室",
+        "name": "下北沢一般會員制餐廳✝️🇨🇳🇭🇰",
+        "pinned_tweet_id": "1311334994216996870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757349314744197120/6zhgNVE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1946,
+          "like_count": 178289,
+          "listed_count": 34,
+          "media_count": 5370,
+          "tweet_count": 31575
+        },
+        "username": "GEtrius114514",
+        "verified": false
+      }
+    ]
+  }
+}

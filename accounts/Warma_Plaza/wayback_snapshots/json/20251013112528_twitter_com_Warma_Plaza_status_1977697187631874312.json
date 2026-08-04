@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1977582841786687814",
+    "created_at": "2025-10-13T11:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T12:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977697187631874312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933435654446428160",
+          "start": 0,
+          "username": "RoundHeadMaodie"
+        },
+        {
+          "end": 29,
+          "id": "1753761958086750208",
+          "start": 17,
+          "username": "CNMDXJP8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977697187631874312",
+    "in_reply_to_user_id": "1933435654446428160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977643503028166770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoundHeadMaodie @CNMDXJP8964 ｡･ﾟﾟ･(&gt;д&lt;;)･ﾟﾟ･｡\n......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1977582841786687814",
+        "created_at": "2025-10-13T11:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977697187631874312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933435654446428160",
+              "start": 0,
+              "username": "RoundHeadMaodie"
+            },
+            {
+              "end": 29,
+              "id": "1753761958086750208",
+              "start": 17,
+              "username": "CNMDXJP8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977697187631874312",
+        "in_reply_to_user_id": "1933435654446428160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977643503028166770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoundHeadMaodie @CNMDXJP8964 ｡･ﾟﾟ･(&gt;д&lt;;)･ﾟﾟ･｡\n......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933435654446428160",
+        "conversation_id": "1977582841786687814",
+        "created_at": "2025-10-13T07:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977643503028166770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753761958086750208",
+              "start": 0,
+              "username": "CNMDXJP8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977643503028166770",
+        "in_reply_to_user_id": "1753761958086750208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977582841786687814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNMDXJP8964 你永远是中国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4295,
+          "following_count": 7487,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 496,
+          "tweet_count": 3295
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T08:06:07.000Z",
+        "description": "革命尚未成功，同志仍需努力\n為四萬萬國民爭人格\n人民萬歲！🇹🇼🇨🇳🇭🇰🇲🇴\n孫逸仙先生 宋鈍初先生 黃克強先生 蔡松坡先生思想支持者\n包容各種政治勢力 本人政治立場相對複雜 反對一切支默 狗漢奸去死\n可互fo",
+        "id": "1933435654446428160",
+        "location": "詩仙路",
+        "name": "椎名立希",
+        "pinned_tweet_id": "1954043556727058589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947002621757128709/cnLaDRk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 103,
+          "like_count": 1752,
+          "listed_count": 6,
+          "media_count": 517,
+          "tweet_count": 1777
+        },
+        "username": "RoundHeadMaodie",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T12:47:29.000Z",
+        "description": "支持烏克蘭🇺🇦支持以色列🇮🇱台灣獨立，日本🇯🇵が大好き⋯⋯精神病患者 精日支黑混合體，最喜歡看粉紅五毛破防了😝逃生艙@WOSUNZIJINPING",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "WOSUNZIJINPING"
+              }
+            ]
+          }
+        },
+        "id": "1753761958086750208",
+        "location": "大日本帝國シナ縣北平市慶豐町8964號",
+        "name": "楓糖小包-8964🇯🇵",
+        "pinned_tweet_id": "1930143741399961731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968865186732965888/r9JnUPpT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 1244,
+          "like_count": 9454,
+          "listed_count": 11,
+          "media_count": 4380,
+          "tweet_count": 14427
+        },
+        "username": "CNMDXJP8964",
+        "verified": false
+      }
+    ]
+  }
+}

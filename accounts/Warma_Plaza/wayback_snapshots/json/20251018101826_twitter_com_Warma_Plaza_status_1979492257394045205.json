@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1979458740547129827",
+    "created_at": "2025-10-18T10:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979492257394045205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961784394206883840",
+          "start": 0,
+          "username": "iavialllll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979492257394045205",
+    "in_reply_to_user_id": "1961784394206883840",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979458740547129827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iavialllll (❁´◡`❁)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1979458740547129827",
+        "created_at": "2025-10-18T10:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979492257394045205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961784394206883840",
+              "start": 0,
+              "username": "iavialllll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979492257394045205",
+        "in_reply_to_user_id": "1961784394206883840",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979458740547129827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iavialllll (❁´◡`❁)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961784394206883840",
+        "conversation_id": "1979458740547129827",
+        "created_at": "2025-10-18T08:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979458740547129827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979458740547129827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是在车上好哇... 自己没有动 但是自己的旅程位置一直在变化 朝向的是住所的家 亦或是...。。什么呢(*￣︶￣)\n（碎碎念）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 7493,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 3350
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T13:33:58.000Z",
+        "description": "（空白空白空白）",
+        "id": "1961784394206883840",
+        "name": "抹茶莱nai斯🍥（🍰🍰）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384280245149697/_IjXeE17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 86,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 54
+        },
+        "username": "iavialllll",
+        "verified": false
+      }
+    ]
+  }
+}

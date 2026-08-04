@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2008442904101220533",
+    "created_at": "2026-01-06T11:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008501804104048845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1506291557233999877",
+          "start": 0,
+          "username": "8964hazuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008501804104048845",
+    "in_reply_to_user_id": "1506291557233999877",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008442904101220533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964hazuki (●.●)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008442888737497088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G99sKobboAAbo2a.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2008442888737484806",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G99sKobbcAYT8AK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2008442904101220533",
+        "created_at": "2026-01-06T11:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008501804104048845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "8964hazuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008501804104048845",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008442904101220533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964hazuki (●.●)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008442888737497088",
+            "3_2008442888737484806"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008442904101220533",
+        "created_at": "2026-01-06T07:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008442904101220533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7l6YVtTAuB",
+              "end": 36,
+              "expanded_url": "https://x.com/8964hazuki/status/2008442904101220533/photo/1",
+              "media_key": "3_2008442888737497088",
+              "start": 13,
+              "url": "https://t.co/7l6YVtTAuB"
+            },
+            {
+              "display_url": "pic.x.com/7l6YVtTAuB",
+              "end": 36,
+              "expanded_url": "https://x.com/8964hazuki/status/2008442904101220533/photo/1",
+              "media_key": "3_2008442888737484806",
+              "start": 13,
+              "url": "https://t.co/7l6YVtTAuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008442904101220533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2460,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年是农业税废除20周年 https://t.co/7l6YVtTAuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 7492,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5488
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好。@yoyori_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "yoyori_01"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "Japan",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4722,
+          "following_count": 377,
+          "like_count": 9078,
+          "listed_count": 7,
+          "media_count": 199,
+          "tweet_count": 1547
+        },
+        "username": "8964hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

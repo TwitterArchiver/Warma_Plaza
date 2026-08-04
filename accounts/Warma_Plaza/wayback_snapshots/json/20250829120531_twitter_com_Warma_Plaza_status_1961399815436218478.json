@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1961395789873443203",
+    "created_at": "2025-08-29T12:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961399815436218478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "147929555",
+          "start": 0,
+          "username": "leige88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961399815436218478",
+    "in_reply_to_user_id": "147929555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961395789873443203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leige88888 ಠ︵ಠ凸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_1961395780058845185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhHEe5bkAEVgsy.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1961395789873443203",
+        "created_at": "2025-08-29T12:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961399815436218478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147929555",
+              "start": 0,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961399815436218478",
+        "in_reply_to_user_id": "147929555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961395789873443203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leige88888 ಠ︵ಠ凸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961395780058845185"
+          ]
+        },
+        "author_id": "147929555",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Military",
+              "id": "1088509400464031744",
+              "name": "US Military"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1515022068500160514",
+              "name": "Australia government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1515024874648989697",
+              "name": "Australia politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1515026489548312576",
+              "name": "Australian Army"
+            }
+          }
+        ],
+        "conversation_id": "1961395789873443203",
+        "created_at": "2025-08-29T11:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961395789873443203"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "US",
+              "probability": 0.6718,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Leonard",
+              "probability": 0.5153,
+              "start": 90,
+              "type": "Person"
+            },
+            {
+              "end": 195,
+              "normalized_text": "Australia",
+              "probability": 0.9737,
+              "start": 187,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVDvSv2xZr",
+              "end": 301,
+              "expanded_url": "https://x.com/leige88888/status/1961395789873443203/photo/1",
+              "media_key": "3_1961395780058845185",
+              "start": 278,
+              "url": "https://t.co/pVDvSv2xZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961395789873443203",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In 1944, the US military found a photo of the Japanese beheading Australian Army Sergeant Leonard on the body of a Japanese soldier. After the photo was published in the newspaper, among Australia, which then had a population of only a little more than seven million, more than one million people signed up, demanding to go to the battlefield to wipe out the Japanese devils."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "In 1944, the US military found a photo of the Japanese beheading Australian Army Sergeant Leonard on the body of a Japanese soldier. After the photo was published in the newspaper, among Australia, which then had a population of only a little more than seven million, more than https://t.co/pVDvSv2xZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4120,
+          "following_count": 7494,
+          "like_count": 661,
+          "listed_count": 8,
+          "media_count": 477,
+          "tweet_count": 2522
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T12:03:13.000Z",
+        "description": "我是来看反贼笑话的",
+        "id": "147929555",
+        "name": "磊哥聊政经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696104044497178624/ix24cEav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37491,
+          "following_count": 389,
+          "like_count": 338,
+          "listed_count": 102,
+          "media_count": 3105,
+          "tweet_count": 5402
+        },
+        "username": "leige88888",
+        "verified": true
+      }
+    ]
+  }
+}

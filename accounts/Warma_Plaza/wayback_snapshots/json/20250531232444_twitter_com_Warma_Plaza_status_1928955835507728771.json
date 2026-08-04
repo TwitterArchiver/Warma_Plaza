@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928955828813574148"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1928955835507728771",
+    "created_at": "2025-05-31T23:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T00:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928955835507728771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tPTBR2zgWt",
+          "end": 178,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1928955835507728771/photo/1",
+          "media_key": "3_1928955828813574148",
+          "start": 155,
+          "url": "https://t.co/tPTBR2zgWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928955835507728771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上好，祝童心未泯的各位，6.1儿童节快乐~(●'◡'●)\n一个小的看法：因特网就像一个超超超超大的“NPC游戏”，在这个世界里，人们能自由选择自己的角色，和亿计的NPC都可以互动(‵▽′)\n虽然因特网这个游戏很复杂，但是在这里，能够有几个和你永远在一起的致密好友（副手），就是此生最大的幸福！(=^▽^=) https://t.co/tPTBR2zgWt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_1928955828813574148",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsUHGzPaMAQsw2o.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928955828813574148"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1928955835507728771",
+        "created_at": "2025-05-31T23:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T00:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928955835507728771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPTBR2zgWt",
+              "end": 178,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1928955835507728771/photo/1",
+              "media_key": "3_1928955828813574148",
+              "start": 155,
+              "url": "https://t.co/tPTBR2zgWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928955835507728771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，祝童心未泯的各位，6.1儿童节快乐~(●'◡'●)\n一个小的看法：因特网就像一个超超超超大的“NPC游戏”，在这个世界里，人们能自由选择自己的角色，和亿计的NPC都可以互动(‵▽′)\n虽然因特网这个游戏很复杂，但是在这里，能够有几个和你永远在一起的致密好友（副手），就是此生最大的幸福！(=^▽^=) https://t.co/tPTBR2zgWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3560,
+          "following_count": 7492,
+          "like_count": 596,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 1511
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2054526458874519783",
+    "created_at": "2026-05-13T12:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054533057974251816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054533057974251816",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054526458874519783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS (⁠｡⁠ŏ⁠﹏⁠ŏ⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054526451878428672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMk7DHbgAATpkZ.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054526451869974528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMk7DFagAA2ejc.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2054526458874519783",
+        "created_at": "2026-05-13T12:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054533057974251816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054533057974251816",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054526458874519783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS (⁠｡⁠ŏ⁠﹏⁠ŏ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054526451878428672",
+            "3_2054526451869974528"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2054526458874519783",
+        "created_at": "2026-05-13T11:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054526458874519783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DH6FFeAJVm",
+              "end": 63,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2054526458874519783/photo/1",
+              "media_key": "3_2054526451878428672",
+              "start": 40,
+              "url": "https://t.co/DH6FFeAJVm"
+            },
+            {
+              "display_url": "pic.x.com/DH6FFeAJVm",
+              "end": 63,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2054526458874519783/photo/1",
+              "media_key": "3_2054526451869974528",
+              "start": 40,
+              "url": "https://t.co/DH6FFeAJVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054526458874519783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还好只是要求删帖喵，以后咱发言要更加谨慎小心喵。原帖是骂老保骂得有点过头了喵～ https://t.co/DH6FFeAJVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 7496,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8942
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 3379,
+          "like_count": 1297,
+          "listed_count": 17,
+          "media_count": 244,
+          "tweet_count": 1670
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

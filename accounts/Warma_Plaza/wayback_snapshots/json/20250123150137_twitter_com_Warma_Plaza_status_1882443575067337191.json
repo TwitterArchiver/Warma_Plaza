@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1882261460925252005",
+    "created_at": "2025-01-23T15:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T16:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882443575067337191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868190325476638720",
+          "start": 0,
+          "username": "yuyuzi654321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882443575067337191",
+    "in_reply_to_user_id": "1868190325476638720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882406356369691061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuzi654321 同乐！ＯＫ(ゝω・´★)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1882261460925252005",
+        "created_at": "2025-01-23T15:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T16:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882443575067337191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868190325476638720",
+              "start": 0,
+              "username": "yuyuzi654321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882443575067337191",
+        "in_reply_to_user_id": "1868190325476638720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882406356369691061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuzi654321 同乐！ＯＫ(ゝω・´★)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882406348597719040"
+          ]
+        },
+        "author_id": "1868190325476638720",
+        "conversation_id": "1882261460925252005",
+        "created_at": "2025-01-23T12:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T13:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882406356369691061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGglWdTA4A",
+              "end": 47,
+              "expanded_url": "https://x.com/yuyuzi654321/status/1882406356369691061/photo/1",
+              "media_key": "3_1882406348597719040",
+              "start": 24,
+              "url": "https://t.co/sGglWdTA4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882406356369691061",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882261460925252005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 是南方小年，节日快乐 https://t.co/sGglWdTA4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 7495,
+          "like_count": 552,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 995
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:04:36.000Z",
+        "description": "学习中，有人友善地聊天会很高兴",
+        "id": "1868190325476638720",
+        "name": "羽雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868206394400542720/fWUncU45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 31,
+          "like_count": 1638,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 458
+        },
+        "username": "yuyuzi654321",
+        "verified": false
+      }
+    ]
+  }
+}

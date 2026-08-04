@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1945457993572626694",
+    "created_at": "2025-07-16T12:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T13:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945465371521388684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558121544320135168",
+          "start": 0,
+          "username": "Shina_slayer89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945465371521388684",
+    "in_reply_to_user_id": "1558121544320135168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945465216231489874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shina_slayer89 (っ╥╯﹏╰╥c)\n别...别..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1945457993572626694",
+        "created_at": "2025-07-16T12:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945465371521388684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558121544320135168",
+              "start": 0,
+              "username": "Shina_slayer89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945465371521388684",
+        "in_reply_to_user_id": "1558121544320135168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945465216231489874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shina_slayer89 (っ╥╯﹏╰╥c)\n别...别..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558121544320135168",
+        "conversation_id": "1945457993572626694",
+        "created_at": "2025-07-16T12:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945465216231489874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 25,
+              "id": "1921515276686024704",
+              "start": 13,
+              "username": "LiTiao10560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945465216231489874",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945458051378806819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @LiTiao10560 我家狗剛剛亂叫了，真對不起呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 7493,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 2043
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T16:01:51.000Z",
+        "description": "會粵英支三語｜華獨｜中度支黑｜支持🇮🇱🇺🇦｜一日不辱華，口中生荊棘｜Shina同情者勿fo｜除綠型態@Kemal_19231029｜電子寵物加牛子俠@LiTiao10560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "Kemal_19231029"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "LiTiao10560"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhinaNmSL8964.com",
+                "end": 23,
+                "expanded_url": "http://zhinaNmSL8964.com",
+                "start": 0,
+                "url": "https://t.co/hQKz5uZ7KW"
+              }
+            ]
+          }
+        },
+        "id": "1558121544320135168",
+        "location": "奇普托斯",
+        "name": "☭⃠ 🇮🇱🏴󠁧󠁢󠁥󠁮󠁧󠁿Ho$hino✝️💛🖤🇹🇼",
+        "pinned_tweet_id": "1944011307663208917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938879423937159168/y-Nf-hgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4049,
+          "following_count": 2904,
+          "like_count": 23744,
+          "listed_count": 13,
+          "media_count": 1185,
+          "tweet_count": 11999
+        },
+        "url": "https://t.co/hQKz5uZ7KW",
+        "username": "Shina_slayer89",
+        "verified": false
+      }
+    ]
+  }
+}

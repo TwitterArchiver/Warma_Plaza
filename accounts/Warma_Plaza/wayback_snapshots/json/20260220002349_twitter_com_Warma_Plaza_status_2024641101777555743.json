@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2024470264436908113",
+    "created_at": "2026-02-20T00:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T01:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024641101777555743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "888086394710765568",
+          "start": 0,
+          "username": "JHS_FR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024641101777555743",
+    "in_reply_to_user_id": "888086394710765568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024490153994068247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHS_FR _(•̀ω•́ 」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2024470264436908113",
+        "created_at": "2026-02-20T00:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024641101777555743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "888086394710765568",
+              "start": 0,
+              "username": "JHS_FR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024641101777555743",
+        "in_reply_to_user_id": "888086394710765568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024490153994068247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHS_FR _(•̀ω•́ 」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888086394710765568",
+        "conversation_id": "2024470264436908113",
+        "created_at": "2026-02-19T14:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024490153994068247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024490153994068247",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024470264436908113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 晚安💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 7499,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 544,
+          "tweet_count": 6457
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T17:21:11.000Z",
+        "description": "天主教信仰，洁身保守，不断修行中，西北人，长于四海，数地漂泊十年，热爱布鲁斯乐的🎸玩家，有话直说，平静平和淡然，记录分享生活。",
+        "id": "888086394710765568",
+        "location": "索多玛",
+        "name": "小王（推油寻回）",
+        "pinned_tweet_id": "2000360892014465050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008370907786493952/NRMhhj8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 532,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 430
+        },
+        "username": "JHS_FR",
+        "verified": false
+      }
+    ]
+  }
+}

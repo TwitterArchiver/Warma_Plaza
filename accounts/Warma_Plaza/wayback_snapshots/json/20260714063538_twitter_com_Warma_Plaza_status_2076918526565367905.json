@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2076689430199570468",
+    "created_at": "2026-07-14T06:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076918526565367905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758084499085176832",
+          "start": 0,
+          "username": "autistic8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076918526565367905",
+    "in_reply_to_user_id": "1758084499085176832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076689430199570468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@autistic8964 ಠ_ರೃ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2076689430199570468",
+        "created_at": "2026-07-14T06:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076918526565367905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758084499085176832",
+              "start": 0,
+              "username": "autistic8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076918526565367905",
+        "in_reply_to_user_id": "1758084499085176832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076689430199570468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@autistic8964 ಠ_ರೃ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758084499085176832",
+        "conversation_id": "2076689430199570468",
+        "created_at": "2026-07-13T15:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076689430199570468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/ripo0079/status/2075616781159612596",
+              "start": 100,
+              "url": "https://t.co/IHoWgWh5fs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076689430199570468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 831,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075616781159612596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太君还是输在太有教养上了。我从小到大都没见过网上哪头支那猪在未被开盒的状态下开口道歉的。\n现实中支那猪会道歉是因为你就站在它面前，从物理意义上你真的可以随时把它捅了，对受伤死亡的恐惧驱使着它们道歉。 https://t.co/IHoWgWh5fs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5311,
+          "following_count": 7487,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 578,
+          "tweet_count": 11126
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T11:03:28.000Z",
+        "description": "我所发的一切都只是自说自话，并没有和他人互动的打算，因此不要骂我，并真心建议所有人无视我的评论，不要把我拉入生命斗争的泥潭了，拜托。 如果你发现我在玩网，请帮忙把我骂回现实世界，那是因为我无法忍受存在即感知痛苦的地方而为了逃避错误进入了能直接因被伤害而痛苦的地方，请不要让我犯这种错误，我认为它是错误。",
+        "id": "1758084499085176832",
+        "location": "支家哥",
+        "name": "Mo!",
+        "pinned_tweet_id": "2053355741021696453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854921606608699394/DgdHNUuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 583,
+          "like_count": 14808,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 5447
+        },
+        "url": "",
+        "username": "autistic8964",
+        "verified": false
+      }
+    ]
+  }
+}

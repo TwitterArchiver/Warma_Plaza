@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1987141490519535618",
+    "created_at": "2025-11-09T02:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T03:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987348146847187203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1526098526442295297",
+          "start": 0,
+          "username": "hezehua5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987348146847187203",
+    "in_reply_to_user_id": "1526098526442295297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987141490519535618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hezehua5 ヽ(ﾟ︺ﾟ)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47453,
+        "height": 1280,
+        "media_key": "7_1987141340573147140",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1987141340573147140/pu/img/dFZvwE85e7Y0ai30.jpg",
+        "public_metrics": {
+          "view_count": 3175
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987141340573147140/pu/vid/avc1/320x568/-8L_XMG9xadeL2p8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987141340573147140/pu/vid/avc1/480x852/NblqAZFTaWKJtF1T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1987141340573147140/pu/vid/avc1/720x1280/fxQgf8_m444pOy2M.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1987141340573147140/pu/pl/zpeqgGnJ5YtaLRr9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1987141490519535618",
+        "created_at": "2025-11-09T02:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987348146847187203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1526098526442295297",
+              "start": 0,
+              "username": "hezehua5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987348146847187203",
+        "in_reply_to_user_id": "1526098526442295297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987141490519535618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hezehua5 ヽ(ﾟ︺ﾟ)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1987141340573147140"
+          ]
+        },
+        "author_id": "1526098526442295297",
+        "conversation_id": "1987141490519535618",
+        "created_at": "2025-11-08T12:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987141490519535618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "伟人"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPMUzO6p5C",
+              "end": 48,
+              "expanded_url": "https://x.com/hezehua5/status/1987141490519535618/video/1",
+              "media_key": "7_1987141340573147140",
+              "start": 25,
+              "url": "https://t.co/GPMUzO6p5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987141490519535618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4880,
+          "like_count": 124,
+          "quote_count": 5,
+          "reply_count": 78,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "“我节约一件衣服，前方战士就多一发子弹” #伟人 https://t.co/GPMUzO6p5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 7486,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 509,
+          "tweet_count": 3919
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T07:13:56.000Z",
+        "description": "爱是最美的风景（互关互粉互FO回关followback，回关受限时，则小号回关fb)",
+        "id": "1526098526442295297",
+        "location": "中国",
+        "name": "李婧🇨🇳互关互粉互FO",
+        "pinned_tweet_id": "1985942872525586667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974663993743810561/zhUwomAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115700,
+          "following_count": 43027,
+          "like_count": 23231,
+          "listed_count": 156,
+          "media_count": 13698,
+          "tweet_count": 36966
+        },
+        "username": "hezehua5",
+        "verified": true
+      }
+    ]
+  }
+}

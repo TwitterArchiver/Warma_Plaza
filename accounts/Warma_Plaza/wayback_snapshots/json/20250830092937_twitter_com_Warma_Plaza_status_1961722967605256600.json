@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1961649243535647043",
+    "created_at": "2025-08-30T09:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T10:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961722967605256600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1631131566813618177",
+          "start": 0,
+          "username": "charming_momoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961722967605256600",
+    "in_reply_to_user_id": "1631131566813618177",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961649243535647043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charming_momoi (。-ω-)zzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 839,
+        "media_key": "3_1961649234832506880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzktlfgbwAA7vqG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1961649243535647043",
+        "created_at": "2025-08-30T09:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T10:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961722967605256600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1631131566813618177",
+              "start": 0,
+              "username": "charming_momoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961722967605256600",
+        "in_reply_to_user_id": "1631131566813618177",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961649243535647043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charming_momoi (。-ω-)zzz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961649234832506880"
+          ]
+        },
+        "author_id": "1631131566813618177",
+        "conversation_id": "1961649243535647043",
+        "created_at": "2025-08-30T04:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961649243535647043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtplcRgRc2",
+              "end": 46,
+              "expanded_url": "https://x.com/charming_momoi/status/1961649243535647043/photo/1",
+              "media_key": "3_1961649234832506880",
+              "start": 23,
+              "url": "https://t.co/RtplcRgRc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961649243535647043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1176,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4000fo🎉\n感谢大家一直以来的支持与鼓励 https://t.co/RtplcRgRc2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 7493,
+          "like_count": 661,
+          "listed_count": 8,
+          "media_count": 477,
+          "tweet_count": 2539
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T03:17:33.000Z",
+        "description": "二次元 / 共产主义 / 原神",
+        "id": "1631131566813618177",
+        "location": "山海经",
+        "name": "枫糖小桃",
+        "pinned_tweet_id": "1755533592216863152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949076001541271553/OYJ4GtJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4000,
+          "following_count": 2438,
+          "like_count": 38964,
+          "listed_count": 11,
+          "media_count": 593,
+          "tweet_count": 6913
+        },
+        "username": "charming_momoi",
+        "verified": true
+      }
+    ]
+  }
+}

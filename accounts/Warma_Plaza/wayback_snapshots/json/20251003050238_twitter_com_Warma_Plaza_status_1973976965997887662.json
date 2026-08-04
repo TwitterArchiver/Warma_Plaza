@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1973662554024235382",
+    "created_at": "2025-10-03T05:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T06:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973976965997887662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notYuZerO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973976965997887662",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973662554024235382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notYuZerO ゜・(ノД`)イ・゜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_1973662549624365056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PbocjaIAAfp7Q.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1973662554024235382",
+        "created_at": "2025-10-03T05:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973976965997887662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notYuZerO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973976965997887662",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973662554024235382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notYuZerO ゜・(ノД`)イ・゜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973662549624365056"
+          ]
+        },
+        "author_id": "1896061942785310720",
+        "conversation_id": "1973662554024235382",
+        "created_at": "2025-10-02T08:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T09:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973662554024235382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pF4a78gorp",
+              "end": 43,
+              "expanded_url": "https://x.com/notYuZerO/status/1973662554024235382/photo/1",
+              "media_key": "3_1973662549624365056",
+              "start": 20,
+              "url": "https://t.co/pF4a78gorp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973662554024235382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4716,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看一眼之后的我就像项羽，刚被大汉破了楚 https://t.co/pF4a78gorp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4244,
+          "following_count": 7496,
+          "like_count": 666,
+          "listed_count": 7,
+          "media_count": 490,
+          "tweet_count": 2953
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "正宗劳保/07 12 1/其实很少玩三角洲\n🇨🇳\n尊重每一个正常的LGBTQ+，极度鄙视每一个约炮滥交三观不正的LGBTQ+⭕️性权利不是性自由，有的人就是在消耗普通人对性少数群体的最后善意 🙌讨论时请就事论事，别评价我，因为我是出生乌鲁鲁。\n😶会悄悄回关。但，骂人的保护好你的浮木🤓500fo爆照",
+        "id": "1896061942785310720",
+        "location": "GTI热河省分部",
+        "name": "传奇出生乌鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1973242595565576276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964701479232737282/975myjKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 315,
+          "like_count": 2096,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1894
+        },
+        "username": "notYuZerO",
+        "verified": false
+      }
+    ]
+  }
+}

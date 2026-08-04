@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1948986675591610779",
+    "created_at": "2025-07-26T10:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T11:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949053083566453103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560567393415360512",
+          "start": 0,
+          "username": "MAOzy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949053083566453103",
+    "in_reply_to_user_id": "1560567393415360512",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948986675591610779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MAOzy_ (*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1948986675591610779",
+        "created_at": "2025-07-26T10:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T11:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949053083566453103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560567393415360512",
+              "start": 0,
+              "username": "MAOzy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949053083566453103",
+        "in_reply_to_user_id": "1560567393415360512",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948986675591610779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MAOzy_ (*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560567393415360512",
+        "conversation_id": "1948986675591610779",
+        "created_at": "2025-07-26T06:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T07:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948986675591610779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948986675591610779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6757,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人看我没有人看我没有人看我。。。没有人看我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3800,
+          "following_count": 7490,
+          "like_count": 650,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 2180
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T10:00:45.000Z",
+        "description": "お幸せに ^_^",
+        "id": "1560567393415360512",
+        "name": "Yumemiru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854149534655660032/ssM6UR5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5435,
+          "following_count": 57,
+          "like_count": 1355,
+          "listed_count": 20,
+          "media_count": 28,
+          "tweet_count": 162
+        },
+        "username": "MAOzy_",
+        "verified": false
+      }
+    ]
+  }
+}

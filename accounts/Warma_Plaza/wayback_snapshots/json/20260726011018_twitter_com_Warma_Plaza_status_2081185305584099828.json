@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2081182716847120779",
+    "created_at": "2026-07-26T01:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T02:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081185305584099828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081185305584099828",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081182716847120779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele (⁠´⁠-⁠﹏⁠-⁠`⁠；⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 285133,
+        "height": 720,
+        "media_key": "13_2080955179864666112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080955179864666112/img/bemd94SMgZDNxfJI.jpg",
+        "public_metrics": {
+          "view_count": 1152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080955179864666112/vid/avc1/480x270/O2KXHFgJX1G6DAx6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080955179864666112/vid/avc1/640x360/45VmjxtBdLgDe2UJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080955179864666112/vid/avc1/1280x720/OaH7pbdHpqpXvM3y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080955179864666112/pl/00jqLFbjXRcnl-wF.m3u8?v=c73"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2081182716847120779",
+        "created_at": "2026-07-26T01:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081185305584099828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081185305584099828",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081182716847120779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele (⁠´⁠-⁠﹏⁠-⁠`⁠；⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080955179864666112"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081182716847120779",
+        "created_at": "2026-07-26T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081182716847120779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zShyN2uyF",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2081182716847120779/video/1",
+              "media_key": "13_2080955179864666112",
+              "start": 117,
+              "url": "https://t.co/9zShyN2uyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081182716847120779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "四川绵阳：环卫工月薪1800元，从凌晨5点干到深夜，全年无休\n\n7月20日，一名网友发布视频称，他在四川省绵阳市三台县芦溪镇遇到一名正在清扫街道的环卫工。\n拍摄时已接近晚上10点，街边多数商铺已经关门，环卫工仍在路边清扫落叶和垃圾。\n\n据网友询问，这名环卫工每月工资仅1800元，全年无休，每天分四个时段工作：早上5点至8点、上午10点至12点、下午2点至6点，晚上8点后继续工作至10点半左右。\n\n按照这一时间计算，其每天实际工作可能超过11小时；\n而且工作从凌晨5点一直延续到深夜，整整一天都被切割成零碎的班次。\n\n网友称，自己经过时这名工人正在扫地，去河边洗漱、到餐厅休息后再次返回，对方仍在工作。\n临走时，他又拍到另一名环卫工仍在街头清扫。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3269,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "四川绵阳：环卫工月薪1800元，从凌晨5点干到深夜，全年无休\n\n7月20日，一名网友发布视频称，他在四川省绵阳市三台县芦溪镇遇到一名正在清扫街道的环卫工。\n拍摄时已接近晚上10点，街边多数商铺已经关门，环卫工仍在路边清扫落叶和垃圾。 https://t.co/9zShyN2uyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5390,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 11675
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243643,
+          "following_count": 1081,
+          "like_count": 9812,
+          "listed_count": 8831,
+          "media_count": 51072,
+          "tweet_count": 58294
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

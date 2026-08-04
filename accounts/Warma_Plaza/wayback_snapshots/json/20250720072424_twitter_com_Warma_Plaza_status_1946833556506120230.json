@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1946814004275622190",
+    "created_at": "2025-07-20T07:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T08:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946833556506120230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1667104009780596736",
+          "start": 0,
+          "username": "Mukrow3344287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946833556506120230",
+    "in_reply_to_user_id": "1667104009780596736",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946814004275622190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mukrow3344287 (๑•̀ㅂ•́)ﾉ➹♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1946814000593006592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwR5BNUacAAc9FD.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1946814004275622190",
+        "created_at": "2025-07-20T07:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946833556506120230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1667104009780596736",
+              "start": 0,
+              "username": "Mukrow3344287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946833556506120230",
+        "in_reply_to_user_id": "1667104009780596736",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946814004275622190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mukrow3344287 (๑•̀ㅂ•́)ﾉ➹♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946814000593006592"
+          ]
+        },
+        "author_id": "1667104009780596736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1946814004275622190",
+        "created_at": "2025-07-20T06:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T07:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946814004275622190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1945289458674540544/OT_go3zP?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945289458674540544/OT_go3zP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/9JYY3IyLIH"
+            },
+            {
+              "display_url": "pic.x.com/xzb1qe0mp0",
+              "end": 64,
+              "expanded_url": "https://x.com/Mukrow3344287/status/1946814004275622190/photo/1",
+              "media_key": "3_1946814000593006592",
+              "start": 41,
+              "url": "https://t.co/xzb1qe0mp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946814004275622190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/9JYY3IyLIH https://t.co/xzb1qe0mp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 7491,
+          "like_count": 646,
+          "listed_count": 4,
+          "media_count": 450,
+          "tweet_count": 2113
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T09:39:16.000Z",
+        "description": "温柔猫猫？喜欢抱抱！正在完善自己的设子捏/男/15岁(2025)/🇨🇳/外语不精通.../有男性伴侣⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄/喜欢可爱的东西/Furry/热爱音乐以及音游/术力口/喜欢看🔞但是对亲身体验比较抗拒?/对画画略有涉猎/喜欢甜甜的纯爱/经常在网络上被误以为是女孩子?即使弄清还是被叫姐姐😳/负能量",
+        "id": "1667104009780596736",
+        "location": "湖南邵阳",
+        "name": "慕空MuKrow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944926252202106880/CtmQh5j__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 1156,
+          "like_count": 2026,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 160
+        },
+        "username": "Mukrow3344287",
+        "verified": false
+      }
+    ]
+  }
+}

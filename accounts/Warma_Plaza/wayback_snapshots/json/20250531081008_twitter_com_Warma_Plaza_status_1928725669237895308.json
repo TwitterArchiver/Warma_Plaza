@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1928706957499867416",
+    "created_at": "2025-05-31T08:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T09:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928725669237895308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928725669237895308",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928706957499867416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 咕咕咕...咕...咕咕...咕咕...咕咕咕咕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1928706734065160192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQkjk_bkAAJgSC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1928706739840626689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQkj6gaMAEEEQb.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 5312,
+        "height": 720,
+        "media_key": "7_1928706739668758528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1928706739668758528/pu/img/bOV6B6384jkALvu_.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928706739668758528/pu/vid/avc1/480x270/riy98rm8wyGuSNzB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928706739668758528/pu/vid/avc1/640x360/U6j8NC9dE1ycI59-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928706739668758528/pu/vid/avc1/1280x720/RdnjqyE0ryLTSwxJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1928706739668758528/pu/pl/0-OoUhZxkqHZW8Ql.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1928706957499867416",
+        "created_at": "2025-05-31T08:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T09:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928725669237895308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928725669237895308",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928706957499867416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 咕咕咕...咕...咕咕...咕咕...咕咕咕咕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928706734065160192",
+            "3_1928706739840626689",
+            "7_1928706739668758528"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "conversation_id": "1928706957499867416",
+        "created_at": "2025-05-31T06:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T07:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928706957499867416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkxwbDw9cq",
+              "end": 106,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1928706957499867416/video/1",
+              "media_key": "3_1928706734065160192",
+              "start": 83,
+              "url": "https://t.co/HkxwbDw9cq"
+            },
+            {
+              "display_url": "pic.x.com/HkxwbDw9cq",
+              "end": 106,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1928706957499867416/video/1",
+              "media_key": "3_1928706739840626689",
+              "start": 83,
+              "url": "https://t.co/HkxwbDw9cq"
+            },
+            {
+              "display_url": "pic.x.com/HkxwbDw9cq",
+              "end": 106,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1928706957499867416/video/1",
+              "media_key": "7_1928706739668758528",
+              "start": 83,
+              "url": "https://t.co/HkxwbDw9cq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928706957499867416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家看一看这是什么鸟？为什么它不怕人，它不光不怕人还大摇大摆的在我家院子里像只鸡一样走来走去，我自己走的这么近它都没有飞走，我奶奶要赶走他它也只是在院子里逃跑而已。 https://t.co/HkxwbDw9cq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3554,
+          "following_count": 7489,
+          "like_count": 594,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 1494
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "学过国学、美术、c/c++、古建筑的小学五年级辍学废物，也是一名诗人，同时还是一位心学家，热爱中国文化，逍遥自在，无为无不为。喜欢交朋友，欢迎大家找我玩。😋\n挚友@Konekoutena",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Konekoutena"
+              }
+            ]
+          }
+        },
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 355,
+          "like_count": 104311,
+          "listed_count": 7,
+          "media_count": 78,
+          "tweet_count": 13517
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2025360941907673482",
+    "created_at": "2026-02-22T07:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025466485737751004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017608795174649856",
+          "start": 0,
+          "username": "NatsumeAnn78"
+        },
+        {
+          "end": 30,
+          "id": "1983755008777838592",
+          "start": 14,
+          "username": "Droplet_Express"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025466485737751004",
+    "in_reply_to_user_id": "2017608795174649856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025464268901212508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NatsumeAnn78 @Droplet_Express (*°ω°*)？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025464260831444993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvlA4wbgAErBrF.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025464260894302208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvlA4_aoAAoi7H.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2025360941907673482",
+        "created_at": "2026-02-22T07:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025466485737751004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017608795174649856",
+              "start": 0,
+              "username": "NatsumeAnn78"
+            },
+            {
+              "end": 30,
+              "id": "1983755008777838592",
+              "start": 14,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025466485737751004",
+        "in_reply_to_user_id": "2017608795174649856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025464268901212508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NatsumeAnn78 @Droplet_Express (*°ω°*)？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025464260831444993",
+            "3_2025464260894302208"
+          ]
+        },
+        "author_id": "2017608795174649856",
+        "conversation_id": "2025360941907673482",
+        "created_at": "2026-02-22T06:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025464268901212508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983755008777838592",
+              "start": 0,
+              "username": "Droplet_Express"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhVlhfrf0v",
+              "end": 56,
+              "expanded_url": "https://x.com/NatsumeAnn78/status/2025464268901212508/photo/1",
+              "media_key": "3_2025464260831444993",
+              "start": 33,
+              "url": "https://t.co/rhVlhfrf0v"
+            },
+            {
+              "display_url": "pic.x.com/rhVlhfrf0v",
+              "end": 56,
+              "expanded_url": "https://x.com/NatsumeAnn78/status/2025464268901212508/photo/1",
+              "media_key": "3_2025464260894302208",
+              "start": 33,
+              "url": "https://t.co/rhVlhfrf0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025464268901212508",
+        "in_reply_to_user_id": "1983755008777838592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025360941907673482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Droplet_Express 原来这就是你家里人教你的东西？ https://t.co/rhVlhfrf0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4785,
+          "following_count": 7493,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 6548
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T14:40:05.000Z",
+        "description": "粉畜共蛆你翻你妈墙呢 老子骂的就是你们这群狗逼奴才 二号@Natsumeann13 三号@Natsumeann89 好兄弟@zhinaqingchu|||分割线|||我的狗儿子：@droplet_express @ce1571和@dameiliuhe111我当年和习明泽三通一达射墙上才有的这仨逼养的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "Natsumeann89"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "zhinaqingchu"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "droplet_express"
+              },
+              {
+                "end": 113,
+                "start": 106,
+                "username": "ce1571"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "dameiliuhe111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shabixijinping.com",
+                "end": 23,
+                "expanded_url": "http://shabixijinping.com",
+                "start": 0,
+                "url": "https://t.co/4MzRczDI75"
+              }
+            ]
+          }
+        },
+        "id": "2017608795174649856",
+        "location": "太虚山",
+        "name": "𝑺𝒆𝒏𝒕𝒊𝒆𝒏𝒄𝒆",
+        "pinned_tweet_id": "2024396840368849014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025406728310063109/9qJFWteE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 1013,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/4MzRczDI75",
+        "username": "NatsumeAnn78",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T04:37:22.000Z",
+        "description": "我感觉我又行了\n不太行小号@WallfacerO41419",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "WallfacerO41419"
+              }
+            ]
+          }
+        },
+        "id": "1983755008777838592",
+        "location": "上海",
+        "name": "红咖喱🚗🚗🚗",
+        "pinned_tweet_id": "2024048085408657879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008874514739089409/ua45H7SZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 357,
+          "like_count": 12359,
+          "listed_count": 15,
+          "media_count": 105,
+          "tweet_count": 2219
+        },
+        "username": "Droplet_Express",
+        "verified": false
+      }
+    ]
+  }
+}

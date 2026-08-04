@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2060061320251392373",
+    "created_at": "2026-05-29T05:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060234063949242476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1258737918362828800",
+          "start": 0,
+          "username": "zebwqfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060234063949242476",
+    "in_reply_to_user_id": "1258737918362828800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060061320251392373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zebwqfox (⁠o⁠´⁠･⁠_⁠･⁠)⁠っ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060061306095628288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbO191bcAAnf_x.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2060061320251392373",
+        "created_at": "2026-05-29T05:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060234063949242476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1258737918362828800",
+              "start": 0,
+              "username": "zebwqfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060234063949242476",
+        "in_reply_to_user_id": "1258737918362828800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060061320251392373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zebwqfox (⁠o⁠´⁠･⁠_⁠･⁠)⁠っ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060061306095628288"
+          ]
+        },
+        "author_id": "1258737918362828800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2060061320251392373",
+        "created_at": "2026-05-28T18:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060061320251392373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TofsGd4mqW",
+              "end": 42,
+              "expanded_url": "https://x.com/zebwqfox/status/2060061320251392373/photo/1",
+              "media_key": "3_2060061306095628288",
+              "start": 19,
+              "url": "https://t.co/TofsGd4mqW"
+            },
+            {
+              "display_url": "x.com/tutu65537/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/tutu65537/status/2059937459769946415",
+              "start": 43,
+              "url": "https://t.co/QYwFALkVBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060061320251392373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1211,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059937459769946415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内交通卡有啥好看的卡面，不都是卡么 https://t.co/TofsGd4mqW https://t.co/QYwFALkVBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5084,
+          "following_count": 7499,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9889
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-08T12:38:25.000Z",
+        "description": "丧钟为谁而鸣。\nQQ1622912909\nEnglish&Mandarin OK MBTI:ENFJ \n在湖北上学中\n🧵：@yuwu8nanyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "yuwu8nanyu"
+              }
+            ]
+          }
+        },
+        "id": "1258737918362828800",
+        "name": "中二蘑菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049431219310641152/FWu0y2AU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 993,
+          "like_count": 3905,
+          "listed_count": 8,
+          "media_count": 656,
+          "tweet_count": 2856
+        },
+        "username": "zebwqfox",
+        "verified": true
+      }
+    ]
+  }
+}

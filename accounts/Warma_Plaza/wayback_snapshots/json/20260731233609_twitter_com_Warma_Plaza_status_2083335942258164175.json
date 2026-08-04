@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2082772668617814370",
+    "created_at": "2026-07-31T23:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083335942258164175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2080636534320177152",
+          "start": 0,
+          "username": "zoocgju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083335942258164175",
+    "in_reply_to_user_id": "2080636534320177152",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083043379190112455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoocgju (∗❛ั∀❛ั∗)✧*。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2082772668617814370",
+        "created_at": "2026-07-31T23:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083335942258164175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2080636534320177152",
+              "start": 0,
+              "username": "zoocgju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083335942258164175",
+        "in_reply_to_user_id": "2080636534320177152",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083043379190112455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoocgju (∗❛ั∀❛ั∗)✧*。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080636534320177152",
+        "conversation_id": "2082772668617814370",
+        "created_at": "2026-07-31T04:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083043379190112455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083043379190112455",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082772668617814370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 在推里面也能看到沃玛，真是三生有幸啊👍（虽然不是本人但也很快乐了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5416,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 12097
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-24T12:50:47.000Z",
+        "description": "",
+        "id": "2080636534320177152",
+        "name": "张雨泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080636981030346752/WIKR_PSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "zoocgju",
+        "verified": false
+      }
+    ]
+  }
+}

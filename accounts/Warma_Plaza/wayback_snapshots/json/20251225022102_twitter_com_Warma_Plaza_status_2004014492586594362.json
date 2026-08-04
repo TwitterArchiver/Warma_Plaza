@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2003784914320400462",
+    "created_at": "2025-12-25T02:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T03:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004014492586594362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004014492586594362",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003784914320400462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K7qWcfzcdAPW5Y9 (╯ツ)╯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2003784666453581824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87fiaJXIAAEVBO.jpg",
+        "width": 864
+      },
+      {
+        "height": 1748,
+        "media_key": "3_2003784863728422912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ft5DWUAAJWsc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2003784864923779072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ft9gWAAAH8Ki.jpg",
+        "width": 864
+      },
+      {
+        "height": 1683,
+        "media_key": "3_2003784864642826241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ft8dXAAEdU3p.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2003784914320400462",
+        "created_at": "2025-12-25T02:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T03:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004014492586594362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004014492586594362",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003784914320400462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 (╯ツ)╯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003784666453581824",
+            "3_2003784863728422912",
+            "3_2003784864923779072",
+            "3_2003784864642826241"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2003784914320400462",
+        "created_at": "2025-12-24T11:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003784914320400462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcQ9GV3WEm",
+              "end": 54,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2003784914320400462/photo/1",
+              "media_key": "3_2003784666453581824",
+              "start": 31,
+              "url": "https://t.co/RcQ9GV3WEm"
+            },
+            {
+              "display_url": "pic.x.com/RcQ9GV3WEm",
+              "end": 54,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2003784914320400462/photo/1",
+              "media_key": "3_2003784863728422912",
+              "start": 31,
+              "url": "https://t.co/RcQ9GV3WEm"
+            },
+            {
+              "display_url": "pic.x.com/RcQ9GV3WEm",
+              "end": 54,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2003784914320400462/photo/1",
+              "media_key": "3_2003784864923779072",
+              "start": 31,
+              "url": "https://t.co/RcQ9GV3WEm"
+            },
+            {
+              "display_url": "pic.x.com/RcQ9GV3WEm",
+              "end": 54,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2003784914320400462/photo/1",
+              "media_key": "3_2003784864642826241",
+              "start": 31,
+              "url": "https://t.co/RcQ9GV3WEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003784914320400462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 48259,
+          "like_count": 270,
+          "quote_count": 4,
+          "reply_count": 42,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "东北人，明日方舟玩家，不满原生家庭，润到俄罗斯，当了个填线兵 https://t.co/RcQ9GV3WEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4587,
+          "following_count": 7480,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 528,
+          "tweet_count": 5227
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，防失联请关注Telegram群：浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/eL54RSHsuy"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 110,
+          "like_count": 196,
+          "listed_count": 12,
+          "media_count": 132,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/eL54RSHsuy",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

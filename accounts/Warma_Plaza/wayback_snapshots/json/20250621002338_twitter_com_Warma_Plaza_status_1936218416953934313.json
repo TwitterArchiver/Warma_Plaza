@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1936212548774510767",
+    "created_at": "2025-06-21T00:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T01:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936218416953934313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1249525383797456898",
+          "start": 0,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936218416953934313",
+    "in_reply_to_user_id": "1249525383797456898",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936212548774510767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakobsonradical (´ . .̫ . `)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1936212539144388608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7PC71bwAA__VJ.jpg",
+        "width": 667
+      },
+      {
+        "height": 1048,
+        "media_key": "3_1936212545758511104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7PDUeXQAA3Pdu.jpg",
+        "width": 706
+      },
+      {
+        "height": 1552,
+        "media_key": "3_1936212523369308160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt7PCBEXIAA2wdB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1936212548774510767",
+        "created_at": "2025-06-21T00:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936218416953934313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936218416953934313",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936212548774510767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical (´ . .̫ . `)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936212539144388608",
+            "3_1936212545758511104",
+            "3_1936212523369308160"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1936212548774510767",
+        "created_at": "2025-06-21T00:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936212548774510767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0F0f5bu2r",
+              "end": 45,
+              "expanded_url": "https://x.com/jakobsonradical/status/1936212548774510767/photo/1",
+              "media_key": "3_1936212539144388608",
+              "start": 22,
+              "url": "https://t.co/w0F0f5bu2r"
+            },
+            {
+              "display_url": "pic.x.com/w0F0f5bu2r",
+              "end": 45,
+              "expanded_url": "https://x.com/jakobsonradical/status/1936212548774510767/photo/1",
+              "media_key": "3_1936212545758511104",
+              "start": 22,
+              "url": "https://t.co/w0F0f5bu2r"
+            },
+            {
+              "display_url": "pic.x.com/w0F0f5bu2r",
+              "end": 45,
+              "expanded_url": "https://x.com/jakobsonradical/status/1936212548774510767/photo/1",
+              "media_key": "3_1936212523369308160",
+              "start": 22,
+              "url": "https://t.co/w0F0f5bu2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936212548774510767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6539,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "央视起的这个热搜话题：以色列开始哭哭啼啼。 https://t.co/w0F0f5bu2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3620,
+          "following_count": 7475,
+          "like_count": 620,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 1669
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241108,
+          "following_count": 1474,
+          "like_count": 41432,
+          "listed_count": 974,
+          "media_count": 18557,
+          "tweet_count": 25749
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

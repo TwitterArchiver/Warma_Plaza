@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1969289282096451871",
+    "created_at": "2025-09-20T10:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T11:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969351539647983754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706612962168070144",
+          "start": 0,
+          "username": "langheying"
+        },
+        {
+          "end": 23,
+          "id": "1955652430789812225",
+          "start": 12,
+          "username": "hanpyeong2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969351539647983754",
+    "in_reply_to_user_id": "1706612962168070144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969290851101585761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@langheying @hanpyeong2 ｢(ﾟﾍﾟ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1969289282096451871",
+        "created_at": "2025-09-20T10:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969351539647983754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706612962168070144",
+              "start": 0,
+              "username": "langheying"
+            },
+            {
+              "end": 23,
+              "id": "1955652430789812225",
+              "start": 12,
+              "username": "hanpyeong2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969351539647983754",
+        "in_reply_to_user_id": "1706612962168070144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969290851101585761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@langheying @hanpyeong2 ｢(ﾟﾍﾟ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706612962168070144",
+        "conversation_id": "1969289282096451871",
+        "created_at": "2025-09-20T06:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969290851101585761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955652430789812225",
+              "start": 0,
+              "username": "hanpyeong2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969290851101585761",
+        "in_reply_to_user_id": "1955652430789812225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969289627430203608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanpyeong2 看看他和东北雨姐谁先出来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175,
+          "following_count": 7492,
+          "like_count": 665,
+          "listed_count": 8,
+          "media_count": 486,
+          "tweet_count": 2749
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:13:39.000Z",
+        "description": "狼桜一生押し",
+        "id": "1706612962168070144",
+        "location": "Hong Kong",
+        "name": "リシャオラン🐻",
+        "pinned_tweet_id": "1959130278301245635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954197516884336640/mj-WM2By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1113,
+          "like_count": 3133,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 1800
+        },
+        "username": "langheying",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T15:27:44.000Z",
+        "description": "이",
+        "id": "1955652430789812225",
+        "location": "평영",
+        "name": "한평지구 이",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955653135399288832/wsmDr2Np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 1035,
+          "like_count": 8411,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 2213
+        },
+        "username": "hanpyeong2",
+        "verified": false
+      }
+    ]
+  }
+}

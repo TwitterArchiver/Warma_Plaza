@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1967813678331539695",
+    "created_at": "2025-09-16T14:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T15:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967952787624562994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842203626418409472",
+          "start": 0,
+          "username": "yyyzlz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967952787624562994",
+    "in_reply_to_user_id": "1842203626418409472",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967813678331539695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyzlz3 (／_＼)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_1967813670878187523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08UG5TaEAMTPZD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1967813678331539695",
+        "created_at": "2025-09-16T14:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T15:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967952787624562994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842203626418409472",
+              "start": 0,
+              "username": "yyyzlz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967952787624562994",
+        "in_reply_to_user_id": "1842203626418409472",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967813678331539695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyzlz3 (／_＼)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967813670878187523"
+          ]
+        },
+        "author_id": "1842203626418409472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967813678331539695",
+        "created_at": "2025-09-16T04:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967813678331539695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2CvESPi0Y",
+              "end": 23,
+              "expanded_url": "https://x.com/yyyzlz3/status/1967813678331539695/photo/1",
+              "media_key": "3_1967813670878187523",
+              "start": 0,
+              "url": "https://t.co/g2CvESPi0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967813678331539695",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 786,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g2CvESPi0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4158,
+          "following_count": 7492,
+          "like_count": 665,
+          "listed_count": 8,
+          "media_count": 486,
+          "tweet_count": 2719
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T14:02:46.000Z",
+        "description": "@yzhlzi3二代目，旧账处于封禁和未封禁之间的量子叠加态，我带着梗图和对🐜🐉的怨恨回来了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "yzhlzi3"
+              }
+            ]
+          }
+        },
+        "id": "1842203626418409472",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "狸",
+        "pinned_tweet_id": "1961348886498554330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965335406511296513/n9cTYrnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 399,
+          "like_count": 7475,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 1880
+        },
+        "username": "yyyzlz3",
+        "verified": false
+      }
+    ]
+  }
+}

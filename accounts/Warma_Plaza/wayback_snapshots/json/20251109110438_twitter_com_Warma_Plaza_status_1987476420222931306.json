@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1987128711322443875",
+    "created_at": "2025-11-09T11:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987476420222931306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796349415650664448",
+          "start": 0,
+          "username": "KawaiiEru_"
+        },
+        {
+          "end": 24,
+          "id": "316376290",
+          "start": 12,
+          "username": "qiaohuanxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987476420222931306",
+    "in_reply_to_user_id": "1796349415650664448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987451841958015413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiEru_ @qiaohuanxin (꒪&lt;_꒪)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1987128711322443875",
+        "created_at": "2025-11-09T11:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987476420222931306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796349415650664448",
+              "start": 0,
+              "username": "KawaiiEru_"
+            },
+            {
+              "end": 24,
+              "id": "316376290",
+              "start": 12,
+              "username": "qiaohuanxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987476420222931306",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987451841958015413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiEru_ @qiaohuanxin (꒪&lt;_꒪)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796349415650664448",
+        "conversation_id": "1987128711322443875",
+        "created_at": "2025-11-09T09:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987451841958015413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "316376290",
+              "start": 0,
+              "username": "qiaohuanxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987451841958015413",
+        "in_reply_to_user_id": "316376290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987128711322443875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiaohuanxin 你在这叽里咕噜议论啥呢，你也成为不了国家的主人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 7486,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 509,
+          "tweet_count": 3932
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "",
+        "id": "1796349415650664448",
+        "location": "神山高中古典文学部",
+        "name": "坂下える",
+        "pinned_tweet_id": "1948788722897437042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979236785960996864/dedZl5RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 322,
+          "like_count": 25660,
+          "listed_count": 11,
+          "media_count": 2548,
+          "tweet_count": 12518
+        },
+        "username": "KawaiiEru_",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-13T10:52:41.000Z",
+        "description": "Watch, and think, independently.",
+        "id": "316376290",
+        "name": "乔华莘",
+        "pinned_tweet_id": "1638177878218280961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664043446041210880/6lyVsnjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13893,
+          "following_count": 161,
+          "like_count": 8228,
+          "listed_count": 128,
+          "media_count": 5796,
+          "tweet_count": 39868
+        },
+        "username": "qiaohuanxin",
+        "verified": true
+      }
+    ]
+  }
+}

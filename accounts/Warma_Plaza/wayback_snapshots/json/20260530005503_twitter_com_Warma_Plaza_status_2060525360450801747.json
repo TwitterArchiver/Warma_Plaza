@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2060433444946251807",
+    "created_at": "2026-05-30T00:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060525360450801747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666425403890868224",
+          "start": 0,
+          "username": "Liberi_tki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060525360450801747",
+    "in_reply_to_user_id": "1666425403890868224",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060433444946251807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liberi_tki ^⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠^"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "作者X@Dr_Janglong",
+        "height": 900,
+        "media_key": "3_2060433181959180288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJghD_Ya0AAsFvm.png",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2060433444946251807",
+        "created_at": "2026-05-30T00:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060525360450801747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666425403890868224",
+              "start": 0,
+              "username": "Liberi_tki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060525360450801747",
+        "in_reply_to_user_id": "1666425403890868224",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060433444946251807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liberi_tki ^⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠_⁠^"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060433181959180288"
+          ]
+        },
+        "author_id": "1666425403890868224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2060433444946251807",
+        "created_at": "2026-05-29T18:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060433444946251807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9cHOeMd7xp",
+              "end": 168,
+              "expanded_url": "https://x.com/Liberi_tki/status/2060433444946251807/photo/1",
+              "media_key": "3_2060433181959180288",
+              "start": 145,
+              "url": "https://t.co/9cHOeMd7xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060433444946251807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 159,
+                "id": "1919615837532782595",
+                "start": 147,
+                "username": "lapluma0721"
+              }
+            ]
+          },
+          "text": "自我介绍一下~ 这里是黎博利，称呼我黎博利、liberi、tki都可以，这是我的个人账户，有时会购买X蓝勾，最喜欢的是羽毛笔。\n玩的游戏较多，明日方舟系列、我的世界、FF14、七日杀等，有时候会发一些相关的推文\n推文会有政治内容和读书笔记，也会分享生活琐事、新鲜事和抽象梗图(还有碎碎念)\n小号@lapluma0721，防断联\n遇到有趣的人会关注，如果想要互关请勇敢地私信我！\n就是这样~ 如果有多的会在个人信息补充~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 373,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍一下~ 这里是黎博利，称呼我黎博利、liberi、tki都可以，这是我的个人账户，有时会购买X蓝勾，最喜欢的是羽毛笔。\n玩的游戏较多，明日方舟系列、我的世界、FF14、七日杀等，有时候会发一些相关的推文\n推文会有政治内容和读书笔记，也会分享生活琐事、新鲜事和抽象梗图(还有碎碎念) https://t.co/9cHOeMd7xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5111,
+          "following_count": 7490,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 571,
+          "tweet_count": 10039
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T12:43:12.000Z",
+        "description": "Male | Adult | ≈20age | UTC+8\nVividArmy-3903 Arknight-CN FF14-CN\n中文、ENGLISH OK | 回关互关请DM\n碎碎念 | 日常 | 鉴证 | 烟酒、债务厌恶 \nlapluma fbk alice enjoyer",
+        "id": "1666425403890868224",
+        "location": "Sargon",
+        "name": "黎博利🐦",
+        "pinned_tweet_id": "2060433444946251807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042867285615087622/PbQKOHUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 279,
+          "like_count": 27322,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2943
+        },
+        "username": "Liberi_tki",
+        "verified": true
+      }
+    ]
+  }
+}

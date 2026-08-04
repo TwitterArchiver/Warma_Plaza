@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1994246878297510056",
+    "created_at": "2025-11-28T03:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994247273799176514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697374702367645696",
+          "start": 0,
+          "username": "yu_yume_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994247273799176514",
+    "in_reply_to_user_id": "1697374702367645696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994246878297510056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_yume_01 呜...揉揉...(;´༎ຶД༎ຶ`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1994246878297510056",
+        "created_at": "2025-11-28T03:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994247273799176514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697374702367645696",
+              "start": 0,
+              "username": "yu_yume_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994247273799176514",
+        "in_reply_to_user_id": "1697374702367645696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994246878297510056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_yume_01 呜...揉揉...(;´༎ຶД༎ຶ`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697374702367645696",
+        "conversation_id": "1994246878297510056",
+        "created_at": "2025-11-28T03:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994246878297510056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994246878297510056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好蠢喔操😞超完蛋的這跟缺考有什麼區別我要瘋了少掉二段成績誒三段要考90才會及格😍超蠢的現在跳下去就不用考了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4416,
+          "following_count": 7493,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 514,
+          "tweet_count": 4436
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T22:24:59.000Z",
+        "description": "死感很重的女高\n嗯應該算台獨頑固分子喔",
+        "id": "1697374702367645696",
+        "location": "今天也很睏",
+        "name": "魚魚",
+        "pinned_tweet_id": "1853621788020031561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919408335075577856/BDRyDXHL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 316,
+          "like_count": 8171,
+          "listed_count": 1,
+          "media_count": 808,
+          "tweet_count": 5273
+        },
+        "username": "yu_yume_01",
+        "verified": false
+      }
+    ]
+  }
+}

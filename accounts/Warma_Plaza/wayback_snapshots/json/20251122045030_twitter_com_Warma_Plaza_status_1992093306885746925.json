@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1991726240022376566",
+    "created_at": "2025-11-22T04:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992093306885746925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992093306885746925",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991726240022376566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin (`●__●ˊ)......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_1991726236822032384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QIdbOaUAARWzN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1991726240022376566",
+        "created_at": "2025-11-22T04:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992093306885746925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992093306885746925",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991726240022376566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin (`●__●ˊ)......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991726236822032384"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "conversation_id": "1991726240022376566",
+        "created_at": "2025-11-21T04:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991726240022376566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvJ1l75Z4J",
+              "end": 39,
+              "expanded_url": "https://x.com/cha_li_jin/status/1991726240022376566/photo/1",
+              "media_key": "3_1991726236822032384",
+              "start": 16,
+              "url": "https://t.co/yvJ1l75Z4J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991726240022376566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 107732,
+          "like_count": 288,
+          "quote_count": 6,
+          "reply_count": 96,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以防你没见过30多分的体测成绩 https://t.co/yvJ1l75Z4J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4391,
+          "following_count": 7483,
+          "like_count": 682,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 4212
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "我不想再当阴湿地下鼠了，含糖长发男。常驻广州，网安在读工科生，请和我交朋友🥺丨瑟瑟副号 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "tashigan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "联合星",
+        "name": "AAA星之果实批发零售察里津",
+        "pinned_tweet_id": "1990480166481768557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981695566032609280/6EBNv4hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7045,
+          "following_count": 826,
+          "like_count": 11300,
+          "listed_count": 33,
+          "media_count": 273,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

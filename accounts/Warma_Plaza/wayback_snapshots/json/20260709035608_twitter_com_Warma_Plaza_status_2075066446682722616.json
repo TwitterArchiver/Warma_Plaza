@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2075022875967500659",
+    "created_at": "2026-07-09T03:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075066446682722616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075066446682722616",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075022875967500659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TReverie （；￣ェ￣）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2075022875967500659",
+        "created_at": "2026-07-09T03:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075066446682722616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075066446682722616",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075022875967500659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie （；￣ェ￣）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "2075022875967500659",
+        "created_at": "2026-07-09T01:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T02:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075022875967500659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075022875967500659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1717,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是中国人，我为出生并生活在中共统治的中国感到深深的不幸。\n\n但我为做出了反抗中共这个决定感到十分幸运。中共对我的洗脑并没有成功，反而更加让我意识到了共产主义的邪恶和保持清醒的可贵。我要结束邪恶的中共对中国的统治，这样未来出生在中国的人们就不用承受被中共洗脑和奴役的痛苦了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5281,
+          "following_count": 7501,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 577,
+          "tweet_count": 10985
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "💤",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸🇯🇵",
+        "pinned_tweet_id": "2048649828381626554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073955674778947584/mId304h7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12862,
+          "following_count": 2039,
+          "like_count": 25065,
+          "listed_count": 98,
+          "media_count": 1935,
+          "tweet_count": 5675
+        },
+        "url": "",
+        "username": "TReverie",
+        "verified": true
+      }
+    ]
+  }
+}

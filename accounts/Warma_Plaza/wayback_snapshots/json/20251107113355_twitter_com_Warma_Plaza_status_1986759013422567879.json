@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1986255834565992586",
+    "created_at": "2025-11-07T11:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986759013422567879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564942092568514560",
+          "start": 0,
+          "username": "hungjn98908513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986759013422567879",
+    "in_reply_to_user_id": "1564942092568514560",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986255834565992586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hungjn98908513 |!lil!|(lll´+д+)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_1986255828777902081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5CZJxNbIAEHLqk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1986255834565992586",
+        "created_at": "2025-11-07T11:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986759013422567879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564942092568514560",
+              "start": 0,
+              "username": "hungjn98908513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986759013422567879",
+        "in_reply_to_user_id": "1564942092568514560",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986255834565992586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hungjn98908513 |!lil!|(lll´+д+)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986255828777902081"
+          ]
+        },
+        "author_id": "1564942092568514560",
+        "conversation_id": "1986255834565992586",
+        "created_at": "2025-11-06T02:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986255834565992586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTuZBZDO4K",
+              "end": 27,
+              "expanded_url": "https://x.com/hungjn98908513/status/1986255834565992586/photo/1",
+              "media_key": "3_1986255828777902081",
+              "start": 4,
+              "url": "https://t.co/HTuZBZDO4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986255834565992586",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 179982,
+          "like_count": 1339,
+          "quote_count": 6,
+          "reply_count": 95,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/HTuZBZDO4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 7491,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 3906
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T11:44:21.000Z",
+        "description": "托爾不只喜歡小林，他還喜歡小林的味道🥵｜包容LGBTQ🏳️‍🌈🏳️‍⚧️🍥｜支持民進黨🟩｜生物研究學｜台灣國嘉義人｜台獨頑固分子｜粉蛆、深藍民國派、王志安粉、哈馬斯孝子謝絕關注🚫 ☭⃠｜💩=🇨🇳🇷🇺🇧🇾🇰🇵🇵🇸🇱🇧🇮🇷｜歡迎大家關注副帳號: @MaoXi12554",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "MaoXi12554"
+              }
+            ]
+          }
+        },
+        "id": "1564942092568514560",
+        "location": "台灣共和國 嘉義市",
+        "name": "毛澤東最喜歡托爾了🐉🇮🇱🇺🇦",
+        "pinned_tweet_id": "1977364496407568420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977367063154094080/hurE_YyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10958,
+          "following_count": 1788,
+          "like_count": 230385,
+          "listed_count": 76,
+          "media_count": 4308,
+          "tweet_count": 14662
+        },
+        "username": "hungjn98908513",
+        "verified": false
+      }
+    ]
+  }
+}

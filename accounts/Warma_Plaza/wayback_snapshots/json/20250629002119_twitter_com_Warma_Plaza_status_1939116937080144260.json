@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938972608827138083",
+    "created_at": "2025-06-29T00:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T01:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939116937080144260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757581189869887488",
+          "start": 0,
+          "username": "gnyu36643"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939116937080144260",
+    "in_reply_to_user_id": "1757581189869887488",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938987464506667402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gnyu36643 (˵¯͒〰¯͒˵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938972608827138083",
+        "created_at": "2025-06-29T00:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T01:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939116937080144260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757581189869887488",
+              "start": 0,
+              "username": "gnyu36643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939116937080144260",
+        "in_reply_to_user_id": "1757581189869887488",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938987464506667402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gnyu36643 (˵¯͒〰¯͒˵)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757581189869887488",
+        "conversation_id": "1938972608827138083",
+        "created_at": "2025-06-28T15:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938987464506667402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938987464506667402",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938972608827138083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 三克油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3697,
+          "following_count": 7491,
+          "like_count": 628,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 1885
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T01:43:27.000Z",
+        "description": "来自中国🇨🇳/高三牲/地科学习者🌏/喜欢听华语歌🎶/偶尔键政/欢迎互fo😉/希望世界和平🕊",
+        "id": "1757581189869887488",
+        "location": "西南官话 川黔片 成渝小片",
+        "name": "甘悦🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866707491687632897/90BzBPuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 570,
+          "like_count": 16618,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 2132
+        },
+        "username": "gnyu36643",
+        "verified": false
+      }
+    ]
+  }
+}

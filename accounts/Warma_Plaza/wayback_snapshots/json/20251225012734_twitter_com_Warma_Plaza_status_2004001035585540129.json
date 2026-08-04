@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2004000553622507796",
+    "created_at": "2025-12-25T01:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T02:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004001035585540129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1390536213254197250",
+          "start": 0,
+          "username": "0K7n9Nviz82KC9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004001035585540129",
+    "in_reply_to_user_id": "1390536213254197250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004000553622507796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0K7n9Nviz82KC9r Σ(￣ロ￣lll)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29001,
+        "height": 1280,
+        "media_key": "7_2004000475335823360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004000475335823360/pu/img/8DxBaXpkjT8okzz-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004000475335823360/pu/vid/avc1/320x568/ONKdPp9rIeGsWIO0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004000475335823360/pu/vid/avc1/480x852/QVGFm_kSgLK-yUsc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004000475335823360/pu/vid/avc1/720x1280/jgbbY6awLUk7-Ptc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004000475335823360/pu/pl/p43QqmJh1k371L1T.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2004000553622507796",
+        "created_at": "2025-12-25T01:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004001035585540129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1390536213254197250",
+              "start": 0,
+              "username": "0K7n9Nviz82KC9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004001035585540129",
+        "in_reply_to_user_id": "1390536213254197250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004000553622507796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0K7n9Nviz82KC9r Σ(￣ロ￣lll)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2004000475335823360"
+          ]
+        },
+        "author_id": "1390536213254197250",
+        "conversation_id": "2004000553622507796",
+        "created_at": "2025-12-25T01:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004000553622507796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9hCrtmHIi",
+              "end": 159,
+              "expanded_url": "https://x.com/0K7n9Nviz82KC9r/status/2004000553622507796/video/1",
+              "media_key": "7_2004000475335823360",
+              "start": 136,
+              "url": "https://t.co/a9hCrtmHIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004000553622507796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近都在说美国斩杀线，那我说中国兜底线\n\n这条兜底线，就是让十四亿人不露宿、饿死，生病了，能以低廉价格享受基础医疗服务；失业了，政府培训你掌握社会上生存技能\n\n中国兜底线，能最低限度地保障你日常的衣食住行，不管多大失败都能东山再起！\n\n我们的党是全心全意为人民服务的党！ https://t.co/a9hCrtmHIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4587,
+          "following_count": 7478,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 528,
+          "tweet_count": 5210
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T05:17:39.000Z",
+        "description": "笑天下可笑之事，交推上可交之友！\n众人皆醉我独醒！何故？无钱买酒也💯",
+        "id": "1390536213254197250",
+        "name": "戎🐎少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579487614494986240/UzvtWIjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33355,
+          "following_count": 15368,
+          "like_count": 26217,
+          "listed_count": 110,
+          "media_count": 14684,
+          "tweet_count": 23229
+        },
+        "username": "0K7n9Nviz82KC9r",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1925888656025280577",
+    "created_at": "2025-05-23T15:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T16:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925930772227060007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1704537067798282241",
+          "start": 0,
+          "username": "MoXin_Jef"
+        },
+        {
+          "end": 26,
+          "id": "1303335410609790976",
+          "start": 11,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925930772227060007",
+    "in_reply_to_user_id": "1704537067798282241",
+    "lang": "el",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925889853159260384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoXin_Jef @Rococo90933671 (♡ ὅ ◡ ὅ )ʃ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1925888656025280577",
+        "created_at": "2025-05-23T15:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T16:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925930772227060007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1704537067798282241",
+              "start": 0,
+              "username": "MoXin_Jef"
+            },
+            {
+              "end": 26,
+              "id": "1303335410609790976",
+              "start": 11,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925930772227060007",
+        "in_reply_to_user_id": "1704537067798282241",
+        "lang": "el",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925889853159260384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoXin_Jef @Rococo90933671 (♡ ὅ ◡ ὅ )ʃ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704537067798282241",
+        "conversation_id": "1925888656025280577",
+        "created_at": "2025-05-23T12:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T13:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925889853159260384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 28,
+              "id": "1303335410609790976",
+              "start": 13,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925889853159260384",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925889340586029549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @Rococo90933671 帅帅的("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3506,
+          "following_count": 7490,
+          "like_count": 582,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 1426
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T16:44:46.000Z",
+        "description": "我是小西红柿!",
+        "id": "1704537067798282241",
+        "location": "Kowloon City District",
+        "name": "缺德又无良⭐",
+        "pinned_tweet_id": "1895936160935145651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913014675467628544/E9Q4EOxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 323,
+          "like_count": 5641,
+          "listed_count": 0,
+          "media_count": 741,
+          "tweet_count": 1588
+        },
+        "username": "MoXin_Jef",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4756,
+          "following_count": 2146,
+          "like_count": 24669,
+          "listed_count": 10,
+          "media_count": 2134,
+          "tweet_count": 14128
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

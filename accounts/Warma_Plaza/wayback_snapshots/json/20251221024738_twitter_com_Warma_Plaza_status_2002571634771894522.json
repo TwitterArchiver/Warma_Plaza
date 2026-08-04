@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002570116127420844",
+    "created_at": "2025-12-21T02:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002571634771894522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1197017532365803520",
+          "start": 0,
+          "username": "Frontlinestory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002571634771894522",
+    "in_reply_to_user_id": "1197017532365803520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002570116127420844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frontlinestory (´•ω•`๑)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 149400,
+        "height": 1080,
+        "media_key": "13_2002569006650359808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002569006650359808/img/Uv4V-Iw2CgnfDAPC.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002569006650359808/vid/avc1/1920x1080/ubOfVRU4TNwyX1xJ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002569006650359808/vid/avc1/480x270/EEeEXcFoJP_Ec318.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002569006650359808/pl/CHHZ6tiCYoICHSqN.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002569006650359808/vid/avc1/640x360/VwiTZ0OnghtWRQJB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002569006650359808/vid/avc1/1280x720/0iu1KFWzSEtU0_Ou.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002570116127420844",
+        "created_at": "2025-12-21T02:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002571634771894522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1197017532365803520",
+              "start": 0,
+              "username": "Frontlinestory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002571634771894522",
+        "in_reply_to_user_id": "1197017532365803520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002570116127420844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frontlinestory (´•ω•`๑)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002569006650359808"
+          ]
+        },
+        "author_id": "1197017532365803520",
+        "conversation_id": "2002570116127420844",
+        "created_at": "2025-12-21T02:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002570116127420844"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "Southwest China",
+              "probability": 0.7254,
+              "start": 97,
+              "type": "Place"
+            },
+            {
+              "end": 130,
+              "normalized_text": "Guizhou province",
+              "probability": 0.91,
+              "start": 115,
+              "type": "Place"
+            },
+            {
+              "end": 245,
+              "normalized_text": "China",
+              "probability": 0.9563,
+              "start": 241,
+              "type": "Place"
+            },
+            {
+              "end": 277,
+              "normalized_text": "Chaotan-1",
+              "probability": 0.69,
+              "start": 269,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b18xt1Gly4",
+              "end": 304,
+              "expanded_url": "https://x.com/Frontlinestory/status/2002570116127420844/video/1",
+              "media_key": "13_2002569006650359808",
+              "start": 281,
+              "url": "https://t.co/b18xt1Gly4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002570116127420844",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The world's first commercial supercritical carbon dioxide power generator has begun operation in Southwest China’s Guizhou province. It is viewed as a milestone in changing the power generation mode relying on steam for more than a century. China calls the technology “Chaotan-1”."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The world's first commercial supercritical carbon dioxide power generator has begun operation in Southwest China’s Guizhou province. It is viewed as a milestone in changing the power generation mode relying on steam for more than a century. China calls the technology “Chaotan-1”. https://t.co/b18xt1Gly4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4543,
+          "following_count": 7491,
+          "like_count": 679,
+          "listed_count": 6,
+          "media_count": 523,
+          "tweet_count": 5102
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-20T05:03:29.000Z",
+        "description": "@CGTNOfficial News Gathering Team. Thanks for following! 谢谢大家关注！我们是CGTN记者团，一起讲好中国故事，欢迎互粉！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "CGTNOfficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5401376278",
+                "end": 23,
+                "expanded_url": "http://weibo.com/u/5401376278",
+                "start": 0,
+                "url": "https://t.co/R2447FRtoB"
+              }
+            ]
+          }
+        },
+        "id": "1197017532365803520",
+        "location": "Beijing, China",
+        "name": "CGTN Frontline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330977941946187776/p3AUOAVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30649,
+          "following_count": 3769,
+          "like_count": 12122,
+          "listed_count": 32,
+          "media_count": 16490,
+          "tweet_count": 25469
+        },
+        "url": "https://t.co/R2447FRtoB",
+        "username": "Frontlinestory",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2007999661840519222",
+    "created_at": "2026-01-06T11:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008502565697364236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395565481361219584",
+          "start": 0,
+          "username": "liuguangchui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008502565697364236",
+    "in_reply_to_user_id": "1395565481361219584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007999661840519222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuguangchui ⁽⁰^⁰⁾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2007999661840519222",
+        "created_at": "2026-01-06T11:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008502565697364236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008502565697364236",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007999661840519222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui ⁽⁰^⁰⁾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395565481361219584",
+        "conversation_id": "2007999661840519222",
+        "created_at": "2026-01-05T02:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007999661840519222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007999661840519222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 53118,
+          "like_count": 195,
+          "quote_count": 2,
+          "reply_count": 83,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们都没发现一个事不对劲吗？\n气氛都顶到这了。\n美军还没有攻到北京？？？？？\n那网上这帮傻缺，在这庆祝什么呢？😅🤣🫵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 7492,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5491
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "你知道：零敲牛皮糖、597.9，什麼意思吗？\n我拥护中国式现代化：Chinese path to modernization",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCJBZM"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006048074125438976/FaHx54BY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28504,
+          "following_count": 1353,
+          "like_count": 51119,
+          "listed_count": 163,
+          "media_count": 8218,
+          "tweet_count": 31553
+        },
+        "url": "https://t.co/JFVpOCJBZM",
+        "username": "liuguangchui",
+        "verified": false
+      }
+    ]
+  }
+}

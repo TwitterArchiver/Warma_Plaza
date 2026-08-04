@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2013562145171218585",
+    "created_at": "2026-01-21T13:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013962855003885978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000929444098363392",
+          "start": 0,
+          "username": "shitjiangzemin"
+        },
+        {
+          "end": 24,
+          "id": "1239457591417171973",
+          "start": 16,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013962855003885978",
+    "in_reply_to_user_id": "2000929444098363392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013691379113943298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shitjiangzemin @GFWfrog (＞人＜`)！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2013562145171218585",
+        "created_at": "2026-01-21T13:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013962855003885978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000929444098363392",
+              "start": 0,
+              "username": "shitjiangzemin"
+            },
+            {
+              "end": 24,
+              "id": "1239457591417171973",
+              "start": 16,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013962855003885978",
+        "in_reply_to_user_id": "2000929444098363392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013691379113943298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shitjiangzemin @GFWfrog (＞人＜`)！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000929444098363392",
+        "conversation_id": "2013562145171218585",
+        "created_at": "2026-01-20T19:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T20:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013691379113943298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013691379113943298",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1262,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013562145171218585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 好浓的支臭味🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4670,
+          "following_count": 7491,
+          "like_count": 677,
+          "listed_count": 8,
+          "media_count": 535,
+          "tweet_count": 6014
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T14:02:18.000Z",
+        "description": "I major law in Sichuan University🥺.I'm suffering from severe Depression. My TOEFL score is 113. I firmly oppose communism. Xijinping deserves death penalty.",
+        "id": "2000929444098363392",
+        "location": "Chengdu Sichuan",
+        "name": "東雲彰人ちゃん Communism is Plague",
+        "pinned_tweet_id": "2010002617443987611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002752593521713152/8YXe-1vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 87,
+          "like_count": 290,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 406
+        },
+        "username": "shitjiangzemin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/RDqRjAemGp 150岁爷习近平粉丝群：https://t.co/tzbqdA1pKg\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 #大冲塔运动 #大传单运动 全中国🇨🇳 #遍地开花 进行中…\n🐸邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "大传单运动"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "遍地开花"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/laohuhaha_bot",
+                "end": 33,
+                "expanded_url": "http://t.me/laohuhaha_bot",
+                "start": 10,
+                "url": "https://t.co/RDqRjAemGp"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 69,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 46,
+                "url": "https://t.co/tzbqdA1pKg"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 96,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 73,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2013952278927925383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259166,
+          "following_count": 2426,
+          "like_count": 118516,
+          "listed_count": 888,
+          "media_count": 6587,
+          "tweet_count": 12533
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

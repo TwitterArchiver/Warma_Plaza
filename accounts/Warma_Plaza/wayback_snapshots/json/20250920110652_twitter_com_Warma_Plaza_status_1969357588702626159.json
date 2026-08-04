@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1969351105034236278",
+    "created_at": "2025-09-20T11:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T12:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969357588702626159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845668678387515392",
+          "start": 0,
+          "username": "dilei114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969357588702626159",
+    "in_reply_to_user_id": "1845668678387515392",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969351105034236278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dilei114 (o'ω'o)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969351101721034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SKZJgbQAAX4QC.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1969351105034236278",
+        "created_at": "2025-09-20T11:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969357588702626159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845668678387515392",
+              "start": 0,
+              "username": "dilei114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969357588702626159",
+        "in_reply_to_user_id": "1845668678387515392",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969351105034236278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dilei114 (o'ω'o)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969351101721034752"
+          ]
+        },
+        "author_id": "1845668678387515392",
+        "conversation_id": "1969351105034236278",
+        "created_at": "2025-09-20T10:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969351105034236278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr53ydSyyh",
+              "end": 31,
+              "expanded_url": "https://x.com/dilei114/status/1969351105034236278/photo/1",
+              "media_key": "3_1969351101721034752",
+              "start": 8,
+              "url": "https://t.co/Hr53ydSyyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969351105034236278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跌的粉碎了…… https://t.co/Hr53ydSyyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175,
+          "following_count": 7494,
+          "like_count": 665,
+          "listed_count": 8,
+          "media_count": 486,
+          "tweet_count": 2754
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "会很友善的对待大家的哟 ✧(≖ ◡ ≖✿)｜偶尔是小男娘 ?丨不对线｜拒绝一切极端人｜会尽最大努力避免与任何人发生冲突｜做个岁静人｜绝对不会主动骂人或人身攻击｜不会因立场不同而屏蔽或辱骂他人｜很讨厌乱骂人的人，见到了就屏蔽｜有时可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️丨🔞小号@baojiangdilei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 145,
+                "username": "baojiangdilei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/li0aYkyrZ7"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘",
+        "pinned_tweet_id": "1913817499562639368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 678,
+          "like_count": 172541,
+          "listed_count": 5,
+          "media_count": 1041,
+          "tweet_count": 10760
+        },
+        "url": "https://t.co/li0aYkyrZ7",
+        "username": "dilei114",
+        "verified": false
+      }
+    ]
+  }
+}

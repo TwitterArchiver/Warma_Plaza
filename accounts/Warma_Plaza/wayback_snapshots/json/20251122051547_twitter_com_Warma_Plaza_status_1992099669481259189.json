@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1991742542380147184",
+    "created_at": "2025-11-22T05:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T06:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992099669481259189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769594666977210368",
+          "start": 0,
+          "username": "aiaijiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992099669481259189",
+    "in_reply_to_user_id": "1769594666977210368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991742542380147184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaijiang_ (ˇ╮ˇ)！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1991742532733341696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6QXR-ObkAA6dMa.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1991742542380147184",
+        "created_at": "2025-11-22T05:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992099669481259189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769594666977210368",
+              "start": 0,
+              "username": "aiaijiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992099669481259189",
+        "in_reply_to_user_id": "1769594666977210368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991742542380147184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaijiang_ (ˇ╮ˇ)！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991742532733341696"
+          ]
+        },
+        "author_id": "1769594666977210368",
+        "conversation_id": "1991742542380147184",
+        "created_at": "2025-11-21T05:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991742542380147184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2jZ7pkUPHS",
+              "end": 44,
+              "expanded_url": "https://x.com/aiaijiang_/status/1991742542380147184/photo/1",
+              "media_key": "3_1991742532733341696",
+              "start": 21,
+              "url": "https://t.co/2jZ7pkUPHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991742542380147184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 106999,
+          "like_count": 1086,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "去男厕所发现有小姐姐站着尿尿呜呜….😢😭 https://t.co/2jZ7pkUPHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 7490,
+          "like_count": 682,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 4237
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T05:21:16.000Z",
+        "description": "无证含糖已炸柜 肉肉系 偏4i/INTJ药娘，攒钱做srs，绝赞私信请直接入门 不过🚪不回 私信过🚪128口令红包 支持usdt",
+        "id": "1769594666977210368",
+        "location": "上海",
+        "name": "爱爱酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1991891109812040191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893620196599881728/7N6JyNGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9697,
+          "following_count": 144,
+          "like_count": 359,
+          "listed_count": 36,
+          "media_count": 109,
+          "tweet_count": 902
+        },
+        "username": "aiaijiang_",
+        "verified": true
+      }
+    ]
+  }
+}

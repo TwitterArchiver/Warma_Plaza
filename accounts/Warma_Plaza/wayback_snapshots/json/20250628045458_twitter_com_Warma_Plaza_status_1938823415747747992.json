@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938818102994903367",
+    "created_at": "2025-06-28T04:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T05:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938823415747747992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830493173099208704",
+          "start": 0,
+          "username": "LeeWilliam99928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938823415747747992",
+    "in_reply_to_user_id": "1830493173099208704",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938818102994903367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeWilliam99928 ( •̩̩̩̩＿•̩̩̩̩ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938818099517550592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugQygnXcAATkI3.jpg",
+        "width": 956
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938818099685310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugQyhPXQAAO7bO.jpg",
+        "width": 953
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1938818100121489408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugQyi3W0AAd8h5.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938818102994903367",
+        "created_at": "2025-06-28T04:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938823415747747992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830493173099208704",
+              "start": 0,
+              "username": "LeeWilliam99928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938823415747747992",
+        "in_reply_to_user_id": "1830493173099208704",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938818102994903367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeWilliam99928 ( •̩̩̩̩＿•̩̩̩̩ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938818099517550592",
+            "3_1938818099685310464",
+            "3_1938818100121489408"
+          ]
+        },
+        "author_id": "1830493173099208704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1938818102994903367",
+        "created_at": "2025-06-28T04:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938818102994903367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MWROsOTMCN",
+              "end": 166,
+              "expanded_url": "https://x.com/LeeWilliam99928/status/1938818102994903367/photo/1",
+              "media_key": "3_1938818099517550592",
+              "start": 143,
+              "url": "https://t.co/MWROsOTMCN"
+            },
+            {
+              "display_url": "pic.x.com/MWROsOTMCN",
+              "end": 166,
+              "expanded_url": "https://x.com/LeeWilliam99928/status/1938818102994903367/photo/1",
+              "media_key": "3_1938818099685310464",
+              "start": 143,
+              "url": "https://t.co/MWROsOTMCN"
+            },
+            {
+              "display_url": "pic.x.com/MWROsOTMCN",
+              "end": 166,
+              "expanded_url": "https://x.com/LeeWilliam99928/status/1938818102994903367/photo/1",
+              "media_key": "3_1938818100121489408",
+              "start": 143,
+              "url": "https://t.co/MWROsOTMCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938818102994903367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉墙外已经被中共玩成了墙内微信朋友圈，官媒营销号那样了，中共的内宣和外宣太厉害了\n这些可能都是 网格员，类似于墙内阿b 百度官媒营销号\n很多人说讨厌朋友圈那些天天晒图的很多卖产品比如卖酒卖茶叶卖什么各种的皮包公司的女公关甚至女的这个身份也是假的，但是墙内外政府的营销号都是这种套路 https://t.co/MWROsOTMCN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 7490,
+          "like_count": 625,
+          "listed_count": 3,
+          "media_count": 429,
+          "tweet_count": 1841
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T06:29:47.000Z",
+        "description": "",
+        "id": "1830493173099208704",
+        "name": "艾蓮·山魚·翁Eileen Mntfish Ong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927338057742565376/jgVUflE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 2395,
+          "like_count": 1689,
+          "listed_count": 1,
+          "media_count": 498,
+          "tweet_count": 5165
+        },
+        "username": "LeeWilliam99928",
+        "verified": false
+      }
+    ]
+  }
+}

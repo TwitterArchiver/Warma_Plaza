@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1998012381683917114",
+    "created_at": "2025-12-09T12:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T13:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998362481430077936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998362481430077936",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998012381683917114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 ‼(•'╻'• ۶)۶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_1998012297453985793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pdmT6bYAEYS0S.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1998012381683917114",
+        "created_at": "2025-12-09T12:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998362481430077936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998362481430077936",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998012381683917114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 ‼(•'╻'• ۶)۶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998012297453985793"
+          ]
+        },
+        "author_id": "1374225903136481284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to sales tax in Japan.\n日本の消費税に関する会話",
+              "id": "1131641158658973696",
+              "name": "Japanese Sales Tax"
+            }
+          }
+        ],
+        "conversation_id": "1998012381683917114",
+        "created_at": "2025-12-08T12:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998012381683917114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDPfLi3uyo",
+              "end": 42,
+              "expanded_url": "https://x.com/Whatis7777777/status/1998012381683917114/photo/1",
+              "media_key": "3_1998012297453985793",
+              "start": 19,
+              "url": "https://t.co/uDPfLi3uyo"
+            },
+            {
+              "display_url": "x.com/ChiakiTokai/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ChiakiTokai/status/1997870336134848877",
+              "start": 43,
+              "url": "https://t.co/JXhP7boAK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998012381683917114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 28937,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997870336134848877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼了，看来真的要打仗了\n👇👇👇👇👇 https://t.co/uDPfLi3uyo https://t.co/JXhP7boAK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 7496,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 4828
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "并没有政治立场，\n如果一定要有，\n那就永远支持真相和人性吧！\n小号：@SmallGoodL\nBe true, be brave, be strong… \nI'm proud of being Chinese.\nYouTube频道：https://t.co/JaWOOlxlKG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "SmallGoodL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.ly/yJbtD",
+                "end": 138,
+                "expanded_url": "https://t.ly/yJbtD",
+                "start": 115,
+                "url": "https://t.co/JaWOOlxlKG"
+              }
+            ]
+          }
+        },
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1995166173097533543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914869466762293248/13sKKCwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51295,
+          "following_count": 3586,
+          "like_count": 216128,
+          "listed_count": 181,
+          "media_count": 7004,
+          "tweet_count": 95560
+        },
+        "username": "Whatis7777777",
+        "verified": false
+      }
+    ]
+  }
+}

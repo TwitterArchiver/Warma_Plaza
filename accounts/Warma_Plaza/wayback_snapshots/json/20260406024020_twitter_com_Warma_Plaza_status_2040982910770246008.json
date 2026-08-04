@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2040819543224799322",
+    "created_at": "2026-04-06T02:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040982910770246008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545801069996883968",
+          "start": 0,
+          "username": "PRA_Redemption"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040982910770246008",
+    "in_reply_to_user_id": "1545801069996883968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040819543224799322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRA_Redemption (￣へ￣)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 167,
+        "media_key": "3_2040819525445402624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJyi7DawAAYg4b.jpg",
+        "width": 298
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2040819525449596928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJyi7EawAAwqv_.jpg",
+        "width": 1703
+      },
+      {
+        "height": 624,
+        "media_key": "3_2040819525302554624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJyi6hXEAAIp68.jpg",
+        "width": 984
+      },
+      {
+        "height": 281,
+        "media_key": "3_2040819525319376896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJyi6lXwAAWAr1.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2040819543224799322",
+        "created_at": "2026-04-06T02:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040982910770246008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545801069996883968",
+              "start": 0,
+              "username": "PRA_Redemption"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040982910770246008",
+        "in_reply_to_user_id": "1545801069996883968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040819543224799322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRA_Redemption (￣へ￣)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040819525445402624",
+            "3_2040819525449596928",
+            "3_2040819525302554624",
+            "3_2040819525319376896"
+          ]
+        },
+        "author_id": "1545801069996883968",
+        "conversation_id": "2040819543224799322",
+        "created_at": "2026-04-05T15:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040819543224799322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQ41jTaeei",
+              "end": 35,
+              "expanded_url": "https://x.com/PRA_Redemption/status/2040819543224799322/photo/1",
+              "media_key": "3_2040819525445402624",
+              "start": 12,
+              "url": "https://t.co/DQ41jTaeei"
+            },
+            {
+              "display_url": "pic.x.com/DQ41jTaeei",
+              "end": 35,
+              "expanded_url": "https://x.com/PRA_Redemption/status/2040819543224799322/photo/1",
+              "media_key": "3_2040819525449596928",
+              "start": 12,
+              "url": "https://t.co/DQ41jTaeei"
+            },
+            {
+              "display_url": "pic.x.com/DQ41jTaeei",
+              "end": 35,
+              "expanded_url": "https://x.com/PRA_Redemption/status/2040819543224799322/photo/1",
+              "media_key": "3_2040819525302554624",
+              "start": 12,
+              "url": "https://t.co/DQ41jTaeei"
+            },
+            {
+              "display_url": "pic.x.com/DQ41jTaeei",
+              "end": 35,
+              "expanded_url": "https://x.com/PRA_Redemption/status/2040819543224799322/photo/1",
+              "media_key": "3_2040819525319376896",
+              "start": 12,
+              "url": "https://t.co/DQ41jTaeei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040819543224799322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6854,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看了几天日推之后的我： https://t.co/DQ41jTaeei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4902,
+          "following_count": 7480,
+          "like_count": 668,
+          "listed_count": 8,
+          "media_count": 559,
+          "tweet_count": 7288
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T16:04:37.000Z",
+        "description": "中国人🇨🇳 Anti anti-communism",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://www.naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/tmAN7Xfn4E"
+              }
+            ]
+          }
+        },
+        "id": "1545801069996883968",
+        "name": "PRA⬛️🔺🔻⬛️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740550985125097472/iAfvP5V1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 655,
+          "like_count": 85746,
+          "listed_count": 5,
+          "media_count": 383,
+          "tweet_count": 10661
+        },
+        "url": "https://t.co/tmAN7Xfn4E",
+        "username": "PRA_Redemption",
+        "verified": false
+      }
+    ]
+  }
+}

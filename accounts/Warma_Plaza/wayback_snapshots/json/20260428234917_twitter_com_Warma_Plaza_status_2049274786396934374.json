@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2049270797701915050",
+    "created_at": "2026-04-28T23:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T00:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049274786396934374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1555961306913689600",
+          "start": 0,
+          "username": "3C3AHuangYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049274786396934374",
+    "in_reply_to_user_id": "1555961306913689600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049270797701915050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3C3AHuangYou ╰⁠(⁠*⁠´⁠︶⁠`⁠*⁠)⁠╯生快！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2049270794472284160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB47hkaYAAbUNb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2049270797701915050",
+        "created_at": "2026-04-28T23:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049274786396934374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1555961306913689600",
+              "start": 0,
+              "username": "3C3AHuangYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049274786396934374",
+        "in_reply_to_user_id": "1555961306913689600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049270797701915050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3C3AHuangYou ╰⁠(⁠*⁠´⁠︶⁠`⁠*⁠)⁠╯生快！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049270794472284160"
+          ]
+        },
+        "author_id": "1555961306913689600",
+        "conversation_id": "2049270797701915050",
+        "created_at": "2026-04-28T23:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049270797701915050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjpu6iQ6rn",
+              "end": 32,
+              "expanded_url": "https://x.com/3C3AHuangYou/status/2049270797701915050/photo/1",
+              "media_key": "3_2049270794472284160",
+              "start": 9,
+              "url": "https://t.co/fjpu6iQ6rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049270797701915050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好今天我生日 https://t.co/fjpu6iQ6rn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4988,
+          "following_count": 7496,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 566,
+          "tweet_count": 8568
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T16:57:47.000Z",
+        "description": "我常怀悲缅 而苦难绵延大地  如风吹过林间  赓继如缕 累续无绝；我燃尽的灰  @ButterInnerSide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "ButterInnerSide"
+              }
+            ]
+          }
+        },
+        "id": "1555961306913689600",
+        "location": "微笑的尸山",
+        "name": "人造黄油➡️no where",
+        "pinned_tweet_id": "1923079056955687153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921217447677644800/MuCe2H0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6960,
+          "following_count": 2841,
+          "like_count": 157089,
+          "listed_count": 11,
+          "media_count": 1804,
+          "tweet_count": 27162
+        },
+        "username": "3C3AHuangYou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2070477192866537888",
+    "created_at": "2026-07-03T13:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073040223769100526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697876324839497728",
+          "start": 0,
+          "username": "MzyZhiyimacmnh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073040223769100526",
+    "in_reply_to_user_id": "1697876324839497728",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073012403739283478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MzyZhiyimacmnh ┏ (^ω^)="
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2070477192866537888",
+        "created_at": "2026-07-03T13:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073040223769100526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697876324839497728",
+              "start": 0,
+              "username": "MzyZhiyimacmnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073040223769100526",
+        "in_reply_to_user_id": "1697876324839497728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073012403739283478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MzyZhiyimacmnh ┏ (^ω^)="
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697876324839497728",
+        "conversation_id": "2070477192866537888",
+        "created_at": "2026-07-03T11:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073012403739283478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073012403739283478",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070477192866537888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza B站比我小5天！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 10839
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T07:37:25.000Z",
+        "description": "🦋 蝴蝶骑士团国大团长 |\n一名正在文艺复兴的高中生，表面上背着书包，实际上是古典自由主义与保守主义双持的骑士。\n我相信：传统美德 + 个人自由 + 有限政府 才是真正的永恒秩序。反对一切极权与乌托邦，守护家庭、信仰、财产与蝴蝶之翼般的个体尊严。\n「在蝴蝶的翅膀下，重铸骑士精神。」\n欢迎加入我们的虚构帝国",
+        "id": "1697876324839497728",
+        "name": "Zero✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039301353198280704/RPZxT6p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 472,
+          "like_count": 19568,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2849
+        },
+        "url": "",
+        "username": "MzyZhiyimacmnh",
+        "verified": true
+      }
+    ]
+  }
+}

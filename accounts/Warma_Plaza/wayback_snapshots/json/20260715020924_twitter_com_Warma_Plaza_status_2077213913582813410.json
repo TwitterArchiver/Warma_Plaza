@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2077044698779132248",
+    "created_at": "2026-07-15T02:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077213913582813410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077213913582813410",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077044698779132248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot (°_°)？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1673,
+        "media_key": "3_2077044566935433216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMlB2rXcAAhCeQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077044612414263296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMlEgGXUAAx9EH.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077044661441503232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMlHWvXoAAHMjN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2077044698779132248",
+        "created_at": "2026-07-15T02:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077213913582813410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077213913582813410",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077044698779132248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot (°_°)？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077044566935433216",
+            "3_2077044612414263296",
+            "3_2077044661441503232"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2077044698779132248",
+        "created_at": "2026-07-14T14:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077044698779132248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "隔空喊话"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tlRjKruHV",
+              "end": 49,
+              "expanded_url": "https://x.com/xijinping_bot/status/2077044698779132248/photo/1",
+              "media_key": "3_2077044566935433216",
+              "start": 26,
+              "url": "https://t.co/5tlRjKruHV"
+            },
+            {
+              "display_url": "pic.x.com/5tlRjKruHV",
+              "end": 49,
+              "expanded_url": "https://x.com/xijinping_bot/status/2077044698779132248/photo/1",
+              "media_key": "3_2077044612414263296",
+              "start": 26,
+              "url": "https://t.co/5tlRjKruHV"
+            },
+            {
+              "display_url": "pic.x.com/5tlRjKruHV",
+              "end": 49,
+              "expanded_url": "https://x.com/xijinping_bot/status/2077044698779132248/photo/1",
+              "media_key": "3_2077044661441503232",
+              "start": 26,
+              "url": "https://t.co/5tlRjKruHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077044698779132248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 373,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#隔空喊话 \n男的一股味？你好像比我更像个男人吧！ https://t.co/5tlRjKruHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5328,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 578,
+          "tweet_count": 11153
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "📕🔪/异端毛派/利伯塔利亚通/打倒马原、清算苏系/驱逐汉畜，恢复马列/#我的史观 #精神探索/慰安女权主义/如果我说错话了就把我当成精神病吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "我的史观"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "精神探索"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "中南海",
+        "name": "哲学船船长🇮🇷🚩——托洛茨基私人医生回忆录",
+        "pinned_tweet_id": "2076737306241974562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076205963405856768/wOyb_Dwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 1571,
+          "like_count": 25236,
+          "listed_count": 16,
+          "media_count": 981,
+          "tweet_count": 19746
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

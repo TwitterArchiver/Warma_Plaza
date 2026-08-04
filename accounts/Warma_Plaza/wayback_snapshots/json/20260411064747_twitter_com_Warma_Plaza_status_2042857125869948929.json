@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2042838304975131048",
+    "created_at": "2026-04-11T06:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042857125869948929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042857125869948929",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042838304975131048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 (￢д￢。)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 173,
+        "media_key": "3_2042837922987282432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmeRH1akAAUoS4.png",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2042838304975131048",
+        "created_at": "2026-04-11T06:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042857125869948929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042857125869948929",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042838304975131048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 (￢д￢。)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042837922987282432"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "2042838304975131048",
+        "created_at": "2026-04-11T05:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042838304975131048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Knz1MQwyPC",
+              "end": 102,
+              "expanded_url": "https://x.com/jfrd163461/status/2042838304975131048/photo/1",
+              "media_key": "3_2042837922987282432",
+              "start": 79,
+              "url": "https://t.co/Knz1MQwyPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042838304975131048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 223,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GFW的功能：\n封鎖節點IP指派 讓大陸網友無法造訪節點 即翻墻失敗\n節點就似一個中間人 GFW把中間人block 也就fail\n但是下面的大陸網友不懂原理 https://t.co/Knz1MQwyPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 7492,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 562,
+          "tweet_count": 7479
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nFree China\nLove Playing CS2\n🇺🇸🇨🇦🇦🇺🇳🇿🇬🇧🇯🇵🇰🇷🇹🇼",
+        "id": "1885557129588948992",
+        "location": "EARTH AISA ROC HK ",
+        "name": "+852 8964 5357 RDS KMT ROC AWP HONG KONG FREE🇭🇰",
+        "pinned_tweet_id": "2032622300193841496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042759486394503170/TPll_7Xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 5740,
+          "like_count": 12626,
+          "listed_count": 7,
+          "media_count": 593,
+          "tweet_count": 3439
+        },
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

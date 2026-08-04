@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1995403765307117756",
+    "created_at": "2025-12-02T11:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995817519480013269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1485558044096626691",
+          "start": 0,
+          "username": "DDZmumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995817519480013269",
+    "in_reply_to_user_id": "1485558044096626691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995403765307117756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDZmumo ⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾\n（探头）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95689,
+        "height": 720,
+        "media_key": "7_1995403658624921600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995403658624921600/pu/img/aUbll715mrVHpTLx.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995403658624921600/pu/vid/avc1/480x270/n85l2fzJs1GND-SZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995403658624921600/pu/vid/avc1/640x360/xnbuPEWL2wHwRBs4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995403658624921600/pu/vid/avc1/1280x720/niZSBZYaUN_j4Kyo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995403658624921600/pu/pl/5-yXa6xDXNc5pmwb.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1995403765307117756",
+        "created_at": "2025-12-02T11:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995817519480013269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1485558044096626691",
+              "start": 0,
+              "username": "DDZmumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995817519480013269",
+        "in_reply_to_user_id": "1485558044096626691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995403765307117756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDZmumo ⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾\n（探头）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995403658624921600"
+          ]
+        },
+        "author_id": "1485558044096626691",
+        "conversation_id": "1995403765307117756",
+        "created_at": "2025-12-01T08:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995403765307117756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "CS2"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "donk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/waajL2Zt3O",
+              "end": 45,
+              "expanded_url": "https://x.com/DDZmumo/status/1995403765307117756/video/1",
+              "media_key": "7_1995403658624921600",
+              "start": 22,
+              "url": "https://t.co/waajL2Zt3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995403765307117756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ID一遮就是Donk\n#CS2 #donk https://t.co/waajL2Zt3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4450,
+          "following_count": 7493,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 4640
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T10:20:23.000Z",
+        "description": "你没事找我干嘛，你有事我能干嘛",
+        "id": "1485558044096626691",
+        "location": "中国🇨🇳China",
+        "name": "DDZmumo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892645180639215620/P8fJbPF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 223,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "DDZmumo",
+        "verified": false
+      }
+    ]
+  }
+}

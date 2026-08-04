@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1988518481663238394",
+    "created_at": "2025-11-12T14:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988618216160039229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1951687093539020800",
+          "start": 0,
+          "username": "xiao_sun84343"
+        },
+        {
+          "end": 29,
+          "id": "1164467672819499008",
+          "start": 15,
+          "username": "whitelate0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988618216160039229",
+    "in_reply_to_user_id": "1951687093539020800",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988617986916159654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_sun84343 @whitelate0001 _(┐ ◟╥д╥)..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1988518481663238394",
+        "created_at": "2025-11-12T14:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988618216160039229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1951687093539020800",
+              "start": 0,
+              "username": "xiao_sun84343"
+            },
+            {
+              "end": 29,
+              "id": "1164467672819499008",
+              "start": 15,
+              "username": "whitelate0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988618216160039229",
+        "in_reply_to_user_id": "1951687093539020800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988617986916159654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_sun84343 @whitelate0001 _(┐ ◟╥д╥)..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951687093539020800",
+        "conversation_id": "1988518481663238394",
+        "created_at": "2025-11-12T14:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988617986916159654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988617986916159654",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988518481663238394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 你成共匪了🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 7492,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 3958
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T16:51:51.000Z",
+        "description": "爱国从来不是当这个政权国家这个政党的粉丝\n而是要认识什么是国家",
+        "id": "1951687093539020800",
+        "location": "忠阑氦",
+        "name": "支持後清皇帝习近平陛下",
+        "pinned_tweet_id": "1975793132920053994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979861014125416448/MVSYnyrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 171,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 438
+        },
+        "username": "xiao_sun84343",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "台灣中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/泛藍/左翼/科學主義的支持者 | Glory to China | \n\n1000粉了！感謝支持🙏🙏  |\n\n賽博搬史王|偶爾發抽象tv｜\n\n別跟我聊台灣政治台灣政治就跟一坨💩一樣 |\n\n鍵政勉強中。。。",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 1002,
+          "like_count": 7949,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 8099
+        },
+        "username": "whitelate0001",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2053049964159520790",
+    "created_at": "2026-05-10T11:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053434702212874280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799157515596578816",
+          "start": 0,
+          "username": "Amia0309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053434702212874280",
+    "in_reply_to_user_id": "1799157515596578816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053049964159520790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amia0309 (⁠´⁠∩⁠｡⁠•⁠ ⁠ᵕ⁠ ⁠•⁠｡⁠∩⁠`⁠)好耶~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2053049302940057600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ldqgbAAA5tjf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2053049304898793474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ldxza8AIbwfh.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2053049299572006912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ldd9aoAAk9Le.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2053049306752704513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ld4tbYAEqaIt.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2053049964159520790",
+        "created_at": "2026-05-10T11:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053434702212874280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799157515596578816",
+              "start": 0,
+              "username": "Amia0309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053434702212874280",
+        "in_reply_to_user_id": "1799157515596578816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053049964159520790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amia0309 (⁠´⁠∩⁠｡⁠•⁠ ⁠ᵕ⁠ ⁠•⁠｡⁠∩⁠`⁠)好耶~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053049302940057600",
+            "3_2053049304898793474",
+            "3_2053049299572006912",
+            "3_2053049306752704513"
+          ]
+        },
+        "author_id": "1799157515596578816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053049964159520790",
+        "created_at": "2026-05-09T09:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053049964159520790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTPdnZmaYs",
+              "end": 32,
+              "expanded_url": "https://x.com/Amia0309/status/2053049964159520790/photo/1",
+              "media_key": "3_2053049302940057600",
+              "start": 9,
+              "url": "https://t.co/MTPdnZmaYs"
+            },
+            {
+              "display_url": "pic.x.com/MTPdnZmaYs",
+              "end": 32,
+              "expanded_url": "https://x.com/Amia0309/status/2053049964159520790/photo/1",
+              "media_key": "3_2053049304898793474",
+              "start": 9,
+              "url": "https://t.co/MTPdnZmaYs"
+            },
+            {
+              "display_url": "pic.x.com/MTPdnZmaYs",
+              "end": 32,
+              "expanded_url": "https://x.com/Amia0309/status/2053049964159520790/photo/1",
+              "media_key": "3_2053049299572006912",
+              "start": 9,
+              "url": "https://t.co/MTPdnZmaYs"
+            },
+            {
+              "display_url": "pic.x.com/MTPdnZmaYs",
+              "end": 32,
+              "expanded_url": "https://x.com/Amia0309/status/2053049964159520790/photo/1",
+              "media_key": "3_2053049306752704513",
+              "start": 9,
+              "url": "https://t.co/MTPdnZmaYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053049964159520790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示神秘小角落中 https://t.co/MTPdnZmaYs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4997,
+          "following_count": 7497,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8899
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T19:12:43.000Z",
+        "description": "✦ 病み垢　ましろ爻🧷曉山瑞希🎀初音ミク🎤 ✦",
+        "id": "1799157515596578816",
+        "location": "地獄",
+        "name": "Arita🧷",
+        "pinned_tweet_id": "2046194642908295286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044684814914289665/mxL_r8xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 314,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 100
+        },
+        "username": "Amia0309",
+        "verified": false
+      }
+    ]
+  }
+}

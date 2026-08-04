@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1973778405800960317",
+    "created_at": "2025-10-02T16:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T17:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973780402679787822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962176856654073856",
+          "start": 0,
+          "username": "LeXin81742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973780402679787822",
+    "in_reply_to_user_id": "1962176856654073856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973778405800960317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeXin81742 (　ﾟ∀ﾟ) ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_1973778388751179776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2RE_K7bYAA6QqT.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1973778405800960317",
+        "created_at": "2025-10-02T16:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T17:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973780402679787822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962176856654073856",
+              "start": 0,
+              "username": "LeXin81742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973780402679787822",
+        "in_reply_to_user_id": "1962176856654073856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973778405800960317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeXin81742 (　ﾟ∀ﾟ) ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973778388751179776"
+          ]
+        },
+        "author_id": "1962176856654073856",
+        "conversation_id": "1973778405800960317",
+        "created_at": "2025-10-02T15:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973778405800960317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BR76aQwFur",
+              "end": 35,
+              "expanded_url": "https://x.com/LeXin81742/status/1973778405800960317/photo/1",
+              "media_key": "3_1973778388751179776",
+              "start": 12,
+              "url": "https://t.co/BR76aQwFur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973778405800960317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是哪位神人做的图🤓❓ https://t.co/BR76aQwFur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 7496,
+          "like_count": 666,
+          "listed_count": 7,
+          "media_count": 490,
+          "tweet_count": 2942
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T15:33:20.000Z",
+        "description": "一世@dddd5260672二世@AvaJessia8823三世@cp4x3cgvpv46655四世@ShiShen3407五世@huluwa113六世@wzqssb1234七世@paola_un63437八世@AvaJessia8823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "dddd5260672"
+              },
+              {
+                "end": 30,
+                "start": 16,
+                "username": "AvaJessia8823"
+              },
+              {
+                "end": 48,
+                "start": 32,
+                "username": "cp4x3cgvpv46655"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "ShiShen3407"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "huluwa113"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "wzqssb1234"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "paola_un63437"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "AvaJessia8823"
+              }
+            ]
+          }
+        },
+        "id": "1962176856654073856",
+        "location": "熊太",
+        "name": "熊太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973675361293762562/a3NhsjjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 68,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 128
+        },
+        "username": "LeXin81742",
+        "verified": false
+      }
+    ]
+  }
+}

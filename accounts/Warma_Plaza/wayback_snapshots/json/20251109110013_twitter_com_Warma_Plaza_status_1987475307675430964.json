@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1987354566250185077",
+    "created_at": "2025-11-09T11:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987475307675430964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1583772353183371265",
+          "start": 0,
+          "username": "mengtunsidaimu"
+        },
+        {
+          "end": 25,
+          "id": "39941478",
+          "start": 16,
+          "username": "zaobaosg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987475307675430964",
+    "in_reply_to_user_id": "1583772353183371265",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987436138605465616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunsidaimu @zaobaosg ╭(°A°`)╮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1987354566250185077",
+        "created_at": "2025-11-09T11:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987475307675430964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1583772353183371265",
+              "start": 0,
+              "username": "mengtunsidaimu"
+            },
+            {
+              "end": 25,
+              "id": "39941478",
+              "start": 16,
+              "username": "zaobaosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987475307675430964",
+        "in_reply_to_user_id": "1583772353183371265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987436138605465616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunsidaimu @zaobaosg ╭(°A°`)╮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583772353183371265",
+        "conversation_id": "1987354566250185077",
+        "created_at": "2025-11-09T08:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987436138605465616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "39941478",
+              "start": 0,
+              "username": "zaobaosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987436138605465616",
+        "in_reply_to_user_id": "39941478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987354566250185077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaobaosg 台湾是一个独立的国家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 7485,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 509,
+          "tweet_count": 3931
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T10:49:07.000Z",
+        "description": "萌豚共青团/台独顽固分子🇹🇼/苟汉奸称号持续持有/粉红兔友请绕行/大範圍貼貼歡迎私信/尽力回fo/炸蛆爱好者/  键政注意 炸蛆注意  🌺涨fo希望🌺                 一部の鳥たちはけっして鳥籠に閉ざされることはできない、その羽に自由の光が輝いている",
+        "id": "1583772353183371265",
+        "location": "IP屬地：中南海",
+        "name": "枫糖🍬喵酱薯条🇺🇦",
+        "pinned_tweet_id": "1709195657653923935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644570092632682496/qOdtEISh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6289,
+          "following_count": 2266,
+          "like_count": 12842,
+          "listed_count": 78,
+          "media_count": 933,
+          "tweet_count": 4164
+        },
+        "username": "mengtunsidaimu",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703342,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 5952,
+          "media_count": 5802,
+          "tweet_count": 164197
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2058736783186420121",
+    "created_at": "2026-05-25T13:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058896076456030444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683440309768708096",
+          "start": 0,
+          "username": "3596675596com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058896076456030444",
+    "in_reply_to_user_id": "1683440309768708096",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058736783186420121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3596675596com •́⁠ ⁠ ⁠‿⁠ ⁠,⁠•̀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058736557922959360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIZ_eUbwAAtFLj.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2058736783186420121",
+        "created_at": "2026-05-25T13:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058896076456030444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683440309768708096",
+              "start": 0,
+              "username": "3596675596com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058896076456030444",
+        "in_reply_to_user_id": "1683440309768708096",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058736783186420121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3596675596com •́⁠ ⁠ ⁠‿⁠ ⁠,⁠•̀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058736557922959360"
+          ]
+        },
+        "author_id": "1683440309768708096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2058736783186420121",
+        "created_at": "2026-05-25T02:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058736783186420121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sRVTOrCP0",
+              "end": 112,
+              "expanded_url": "https://x.com/3596675596com/status/2058736783186420121/photo/1",
+              "media_key": "3_2058736557922959360",
+              "start": 89,
+              "url": "https://t.co/6sRVTOrCP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058736783186420121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 108658,
+          "like_count": 218,
+          "quote_count": 6,
+          "reply_count": 119,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "说一个悲伤的消息\n\n华为正式发布半导体领域新定律——韬（τ）定律😋\n\n这是中国在半导体领域首次提出，能改写全球半导体产业游戏规则的新定律，传统的半导体产业紧紧围绕摩尔定律进行😋 https://t.co/6sRVTOrCP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5039,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9491
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:34:02.000Z",
+        "description": "十分期待，使用伯纳德·劳·蒙哥马利头像与ID的对手出现",
+        "id": "1683440309768708096",
+        "location": "广东",
+        "name": "沙漠之狐 埃尔温·隆美尔",
+        "pinned_tweet_id": "1859643786835657004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004520211014373376/70oJRHXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21022,
+          "following_count": 1092,
+          "like_count": 22528,
+          "listed_count": 167,
+          "media_count": 3549,
+          "tweet_count": 40598
+        },
+        "username": "3596675596com",
+        "verified": true
+      }
+    ]
+  }
+}

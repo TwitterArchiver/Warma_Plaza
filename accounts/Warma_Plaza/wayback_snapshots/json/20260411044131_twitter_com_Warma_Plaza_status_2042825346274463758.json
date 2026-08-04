@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2042394744278364459",
+    "created_at": "2026-04-11T04:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T05:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042825346274463758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952435985347956736",
+          "start": 0,
+          "username": "Zhang_ming_qing"
+        },
+        {
+          "end": 32,
+          "id": "1545801069996883968",
+          "start": 17,
+          "username": "PRA_Redemption"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042825346274463758",
+    "in_reply_to_user_id": "1952435985347956736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042538251978997885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhang_ming_qing @PRA_Redemption (●_●)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2042394744278364459",
+        "created_at": "2026-04-11T04:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042825346274463758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952435985347956736",
+              "start": 0,
+              "username": "Zhang_ming_qing"
+            },
+            {
+              "end": 32,
+              "id": "1545801069996883968",
+              "start": 17,
+              "username": "PRA_Redemption"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042825346274463758",
+        "in_reply_to_user_id": "1952435985347956736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042538251978997885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhang_ming_qing @PRA_Redemption (●_●)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952435985347956736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2042394744278364459",
+        "created_at": "2026-04-10T09:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042538251978997885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545801069996883968",
+              "start": 0,
+              "username": "PRA_Redemption"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042538251978997885",
+        "in_reply_to_user_id": "1545801069996883968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2729,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042394744278364459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRA_Redemption 实在话 我作为自由派希望的并不是习近平下台 而是最高权力能够被监督、被约束。如果开放普选我想我可能还是会投中共的一些技术型官僚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4889,
+          "following_count": 7486,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 562,
+          "tweet_count": 7423
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T18:26:40.000Z",
+        "description": "温和的自由派。对任何事任何人保持相对客观。我的态度取决于你的态度，欢迎友好交流讨论，不主动骂人，但是如果你骂我我会骂的更狠。",
+        "id": "1952435985347956736",
+        "location": "中華民國上海市",
+        "name": "紀小念Official🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030150911650402304/WbUuZXq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 105,
+          "like_count": 8072,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1942
+        },
+        "username": "Zhang_ming_qing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T16:04:37.000Z",
+        "description": "中国人🇨🇳 Anti anti-communism",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://www.naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/tmAN7Xfn4E"
+              }
+            ]
+          }
+        },
+        "id": "1545801069996883968",
+        "name": "PRA⬛️🔺🔻⬛️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740550985125097472/iAfvP5V1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 658,
+          "like_count": 85984,
+          "listed_count": 5,
+          "media_count": 385,
+          "tweet_count": 10893
+        },
+        "url": "https://t.co/tmAN7Xfn4E",
+        "username": "PRA_Redemption",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2047927197898592666",
+    "created_at": "2026-04-25T12:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048014324699165027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048014324699165027",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047927197898592666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo ←⁠_⁠←"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047927190881480704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuy7gJasAAQ31_.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2047927197898592666",
+        "created_at": "2026-04-25T12:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048014324699165027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048014324699165027",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047927197898592666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo ←⁠_⁠←"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047927190881480704"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2047927197898592666",
+        "created_at": "2026-04-25T06:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047927197898592666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mUYEsvB7f",
+              "end": 42,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2047927197898592666/photo/1",
+              "media_key": "3_2047927190881480704",
+              "start": 19,
+              "url": "https://t.co/7mUYEsvB7f"
+            },
+            {
+              "display_url": "x.com/drbitcoin36/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/drbitcoin36/status/2047618286607802695",
+              "start": 43,
+              "url": "https://t.co/YRU4Nwiqg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047927197898592666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 472,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047618286607802695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《带你们刷10分钟YouTube 》 https://t.co/7mUYEsvB7f https://t.co/YRU4Nwiqg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 7492,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 565,
+          "tweet_count": 8294
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "厉害的生命也会露出茫然的神色吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+RddtqB_d9SZjM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+RddtqB_d9SZjMGZl",
+                "start": 0,
+                "url": "https://t.co/yaTxVptmUa"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2046102027537662377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504021785071616/3r_0Vu5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 2269,
+          "like_count": 52661,
+          "listed_count": 6,
+          "media_count": 1916,
+          "tweet_count": 11852
+        },
+        "url": "https://t.co/yaTxVptmUa",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

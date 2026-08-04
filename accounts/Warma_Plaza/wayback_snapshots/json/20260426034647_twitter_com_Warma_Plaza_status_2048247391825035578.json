@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2048173238539505970",
+    "created_at": "2026-04-26T03:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048247391825035578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1996635053972156417",
+          "start": 0,
+          "username": "xijinpingbaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048247391825035578",
+    "in_reply_to_user_id": "1996635053972156417",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048173238539505970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinpingbaby (⁠ ⁠ಠ⁠ ⁠Д⁠ ⁠ಠ⁠ ⁠)⁠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2048173236169625600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyStORaUAAgykr.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2048173238539505970",
+        "created_at": "2026-04-26T03:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048247391825035578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996635053972156417",
+              "start": 0,
+              "username": "xijinpingbaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048247391825035578",
+        "in_reply_to_user_id": "1996635053972156417",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048173238539505970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinpingbaby (⁠ ⁠ಠ⁠ ⁠Д⁠ ⁠ಠ⁠ ⁠)⁠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048173236169625600"
+          ]
+        },
+        "author_id": "1996635053972156417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2048173238539505970",
+        "created_at": "2026-04-25T22:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T23:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048173238539505970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSXsaRdeJ3",
+              "end": 114,
+              "expanded_url": "https://x.com/xijinpingbaby/status/2048173238539505970/photo/1",
+              "media_key": "3_2048173236169625600",
+              "start": 91,
+              "url": "https://t.co/mSXsaRdeJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048173238539505970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同龄人：乳包，膜蛤，江胡，乳腊\n我：手机（华为），vpn（老习），麦子（200斤），心脏（刚在中学现摘的），习近平治国理政，彭丽媛的原味（白带版），柯玲玲的照片\n就很...[捂脸] https://t.co/mSXsaRdeJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4957,
+          "following_count": 7497,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 566,
+          "tweet_count": 8343
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T17:38:47.000Z",
+        "description": "爱毛tv  全x最尊重毛泽东之人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "习近平操你妈.com",
+                "end": 23,
+                "expanded_url": "http://xn--vjq3xy7v35ek6izl1e.com",
+                "start": 0,
+                "url": "https://t.co/tTAUWV49mU"
+              }
+            ]
+          }
+        },
+        "id": "1996635053972156417",
+        "location": "中南海",
+        "name": "夹边沟扛麦之神",
+        "pinned_tweet_id": "2047427148751978912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997657825921966080/mEA3Gh20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 109,
+          "like_count": 4342,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/tTAUWV49mU",
+        "username": "xijinpingbaby",
+        "verified": false
+      }
+    ]
+  }
+}

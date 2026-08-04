@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913461348077596672"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1913267408225378603",
+    "created_at": "2025-04-19T05:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T06:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913461351269216496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OW5Iga4T68",
+          "end": 55,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1913461351269216496/photo/1",
+          "media_key": "3_1913461348077596672",
+          "start": 32,
+          "url": "https://t.co/OW5Iga4T68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913461351269216496",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913267408225378603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 生日快乐~✿✿ヽ(°▽°)ノ✿ https://t.co/OW5Iga4T68"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1913461348077596672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go369Uea8AAJ1Nr.jpg",
+        "width": 1919
+      },
+      {
+        "height": 962,
+        "media_key": "3_1913267402252697600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go1KkL-bQAAMEM-.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913461348077596672"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1913267408225378603",
+        "created_at": "2025-04-19T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913461351269216496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OW5Iga4T68",
+              "end": 55,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1913461351269216496/photo/1",
+              "media_key": "3_1913461348077596672",
+              "start": 32,
+              "url": "https://t.co/OW5Iga4T68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913461351269216496",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913267408225378603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 生日快乐~✿✿ヽ(°▽°)ノ✿ https://t.co/OW5Iga4T68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913267402252697600"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1913267408225378603",
+        "created_at": "2025-04-18T16:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913267408225378603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nLPjwzvT8",
+              "end": 38,
+              "expanded_url": "https://x.com/Rococo90933671/status/1913267408225378603/photo/1",
+              "media_key": "3_1913267402252697600",
+              "start": 15,
+              "url": "https://t.co/2nLPjwzvT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913267408225378603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 919,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有它记得（还有QQ邮箱）😢 https://t.co/2nLPjwzvT8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 7487,
+          "like_count": 574,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1296
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生|母单|足控|渴望爱|语言爱好者|梦想是polyglot|十六年war3玩家|椎名林檎を愛する|本科辍学|回fo看认可度，也可以私信来要|360°友好|不会屏蔽任何人，包括钢姐|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷每种语言各有不公开的小号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4719,
+          "following_count": 2145,
+          "like_count": 24104,
+          "listed_count": 10,
+          "media_count": 2003,
+          "tweet_count": 13657
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

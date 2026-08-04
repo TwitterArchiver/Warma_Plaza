@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2054530340946112646",
+    "created_at": "2026-05-13T12:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054543945779257532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823295689176346624",
+          "start": 0,
+          "username": "letmego6327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054543945779257532",
+    "in_reply_to_user_id": "1823295689176346624",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054530340946112646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@letmego6327 ୧⁠(⁠﹒︠⁠ᴗ⁠﹒︡⁠)⁠୨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2054530297195073536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMoa4CXEAARjTb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2054530293889957888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMoaruXAAAPfBk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2054530340946112646",
+        "created_at": "2026-05-13T12:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054543945779257532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823295689176346624",
+              "start": 0,
+              "username": "letmego6327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054543945779257532",
+        "in_reply_to_user_id": "1823295689176346624",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054530340946112646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@letmego6327 ୧⁠(⁠﹒︠⁠ᴗ⁠﹒︡⁠)⁠୨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054530297195073536",
+            "3_2054530293889957888"
+          ]
+        },
+        "author_id": "1823295689176346624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2054530340946112646",
+        "created_at": "2026-05-13T11:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054530340946112646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "习近平"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "特朗普"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOpdd9guRv",
+              "end": 50,
+              "expanded_url": "https://x.com/letmego6327/status/2054530340946112646/photo/1",
+              "media_key": "3_2054530297195073536",
+              "start": 27,
+              "url": "https://t.co/dOpdd9guRv"
+            },
+            {
+              "display_url": "pic.x.com/dOpdd9guRv",
+              "end": 50,
+              "expanded_url": "https://x.com/letmego6327/status/2054530340946112646/photo/1",
+              "media_key": "3_2054530293889957888",
+              "start": 27,
+              "url": "https://t.co/dOpdd9guRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054530340946112646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 845,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "G2即将会面～\n#习近平 会去机场接 #特朗普 吗？ https://t.co/dOpdd9guRv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4993,
+          "following_count": 7497,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8944
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T09:49:17.000Z",
+        "description": "生活推，日常吃喝～\n解压视频爱好者～\n屡被言论自由，已老实～",
+        "id": "1823295689176346624",
+        "name": "悠悠姐🌸🕊🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037439454684573696/o6IWY9HQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4957,
+          "following_count": 5468,
+          "like_count": 94336,
+          "listed_count": 14,
+          "media_count": 789,
+          "tweet_count": 10222
+        },
+        "username": "letmego6327",
+        "verified": false
+      }
+    ]
+  }
+}

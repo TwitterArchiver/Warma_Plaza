@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984915876840407106",
+    "created_at": "2025-11-02T09:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984917754303193090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "DongMing101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984917754303193090",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984915876840407106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongMing101 _(:3 ⌒ﾞ)_"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1916,
+        "media_key": "3_1984915873837260800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vWeIEaoAA6Kpa.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984915876840407106",
+        "created_at": "2025-11-02T09:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984917754303193090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "DongMing101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984917754303193090",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984915876840407106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongMing101 _(:3 ⌒ﾞ)_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984915873837260800"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984915876840407106",
+        "created_at": "2025-11-02T09:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984915876840407106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4ePxsvebZ",
+              "end": 29,
+              "expanded_url": "https://x.com/DongMing101/status/1984915876840407106/photo/1",
+              "media_key": "3_1984915873837260800",
+              "start": 6,
+              "url": "https://t.co/t4ePxsvebZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984915876840407106",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我香草雪王 https://t.co/t4ePxsvebZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 7481,
+          "like_count": 683,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 3868
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特主义|包蜜|膜蛤|膜胡|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|三无号敢关注我一律block|粉红青鸟和极端支黑吃59式去别来烦我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu75Ih"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼",
+        "pinned_tweet_id": "1984621180251484239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984342729380544519/q4QN81zT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 299,
+          "like_count": 38619,
+          "listed_count": 8,
+          "media_count": 394,
+          "tweet_count": 1364
+        },
+        "url": "https://t.co/APOiQu75Ih",
+        "username": "DongMing101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984493005383090409",
+    "created_at": "2025-11-01T06:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984515602707595443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2215812295",
+          "start": 0,
+          "username": "NikolaTesla2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984515602707595443",
+    "in_reply_to_user_id": "2215812295",
+    "lang": "el",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984493005383090409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikolaTesla2010 ψ(╰д╯)σ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1217,
+        "media_key": "3_1984492998391205888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4pV3iRbkAA9zZx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984493005383090409",
+        "created_at": "2025-11-01T06:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984515602707595443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2215812295",
+              "start": 0,
+              "username": "NikolaTesla2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984515602707595443",
+        "in_reply_to_user_id": "2215812295",
+        "lang": "el",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984493005383090409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikolaTesla2010 ψ(╰д╯)σ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984492998391205888"
+          ]
+        },
+        "author_id": "2215812295",
+        "conversation_id": "1984493005383090409",
+        "created_at": "2025-11-01T05:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984493005383090409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHzoOjYXcN",
+              "end": 41,
+              "expanded_url": "https://x.com/NikolaTesla2010/status/1984493005383090409/photo/1",
+              "media_key": "3_1984492998391205888",
+              "start": 18,
+              "url": "https://t.co/SHzoOjYXcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984493005383090409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沈伯洋被重慶公安捕獲，即將接受審判 https://t.co/SHzoOjYXcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4331,
+          "following_count": 7494,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3804
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-26T14:23:23.000Z",
+        "description": "呈現最真實，沒有濾鏡的寶島，讓世界看見台灣😁",
+        "id": "2215812295",
+        "location": "中國台灣省",
+        "name": "Tesla",
+        "pinned_tweet_id": "1984195273170788547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884785853194776576/U7JbZj26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12480,
+          "following_count": 3383,
+          "like_count": 89777,
+          "listed_count": 50,
+          "media_count": 9755,
+          "tweet_count": 22795
+        },
+        "username": "NikolaTesla2010",
+        "verified": true
+      }
+    ]
+  }
+}

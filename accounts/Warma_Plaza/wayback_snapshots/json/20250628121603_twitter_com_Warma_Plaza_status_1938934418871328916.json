@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938909492755997168",
+    "created_at": "2025-06-28T12:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T13:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938934418871328916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        },
+        {
+          "end": 28,
+          "id": "1874481118944411649",
+          "start": 15,
+          "username": "adrianLauent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938934418871328916",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938929035213459873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 @adrianLauent 你最可爱~(o˚̑̑̑̑̑ 3˚̑̑̑̑̑ o)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_1938929027957276673",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Guh1rZQWQAEdXcg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Guh1rZQWQAEdXcg.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938909492755997168",
+        "created_at": "2025-06-28T12:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T13:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938934418871328916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            },
+            {
+              "end": 28,
+              "id": "1874481118944411649",
+              "start": 15,
+              "username": "adrianLauent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938934418871328916",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938929035213459873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 @adrianLauent 你最可爱~(o˚̑̑̑̑̑ 3˚̑̑̑̑̑ o)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1938929027957276673"
+          ]
+        },
+        "author_id": "1374225903136481284",
+        "conversation_id": "1938909492755997168",
+        "created_at": "2025-06-28T11:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938929035213459873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 26,
+              "id": "1874481118944411649",
+              "start": 13,
+              "username": "adrianLauent"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJ7O1pijbT",
+              "end": 81,
+              "expanded_url": "https://x.com/Whatis7777777/status/1938929035213459873/photo/1",
+              "media_key": "16_1938929027957276673",
+              "start": 58,
+              "url": "https://t.co/ZJ7O1pijbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938929035213459873",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938914239722529023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @adrianLauent 你是我在推上见过的最可爱的，第二可爱就是我本人了，你认为呢？ https://t.co/ZJ7O1pijbT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 7493,
+          "like_count": 628,
+          "listed_count": 4,
+          "media_count": 434,
+          "tweet_count": 1872
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "并没有政治立场，\n如果一定要有，\n那就永远支持真相和人性吧！\nBe true, be brave, be strong… \nI'm proud of being Chinese.\nYouTube频道：https://t.co/JaWOOlxlKG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.ly/yJbtD",
+                "end": 123,
+                "expanded_url": "https://t.ly/yJbtD",
+                "start": 100,
+                "url": "https://t.co/JaWOOlxlKG"
+              }
+            ]
+          }
+        },
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1933710724658049439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914869466762293248/13sKKCwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49855,
+          "following_count": 3490,
+          "like_count": 204225,
+          "listed_count": 173,
+          "media_count": 6690,
+          "tweet_count": 91639
+        },
+        "username": "Whatis7777777",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T15:43:32.000Z",
+        "description": "互fo请私\n柚子厨，不键政，包容各种立场",
+        "id": "1874481118944411649",
+        "name": "Adrian Sol Laurent",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874487403983122432/ozH1SGBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 24,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 332
+        },
+        "username": "adrianLauent",
+        "verified": false
+      }
+    ]
+  }
+}

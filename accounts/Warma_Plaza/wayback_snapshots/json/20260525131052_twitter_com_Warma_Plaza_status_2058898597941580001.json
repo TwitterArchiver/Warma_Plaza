@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2058567003955400824",
+    "created_at": "2026-05-25T13:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058898597941580001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658468118497472514",
+          "start": 0,
+          "username": "muskinpingvirus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058898597941580001",
+    "in_reply_to_user_id": "1658468118497472514",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058567003955400824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muskinpingvirus (⁠˘⁠･⁠_⁠･⁠˘⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1414,
+        "media_key": "3_2058566969813774336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJF_wJYaMAATTj9.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2058567003955400824",
+        "created_at": "2026-05-25T13:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058898597941580001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658468118497472514",
+              "start": 0,
+              "username": "muskinpingvirus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058898597941580001",
+        "in_reply_to_user_id": "1658468118497472514",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058567003955400824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muskinpingvirus (⁠˘⁠･⁠_⁠･⁠˘⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058566969813774336"
+          ]
+        },
+        "author_id": "1658468118497472514",
+        "conversation_id": "2058567003955400824",
+        "created_at": "2026-05-24T15:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058567003955400824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twqgywJvEX",
+              "end": 28,
+              "expanded_url": "https://x.com/muskinpingvirus/status/2058567003955400824/photo/1",
+              "media_key": "3_2058566969813774336",
+              "start": 5,
+              "url": "https://t.co/twqgywJvEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058567003955400824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 1057197,
+          "like_count": 3343,
+          "quote_count": 11,
+          "reply_count": 142,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "好有道理 https://t.co/twqgywJvEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5041,
+          "following_count": 7497,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9497
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T13:43:22.000Z",
+        "description": "😤方滨兴全家什么时候死干净！！！",
+        "id": "1658468118497472514",
+        "name": "凉拌见手青（😭推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039558914417782784/DbyHDvd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 890,
+          "like_count": 9484,
+          "listed_count": 6,
+          "media_count": 1214,
+          "tweet_count": 5938
+        },
+        "username": "muskinpingvirus",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1885251732638491097",
+    "created_at": "2025-01-31T09:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T10:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885253631089533267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1828622924317892611",
+          "start": 0,
+          "username": "EgoFatuus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885253631089533267",
+    "in_reply_to_user_id": "1828622924317892611",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885252701597864158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EgoFatuus ꒰ঌ(˚ᆺ˚)໒꒱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1885251732638491097",
+        "created_at": "2025-01-31T09:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885253631089533267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1828622924317892611",
+              "start": 0,
+              "username": "EgoFatuus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885253631089533267",
+        "in_reply_to_user_id": "1828622924317892611",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885252701597864158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EgoFatuus ꒰ঌ(˚ᆺ˚)໒꒱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828622924317892611",
+        "conversation_id": "1885251732638491097",
+        "created_at": "2025-01-31T09:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885252701597864158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885252701597864158",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885251732638491097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza CA.\n许久没关注配置了，我已经是MAC的奴隶了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 7495,
+          "like_count": 555,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1064
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T02:37:39.000Z",
+        "description": "癲嘅. \n請不要fo我，多謝 | Please do not follow me, thanks | 私をフォローしないでください",
+        "id": "1828622924317892611",
+        "location": "Pluto",
+        "name": "阿巴阿巴",
+        "pinned_tweet_id": "1835342619741917484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866648083511250946/q6_cqx-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 214,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 982
+        },
+        "username": "EgoFatuus",
+        "verified": false
+      }
+    ]
+  }
+}

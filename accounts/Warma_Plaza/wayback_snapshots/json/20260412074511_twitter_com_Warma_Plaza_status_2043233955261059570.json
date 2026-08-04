@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2043231115922825251",
+    "created_at": "2026-04-12T07:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043233955261059570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2779664258",
+          "start": 0,
+          "username": "gavinnizeq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043233955261059570",
+    "in_reply_to_user_id": "2779664258",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043231115922825251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gavinnizeq (≖_≖)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2043231115922825251",
+        "created_at": "2026-04-12T07:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043233955261059570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2779664258",
+              "start": 0,
+              "username": "gavinnizeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043233955261059570",
+        "in_reply_to_user_id": "2779664258",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043231115922825251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gavinnizeq (≖_≖)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2779664258",
+        "conversation_id": "2043231115922825251",
+        "created_at": "2026-04-12T07:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043231115922825251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SydneyDaddy1/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/SydneyDaddy1/status/2043182547702845548",
+              "start": 35,
+              "url": "https://t.co/RXSyXd58pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043231115922825251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043182547702845548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠，还在做梦呢？\n“众人皆醉我独醒”\n“全高速公路上的车都在逆行” https://t.co/RXSyXd58pj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 7495,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 562,
+          "tweet_count": 7770
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-30T01:50:04.000Z",
+        "description": "From the river to the sea, Palestine will be free. 不信仰任何宗教。提高自己的姿势水平。Interested in Middle Eastern history。对中东历史很感兴趣。",
+        "id": "2779664258",
+        "name": "pepe爱因斯坦🇵🇸",
+        "pinned_tweet_id": "1794918399510000037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124796328280649728/s_J_L-1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 1030,
+          "like_count": 154479,
+          "listed_count": 10,
+          "media_count": 528,
+          "tweet_count": 33478
+        },
+        "username": "gavinnizeq",
+        "verified": false
+      }
+    ]
+  }
+}

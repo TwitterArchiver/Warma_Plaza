@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1885211392761831623",
+    "created_at": "2025-01-31T08:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T09:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885243860923846672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1812419719691186176",
+          "start": 0,
+          "username": "qweomy10364583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885243860923846672",
+    "in_reply_to_user_id": "1812419719691186176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885211392761831623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qweomy10364583 没事，揉揉.･ﾟﾟ･(／ω＼)･ﾟﾟ･.\n祝你新年永远都能笑着度过每一天的哦~(●'◡'●)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1885211392761831623",
+        "created_at": "2025-01-31T08:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T09:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885243860923846672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1812419719691186176",
+              "start": 0,
+              "username": "qweomy10364583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885243860923846672",
+        "in_reply_to_user_id": "1812419719691186176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885211392761831623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qweomy10364583 没事，揉揉.･ﾟﾟ･(／ω＼)･ﾟﾟ･.\n祝你新年永远都能笑着度过每一天的哦~(●'◡'●)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812419719691186176",
+        "conversation_id": "1885211392761831623",
+        "created_at": "2025-01-31T06:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T07:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885211392761831623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885211392761831623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又笑又哭有点像疯子的喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3154,
+          "following_count": 7495,
+          "like_count": 554,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1059
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T09:32:04.000Z",
+        "description": "@HotLineMiami888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "HotLineMiami888"
+              }
+            ]
+          }
+        },
+        "id": "1812419719691186176",
+        "location": "新京🇯🇵",
+        "name": "新世纪の雨🇯🇵",
+        "pinned_tweet_id": "1882426473346437268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882229065408565248/OK2M4j6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 660,
+          "like_count": 8557,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 4196
+        },
+        "username": "qweomy10364583",
+        "verified": false
+      }
+    ]
+  }
+}

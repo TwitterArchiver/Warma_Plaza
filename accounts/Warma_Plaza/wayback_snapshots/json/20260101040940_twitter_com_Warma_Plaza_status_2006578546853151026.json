@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2006320747447517357",
+    "created_at": "2026-01-01T04:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T05:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006578546853151026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608781688775245825",
+          "start": 0,
+          "username": "YekaseSuiso2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006578546853151026",
+    "in_reply_to_user_id": "1608781688775245825",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006320747447517357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YekaseSuiso2022 (ᇂ_ᇂ|||)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2006320740656967680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fiFWxbcAA6lN9.jpg",
+        "width": 575
+      },
+      {
+        "height": 507,
+        "media_key": "3_2006320740615012352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fiFWnbQAA8Mdh.jpg",
+        "width": 925
+      },
+      {
+        "height": 376,
+        "media_key": "3_2006320741269258240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fiFZDaQAAruZL.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2006320747447517357",
+        "created_at": "2026-01-01T04:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006578546853151026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608781688775245825",
+              "start": 0,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006578546853151026",
+        "in_reply_to_user_id": "1608781688775245825",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006320747447517357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YekaseSuiso2022 (ᇂ_ᇂ|||)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006320740656967680",
+            "3_2006320740615012352",
+            "3_2006320741269258240"
+          ]
+        },
+        "author_id": "1608781688775245825",
+        "conversation_id": "2006320747447517357",
+        "created_at": "2025-12-31T11:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006320747447517357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "app.js.map",
+              "end": 95,
+              "expanded_url": "http://app.js.map",
+              "start": 72,
+              "unwound_url": "http://app.js.map",
+              "url": "https://t.co/H9dT8eLgSx"
+            },
+            {
+              "display_url": "pic.x.com/b2rNpMhTsq",
+              "end": 183,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006320747447517357/photo/1",
+              "media_key": "3_2006320740656967680",
+              "start": 160,
+              "url": "https://t.co/b2rNpMhTsq"
+            },
+            {
+              "display_url": "pic.x.com/b2rNpMhTsq",
+              "end": 183,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006320747447517357/photo/1",
+              "media_key": "3_2006320740615012352",
+              "start": 160,
+              "url": "https://t.co/b2rNpMhTsq"
+            },
+            {
+              "display_url": "pic.x.com/b2rNpMhTsq",
+              "end": 183,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/2006320747447517357/photo/1",
+              "media_key": "3_2006320741269258240",
+              "start": 160,
+              "url": "https://t.co/b2rNpMhTsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006320747447517357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "app.js.map",
+                "end": 95,
+                "expanded_url": "http://app.js.map",
+                "start": 72,
+                "url": "https://t.co/mRRWwvSngZ"
+              },
+              {
+                "display_url": "t.me/kitsd066",
+                "end": 378,
+                "expanded_url": "http://t.me/kitsd066",
+                "start": 355,
+                "url": "https://t.co/PcYsoEjwF2"
+              }
+            ]
+          },
+          "text": "北京大学\n\n直接访问站点会跳转到统一身份认证，这里直接bp拦截一下，一步一步forward就可以，然后发现前端\n是用webpack打包的直接定位https://t.co/mRRWwvSngZ\n\n提取接口跑一下/zhfw/system/user/getAll，返回了该系统所有用户信息，hae匹配3000多条手机号和邮箱\n\n这里看到有个id号这里跟下面另外一个接口打组合拳\n\n然后把上面返回信息的个人id用/zhfw/system/user/get?id=1结合打一下组合拳，拿下账号密码这里注意直接用该接口发包显示Authorization token为空，这里逻辑缺陷在请求包里面添加\nAuthorization:1字段即可，只要有这个就行，不会验证是否有效\n\n 拿下该系统所有账号密码 3000+\n\nBy:https://t.co/PcYsoEjwF2"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 772,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京大学\n\n直接访问站点会跳转到统一身份认证，这里直接bp拦截一下，一步一步forward就可以，然后发现前端\n是用webpack打包的直接定位https://t.co/H9dT8eLgSx\n\n提取接口跑一下/zhfw/system/user/getAll，返回了该系统所有用户信息，hae匹配3000多条手机号和邮箱 https://t.co/b2rNpMhTsq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615,
+          "following_count": 7487,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5339
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "15岁的前币圈玩家，谁的附庸？\nbitget一生推 | All in crypto | 10年生 | 前币圈韭菜 | 技术分析 | Osint | 2024 A8 ➡️ 2025 -A4 | 丢私钥.爆仓.出局 | 大猫猫 @LolingVerse |done...\n「crypto是无数次的谎话，吊唁着幼稚的信念」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "LolingVerse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/4249547",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/4249547",
+                "start": 0,
+                "url": "https://t.co/MO5uaxlMsd"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "江东 NekoDay",
+        "name": "Yekase Suiso🍨",
+        "pinned_tweet_id": "2006339765633962464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001970485001940992/Psvr8hfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 340,
+          "like_count": 1682,
+          "listed_count": 5,
+          "media_count": 80,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/MO5uaxlMsd",
+        "username": "YekaseSuiso2022",
+        "verified": true
+      }
+    ]
+  }
+}

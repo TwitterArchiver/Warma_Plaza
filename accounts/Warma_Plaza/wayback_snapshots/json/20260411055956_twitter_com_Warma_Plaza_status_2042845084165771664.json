@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2042255951106076921",
+    "created_at": "2026-04-11T05:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042845084165771664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033844837787795456",
+          "start": 0,
+          "username": "Switzerland1815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042845084165771664",
+    "in_reply_to_user_id": "2033844837787795456",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042255951106076921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Switzerland1815 (￢_￢)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2042255951106076921",
+        "created_at": "2026-04-11T05:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042845084165771664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033844837787795456",
+              "start": 0,
+              "username": "Switzerland1815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042845084165771664",
+        "in_reply_to_user_id": "2033844837787795456",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042255951106076921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Switzerland1815 (￢_￢)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033844837787795456",
+        "conversation_id": "2042255951106076921",
+        "created_at": "2026-04-09T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042255951106076921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042255951106076921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 35961,
+          "like_count": 586,
+          "quote_count": 1,
+          "reply_count": 70,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "玛德笑飞了，写“全民运动会”为标题没过审，给我的敏感词是“民运”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4890,
+          "following_count": 7492,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 562,
+          "tweet_count": 7443
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T09:56:22.000Z",
+        "description": "yaha~",
+        "id": "2033844837787795456",
+        "location": "Istanbul",
+        "name": "Swiss",
+        "pinned_tweet_id": "2034207813816521086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033936881138995206/kcdc9QS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 340,
+          "like_count": 1647,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 388
+        },
+        "username": "Switzerland1815",
+        "verified": false
+      }
+    ]
+  }
+}

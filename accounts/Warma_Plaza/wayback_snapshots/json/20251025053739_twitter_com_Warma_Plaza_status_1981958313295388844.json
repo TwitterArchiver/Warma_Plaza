@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981913492337594492",
+    "created_at": "2025-10-25T05:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981958313295388844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1586955045450416129",
+          "start": 0,
+          "username": "WesterAOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981958313295388844",
+    "in_reply_to_user_id": "1586955045450416129",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981913492337594492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WesterAOC _(´ཀ`」 ∠)_"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94166,
+        "height": 1920,
+        "media_key": "13_1981912841608101888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981912841608101888/img/DCny7BhkntZmXbUm.jpg",
+        "public_metrics": {
+          "view_count": 6144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981912841608101888/vid/avc1/480x872/WuloIaJuCrBtvqkZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981912841608101888/pl/DsCPt9YGisHPIrNc.m3u8?v=910"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981912841608101888/vid/avc1/320x580/AeG_cOJwn1qHIno0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981912841608101888/vid/avc1/1056x1920/YZ5FdijLnsfkzG0i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981912841608101888/vid/avc1/720x1308/UJlEUQg7M31k_z46.mp4"
+          }
+        ],
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981913492337594492",
+        "created_at": "2025-10-25T05:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981958313295388844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1586955045450416129",
+              "start": 0,
+              "username": "WesterAOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981958313295388844",
+        "in_reply_to_user_id": "1586955045450416129",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981913492337594492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WesterAOC _(´ཀ`」 ∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981912841608101888"
+          ]
+        },
+        "author_id": "1586955045450416129",
+        "conversation_id": "1981913492337594492",
+        "created_at": "2025-10-25T02:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981913492337594492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZQwhrwoOY",
+              "end": 141,
+              "expanded_url": "https://x.com/WesterAOC/status/1981913492337594492/video/1",
+              "media_key": "13_1981912841608101888",
+              "start": 118,
+              "url": "https://t.co/qZQwhrwoOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981913492337594492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2015年，我第一次登上去往加拿大的飞机，望着逐渐变小的陆地，我下定决心：\n此去西洋，深知中国自强之计，舍此无所他求。\n背负国家之未来，取尽洋人之科学。\n赴万里长途，别祖国父母之邦，奋然无悔。\n就如无数的晚清留学生一样，我爱这个国家。\n但我爱的不是这个欺压人民的政权，而是这片土地和人民，我希望他们过上平等，自由，富裕的生活。\n因此，这件事哪怕是我摔得粉碎，即使失败了，我也不惧怕。\n因为我知道我们国家曾经有一个光明的未来，也值得有一个光明的未来，也必将获得一个光明的未来。\n驱逐共产党，中国不会亡！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 10817,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "2015年，我第一次登上去往加拿大的飞机，望着逐渐变小的陆地，我下定决心：\n此去西洋，深知中国自强之计，舍此无所他求。\n背负国家之未来，取尽洋人之科学。\n赴万里长途，别祖国父母之邦，奋然无悔。\n就如无数的晚清留学生一样，我爱这个国家。 https://t.co/qZQwhrwoOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 7494,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 504,
+          "tweet_count": 3633
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T05:36:01.000Z",
+        "description": "务实的民主工作者。Justitia Omnibus",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "assemblyofcitizens.org",
+                "end": 23,
+                "expanded_url": "https://assemblyofcitizens.org",
+                "start": 0,
+                "url": "https://t.co/AwR3SakgFb"
+              }
+            ]
+          }
+        },
+        "id": "1586955045450416129",
+        "location": "转型正义纪念馆, 北京",
+        "name": "杨若晖 Ruohui Yang🤓",
+        "pinned_tweet_id": "1798123206311625007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899515483021336576/AeUgc84G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23559,
+          "following_count": 562,
+          "like_count": 552,
+          "listed_count": 93,
+          "media_count": 626,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/AwR3SakgFb",
+        "username": "WesterAOC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2062875292650344896",
+    "created_at": "2026-06-05T12:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062875485558931919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1971611276339195904",
+          "start": 0,
+          "username": "chigine0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062875485558931919",
+    "in_reply_to_user_id": "1971611276339195904",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062875292650344896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chigine0 ಠ⁠﹏⁠ಠ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062875292650344896].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062875292650344896",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062875292650344896"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2062875292650344896",
+        "created_at": "2026-06-05T12:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062875485558931919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1971611276339195904",
+              "start": 0,
+              "username": "chigine0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062875485558931919",
+        "in_reply_to_user_id": "1971611276339195904",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062875292650344896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chigine0 ಠ⁠﹏⁠ಠ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 7497,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 10277
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T16:22:22.000Z",
+        "description": "永锁号 负面情绪很多",
+        "id": "1971611276339195904",
+        "name": "Chigine0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971611381935009792/8yVooR8A_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 157,
+          "like_count": 7240,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 618
+        },
+        "username": "chigine0",
+        "verified": false
+      }
+    ]
+  }
+}

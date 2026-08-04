@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2062816148945846648",
+    "created_at": "2026-06-05T12:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062871199542329509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035401558217924608",
+          "start": 0,
+          "username": "karaichik01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062871199542329509",
+    "in_reply_to_user_id": "2035401558217924608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062817262353138047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karaichik01 ⊂⁠(⁠・⁠﹏⁠・⁠⊂⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2062816148945846648",
+        "created_at": "2026-06-05T12:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062871199542329509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035401558217924608",
+              "start": 0,
+              "username": "karaichik01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062871199542329509",
+        "in_reply_to_user_id": "2035401558217924608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062817262353138047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karaichik01 ⊂⁠(⁠・⁠﹏⁠・⁠⊂⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035401558217924608",
+        "conversation_id": "2062816148945846648",
+        "created_at": "2026-06-05T08:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062817262353138047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062817262353138047",
+        "in_reply_to_user_id": "2035401558217924608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062816866301825112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换句话说 信道仅仅是指物理层面的信道 使用VPN进行国际联网也是通过国家合规的海底光缆等信道进行的联网 只是在这层面上进行了加密而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5147,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 10275
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T17:02:11.000Z",
+        "description": "中国人🇨🇳 2008年 马克思主义、平权主义者 反对民族主义、分离主义 支持国家统一 女拳绿蛙殖畜支黑反共勿扰 支持中日友好🇨🇳🇯🇵 喜欢将棋、ACG 崩铁玩家 喜欢的乐队ヨルシカ 遇到没脑子没素质的直接开骂",
+        "id": "2035401558217924608",
+        "name": "karaichik🇨🇳🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035401759334785024/JLlOIr3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 63,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 979
+        },
+        "username": "karaichik01",
+        "verified": false
+      }
+    ]
+  }
+}

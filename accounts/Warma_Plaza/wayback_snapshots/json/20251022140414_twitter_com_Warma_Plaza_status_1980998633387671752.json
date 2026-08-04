@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1980984277664981182",
+    "created_at": "2025-10-22T14:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T15:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980998633387671752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961784394206883840",
+          "start": 0,
+          "username": "iavialllll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980998633387671752",
+    "in_reply_to_user_id": "1961784394206883840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980984277664981182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iavialllll ＼(^▽^＠)ノ \n好玩~"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7128,
+        "height": 960,
+        "media_key": "7_1980984249021796353",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980984249021796353/pu/img/__8AXj_SQiDDRKuR.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980984249021796353/pu/vid/avc1/320x426/sgu7bQ80olYYuy1g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980984249021796353/pu/vid/avc1/480x640/znKTcOTB_oiC8Zih.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980984249021796353/pu/vid/avc1/720x960/3j8CWk1WQVh_Trsk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980984249021796353/pu/pl/Z3t3GFgJOIXAYVOp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1980984277664981182",
+        "created_at": "2025-10-22T14:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980998633387671752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961784394206883840",
+              "start": 0,
+              "username": "iavialllll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980998633387671752",
+        "in_reply_to_user_id": "1961784394206883840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980984277664981182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iavialllll ＼(^▽^＠)ノ \n好玩~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980984249021796353"
+          ]
+        },
+        "author_id": "1961784394206883840",
+        "conversation_id": "1980984277664981182",
+        "created_at": "2025-10-22T13:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980984277664981182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bhf3tTVAxR",
+              "end": 41,
+              "expanded_url": "https://x.com/iavialllll/status/1980984277664981182/video/1",
+              "media_key": "7_1980984249021796353",
+              "start": 18,
+              "url": "https://t.co/Bhf3tTVAxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980984277664981182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（当你获得了一块干冰....）ww https://t.co/Bhf3tTVAxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4309,
+          "following_count": 7491,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 3478
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T13:33:58.000Z",
+        "description": "（🍥）（空白空白空白）（空白是不知道的意思）",
+        "id": "1961784394206883840",
+        "name": "lai_viii 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973384280245149697/_IjXeE17_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 98,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 76
+        },
+        "username": "iavialllll",
+        "verified": false
+      }
+    ]
+  }
+}

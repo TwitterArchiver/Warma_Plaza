@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002046272857940045",
+    "created_at": "2025-12-20T11:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002343133926035908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1597435105",
+          "start": 0,
+          "username": "CNS1952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002343133926035908",
+    "in_reply_to_user_id": "1597435105",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002046272857940045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNS1952 ಠ_ಠ..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7035,
+        "height": 1920,
+        "media_key": "13_2001959514065731585",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001959514065731585/img/4erLDEguAnbd-OrO.jpg",
+        "public_metrics": {
+          "view_count": 6829
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001959514065731585/vid/avc1/1080x1920/tfcYUczYLJdG6ni6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001959514065731585/pl/zZp7wURoVx4NwEwj.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001959514065731585/vid/avc1/720x1280/v0CdEmHNWA26ufWO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001959514065731585/vid/avc1/480x852/c3K59Ni7p0_3uon0.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001959514065731585/vid/avc1/320x568/1Xiwac1z4_ErEHgD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002046272857940045",
+        "created_at": "2025-12-20T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002343133926035908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1597435105",
+              "start": 0,
+              "username": "CNS1952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002343133926035908",
+        "in_reply_to_user_id": "1597435105",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002046272857940045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNS1952 ಠ_ಠ..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001959514065731585"
+          ]
+        },
+        "author_id": "1597435105",
+        "conversation_id": "2002046272857940045",
+        "created_at": "2025-12-19T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002046272857940045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdhMXkWFeH",
+              "end": 60,
+              "expanded_url": "https://x.com/CNS1952/status/2002046272857940045/video/1",
+              "media_key": "13_2001959514065731585",
+              "start": 37,
+              "url": "https://t.co/bdhMXkWFeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002046272857940045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19885,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 123,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "外交部再次回應美對台軍售：無論向台灣賣多少先進武器，都阻擋不了中國統一。 https://t.co/bdhMXkWFeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4534,
+          "following_count": 7492,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 5082
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-16T03:27:55.000Z",
+        "description": "China News Service, 中國新聞社，簡稱“中新社”，是中國以對外報導為主要新聞業務的國家通訊社，是以台港澳同胞、海外華僑華人和與之有聯繫的外國人為主要服務對象的國際性通訊社。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinanews.com",
+                "end": 23,
+                "expanded_url": "http://www.chinanews.com/",
+                "start": 0,
+                "url": "https://t.co/B9Hdd4zrLo"
+              }
+            ]
+          }
+        },
+        "id": "1597435105",
+        "name": "中國新聞社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622436993878872065/_xuLdaod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540022,
+          "following_count": 564,
+          "like_count": 199,
+          "listed_count": 1130,
+          "media_count": 107975,
+          "tweet_count": 112233
+        },
+        "url": "https://t.co/B9Hdd4zrLo",
+        "username": "CNS1952",
+        "verified": true
+      }
+    ]
+  }
+}

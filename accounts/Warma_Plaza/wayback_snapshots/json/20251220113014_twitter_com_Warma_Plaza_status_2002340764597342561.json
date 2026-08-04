@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002221558920515720",
+    "created_at": "2025-12-20T11:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002340764597342561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "868887840230330368",
+          "start": 0,
+          "username": "momoGZ0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002340764597342561",
+    "in_reply_to_user_id": "868887840230330368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002221558920515720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoGZ0412 (￣＂￣;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29238,
+        "height": 1664,
+        "media_key": "13_2002221268469239808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002221268469239808/img/ROX2rvo1bPsYEDVs.jpg",
+        "public_metrics": {
+          "view_count": 38402
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002221268469239808/vid/avc1/720x1348/OrC801AtUyjacymE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002221268469239808/vid/avc1/888x1664/LWYR_HCWuthh0eXN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002221268469239808/vid/avc1/480x898/4csIRRtxe7V9YWfh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002221268469239808/pl/fKkfDvUkua1txRzG.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002221268469239808/vid/avc1/320x598/YEwTpwYw52AOkXcD.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002221558920515720",
+        "created_at": "2025-12-20T11:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002340764597342561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "868887840230330368",
+              "start": 0,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002340764597342561",
+        "in_reply_to_user_id": "868887840230330368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002221558920515720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoGZ0412 (￣＂￣;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002221268469239808"
+          ]
+        },
+        "author_id": "868887840230330368",
+        "conversation_id": "2002221558920515720",
+        "created_at": "2025-12-20T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002221558920515720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyfsKsHr5G",
+              "end": 101,
+              "expanded_url": "https://x.com/momoGZ0412/status/2002221558920515720/video/1",
+              "media_key": "13_2002221268469239808",
+              "start": 78,
+              "url": "https://t.co/GyfsKsHr5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002221558920515720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 64044,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "官媒报道国家公祭日山东淄博在街头举旗嘶吼一个小时全身湿透。评论区2.8万条评论几乎是一边倒，纷纷表示一定要把大叔安排一辆献血车，不能浪费了大叔的一腔热血😂 https://t.co/GyfsKsHr5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4534,
+          "following_count": 7491,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 5073
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。",
+        "id": "868887840230330368",
+        "location": "Paris, France",
+        "name": "默默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996847012906717184/fVYoKJaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54171,
+          "following_count": 3638,
+          "like_count": 133275,
+          "listed_count": 167,
+          "media_count": 6279,
+          "tweet_count": 16327
+        },
+        "username": "momoGZ0412",
+        "verified": true
+      }
+    ]
+  }
+}

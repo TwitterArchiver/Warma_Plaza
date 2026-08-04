@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1878137514638422244",
+    "created_at": "2025-01-12T01:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T02:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878258445838843931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1864998352045379587",
+          "start": 0,
+          "username": "Yuenlong711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878258445838843931",
+    "in_reply_to_user_id": "1864998352045379587",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878256956680581389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuenlong711 ❤ (ɔˆз(ˆ⌣ˆc)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1878256956680581389].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1878256956680581389",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1878256956680581389"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1878137514638422244",
+        "created_at": "2025-01-12T01:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T02:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878258445838843931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1864998352045379587",
+              "start": 0,
+              "username": "Yuenlong711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878258445838843931",
+        "in_reply_to_user_id": "1864998352045379587",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878256956680581389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuenlong711 ❤ (ɔˆз(ˆ⌣ˆc)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3059,
+          "following_count": 7495,
+          "like_count": 553,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 968
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T11:40:41.000Z",
+        "description": "早晨！快啲來飲茶！",
+        "id": "1864998352045379587",
+        "location": "榮記士多",
+        "name": "榮記凍檸茶「元朗M記邊舖」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865019499180888068/0-VK8YLN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 216,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Yuenlong711",
+        "verified": false
+      }
+    ]
+  }
+}

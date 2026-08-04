@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1995791800255361221",
+    "created_at": "2025-12-02T12:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995830970784907753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992467730176565248",
+          "start": 0,
+          "username": "sugarofAzathoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995830970784907753",
+    "in_reply_to_user_id": "1992467730176565248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995830870981398835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugarofAzathoth （尺v尺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1995791800255361221",
+        "created_at": "2025-12-02T12:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995830970784907753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992467730176565248",
+              "start": 0,
+              "username": "sugarofAzathoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995830970784907753",
+        "in_reply_to_user_id": "1992467730176565248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995830870981398835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugarofAzathoth （尺v尺）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992467730176565248",
+        "conversation_id": "1995791800255361221",
+        "created_at": "2025-12-02T12:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995830870981398835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995830870981398835",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995830440348021106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 晚安喵(u‿ฺu✿)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 7495,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 4653
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T05:38:41.000Z",
+        "description": "Nuclear Chaos,Sultan Demon",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com.sg",
+                "end": 23,
+                "expanded_url": "http://google.com.sg",
+                "start": 0,
+                "url": "https://t.co/8kpCY84ADm"
+              }
+            ]
+          }
+        },
+        "id": "1992467730176565248",
+        "location": "R’lyeh",
+        "name": "Su azatos🚩🇪🇺⚖️{E486}",
+        "pinned_tweet_id": "1992493873533460648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995792331476512769/z7xi0rhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 211,
+          "like_count": 2110,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/8kpCY84ADm",
+        "username": "sugarofAzathoth",
+        "verified": false
+      }
+    ]
+  }
+}

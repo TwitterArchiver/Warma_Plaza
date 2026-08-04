@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2062331437777605108",
+    "created_at": "2026-06-05T14:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062904338142671249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893244390493093888",
+          "start": 0,
+          "username": "warma152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062904338142671249",
+    "in_reply_to_user_id": "1893244390493093888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062903928598192424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma152 ヘ⁠（⁠。⁠□⁠°⁠）⁠ヘ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2062331437777605108",
+        "created_at": "2026-06-05T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062904338142671249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893244390493093888",
+              "start": 0,
+              "username": "warma152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062904338142671249",
+        "in_reply_to_user_id": "1893244390493093888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062903928598192424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma152 ヘ⁠（⁠。⁠□⁠°⁠）⁠ヘ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893244390493093888",
+        "conversation_id": "2062331437777605108",
+        "created_at": "2026-06-05T14:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062903928598192424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 29,
+              "id": "1390536213254197250",
+              "start": 13,
+              "username": "0K7n9Nviz82KC9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903928598192424",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062797841995837564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @0K7n9Nviz82KC9r …"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5150,
+          "following_count": 7498,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 10281
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T10:20:32.000Z",
+        "description": "",
+        "id": "1893244390493093888",
+        "name": "马斯克的大手",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 111,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 80
+        },
+        "username": "warma152",
+        "verified": false
+      }
+    ]
+  }
+}

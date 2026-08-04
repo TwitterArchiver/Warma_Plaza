@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1998731638763643022",
+    "created_at": "2025-12-11T10:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999058284662452565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1527847554825723905",
+          "start": 0,
+          "username": "WLoliyeyeye"
+        },
+        {
+          "end": 22,
+          "id": "1294616815880945664",
+          "start": 13,
+          "username": "30parupu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999058284662452565",
+    "in_reply_to_user_id": "1527847554825723905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998821558429823010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WLoliyeyeye @30parupu へ(;´Д｀へ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1998731638763643022",
+        "created_at": "2025-12-11T10:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999058284662452565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527847554825723905",
+              "start": 0,
+              "username": "WLoliyeyeye"
+            },
+            {
+              "end": 22,
+              "id": "1294616815880945664",
+              "start": 13,
+              "username": "30parupu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999058284662452565",
+        "in_reply_to_user_id": "1527847554825723905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998821558429823010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WLoliyeyeye @30parupu へ(;´Д｀へ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527847554825723905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1998731638763643022",
+        "created_at": "2025-12-10T18:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998821558429823010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1294616815880945664",
+              "start": 0,
+              "username": "30parupu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998821558429823010",
+        "in_reply_to_user_id": "1294616815880945664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 993,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998731638763643022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@30parupu 习近平谈个人崇拜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 7475,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 4878
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T03:03:49.000Z",
+        "description": "自由引导人民      台湾不是中共政府的",
+        "id": "1527847554825723905",
+        "name": "Ctrl + Alt + →",
+        "pinned_tweet_id": "1989573266953179553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971163884779417600/u0nbCeQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 851,
+          "like_count": 5746,
+          "listed_count": 22,
+          "media_count": 337,
+          "tweet_count": 1578
+        },
+        "username": "WLoliyeyeye",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T12:48:03.000Z",
+        "description": "37歳。🇯🇵普通の日本人。東京生まれ、多摩地域在住✨🐸東京都立府中西高等学校卒業→ローソン深夜バイト→倉庫（京浜港）→郵便（10年）→スーパーの夜間配送・センターの倉庫作業。障碍者手帳持ってます😰💦バカなのに中国語勉強してます🍬🍬🍬趣味はギャルゲーとスロット。『完全無課金』",
+        "id": "1294616815880945664",
+        "location": "東京",
+        "name": "梅虎🌸中国語勉強中🇯🇵🇨🇳✨",
+        "pinned_tweet_id": "1867303675548643632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555838082099732480/eW5fr9ec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17966,
+          "following_count": 2525,
+          "like_count": 45340,
+          "listed_count": 61,
+          "media_count": 2157,
+          "tweet_count": 13400
+        },
+        "username": "30parupu",
+        "verified": false
+      }
+    ]
+  }
+}

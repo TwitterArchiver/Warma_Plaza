@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1973032810261913905",
+    "created_at": "2025-10-07T08:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T09:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975476572523274277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        },
+        {
+          "end": 25,
+          "id": "1970434295455195136",
+          "start": 10,
+          "username": "TheNan19930731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975476572523274277",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975475853732815019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne @TheNan19930731 _(:з」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1973032810261913905",
+        "created_at": "2025-10-07T08:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975476572523274277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            },
+            {
+              "end": 25,
+              "id": "1970434295455195136",
+              "start": 10,
+              "username": "TheNan19930731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975476572523274277",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975475853732815019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne @TheNan19930731 _(:з」∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "1973032810261913905",
+        "created_at": "2025-10-07T08:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975475853732815019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 28,
+              "id": "1970434295455195136",
+              "start": 13,
+              "username": "TheNan19930731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975475853732815019",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973032810261913905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @TheNan19930731 ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4275,
+          "following_count": 7491,
+          "like_count": 667,
+          "listed_count": 7,
+          "media_count": 492,
+          "tweet_count": 3092
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "Knowledge is кии to the universe｜全沾逝大学牲 ¡Mucho gusto! 混沌泛左🌹 Ⓐ｜pansexual｜數碼愛好者｜漢語 母語吴、普/English OK｜願此行 終抵群星 键政转移中…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quasarne",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quasarne",
+                "start": 0,
+                "url": "https://t.co/c4o2H5hvsf"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "name": "Αστήρない（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953879721227563010/e8i5i7Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 791,
+          "like_count": 56283,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 6361
+        },
+        "url": "https://t.co/c4o2H5hvsf",
+        "username": "quasarne",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T10:25:38.000Z",
+        "description": "听说X上有很多罕见，过来观摩一下。",
+        "id": "1970434295455195136",
+        "location": "Hong Kong",
+        "name": "唐浩然（真理与正义🇨🇳 Truth and justice）",
+        "pinned_tweet_id": "1973043141692526659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970434481896202241/Q7vjym8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 18,
+          "like_count": 84,
+          "listed_count": 10,
+          "media_count": 15,
+          "tweet_count": 500
+        },
+        "username": "TheNan19930731",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1992399676168118550",
+    "created_at": "2025-11-23T01:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992399951951954419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830493173099208704",
+          "start": 0,
+          "username": "LeeWilliam99928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992399951951954419",
+    "in_reply_to_user_id": "1830493173099208704",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992399676168118550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeWilliam99928 dT-Tb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1992399676168118550",
+        "created_at": "2025-11-23T01:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992399951951954419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830493173099208704",
+              "start": 0,
+              "username": "LeeWilliam99928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992399951951954419",
+        "in_reply_to_user_id": "1830493173099208704",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992399676168118550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeWilliam99928 dT-Tb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830493173099208704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027503255",
+              "name": "HTC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027503255",
+              "name": "HTC"
+            }
+          }
+        ],
+        "conversation_id": "1992399676168118550",
+        "created_at": "2025-11-23T01:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992399676168118550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chromeedgeonio…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/Chromeedgeonion/status/1991932827898937683",
+              "start": 154,
+              "url": "https://t.co/Oz1Bd8W1ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992399676168118550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991932827898937683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这句话你被殖人，支黑台蛙带节奏了\n如果马斯客生在日本台湾，你看会不会有meta出现\n黄仁勋如果一直在台湾可能nvdia都不会出现\n台湾人把htc都作死了\n但是大陆诞生了微博，摩尔线程，兆芯，龙芯，deepseek\n你看台湾和日本有什么新的独角兽？\n再怎么说大陆也是仅次于美国，小日子和台蛙弯就真的有体质问题 https://t.co/Oz1Bd8W1ko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 7494,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 514,
+          "tweet_count": 4285
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T06:29:47.000Z",
+        "description": "中间派思想偏左，战略偏右，追求理性，追求自由。社会科学/文史哲/时政/经济学。",
+        "id": "1830493173099208704",
+        "name": "劍南道🏯黎州🏞理塘縣🏚理塘節度使🚩艾蓮·山魚·翁Eileen Mntfish Ong",
+        "pinned_tweet_id": "1988599782139658624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976879788964061184/RKF7lV0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 2568,
+          "like_count": 4406,
+          "listed_count": 5,
+          "media_count": 1165,
+          "tweet_count": 8943
+        },
+        "username": "LeeWilliam99928",
+        "verified": false
+      }
+    ]
+  }
+}

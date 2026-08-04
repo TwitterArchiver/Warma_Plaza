@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1979959438003126472",
+    "created_at": "2025-10-21T10:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T11:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980589675585892453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768509535441022976",
+          "start": 0,
+          "username": "aokitetsu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980589675585892453",
+    "in_reply_to_user_id": "1768509535441022976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979959438003126472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aokitetsu111 (❀｣╹□╹)｣*･"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_1979959416884457473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3o6mXEWcAEGcdV.jpg",
+        "width": 1441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1979959438003126472",
+        "created_at": "2025-10-21T10:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980589675585892453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768509535441022976",
+              "start": 0,
+              "username": "aokitetsu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980589675585892453",
+        "in_reply_to_user_id": "1768509535441022976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979959438003126472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aokitetsu111 (❀｣╹□╹)｣*･"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979959416884457473"
+          ]
+        },
+        "author_id": "1768509535441022976",
+        "conversation_id": "1979959438003126472",
+        "created_at": "2025-10-19T17:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T18:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979959438003126472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BgwNk5NnC",
+              "end": 52,
+              "expanded_url": "https://x.com/aokitetsu111/status/1979959438003126472/photo/1",
+              "media_key": "3_1979959416884457473",
+              "start": 29,
+              "url": "https://t.co/4BgwNk5NnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979959438003126472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢妹宝…还送了我好多小礼物，她给我的糖好甜，好喜欢… https://t.co/4BgwNk5NnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4313,
+          "following_count": 7492,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 3458
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T05:28:34.000Z",
+        "description": "原号爆了@AOKITETSUKO111 第二系统@SazukiYui 彻子2.0/欢迎互fo~不喜欢请屏蔽我但请不要举报谢谢🥺 ☞https://t.co/Mj9s4qD5kj☜欢迎匿名留言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "AOKITETSUKO111"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "SazukiYui"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aokitetsu111",
+                "end": 88,
+                "expanded_url": "https://ngl.link/aokitetsu111",
+                "start": 65,
+                "url": "https://t.co/Mj9s4qD5kj"
+              }
+            ]
+          }
+        },
+        "id": "1768509535441022976",
+        "location": "Hell",
+        "name": "てつこちゃん",
+        "pinned_tweet_id": "1866648143737352674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977499801509081088/O04_kf3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 311,
+          "like_count": 15005,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 2503
+        },
+        "username": "aokitetsu111",
+        "verified": false
+      }
+    ]
+  }
+}

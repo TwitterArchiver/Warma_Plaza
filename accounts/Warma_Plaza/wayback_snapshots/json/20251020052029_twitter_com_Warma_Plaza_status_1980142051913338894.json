@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1935699198168694837",
+    "created_at": "2025-10-20T05:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T06:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980142051913338894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1898750871300870144",
+          "start": 0,
+          "username": "RK4kFwqIPU18068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980142051913338894",
+    "in_reply_to_user_id": "1898750871300870144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974548585107829021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RK4kFwqIPU18068 Σ(ﾟ∀ﾟﾉ)ﾉ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1935699198168694837",
+        "created_at": "2025-10-20T05:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980142051913338894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1898750871300870144",
+              "start": 0,
+              "username": "RK4kFwqIPU18068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980142051913338894",
+        "in_reply_to_user_id": "1898750871300870144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974548585107829021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RK4kFwqIPU18068 Σ(ﾟ∀ﾟﾉ)ﾉ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898750871300870144",
+        "conversation_id": "1935699198168694837",
+        "created_at": "2025-10-04T18:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T19:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974548585107829021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974548585107829021",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935699198168694837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 wdnmd（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 7493,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 3391
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T15:01:50.000Z",
+        "description": "",
+        "id": "1898750871300870144",
+        "name": "似雨若离",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898751085269135361/aXbAdY5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 110
+        },
+        "username": "RK4kFwqIPU18068",
+        "verified": false
+      }
+    ]
+  }
+}

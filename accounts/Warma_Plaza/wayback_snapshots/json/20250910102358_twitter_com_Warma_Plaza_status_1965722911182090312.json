@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1965716155894825425",
+    "created_at": "2025-09-10T10:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T11:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965722911182090312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962151232778162176",
+          "start": 0,
+          "username": "tuozhiexpert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965722911182090312",
+    "in_reply_to_user_id": "1962151232778162176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965721162299887953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuozhiexpert (。•́︿•̀。)......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1965716155894825425",
+        "created_at": "2025-09-10T10:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T11:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965722911182090312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962151232778162176",
+              "start": 0,
+              "username": "tuozhiexpert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965722911182090312",
+        "in_reply_to_user_id": "1962151232778162176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965721162299887953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuozhiexpert (。•́︿•̀。)......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962151232778162176",
+        "conversation_id": "1965716155894825425",
+        "created_at": "2025-09-10T10:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T11:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965721162299887953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640674561980260354",
+              "start": 0,
+              "username": "NmsleseResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965721162299887953",
+        "in_reply_to_user_id": "1640674561980260354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965716155894825425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NmsleseResearch 有毛病吗？\n这尼玛不是你们这群乐色殖物开盒磊哥和刘战神的时候了对吧\n一群自恨孽➗😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4142,
+          "following_count": 7493,
+          "like_count": 663,
+          "listed_count": 8,
+          "media_count": 483,
+          "tweet_count": 2643
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T13:52:00.000Z",
+        "description": "长崎广岛是找不到百年老店的",
+        "id": "1962151232778162176",
+        "name": "脱殖专家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962153544493969408/C82XCKW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 50,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 193
+        },
+        "username": "tuozhiexpert",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928089553501630464"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1927396663624077445",
+    "created_at": "2025-05-29T14:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928089556085014826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888171111692804096",
+          "start": 0,
+          "username": "miljch36685"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/swKOOef2gG",
+          "end": 48,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1928089556085014826/photo/1",
+          "media_key": "3_1928089553501630464",
+          "start": 25,
+          "url": "https://t.co/swKOOef2gG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928089556085014826",
+    "in_reply_to_user_id": "1888171111692804096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927396663624077445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miljch36685 鸭子：U ´꓃ ` U https://t.co/swKOOef2gG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 82,
+        "media_key": "3_1928089553501630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHzO8ObMAAd5H7.jpg",
+        "width": 117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928089553501630464"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1927396663624077445",
+        "created_at": "2025-05-29T14:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T15:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928089556085014826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888171111692804096",
+              "start": 0,
+              "username": "miljch36685"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/swKOOef2gG",
+              "end": 48,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1928089556085014826/photo/1",
+              "media_key": "3_1928089553501630464",
+              "start": 25,
+              "url": "https://t.co/swKOOef2gG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928089556085014826",
+        "in_reply_to_user_id": "1888171111692804096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927396663624077445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miljch36685 鸭子：U ´꓃ ` U https://t.co/swKOOef2gG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888171111692804096",
+        "conversation_id": "1927396663624077445",
+        "created_at": "2025-05-27T16:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T17:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927396663624077445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927396663624077445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1481,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想聊天..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3538,
+          "following_count": 7489,
+          "like_count": 587,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 1473
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T10:21:05.000Z",
+        "description": "私信一定会回的！/秒回（）entp/是男孩子 别问了问就是在猛猛🦌/喜欢看动漫打各种游戏😉可以来找我一起玩☺",
+        "id": "1888171111692804096",
+        "location": "金拱门",
+        "name": "麦乐鸡翅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924262108243365888/gp-EctmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 475,
+          "like_count": 4438,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1091
+        },
+        "username": "miljch36685",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990508542642827748",
+    "created_at": "2025-11-18T10:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990736723957920175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1472467198727933958",
+          "start": 0,
+          "username": "Hue2583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990736723957920175",
+    "in_reply_to_user_id": "1472467198727933958",
+    "lang": "vi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990508542642827748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hue2583 ღ(๑╯︶╰๑ღ)\nmua~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990508535839666180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-095kbMAQePfX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990508542642827748",
+        "created_at": "2025-11-18T10:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990736723957920175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1472467198727933958",
+              "start": 0,
+              "username": "Hue2583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990736723957920175",
+        "in_reply_to_user_id": "1472467198727933958",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990508542642827748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hue2583 ღ(๑╯︶╰๑ღ)\nmua~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990508535839666180"
+          ]
+        },
+        "author_id": "1472467198727933958",
+        "conversation_id": "1990508542642827748",
+        "created_at": "2025-11-17T19:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T20:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990508542642827748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RR5lWyw08B",
+              "end": 27,
+              "expanded_url": "https://x.com/Hue2583/status/1990508542642827748/photo/1",
+              "media_key": "3_1990508535839666180",
+              "start": 4,
+              "url": "https://t.co/RR5lWyw08B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990508542642827748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一堆猫 https://t.co/RR5lWyw08B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4375,
+          "following_count": 7492,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4058
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T07:22:04.000Z",
+        "description": "推止于推",
+        "id": "1472467198727933958",
+        "location": "在你身边～",
+        "name": "Hue🔜PCD",
+        "pinned_tweet_id": "1974364023564218840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975768407044988931/Hoep9rQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5532,
+          "following_count": 1590,
+          "like_count": 74475,
+          "listed_count": 6,
+          "media_count": 1226,
+          "tweet_count": 9275
+        },
+        "username": "Hue2583",
+        "verified": false
+      }
+    ]
+  }
+}

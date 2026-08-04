@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1957073388926578962",
+    "created_at": "2025-08-17T13:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T14:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957075421104689603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761775667430191104",
+          "start": 0,
+          "username": "FallenF58682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957075421104689603",
+    "in_reply_to_user_id": "1761775667430191104",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957073388926578962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FallenF58682 IDK (°_°)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1957073388926578962",
+        "created_at": "2025-08-17T13:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957075421104689603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761775667430191104",
+              "start": 0,
+              "username": "FallenF58682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957075421104689603",
+        "in_reply_to_user_id": "1761775667430191104",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957073388926578962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FallenF58682 IDK (°_°)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761775667430191104",
+        "conversation_id": "1957073388926578962",
+        "created_at": "2025-08-17T13:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957073388926578962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957073388926578962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疑问：推上和人贴贴抱抱发早中晚安，本质是使对方瞬间获得“自己似乎不孤独了”的错觉，或说属一种瞬间但短暂的交流快感，这会使得对方为持续得这快感而病态地寻求互动，增加抑郁症风险吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4075,
+          "following_count": 7493,
+          "like_count": 662,
+          "listed_count": 5,
+          "media_count": 473,
+          "tweet_count": 2429
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:30:35.000Z",
+        "description": "欢迎光临残夜的小窝🌸(´つヮ⊂︎) 可以叫我小夜/夜酱 愿你天天开心！| 🇹🇼🇺🇸 | vocaloid🎵 | BrawlStars⭐ |",
+        "id": "1761775667430191104",
+        "location": "四通桥",
+        "name": "残夜🍇",
+        "pinned_tweet_id": "1809851934087737504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776160737943252992/jkyJSbq9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 382,
+          "like_count": 3156,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1197
+        },
+        "username": "FallenF58682",
+        "verified": false
+      }
+    ]
+  }
+}

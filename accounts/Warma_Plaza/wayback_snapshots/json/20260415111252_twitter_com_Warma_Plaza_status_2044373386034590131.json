@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2043849035954696465",
+    "created_at": "2026-04-15T11:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044373386034590131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1818415944064286722",
+          "start": 0,
+          "username": "e5ogv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044373386034590131",
+    "in_reply_to_user_id": "1818415944064286722",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043849035954696465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e5ogv ( •̥́ ˍ •̀ू )"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 145667,
+        "height": 1080,
+        "media_key": "13_2043848321534701573",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043848321534701573/img/ziQA_h9xErlN7gF_.jpg",
+        "public_metrics": {
+          "view_count": 140050
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043848321534701573/vid/avc1/360x270/9736WZjMCRRe7fZE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043848321534701573/vid/avc1/1440x1080/t8SE0lYjgLj3OqcC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043848321534701573/vid/avc1/480x360/-vMSfPibI9q9ribX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043848321534701573/pl/GgZKHl15lSjSNZMU.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043848321534701573/vid/avc1/960x720/IwTT8nS3dXGtqn9G.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2043849035954696465",
+        "created_at": "2026-04-15T11:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044373386034590131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1818415944064286722",
+              "start": 0,
+              "username": "e5ogv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044373386034590131",
+        "in_reply_to_user_id": "1818415944064286722",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043849035954696465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e5ogv ( •̥́ ˍ •̀ू )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043848321534701573"
+          ]
+        },
+        "author_id": "1818415944064286722",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2043849035954696465",
+        "created_at": "2026-04-14T00:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043849035954696465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuyiJC9qFZ",
+              "end": 49,
+              "expanded_url": "https://x.com/e5ogv/status/2043849035954696465/video/1",
+              "media_key": "13_2043848321534701573",
+              "start": 26,
+              "url": "https://t.co/WuyiJC9qFZ"
+            },
+            {
+              "display_url": "x.com/e5ogv/status/2…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/e5ogv/status/2043183480381878323",
+              "start": 50,
+              "url": "https://t.co/JlcZZPq6Xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043849035954696465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 427,
+          "impression_count": 87835,
+          "like_count": 761,
+          "quote_count": 8,
+          "reply_count": 71,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043183480381878323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时长2分26秒，虽然上传很慢，但是每一秒都是精髓👍 https://t.co/WuyiJC9qFZ https://t.co/JlcZZPq6Xe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4924,
+          "following_count": 7494,
+          "like_count": 668,
+          "listed_count": 8,
+          "media_count": 563,
+          "tweet_count": 7899
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T22:38:53.000Z",
+        "description": "👩‍💻｜普通银行职员｜不擦边｜不涉黄｜不暧昧｜特斯拉/BTC长期持有者｜25岁的老姑娘|分享热点话题｜Model Y车主｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/GYQ1shXeL6"
+              }
+            ]
+          }
+        },
+        "id": "1818415944064286722",
+        "location": "日本大阪",
+        "name": "你的慧姐儿💕",
+        "pinned_tweet_id": "2042630428130185243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020307326440513536/IxB4_Gdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 2779,
+          "like_count": 2569,
+          "listed_count": 7,
+          "media_count": 789,
+          "tweet_count": 9965
+        },
+        "url": "https://t.co/GYQ1shXeL6",
+        "username": "e5ogv",
+        "verified": true
+      }
+    ]
+  }
+}

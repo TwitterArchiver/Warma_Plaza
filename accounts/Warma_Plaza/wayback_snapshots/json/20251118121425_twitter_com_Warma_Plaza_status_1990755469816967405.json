@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990645491160560111",
+    "created_at": "2025-11-18T12:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T13:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990755469816967405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1542527718197121024",
+          "start": 0,
+          "username": "axing060226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990755469816967405",
+    "in_reply_to_user_id": "1542527718197121024",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990645491160560111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axing060226 (ง •̀_•́)ง\n......"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19713,
+        "height": 1280,
+        "media_key": "7_1990645456054132736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990645456054132736/pu/img/jwb845HuY7DxWiBW.jpg",
+        "public_metrics": {
+          "view_count": 69
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990645456054132736/pu/vid/avc1/320x568/SKuJRtvXtJawYsdm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990645456054132736/pu/vid/avc1/480x852/s0O2GnZLxt_VK7jx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990645456054132736/pu/vid/avc1/720x1280/aCgRwyK4lNa4d8mg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990645456054132736/pu/pl/Sjhi0BXER_x70-wE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990645491160560111",
+        "created_at": "2025-11-18T12:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T13:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990755469816967405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1542527718197121024",
+              "start": 0,
+              "username": "axing060226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990755469816967405",
+        "in_reply_to_user_id": "1542527718197121024",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990645491160560111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axing060226 (ง •̀_•́)ง\n......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990645456054132736"
+          ]
+        },
+        "author_id": "1542527718197121024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1990645491160560111",
+        "created_at": "2025-11-18T04:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990645491160560111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JUngEtmNT",
+              "end": 46,
+              "expanded_url": "https://x.com/axing060226/status/1990645491160560111/video/1",
+              "media_key": "7_1990645456054132736",
+              "start": 23,
+              "url": "https://t.co/5JUngEtmNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990645491160560111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习近平做“人民勤务员”来湖南湘西村民家中看望 https://t.co/5JUngEtmNT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4377,
+          "following_count": 7488,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4090
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T15:17:33.000Z",
+        "description": "上联：公鸡攻击公鸡 下联：近平禁评近平",
+        "id": "1542527718197121024",
+        "name": "清水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970917223398318080/PTU-JTSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 91,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 187
+        },
+        "username": "axing060226",
+        "verified": false
+      }
+    ]
+  }
+}

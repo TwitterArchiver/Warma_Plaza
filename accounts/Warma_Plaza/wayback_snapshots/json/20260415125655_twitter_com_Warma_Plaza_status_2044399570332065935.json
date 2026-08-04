@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2043964388609273860",
+    "created_at": "2026-04-15T12:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044399570332065935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968187553695272960",
+          "start": 0,
+          "username": "EzraRan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044399570332065935",
+    "in_reply_to_user_id": "1968187553695272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043964388609273860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EzraRan_ ＿ﾉ乙(､ﾝ､)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2043964388609273860",
+        "created_at": "2026-04-15T12:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044399570332065935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968187553695272960",
+              "start": 0,
+              "username": "EzraRan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044399570332065935",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043964388609273860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EzraRan_ ＿ﾉ乙(､ﾝ､)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968187553695272960",
+        "conversation_id": "2043964388609273860",
+        "created_at": "2026-04-14T08:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043964388609273860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bbcchinese/status/2043910930619109523",
+              "start": 14,
+              "url": "https://t.co/UbamAcgJui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043964388609273860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 126912,
+          "like_count": 789,
+          "quote_count": 3,
+          "reply_count": 44,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043910930619109523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叮咚鸡叮咚鸡大狗大狗叫叫叫 https://t.co/UbamAcgJui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4927,
+          "following_count": 7493,
+          "like_count": 668,
+          "listed_count": 8,
+          "media_count": 563,
+          "tweet_count": 7905
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "Become who you are.\n社會自由。レン エジュラ\n「我希望我的生活與選擇，能夠由我本身來決定，而不取決於任何外界的力量。我希望成為我自己的意志，而不是別人意志的工具；希望成為主體，而不是他人行為的對象；我希望我的行為出於我自己的理性、有意識之目的，而不是出於外來的原因。」\n–以賽亞•柏林《兩種自由概念》",
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 2290,
+          "like_count": 30991,
+          "listed_count": 6,
+          "media_count": 1291,
+          "tweet_count": 9756
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981585190616281332",
+    "created_at": "2025-10-25T06:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T07:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981975238692032812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981975238692032812",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981585190616281332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 ｡ﾟ(ﾟ´Д｀)ﾟ｡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48667,
+        "height": 1280,
+        "media_key": "13_1981409055093432320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981409055093432320/img/7SXRH5X7vaEP5ygm.jpg",
+        "public_metrics": {
+          "view_count": 844
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981409055093432320/vid/avc1/320x568/HOsfyHBCsQgbN2B0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981409055093432320/vid/avc1/480x852/mYiWmbGKFsQYFJFU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981409055093432320/vid/avc1/720x1280/U3IlCN3qc3y5hOVB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981409055093432320/pl/UA1umvP3WWYyYH5j.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981585190616281332",
+        "created_at": "2025-10-25T06:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981975238692032812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981975238692032812",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981585190616281332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 ｡ﾟ(ﾟ´Д｀)ﾟ｡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981409055093432320"
+          ]
+        },
+        "author_id": "1164467672819499008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981585190616281332",
+        "created_at": "2025-10-24T04:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T05:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981585190616281332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkA8xGceeu",
+              "end": 35,
+              "expanded_url": "https://x.com/whitelate0001/status/1981585190616281332/video/1",
+              "media_key": "13_1981409055093432320",
+              "start": 12,
+              "url": "https://t.co/HkA8xGceeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981585190616281332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1825,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "經典回顧之小日子真可恥 https://t.co/HkA8xGceeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 7491,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 505,
+          "tweet_count": 3663
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "台灣中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/泛藍/左翼/科學主義的支持者 | Glory to China | \n\n我想漲粉謝謝，全力衝刺目標：1000 followers🙏🙏  |\n\n別跟我聊台灣政治台灣政治就跟一坨💩一樣 |\n\n民主退步黨下台👎",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 612,
+          "like_count": 6216,
+          "listed_count": 5,
+          "media_count": 665,
+          "tweet_count": 7132
+        },
+        "username": "whitelate0001",
+        "verified": false
+      }
+    ]
+  }
+}

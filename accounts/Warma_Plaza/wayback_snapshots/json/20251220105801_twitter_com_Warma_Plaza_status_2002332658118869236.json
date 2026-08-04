@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2001993164727394554",
+    "created_at": "2025-12-20T10:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T11:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002332658118869236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998791279350874112",
+          "start": 0,
+          "username": "murderxijinping"
+        },
+        {
+          "end": 27,
+          "id": "1997946138083926016",
+          "start": 17,
+          "username": "MND_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002332658118869236",
+    "in_reply_to_user_id": "1998791279350874112",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002324827466768574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@murderxijinping @MND_China ( ⊙ o ⊙ )？\n┌(。Д。)┐..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2001993164727394554",
+        "created_at": "2025-12-20T10:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002332658118869236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998791279350874112",
+              "start": 0,
+              "username": "murderxijinping"
+            },
+            {
+              "end": 27,
+              "id": "1997946138083926016",
+              "start": 17,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002332658118869236",
+        "in_reply_to_user_id": "1998791279350874112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002324827466768574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murderxijinping @MND_China ( ⊙ o ⊙ )？\n┌(。Д。)┐..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2001993164727394554",
+        "created_at": "2025-12-20T10:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002324827466768574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1997946138083926016",
+              "start": 0,
+              "username": "MND_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002324827466768574",
+        "in_reply_to_user_id": "1997946138083926016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001993164727394554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MND_China 我在上海徐汇区反对中共习近平\n我雅思9分托福120，JLPT N1，洋大人来解放中国，我免费给你们带路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4534,
+          "following_count": 7497,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 5042
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "09女/坐标上海徐汇/校园暴力受害者/抑郁/休学/舍曲林重度依赖/IELTS 9/TOEFL 120/JLPT N1/SAT1600/天灭中共/毛腊肉邓矮子江蛤蟆胡面瘫习猪头/光复香港时代革命/谴责中共8964天安门暴行/台湾是独立国家/尖閣諸島は日本の固有領土/安倍晋三元首相ありがとうございます😭",
+        "id": "1998791279350874112",
+        "name": "唯ちゃんがうっとうしい Boycott Tesla Vehicles",
+        "pinned_tweet_id": "1998800911834194316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998794079006765066/v--3dLFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 181,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 726
+        },
+        "username": "murderxijinping",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T08:27:55.000Z",
+        "description": "Follow us to know about China's national defense in the new era.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eng.mod.gov.cn",
+                "end": 23,
+                "expanded_url": "http://eng.mod.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/CWpY8zE0AC"
+              }
+            ]
+          }
+        },
+        "id": "1997946138083926016",
+        "location": "Beijing, China",
+        "name": "Ministry of National Defense of China",
+        "pinned_tweet_id": "2002233471717290214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997946300550217728/w3JcRFTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356538,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 154,
+          "media_count": 24,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/CWpY8zE0AC",
+        "username": "MND_China",
+        "verified": true
+      }
+    ]
+  }
+}

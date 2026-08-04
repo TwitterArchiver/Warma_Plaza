@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2063829412735484239",
+    "created_at": "2026-06-08T03:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063830919644143809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "243435026",
+          "start": 0,
+          "username": "china_TCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063830919644143809",
+    "in_reply_to_user_id": "243435026",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063829412735484239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@china_TCL Ó⁠╭⁠╮⁠Ò"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2063829412735484239",
+        "created_at": "2026-06-08T03:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063830919644143809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "243435026",
+              "start": 0,
+              "username": "china_TCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063830919644143809",
+        "in_reply_to_user_id": "243435026",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063829412735484239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china_TCL Ó⁠╭⁠╮⁠Ò"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "243435026",
+        "conversation_id": "2063829412735484239",
+        "created_at": "2026-06-08T03:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063829412735484239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LoveMikuBX/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/LoveMikuBX/status/2063705480216928550",
+              "start": 16,
+              "url": "https://t.co/H24fkc4CtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063829412735484239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063705480216928550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一位自以为别人被洗脑的小朋友： https://t.co/H24fkc4CtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5208,
+          "following_count": 7497,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 10424
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-27T01:23:04.000Z",
+        "description": "wanna talk？",
+        "id": "243435026",
+        "name": "Peter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/421805957069283328/B0clZJLp_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 273,
+          "like_count": 12095,
+          "listed_count": 7,
+          "media_count": 339,
+          "tweet_count": 3439
+        },
+        "username": "china_TCL",
+        "verified": false
+      }
+    ]
+  }
+}

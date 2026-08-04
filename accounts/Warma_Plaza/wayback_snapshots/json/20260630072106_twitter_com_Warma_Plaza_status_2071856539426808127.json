@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2071596215498649894",
+    "created_at": "2026-06-30T07:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071856539426808127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737377062636363776",
+          "start": 0,
+          "username": "kMuDmZvzWJ77310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071856539426808127",
+    "in_reply_to_user_id": "1737377062636363776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071596215498649894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kMuDmZvzWJ77310 (´･_･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071596209845014528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_Jxu3bkAATJnU.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2071596215498649894",
+        "created_at": "2026-06-30T07:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071856539426808127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737377062636363776",
+              "start": 0,
+              "username": "kMuDmZvzWJ77310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071856539426808127",
+        "in_reply_to_user_id": "1737377062636363776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071596215498649894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kMuDmZvzWJ77310 (´･_･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071596209845014528"
+          ]
+        },
+        "author_id": "1737377062636363776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2071596215498649894",
+        "created_at": "2026-06-29T14:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071596215498649894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tDLRroGrw",
+              "end": 59,
+              "expanded_url": "https://x.com/kMuDmZvzWJ77310/status/2071596215498649894/photo/1",
+              "media_key": "3_2071596209845014528",
+              "start": 36,
+              "url": "https://t.co/6tDLRroGrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071596215498649894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9067,
+          "like_count": 117,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我就说中推圈都是习近平后援团，一聊到习1秒之内赶到战场，小红点猛猛的长 https://t.co/6tDLRroGrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 10718
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T07:39:27.000Z",
+        "description": "政治立场：建制左，思想：传统左派，马列毛主义，民主社会主义倾向，不推塔，改造改良塔，香港人🇭🇰，简繁中文都可以，喜欢中国近代史，月丑，喜欢persona系列，脑子可能有点不太正常",
+        "id": "1737377062636363776",
+        "location": "中华苏维埃社会主义共和国香港特别行政区",
+        "name": "剑劍劎剣",
+        "pinned_tweet_id": "2059947302790549696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070425941386670080/Wm-PhRh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 3389,
+          "like_count": 6019,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 998
+        },
+        "url": "",
+        "username": "kMuDmZvzWJ77310",
+        "verified": false
+      }
+    ]
+  }
+}

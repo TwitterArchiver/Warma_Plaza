@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984352948764508318",
+    "created_at": "2025-11-01T06:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984505258937376901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie_"
+        },
+        {
+          "end": 22,
+          "id": "1830958225422008320",
+          "start": 11,
+          "username": "castlegbqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984505258937376901",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984468894321619125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TReverie_ @castlegbqr ໒( ❛╮❛)७"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984352948764508318",
+        "created_at": "2025-11-01T06:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984505258937376901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            },
+            {
+              "end": 22,
+              "id": "1830958225422008320",
+              "start": 11,
+              "username": "castlegbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984505258937376901",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984468894321619125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ @castlegbqr ໒( ❛╮❛)७"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975500696427581440",
+        "conversation_id": "1984352948764508318",
+        "created_at": "2025-11-01T03:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984468894321619125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830958225422008320",
+              "start": 0,
+              "username": "castlegbqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984468894321619125",
+        "in_reply_to_user_id": "1830958225422008320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984352948764508318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@castlegbqr 最好发射支那人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 7490,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3775
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "包蜜😋 | 情绪超级不稳，喜欢三天两头切换状态",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983871529747415040/Dgq3JgDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 240,
+          "like_count": 3083,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1048
+        },
+        "username": "TReverie_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T13:17:46.000Z",
+        "description": "大家好，我的名字是高堡奇人，支持土地私有，探究如何减少人口密度，住上大house，欢迎与我洽谈🤓",
+        "id": "1830958225422008320",
+        "location": "太平洋合众国",
+        "name": "高堡奇人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983404040831766528/kYC0IEa0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 365,
+          "like_count": 9745,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 1488
+        },
+        "username": "castlegbqr",
+        "verified": true
+      }
+    ]
+  }
+}

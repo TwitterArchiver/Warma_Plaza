@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1948320594186924304",
+    "created_at": "2025-07-24T11:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T12:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948341145181786361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605914794510274560",
+          "start": 0,
+          "username": "IwasHubeib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948341145181786361",
+    "in_reply_to_user_id": "1605914794510274560",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948320594186924304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IwasHubeib (๑•̌.•̑๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1948320594186924304",
+        "created_at": "2025-07-24T11:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948341145181786361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605914794510274560",
+              "start": 0,
+              "username": "IwasHubeib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948341145181786361",
+        "in_reply_to_user_id": "1605914794510274560",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948320594186924304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IwasHubeib (๑•̌.•̑๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605914794510274560",
+        "conversation_id": "1948320594186924304",
+        "created_at": "2025-07-24T09:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948320594186924304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948320594186924304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天流量怎么这么差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3795,
+          "following_count": 7489,
+          "like_count": 647,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 2155
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T13:15:10.000Z",
+        "description": "通灵术大师/炼金术专家/永动机发明者/黑社会/卢卡申科主义者/朝鲜人民军驻湖北天门办事处/坚决拥护中国共产党和改革开放/打倒四人帮。最好的姐姐@Anastasia195113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 71,
+                "username": "Anastasia195113"
+              }
+            ]
+          }
+        },
+        "id": "1605914794510274560",
+        "location": "Nõukogude Liit",
+        "name": "金正恩之父于谦老师谈治国理政🇧🇾🇰🇵🇷🇺",
+        "pinned_tweet_id": "1947596879212003761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947990078904467456/iftCDjzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 603,
+          "like_count": 21470,
+          "listed_count": 7,
+          "media_count": 629,
+          "tweet_count": 17257
+        },
+        "username": "IwasHubeib",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2081068360478122444",
+    "created_at": "2026-07-26T06:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081262423231869379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1530688815181856768",
+          "start": 0,
+          "username": "luo88761462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081262423231869379",
+    "in_reply_to_user_id": "1530688815181856768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081068360478122444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo88761462 (⁠ŏ⁠﹏⁠ŏ⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2081068346242740224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFwoosbsAAKJtm.jpg",
+        "width": 718
+      },
+      {
+        "height": 798,
+        "media_key": "3_2081068354429992960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFwpHMbQAApnso.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2081068360478122444",
+        "created_at": "2026-07-26T06:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081262423231869379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1530688815181856768",
+              "start": 0,
+              "username": "luo88761462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081262423231869379",
+        "in_reply_to_user_id": "1530688815181856768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081068360478122444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo88761462 (⁠ŏ⁠﹏⁠ŏ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081068346242740224",
+            "3_2081068354429992960"
+          ]
+        },
+        "author_id": "1530688815181856768",
+        "conversation_id": "2081068360478122444",
+        "created_at": "2026-07-25T17:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:21:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081067318936043875",
+          "2081068360478122444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbTQP6pS4L",
+              "end": 159,
+              "expanded_url": "https://x.com/luo88761462/status/2081068360478122444/photo/1",
+              "media_key": "3_2081068346242740224",
+              "start": 136,
+              "url": "https://t.co/kbTQP6pS4L"
+            },
+            {
+              "display_url": "pic.x.com/kbTQP6pS4L",
+              "end": 159,
+              "expanded_url": "https://x.com/luo88761462/status/2081068360478122444/photo/1",
+              "media_key": "3_2081068354429992960",
+              "start": 136,
+              "url": "https://t.co/kbTQP6pS4L"
+            },
+            {
+              "display_url": "x.com/tgqmao1/status…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/tgqmao1/status/2080612590145929343",
+              "start": 160,
+              "url": "https://t.co/GlBXBvQ4sr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081068360478122444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1763,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080612590145929343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果用支那猪搁那瞎搞，本身就是毛主席持续批判的民族虚无、自我矮化。\n嘴上宣称拥护毛泽东，行动却抛弃民族立场，与伟人理念背道而驰。\n你倘若选择当支黑，连基本底线都守不住，还把反毛贼挂在嘴边。\n显而易见，“弹钢琴”算不上毛左，只是混迹群众之中的坏人，这种人才是最大的反毛贼。 https://t.co/kbTQP6pS4L https://t.co/GlBXBvQ4sr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5399,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 11731
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:13:57.000Z",
+        "description": "我是爱猫人士😘\n同时也是“爱”猫人士🥵🥰\n\n————————————我是反日的中国人，但只是那种反对日本帝国主义军国主义、侵略行径以及煽动种族歧视仇恨😡\n我不是那种逢日必反，我支持中日友好🇨🇳🇯🇵\n不会因为历史原因而无端辱骂讨厌全日本民众，当然可以不聊政治，可以和我聊游戏聊动漫，也能和平相处做朋友🥰",
+        "id": "1530688815181856768",
+        "location": "广东仁",
+        "name": "popo cat",
+        "pinned_tweet_id": "1952651217416663070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632888848626638848/xDTqOIQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 596,
+          "like_count": 11138,
+          "listed_count": 21,
+          "media_count": 1731,
+          "tweet_count": 9900
+        },
+        "url": "",
+        "username": "luo88761462",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2080898720837894152",
+    "created_at": "2026-07-25T12:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080996872349720914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "remiria_jp89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080996872349720914",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080898720837894152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remiria_jp89 (⁠ ⁠≧⁠Д⁠≦⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2080898708363988992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODWWaWa0AAdK02.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2080898720837894152",
+        "created_at": "2026-07-25T12:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080996872349720914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "remiria_jp89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080996872349720914",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080898720837894152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remiria_jp89 (⁠ ⁠≧⁠Д⁠≦⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080898708363988992"
+          ]
+        },
+        "author_id": "1920869622670393344",
+        "conversation_id": "2080898720837894152",
+        "created_at": "2026-07-25T06:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080898720837894152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6LrCQoG3Q",
+              "end": 29,
+              "expanded_url": "https://x.com/remiria_jp89/status/2080898720837894152/photo/1",
+              "media_key": "3_2080898708363988992",
+              "start": 6,
+              "url": "https://t.co/B6LrCQoG3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080898720837894152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 880,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国完蛋了 https://t.co/B6LrCQoG3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 11599
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "I look to heaven to fulfill its prophecy set me free\n -Michael Jackson-They Don't Care About Us\n逃生舱@naxidada_\n无立场全部中立| 梗图每日分享 |｜蓝勾、浪蛆互fo｜友好讨论不好的留言会删\nIP属地：河南省驻马店",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "naxidada_"
+              }
+            ]
+          }
+        },
+        "id": "1920869622670393344",
+        "location": "驻马店冲浪里",
+        "name": "小野寺薄瓜瓜_オノデラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068513298073464832/wfEQdkrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1052,
+          "like_count": 9228,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "remiria_jp89",
+        "verified": true
+      }
+    ]
+  }
+}

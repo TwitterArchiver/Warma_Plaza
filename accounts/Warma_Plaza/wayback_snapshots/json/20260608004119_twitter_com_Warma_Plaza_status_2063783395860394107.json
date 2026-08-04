@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2063766705730433486",
+    "created_at": "2026-06-08T00:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063783395860394107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1527783774293229568",
+          "start": 0,
+          "username": "maide89699220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063783395860394107",
+    "in_reply_to_user_id": "1527783774293229568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063766705730433486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maide89699220 (⁠°⁠ ⁠۝ ⁠°⁠)⁠！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56500,
+        "height": 940,
+        "media_key": "13_2063598987681370112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063598987681370112/img/NAB4eOFzggv7Oxo4.jpg",
+        "public_metrics": {
+          "view_count": 76
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063598987681370112/vid/avc1/320x416/cJQjhW0h1uDFEGxf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063598987681370112/vid/avc1/480x626/d3vsSrIZPAij_DG1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063598987681370112/vid/avc1/720x940/gwNHZxSa9Agumk1C.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063598987681370112/pl/zduSKD_OzhEuZQo0.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2063766705730433486",
+        "created_at": "2026-06-08T00:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063783395860394107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1527783774293229568",
+              "start": 0,
+              "username": "maide89699220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063783395860394107",
+        "in_reply_to_user_id": "1527783774293229568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063766705730433486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maide89699220 (⁠°⁠ ⁠۝ ⁠°⁠)⁠！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063598987681370112"
+          ]
+        },
+        "author_id": "1527783774293229568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063766705730433486",
+        "created_at": "2026-06-07T23:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063766705730433486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOa3eaZqwx",
+              "end": 63,
+              "expanded_url": "https://x.com/maide89699220/status/2063766705730433486/video/1",
+              "media_key": "13_2063598987681370112",
+              "start": 40,
+              "url": "https://t.co/yOa3eaZqwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063766705730433486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 170,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国最特别的高铁！天天发车却从不待客，有钱也不能坐，但时速却比一般高铁快得多。 https://t.co/yOa3eaZqwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 10396
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T22:50:36.000Z",
+        "description": "科技佬，网络砖家，打油的路人，时代风云旁观者。欢迎互FO！",
+        "id": "1527783774293229568",
+        "name": "高飞",
+        "pinned_tweet_id": "2063041929990799376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527883913875824643/lYi6Wq73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24937,
+          "following_count": 13133,
+          "like_count": 206920,
+          "listed_count": 137,
+          "media_count": 3861,
+          "tweet_count": 20359
+        },
+        "username": "maide89699220",
+        "verified": false
+      }
+    ]
+  }
+}

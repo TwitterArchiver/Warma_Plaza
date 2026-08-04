@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1992394201791942897",
+    "created_at": "2025-11-23T04:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992445337408270373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903061664137912320",
+          "start": 0,
+          "username": "blackna1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992445337408270373",
+    "in_reply_to_user_id": "1903061664137912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992430108821631469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackna1201 不过还是抱抱啦(*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1992394201791942897",
+        "created_at": "2025-11-23T04:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992445337408270373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "blackna1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992445337408270373",
+        "in_reply_to_user_id": "1903061664137912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992430108821631469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackna1201 不过还是抱抱啦(*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903061664137912320",
+        "conversation_id": "1992394201791942897",
+        "created_at": "2025-11-23T03:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992430108821631469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992430108821631469",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992394201791942897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 上海已经好久没有看到雪了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 7495,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 514,
+          "tweet_count": 4297
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T12:32:02.000Z",
+        "description": "我是一位上海理工大学附属中学的学生 男的\n喜欢音游（phigros osu malody等等） 赛车（f1 gt3之类的）骑车（一窍不通 骑着上下学玩）羽毛球（不是很会打）国际象棋（回坑 致力于回到60准度）等事物\n永远喜欢伊蕾娜 \n喜欢平常简单的事物 也喜欢干一些疯狂的事情\n只是一个梦想落空的笨蛋罢了",
+        "id": "1903061664137912320",
+        "location": "和平国洛贝塔",
+        "name": "blackna1201",
+        "pinned_tweet_id": "1958470668862759213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904515651596873728/Glc0mx6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 336,
+          "like_count": 5331,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 2950
+        },
+        "username": "blackna1201",
+        "verified": false
+      }
+    ]
+  }
+}

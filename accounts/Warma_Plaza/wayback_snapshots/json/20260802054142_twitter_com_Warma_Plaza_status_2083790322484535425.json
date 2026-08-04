@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2083767682030244171",
+    "created_at": "2026-08-02T05:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083790322484535425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929964027960233984",
+          "start": 0,
+          "username": "HXD3D_8028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083790322484535425",
+    "in_reply_to_user_id": "1929964027960233984",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083767682030244171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@HXD3D_8028 ( ‘-ωก̀ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2083767682030244171",
+        "created_at": "2026-08-02T05:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083790322484535425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929964027960233984",
+              "start": 0,
+              "username": "HXD3D_8028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083790322484535425",
+        "in_reply_to_user_id": "1929964027960233984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083767682030244171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@HXD3D_8028 ( ‘-ωก̀ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929964027960233984",
+        "conversation_id": "2083767682030244171",
+        "created_at": "2026-08-02T04:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083767682030244171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whiteTony99/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/whiteTony99/status/2083703682684854300",
+              "start": 25,
+              "url": "https://t.co/FqhWaYDY4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083767682030244171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083703682684854300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "从事黑灰产的未成年人现在已经多到难以想象的地步了 https://t.co/FqhWaYDY4f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5431,
+          "following_count": 7498,
+          "like_count": 681,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 12283
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T18:11:02.000Z",
+        "description": "平和版芝麻凛厂长，专注于过日子，岁月静好万岁🙏🏼\n\n在这里你会看到\n⭕各种摄影作品\n⭕日常生活的点点滴滴\n⭕高品质二次元内容品鉴\n⭕各种话题的理性友好讨论\n\n在这里不允许出现\n❌吵架谩骂\n❌无理取闹\n❌造谣抹黑\n\n互相尊重，和平共处，三观不合请取关，给脸不要直接拉黑🔨\n\n私人会所：@EvilCatShimaRin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "EvilCatShimaRin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/DF4D_0486",
+                "end": 23,
+                "expanded_url": "https://twitter.com/DF4D_0486",
+                "start": 0,
+                "url": "https://t.co/66znFRIixl"
+              }
+            ]
+          }
+        },
+        "id": "1929964027960233984",
+        "location": "我应该在车底，不应该在车里",
+        "name": "🛠蒸汽#Biantai#老凛🚂",
+        "pinned_tweet_id": "2061081253781418028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063699266934362112/yliNpnUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 2680,
+          "like_count": 95506,
+          "listed_count": 9,
+          "media_count": 17486,
+          "tweet_count": 84462
+        },
+        "url": "https://t.co/66znFRIixl",
+        "username": "HXD3D_8028",
+        "verified": false
+      }
+    ]
+  }
+}

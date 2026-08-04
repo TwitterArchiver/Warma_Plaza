@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1940302623120478657",
+    "created_at": "2025-07-02T07:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T08:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940304518010609736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800118088924299265",
+          "start": 0,
+          "username": "EvenCroren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940304518010609736",
+    "in_reply_to_user_id": "1800118088924299265",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940302623120478657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvenCroren (๑•̌.•̑๑)ˀ̣ˀ̣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2248,
+        "media_key": "3_1940302618850385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1W86FWYAA4ZrP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1940302623120478657",
+        "created_at": "2025-07-02T07:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T08:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940304518010609736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800118088924299265",
+              "start": 0,
+              "username": "EvenCroren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940304518010609736",
+        "in_reply_to_user_id": "1800118088924299265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940302623120478657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvenCroren (๑•̌.•̑๑)ˀ̣ˀ̣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940302618850385920"
+          ]
+        },
+        "author_id": "1800118088924299265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027963394",
+              "name": "Battlefield"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027963394",
+              "name": "Battlefield"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "1940302623120478657",
+        "created_at": "2025-07-02T06:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940302623120478657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gzUUqocW3",
+              "end": 35,
+              "expanded_url": "https://x.com/EvenCroren/status/1940302623120478657/photo/1",
+              "media_key": "3_1940302618850385920",
+              "start": 12,
+              "url": "https://t.co/4gzUUqocW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940302623120478657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BF4在牆內解禁了？🤔 https://t.co/4gzUUqocW3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 7495,
+          "like_count": 629,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 1913
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T10:51:47.000Z",
+        "description": "無固定立場 \n匿名信箱：https://t.co/mRTXmHEYVo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evencroren",
+                "end": 35,
+                "expanded_url": "https://ngl.link/evencroren",
+                "start": 12,
+                "url": "https://t.co/mRTXmHEYVo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubisoft.com",
+                "end": 23,
+                "expanded_url": "http://www.ubisoft.com",
+                "start": 0,
+                "url": "https://t.co/zC1L8yq1m7"
+              }
+            ]
+          }
+        },
+        "id": "1800118088924299265",
+        "location": "New Taipei, Taiwan",
+        "name": "EvenCroren（新北の虎）",
+        "pinned_tweet_id": "1938375066820948419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937693375932801025/NTJsZ_bc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 574,
+          "like_count": 7111,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1037
+        },
+        "url": "https://t.co/zC1L8yq1m7",
+        "username": "EvenCroren",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1955230875257618555",
+    "created_at": "2025-08-13T11:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955595268419911805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "823853250122117121",
+          "start": 0,
+          "username": "weibu_ayym"
+        },
+        {
+          "end": 25,
+          "id": "1751084995312275456",
+          "start": 12,
+          "username": "MikuMiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955595268419911805",
+    "in_reply_to_user_id": "823853250122117121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955594803238011147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weibu_ayym @MikuMiku3648 出不去...(´ . .̫ . `)\n但是让我大为震撼(ﾟ⊿ﾟ)ﾂ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1955230875257618555",
+        "created_at": "2025-08-13T11:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955595268419911805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "823853250122117121",
+              "start": 0,
+              "username": "weibu_ayym"
+            },
+            {
+              "end": 25,
+              "id": "1751084995312275456",
+              "start": 12,
+              "username": "MikuMiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955595268419911805",
+        "in_reply_to_user_id": "823853250122117121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955594803238011147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weibu_ayym @MikuMiku3648 出不去...(´ . .̫ . `)\n但是让我大为震撼(ﾟ⊿ﾟ)ﾂ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823853250122117121",
+        "conversation_id": "1955230875257618555",
+        "created_at": "2025-08-13T11:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955594803238011147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 26,
+              "id": "1751084995312275456",
+              "start": 13,
+              "username": "MikuMiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955594803238011147",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955237282388324709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @MikuMiku3648 去掉税费后几十块，几块飞日本的，我都买过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 7493,
+          "like_count": 663,
+          "listed_count": 5,
+          "media_count": 469,
+          "tweet_count": 2404
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T11:21:36.000Z",
+        "description": "24歳🚹/ラブライバー + バンドリマー/スマホ・自組PC得意/社会人/ 虹ヶ咲 MyGO推し/ガルパ タブレット勢/",
+        "id": "823853250122117121",
+        "location": "安徽省合肥市",
+        "name": "凌波微步@Next AiScReam",
+        "pinned_tweet_id": "1926615033812808014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867385899908313088/EMzXXDPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 720,
+          "like_count": 4644,
+          "listed_count": 2,
+          "media_count": 680,
+          "tweet_count": 1726
+        },
+        "username": "weibu_ayym",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "君といる毎日は奇跡だよ                                                           友達！：@meguruKirara   Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LittIeStar/MyG…",
+                "end": 23,
+                "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                "start": 0,
+                "url": "https://t.co/TLtumadgCD"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3172,
+          "following_count": 1275,
+          "like_count": 37541,
+          "listed_count": 16,
+          "media_count": 2172,
+          "tweet_count": 13604
+        },
+        "url": "https://t.co/TLtumadgCD",
+        "username": "MikuMiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

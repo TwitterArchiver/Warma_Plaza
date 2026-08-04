@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2034608015794458976",
+    "created_at": "2026-03-22T10:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T11:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035671563836789190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986856540251537408",
+          "start": 0,
+          "username": "fuziwaranyanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035671563836789190",
+    "in_reply_to_user_id": "1986856540251537408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034608015794458976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuziwaranyanya (☉_☉)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 160320,
+        "height": 480,
+        "media_key": "13_2034607865424392192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034607865424392192/img/IO2q_nJqcrS74iIt.jpg",
+        "public_metrics": {
+          "view_count": 18619
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034607865424392192/vid/avc1/360x270/RRtyclPAdInaKwGo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034607865424392192/vid/avc1/480x360/KpLy6d4JHXN8akie.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034607865424392192/vid/avc1/640x480/FBvG3fIuFg_WchlA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034607865424392192/pl/QsBR2ucXFBnqliZI.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2034608015794458976",
+        "created_at": "2026-03-22T10:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035671563836789190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986856540251537408",
+              "start": 0,
+              "username": "fuziwaranyanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035671563836789190",
+        "in_reply_to_user_id": "1986856540251537408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034608015794458976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuziwaranyanya (☉_☉)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034607865424392192"
+          ]
+        },
+        "author_id": "1986856540251537408",
+        "conversation_id": "2034608015794458976",
+        "created_at": "2026-03-19T12:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034608015794458976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttyX3M5vxw",
+              "end": 53,
+              "expanded_url": "https://x.com/fuziwaranyanya/status/2034608015794458976/video/1",
+              "media_key": "13_2034607865424392192",
+              "start": 30,
+              "url": "https://t.co/ttyX3M5vxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034608015794458976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 5743,
+          "like_count": 204,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾之：东百逼一枪不打是为了放日本人进来搞南京大屠杀🤣 https://t.co/ttyX3M5vxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4920,
+          "following_count": 7496,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 556,
+          "tweet_count": 7065
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T18:01:44.000Z",
+        "description": "我是共产党，你是支那猪。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/E6k2TPf0mn"
+              }
+            ]
+          }
+        },
+        "id": "1986856540251537408",
+        "location": "新华社",
+        "name": "喵主席爱吃蛋炒饭🇨🇳",
+        "pinned_tweet_id": "2027137321062015444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996508105799016448/KICKtl4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 853,
+          "like_count": 2398,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 3327
+        },
+        "url": "https://t.co/E6k2TPf0mn",
+        "username": "fuziwaranyanya",
+        "verified": false
+      }
+    ]
+  }
+}

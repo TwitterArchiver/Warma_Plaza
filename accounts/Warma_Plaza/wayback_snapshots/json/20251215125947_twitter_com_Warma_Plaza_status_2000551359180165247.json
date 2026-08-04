@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2000543391181066439",
+    "created_at": "2025-12-15T12:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000551359180165247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1527847554825723905",
+          "start": 0,
+          "username": "WLoliyeyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000551359180165247",
+    "in_reply_to_user_id": "1527847554825723905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000543391181066439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WLoliyeyeye (乂｀д´)！\nノ(。_。)ノ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_2000543387997630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NbnK9a8AAiVUJ.jpg",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2000543391181066439",
+        "created_at": "2025-12-15T12:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000551359180165247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527847554825723905",
+              "start": 0,
+              "username": "WLoliyeyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000551359180165247",
+        "in_reply_to_user_id": "1527847554825723905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000543391181066439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WLoliyeyeye (乂｀д´)！\nノ(。_。)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000543387997630464"
+          ]
+        },
+        "author_id": "1527847554825723905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2000543391181066439",
+        "created_at": "2025-12-15T12:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000543391181066439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cI9K6IPuf",
+              "end": 119,
+              "expanded_url": "https://x.com/WLoliyeyeye/status/2000543391181066439/photo/1",
+              "media_key": "3_2000543387997630464",
+              "start": 96,
+              "url": "https://t.co/4cI9K6IPuf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000543391181066439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些把我帖子截图发微博和b站的人我早就看到了，\n你们不就是欺负我的贴子不够过激，没什么敏感词才把我帖子发国内平台么，\n\n我要是在帖子里动不动就来一句习近平下台，你们的截图发国内平台还能过审么 https://t.co/4cI9K6IPuf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 7485,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 522,
+          "tweet_count": 4924
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T03:03:49.000Z",
+        "description": "自由引导人民      台湾不是中共政府的",
+        "id": "1527847554825723905",
+        "name": "Ctrl + Alt + →",
+        "pinned_tweet_id": "1989573266953179553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971163884779417600/u0nbCeQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 961,
+          "like_count": 6440,
+          "listed_count": 25,
+          "media_count": 428,
+          "tweet_count": 1838
+        },
+        "username": "WLoliyeyeye",
+        "verified": false
+      }
+    ]
+  }
+}

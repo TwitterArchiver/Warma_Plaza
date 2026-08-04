@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1926556098347127041",
+    "created_at": "2025-05-25T11:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T12:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926604266505949275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830109128540246016",
+          "start": 0,
+          "username": "bitchelonmusk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926604266505949275",
+    "in_reply_to_user_id": "1830109128540246016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926556098347127041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchelonmusk_ (ノへ￣、)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_1926556095163641856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GryAj6wXsAATb_O.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1926556098347127041",
+        "created_at": "2025-05-25T11:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926604266505949275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830109128540246016",
+              "start": 0,
+              "username": "bitchelonmusk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926604266505949275",
+        "in_reply_to_user_id": "1830109128540246016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926556098347127041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchelonmusk_ (ノへ￣、)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926556095163641856"
+          ]
+        },
+        "author_id": "1830109128540246016",
+        "conversation_id": "1926556098347127041",
+        "created_at": "2025-05-25T08:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T09:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926556098347127041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZKla7ywR7",
+              "end": 47,
+              "expanded_url": "https://x.com/bitchelonmusk_/status/1926556098347127041/photo/1",
+              "media_key": "3_1926556095163641856",
+              "start": 24,
+              "url": "https://t.co/DZKla7ywR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926556098347127041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 942,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多人屏蔽了唯酱\n唯酱好伤心哭了\n哭了\n呜呜呜 https://t.co/DZKla7ywR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3528,
+          "following_count": 7494,
+          "like_count": 585,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 1462
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T05:03:21.000Z",
+        "description": "看到我主页的你已经被诅咒了，诅咒以任何形式骂我攻击我者全家暴毙厄运不断。\n私の友人@ponpop72。 大日本帝国万歳。八百万の神様は反日奴に天罰を下す。Boycott Tesla Vehicles. Anti -Trumpism.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "ponpop72"
+              }
+            ]
+          }
+        },
+        "id": "1830109128540246016",
+        "location": "Elon Musk's funeral ",
+        "name": "外の世界を見たい唯ちゃん🇫🇮🇯🇵 Boycott Tesla Vehicles",
+        "pinned_tweet_id": "1925861893245133311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924434249639133185/q33cUXhN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 1012,
+          "like_count": 9097,
+          "listed_count": 0,
+          "media_count": 916,
+          "tweet_count": 5142
+        },
+        "username": "bitchelonmusk_",
+        "verified": false
+      }
+    ]
+  }
+}

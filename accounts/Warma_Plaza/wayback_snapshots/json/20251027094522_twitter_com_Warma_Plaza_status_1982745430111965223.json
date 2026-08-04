@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1982474393071784069",
+    "created_at": "2025-10-27T09:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982745430111965223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1575540398130331648",
+          "start": 0,
+          "username": "aaaz30105410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982745430111965223",
+    "in_reply_to_user_id": "1575540398130331648",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982641978895679787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaz30105410 (๑˃̣︿˂̣๑)。！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1982474393071784069",
+        "created_at": "2025-10-27T09:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982745430111965223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1575540398130331648",
+              "start": 0,
+              "username": "aaaz30105410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982745430111965223",
+        "in_reply_to_user_id": "1575540398130331648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982641978895679787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaz30105410 (๑˃̣︿˂̣๑)。！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575540398130331648",
+        "conversation_id": "1982474393071784069",
+        "created_at": "2025-10-27T02:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982641978895679787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982641978895679787",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982474393071784069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui 大清对科学和技术以及市场经济的萌芽的评价是：奇技淫巧\n100年后的粉红，思想仍然和清廷一模一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 7492,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 506,
+          "tweet_count": 3714
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T17:38:17.000Z",
+        "description": "了解一点数学分析线性代数计算机结构操作系统数据结构算法形式语言自动机",
+        "id": "1575540398130331648",
+        "name": "国家煮习🇺🇦🇮🇱",
+        "pinned_tweet_id": "1898316835633680515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750697589106749440/WpwiMQRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 295,
+          "like_count": 40150,
+          "listed_count": 7,
+          "media_count": 77,
+          "tweet_count": 5266
+        },
+        "username": "aaaz30105410",
+        "verified": false
+      }
+    ]
+  }
+}

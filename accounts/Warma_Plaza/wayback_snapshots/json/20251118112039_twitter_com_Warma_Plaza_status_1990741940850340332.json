@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990724069642178626",
+    "created_at": "2025-11-18T11:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990741940850340332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945757692834033664",
+          "start": 0,
+          "username": "Nyarsalt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990741940850340332",
+    "in_reply_to_user_id": "1945757692834033664",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990724069642178626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nyarsalt ［(－－)］"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_1990724060947591168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B4_HKasAATbKK.jpg",
+        "width": 845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990724069642178626",
+        "created_at": "2025-11-18T11:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990741940850340332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945757692834033664",
+              "start": 0,
+              "username": "Nyarsalt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990741940850340332",
+        "in_reply_to_user_id": "1945757692834033664",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990724069642178626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nyarsalt ［(－－)］"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990724060947591168"
+          ]
+        },
+        "author_id": "1945757692834033664",
+        "conversation_id": "1990724069642178626",
+        "created_at": "2025-11-18T10:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990724069642178626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YA0mX3SpDn",
+              "end": 40,
+              "expanded_url": "https://x.com/Nyarsalt/status/1990724069642178626/photo/1",
+              "media_key": "3_1990724060947591168",
+              "start": 17,
+              "url": "https://t.co/YA0mX3SpDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990724069642178626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对不起儿子，爹错了，不该说你的💔 https://t.co/YA0mX3SpDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4377,
+          "following_count": 7491,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4073
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T08:09:52.000Z",
+        "description": "萧瑟秋风今又是，换了人间。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nyarsalt?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nyarsalt?igsh=YzR0ZGFzYm5wMTlt&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/65Mb3XKLTM"
+              }
+            ]
+          }
+        },
+        "id": "1945757692834033664",
+        "location": "社会自由主义",
+        "name": "N.",
+        "pinned_tweet_id": "1990086284916969784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984227328613117953/qeLQfmQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 732,
+          "like_count": 18833,
+          "listed_count": 2,
+          "media_count": 671,
+          "tweet_count": 5028
+        },
+        "url": "https://t.co/65Mb3XKLTM",
+        "username": "Nyarsalt",
+        "verified": false
+      }
+    ]
+  }
+}

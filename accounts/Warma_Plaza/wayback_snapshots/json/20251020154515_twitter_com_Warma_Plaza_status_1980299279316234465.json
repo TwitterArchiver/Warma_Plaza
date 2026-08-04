@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980299273376800768"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1392230439465541633",
+          "name": "Taiga drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392230439465541633",
+          "name": "Taiga drama"
+        }
+      }
+    ],
+    "conversation_id": "1980299279316234465",
+    "created_at": "2025-10-20T15:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980299279316234465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KhcUcOvKLS",
+          "end": 178,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1980299279316234465/photo/1",
+          "media_key": "3_1980299273376800768",
+          "start": 155,
+          "url": "https://t.co/KhcUcOvKLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980299279316234465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "深夜了，早点休息吧！∪･ω･∪\n霜降和重阳节也快到了，而今年很多地方又都反常的冷，大家一定记得注意保暖，别被“感冒”找上哦~( ´•.̫ • ⋈)\n从北端的百年古都出发，坐上“离弦之箭”般的列车，驰骋数千里，穿过平原和各种山脉、大江大河，之后当天傍晚就能看“港湾风情”，品特色美食...d(=^･ω･^=)b https://t.co/KhcUcOvKLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "普通的混沌套餐，一般般啦~●﹏●",
+        "height": 1920,
+        "media_key": "3_1980299273376800768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tvsnKWoAAtNIi.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980299273376800768"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1392230439465541633",
+              "name": "Taiga drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392230439465541633",
+              "name": "Taiga drama"
+            }
+          }
+        ],
+        "conversation_id": "1980299279316234465",
+        "created_at": "2025-10-20T15:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980299279316234465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhcUcOvKLS",
+              "end": 178,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1980299279316234465/photo/1",
+              "media_key": "3_1980299273376800768",
+              "start": 155,
+              "url": "https://t.co/KhcUcOvKLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980299279316234465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深夜了，早点休息吧！∪･ω･∪\n霜降和重阳节也快到了，而今年很多地方又都反常的冷，大家一定记得注意保暖，别被“感冒”找上哦~( ´•.̫ • ⋈)\n从北端的百年古都出发，坐上“离弦之箭”般的列车，驰骋数千里，穿过平原和各种山脉、大江大河，之后当天傍晚就能看“港湾风情”，品特色美食...d(=^･ω･^=)b https://t.co/KhcUcOvKLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4307,
+          "following_count": 7493,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 3449
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

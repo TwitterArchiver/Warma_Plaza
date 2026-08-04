@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984793485074166158",
+    "created_at": "2025-11-02T10:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T11:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984925475853209767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959096880039886848",
+          "start": 0,
+          "username": "pany77095"
+        },
+        {
+          "end": 26,
+          "id": "1376469670874640386",
+          "start": 11,
+          "username": "guyanmuchan001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984925475853209767",
+    "in_reply_to_user_id": "1959096880039886848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984923754384797806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pany77095 @guyanmuchan001 ( °﹃ 。)..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984923742951100416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4vdoKzW0AACaQM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984793485074166158",
+        "created_at": "2025-11-02T10:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984925475853209767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959096880039886848",
+              "start": 0,
+              "username": "pany77095"
+            },
+            {
+              "end": 26,
+              "id": "1376469670874640386",
+              "start": 11,
+              "username": "guyanmuchan001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984925475853209767",
+        "in_reply_to_user_id": "1959096880039886848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984923754384797806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pany77095 @guyanmuchan001 ( °﹃ 。)..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984923742951100416"
+          ]
+        },
+        "author_id": "1959096880039886848",
+        "conversation_id": "1984793485074166158",
+        "created_at": "2025-11-02T10:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984923754384797806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1376469670874640386",
+              "start": 0,
+              "username": "guyanmuchan001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iaqTrhx1iA",
+              "end": 143,
+              "expanded_url": "https://x.com/pany77095/status/1984923754384797806/photo/1",
+              "media_key": "3_1984923742951100416",
+              "start": 120,
+              "url": "https://t.co/iaqTrhx1iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984923754384797806",
+        "in_reply_to_user_id": "1376469670874640386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984793485074166158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guyanmuchan001 我真的后悔移民美国了，我现在过的非常惨，没房没车没钱没对象没饭吃，天天翻垃圾桶找吃的，但是有时候能找到吃的，有时候找不到吃的，移民美国是我这辈子最后悔的决定，真想回到中国，你能给我20元人民币让我吃顿饭吗？ https://t.co/iaqTrhx1iA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 7482,
+          "like_count": 683,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 3881
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T03:34:46.000Z",
+        "description": "错误全在美方，责任全在美方，资产全在美方，子女全在美方",
+        "id": "1959096880039886848",
+        "location": "中南海习近平床下",
+        "name": "习近平今天5️⃣了吗",
+        "pinned_tweet_id": "1977668036736987218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959097119559524353/3NBQ24Ch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 116,
+          "like_count": 6164,
+          "listed_count": 8,
+          "media_count": 917,
+          "tweet_count": 3423
+        },
+        "username": "pany77095",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-29T09:42:28.000Z",
+        "description": "觀察世界，大國崛起之際\n反省自身，小國博弈之時\n\nYT:https://t.co/N3AimM4h5C…\nFB:https://t.co/cGWAvqpKMw…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UClc6o",
+                "end": 51,
+                "expanded_url": "http://youtube.com/channel/UClc6o",
+                "start": 28,
+                "url": "https://t.co/N3AimM4h5C"
+              },
+              {
+                "display_url": "facebook.com/%E5%AD%A4%E7%8",
+                "end": 79,
+                "expanded_url": "http://facebook.com/%E5%AD%A4%E7%8",
+                "start": 56,
+                "url": "https://t.co/cGWAvqpKMw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/2150758415",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/2150758415",
+                "start": 0,
+                "url": "https://t.co/aIfYx9aYvi"
+              }
+            ]
+          }
+        },
+        "id": "1376469670874640386",
+        "name": "孤烟暮蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598135580990533633/hy2kxV47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81625,
+          "following_count": 176,
+          "like_count": 263,
+          "listed_count": 237,
+          "media_count": 7643,
+          "tweet_count": 8889
+        },
+        "url": "https://t.co/aIfYx9aYvi",
+        "username": "guyanmuchan001",
+        "verified": true
+      }
+    ]
+  }
+}

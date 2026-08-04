@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933466695420817409"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1933465425058095343",
+    "created_at": "2025-06-13T10:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T11:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933466699367657520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1887398170956865536",
+          "start": 0,
+          "username": "SovietShiroko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2EyEyqgjPP",
+          "end": 52,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1933466699367657520/photo/1",
+          "media_key": "3_1933466695420817409",
+          "start": 29,
+          "url": "https://t.co/2EyEyqgjPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933466699367657520",
+    "in_reply_to_user_id": "1887398170956865536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933465425058095343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SovietShiroko 好耶*⁂((✪⥎✪))⁂* https://t.co/2EyEyqgjPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 196,
+        "media_key": "3_1933466695420817409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUNty2bMAEl8JS.jpg",
+        "width": 257
+      },
+      {
+        "height": 2253,
+        "media_key": "3_1933465400999571457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUMicwWcAE8f-_.jpg",
+        "width": 1772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933466695420817409"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1933465425058095343",
+        "created_at": "2025-06-13T10:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933466699367657520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1887398170956865536",
+              "start": 0,
+              "username": "SovietShiroko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2EyEyqgjPP",
+              "end": 52,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1933466699367657520/photo/1",
+              "media_key": "3_1933466695420817409",
+              "start": 29,
+              "url": "https://t.co/2EyEyqgjPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933466699367657520",
+        "in_reply_to_user_id": "1887398170956865536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933465425058095343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SovietShiroko 好耶*⁂((✪⥎✪))⁂* https://t.co/2EyEyqgjPP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933465400999571457"
+          ]
+        },
+        "author_id": "1887398170956865536",
+        "conversation_id": "1933465425058095343",
+        "created_at": "2025-06-13T10:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933465425058095343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjVm6ozV9S",
+              "end": 30,
+              "expanded_url": "https://x.com/SovietShiroko/status/1933465425058095343/photo/1",
+              "media_key": "3_1933465400999571457",
+              "start": 7,
+              "url": "https://t.co/xjVm6ozV9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933465425058095343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业了同志们 https://t.co/xjVm6ozV9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3609,
+          "following_count": 7486,
+          "like_count": 614,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 1606
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T07:09:34.000Z",
+        "description": "初三学生，一个蔚蓝档案和kards玩家，精苏一个，本人热爱中华人民共和国，中国共产党，中国人民解放军，当然，遇见极端支黑和抹黑中国的不要怪我变成极端粉红，一般都会互fo，政治立场不同的可以好好说话就好好说话，如果骂我别怪我问候你全家！",
+        "id": "1887398170956865536",
+        "location": "Москва СССР",
+        "name": "狂学地理的砂狼白子",
+        "pinned_tweet_id": "1929393111794348100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903352235872149504/af2vOnDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 248,
+          "like_count": 66,
+          "listed_count": 4,
+          "media_count": 546,
+          "tweet_count": 1294
+        },
+        "username": "SovietShiroko",
+        "verified": false
+      }
+    ]
+  }
+}

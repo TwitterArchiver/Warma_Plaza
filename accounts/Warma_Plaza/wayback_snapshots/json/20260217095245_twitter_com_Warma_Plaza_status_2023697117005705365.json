@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2023436933456933077",
+    "created_at": "2026-02-17T09:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023697117005705365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620225597778841600",
+          "start": 0,
+          "username": "foxerine_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023697117005705365",
+    "in_reply_to_user_id": "1620225597778841600",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023436933456933077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foxerine_ _(´□`」 ∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2023436933456933077",
+        "created_at": "2026-02-17T09:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023697117005705365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620225597778841600",
+              "start": 0,
+              "username": "foxerine_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023697117005705365",
+        "in_reply_to_user_id": "1620225597778841600",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023436933456933077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxerine_ _(´□`」 ∠)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620225597778841600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023436933456933077",
+        "created_at": "2026-02-16T16:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023436933456933077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023436933456933077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 25637,
+          "like_count": 807,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "初一㊗您身上长毛\n初二㊗您耳朵上移\n初三㊗您长出爪子\n初四㊗您耳朵变尖\n初五㊗您长出尾巴\n初六㊗您尾巴变大\n初七㊗您膝盖变形\n初八㊗您后爪着地\n初九㊗您皮毛光滑\n初十㊗您瞳孔变色\n十一㊗您耳朵变大\n十二㊗您身体变软\n十三㊗您年龄变小\n十四㊗您逐步变受\n元宵㊗您变小兽太\n大家新年快乐🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4747,
+          "following_count": 7496,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 540,
+          "tweet_count": 6388
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T01:01:34.000Z",
+        "description": "很高兴见到你！ | steam | VR | Python/C++ | 设和最喜欢的动物是Fox/狐 | 流利中文/English | 赛博日记本 | 🏳️‍🌈 | 正太/兽太控 | 最爱去外面吃吃吃吃 | 🚫鉴证🚫纯三次看黄男 | ❤️ @skyJiLine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "skyJiLine"
+              }
+            ]
+          }
+        },
+        "id": "1620225597778841600",
+        "location": "Changsha",
+        "name": "砂糖橘🍊🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998680974700457985/WsnAtq71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 950,
+          "like_count": 13613,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 1517
+        },
+        "username": "foxerine_",
+        "verified": false
+      }
+    ]
+  }
+}

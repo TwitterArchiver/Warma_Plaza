@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984827521888895348",
+    "created_at": "2025-11-02T09:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984918388167352363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601599920276140033",
+          "start": 0,
+          "username": "ayanamirei_may"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984918388167352363",
+    "in_reply_to_user_id": "1601599920276140033",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984827521888895348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayanamirei_may (‖。△°)......\nAAAAAAA！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984827521888895348",
+        "created_at": "2025-11-02T09:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984918388167352363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601599920276140033",
+              "start": 0,
+              "username": "ayanamirei_may"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984918388167352363",
+        "in_reply_to_user_id": "1601599920276140033",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984827521888895348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayanamirei_may (‖。△°)......\nAAAAAAA！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601599920276140033",
+        "conversation_id": "1984827521888895348",
+        "created_at": "2025-11-02T03:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984827521888895348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984827521888895348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9045,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "回国第一感想是中国人咋这么没素质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 7481,
+          "like_count": 683,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 3870
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T15:29:25.000Z",
+        "description": "生きて",
+        "id": "1601599920276140033",
+        "name": "鳴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905053921191788544/4AMTqEhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25882,
+          "following_count": 167,
+          "like_count": 1161,
+          "listed_count": 55,
+          "media_count": 201,
+          "tweet_count": 2067
+        },
+        "username": "ayanamirei_may",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1988228092197056902",
+    "created_at": "2025-11-11T13:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988238968870355157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "147929555",
+          "start": 0,
+          "username": "leige88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988238968870355157",
+    "in_reply_to_user_id": "147929555",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 77,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988228092197056902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leige88888 (ノ＞＜)ノ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_1988227960370061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5eay75bYAAiMOY.png",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1988228092197056902",
+        "created_at": "2025-11-11T13:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988238968870355157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147929555",
+              "start": 0,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988238968870355157",
+        "in_reply_to_user_id": "147929555",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988228092197056902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leige88888 (ノ＞＜)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988227960370061312"
+          ]
+        },
+        "author_id": "147929555",
+        "conversation_id": "1988228092197056902",
+        "created_at": "2025-11-11T12:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T13:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988228092197056902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35bG4MOTXh",
+              "end": 53,
+              "expanded_url": "https://x.com/leige88888/status/1988228092197056902/photo/1",
+              "media_key": "3_1988227960370061312",
+              "start": 30,
+              "url": "https://t.co/35bG4MOTXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988228092197056902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1316,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "日本网友开始有自知之明了，以后见到薛剑总领事记得90度鞠躬 https://t.co/35bG4MOTXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4359,
+          "following_count": 7492,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 3949
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T12:03:13.000Z",
+        "description": "我是来看反贼笑话的",
+        "id": "147929555",
+        "name": "磊哥聊政经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696104044497178624/ix24cEav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39103,
+          "following_count": 386,
+          "like_count": 339,
+          "listed_count": 111,
+          "media_count": 3213,
+          "tweet_count": 5575
+        },
+        "username": "leige88888",
+        "verified": true
+      }
+    ]
+  }
+}

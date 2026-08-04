@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2063773084482740467",
+    "created_at": "2026-06-08T00:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063783028472856649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552587744576057345",
+          "start": 0,
+          "username": "zhinarensb8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063783028472856649",
+    "in_reply_to_user_id": "1552587744576057345",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063773084482740467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensb8964 →⁠_⁠→"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2258,
+        "media_key": "3_2063773041533026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP-pZ2agAAHK9d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2070,
+        "media_key": "3_2063773041532997632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP-pZ2aEAA2NLz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2044,
+        "media_key": "3_2063773041533022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKP-pZ2acAAIcBL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2063773084482740467",
+        "created_at": "2026-06-08T00:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063783028472856649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552587744576057345",
+              "start": 0,
+              "username": "zhinarensb8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063783028472856649",
+        "in_reply_to_user_id": "1552587744576057345",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063773084482740467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensb8964 →⁠_⁠→"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063773041533026304",
+            "3_2063773041532997632",
+            "3_2063773041533022208"
+          ]
+        },
+        "author_id": "1552587744576057345",
+        "conversation_id": "2063773084482740467",
+        "created_at": "2026-06-08T00:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063773084482740467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qYrTOdcUBR",
+              "end": 27,
+              "expanded_url": "https://x.com/zhinarensb8964/status/2063773084482740467/photo/1",
+              "media_key": "3_2063773041533026304",
+              "start": 4,
+              "url": "https://t.co/qYrTOdcUBR"
+            },
+            {
+              "display_url": "pic.x.com/qYrTOdcUBR",
+              "end": 27,
+              "expanded_url": "https://x.com/zhinarensb8964/status/2063773084482740467/photo/1",
+              "media_key": "3_2063773041532997632",
+              "start": 4,
+              "url": "https://t.co/qYrTOdcUBR"
+            },
+            {
+              "display_url": "pic.x.com/qYrTOdcUBR",
+              "end": 27,
+              "expanded_url": "https://x.com/zhinarensb8964/status/2063773084482740467/photo/1",
+              "media_key": "3_2063773041533022208",
+              "start": 4,
+              "url": "https://t.co/qYrTOdcUBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063773084482740467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耍疯咯 https://t.co/qYrTOdcUBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 10395
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T09:32:29.000Z",
+        "description": "忍耐~\n一代目@zhinarencnm8964\n二代目@zhinarensml8964\n四代目@zhinarencs8964\n⚠我会屏蔽垃圾账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1552587744576057345",
+        "location": "喜欢扣帽子给人认爹的小支蛆你们好啊，你冯被我艹的在天上乱飞",
+        "name": "古美门 正雄🌸⛩️",
+        "pinned_tweet_id": "2061774434013413816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061183033072668672/ru0r5tpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 715,
+          "like_count": 26190,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 2585
+        },
+        "username": "zhinarensb8964",
+        "verified": false
+      }
+    ]
+  }
+}

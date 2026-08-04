@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2067991845775487285",
+    "created_at": "2026-06-19T15:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T16:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067992494529446114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1535968483011338243",
+          "start": 0,
+          "username": "AndesLie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067992494529446114",
+    "in_reply_to_user_id": "1535968483011338243",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067992428024635561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndesLie ^*^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2067991845775487285",
+        "created_at": "2026-06-19T15:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067992494529446114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535968483011338243",
+              "start": 0,
+              "username": "AndesLie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067992494529446114",
+        "in_reply_to_user_id": "1535968483011338243",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067992428024635561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndesLie ^*^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535968483011338243",
+        "conversation_id": "2067991845775487285",
+        "created_at": "2026-06-19T15:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067992428024635561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067992428024635561",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067991966831530409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza ʕ•͈⚇•͈ʔ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 10550
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T12:53:42.000Z",
+        "description": "温迪厨 ‖ cd爱好 ‖ 最好的颜文字使用者QvQ ‖ 我爱大家(★≧▽^))★❤️",
+        "id": "1535968483011338243",
+        "location": "理想国",
+        "name": "番茄薄荷酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678099260435251200/RDv-Z6jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 998,
+          "like_count": 8755,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1260
+        },
+        "url": "",
+        "username": "AndesLie",
+        "verified": false
+      }
+    ]
+  }
+}

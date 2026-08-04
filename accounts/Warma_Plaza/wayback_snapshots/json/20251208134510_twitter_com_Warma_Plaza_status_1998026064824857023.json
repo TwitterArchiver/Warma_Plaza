@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1998005451376775553",
+    "created_at": "2025-12-08T13:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T14:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998026064824857023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926574861872156672",
+          "start": 0,
+          "username": "stellarocean1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998026064824857023",
+    "in_reply_to_user_id": "1926574861872156672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998025258843209892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellarocean1 可以诶(*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1998005451376775553",
+        "created_at": "2025-12-08T13:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998026064824857023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926574861872156672",
+              "start": 0,
+              "username": "stellarocean1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998026064824857023",
+        "in_reply_to_user_id": "1926574861872156672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998025258843209892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellarocean1 可以诶(*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926574861872156672",
+        "conversation_id": "1998005451376775553",
+        "created_at": "2025-12-08T13:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998025258843209892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998025258843209892",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998005451376775553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 如果我们的文明能延续到那天说不定能办成流浪地球计划。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4496,
+          "following_count": 7488,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 4799
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T09:43:53.000Z",
+        "description": "喜欢天文学",
+        "id": "1926574861872156672",
+        "location": "宇宙",
+        "name": "浩瀚星海",
+        "pinned_tweet_id": "1954421585923699151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954440383867301888/wzlftmUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 105,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 390
+        },
+        "username": "stellarocean1",
+        "verified": false
+      }
+    ]
+  }
+}

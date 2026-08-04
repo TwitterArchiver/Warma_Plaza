@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1980136902075486423",
+    "created_at": "2025-10-20T05:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T06:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980141542556991859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827421353219387392",
+          "start": 0,
+          "username": "kr_2022270015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980141542556991859",
+    "in_reply_to_user_id": "1827421353219387392",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980140505402167475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kr_2022270015 (´ཀ`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1980136902075486423",
+        "created_at": "2025-10-20T05:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980141542556991859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827421353219387392",
+              "start": 0,
+              "username": "kr_2022270015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980141542556991859",
+        "in_reply_to_user_id": "1827421353219387392",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980140505402167475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kr_2022270015 (´ཀ`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827421353219387392",
+        "conversation_id": "1980136902075486423",
+        "created_at": "2025-10-20T05:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980140505402167475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980140505402167475",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980136902075486423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 在中国人的传统观念中从来就没有平等的概念，不知自爱，更不懂得互相尊敬。\n\n要么你拳头大，你当爷我给你跪着，任你蹂躏践踏。要么我拳头大，我当爷你给我跪着，你任我蹂躏践踏。中国人的社会是一个丛林的世界，尽管他们穿着现代人类的衣服和科技，本质上和猴群没有任何区别。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 7493,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 3388
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T19:03:19.000Z",
+        "description": "",
+        "id": "1827421353219387392",
+        "location": "Republic of Korea",
+        "name": "K 🆇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479111494860800/vIkTAjHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 738,
+          "like_count": 642,
+          "listed_count": 14,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "username": "kr_2022270015",
+        "verified": false
+      }
+    ]
+  }
+}

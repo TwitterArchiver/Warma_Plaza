@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981918173327708467",
+    "created_at": "2025-10-25T05:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981963476127072475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1264692192557162496",
+          "start": 0,
+          "username": "0_yip1213_CHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981963476127072475",
+    "in_reply_to_user_id": "1264692192557162496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981918173327708467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0_yip1213_CHN 吓.......( ꒪⌓꒪)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 712,
+        "media_key": "3_1981918170001588224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4EwEzDWQAAxNiN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981918173327708467",
+        "created_at": "2025-10-25T05:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981963476127072475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1264692192557162496",
+              "start": 0,
+              "username": "0_yip1213_CHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981963476127072475",
+        "in_reply_to_user_id": "1264692192557162496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981918173327708467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0_yip1213_CHN 吓.......( ꒪⌓꒪)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981918170001588224"
+          ]
+        },
+        "author_id": "1264692192557162496",
+        "conversation_id": "1981918173327708467",
+        "created_at": "2025-10-25T02:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981918173327708467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6KuLvB4GN",
+              "end": 42,
+              "expanded_url": "https://x.com/0_yip1213_CHN/status/1981918173327708467/photo/1",
+              "media_key": "3_1981918170001588224",
+              "start": 19,
+              "url": "https://t.co/L6KuLvB4GN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981918173327708467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十月顶级笑话。好在我股市是反着买😎。 https://t.co/L6KuLvB4GN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 7490,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 504,
+          "tweet_count": 3645
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-24T22:58:19.000Z",
+        "description": "#China #PRC🇨🇳 #photograph #Guangdong #Canton #streetphotograh #Guangzhoucity #coffee #中国 #接地气 #洁癖 #camera ＃nikonzf ❤️新华社小粉丝 十分喜欢吐槽",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "China"
+              },
+              {
+                "end": 11,
+                "start": 7,
+                "tag": "PRC"
+              },
+              {
+                "end": 25,
+                "start": 14,
+                "tag": "photograph"
+              },
+              {
+                "end": 36,
+                "start": 26,
+                "tag": "Guangdong"
+              },
+              {
+                "end": 44,
+                "start": 37,
+                "tag": "Canton"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "tag": "streetphotograh"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "tag": "Guangzhoucity"
+              },
+              {
+                "end": 84,
+                "start": 77,
+                "tag": "coffee"
+              },
+              {
+                "end": 88,
+                "start": 85,
+                "tag": "中国"
+              },
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "接地气"
+              },
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "洁癖"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "tag": "camera"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "nikonzf"
+              }
+            ]
+          }
+        },
+        "id": "1264692192557162496",
+        "location": "🌍",
+        "name": "🧊葉🏖️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902382745122435073/Gl-cBG-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4282,
+          "following_count": 2906,
+          "like_count": 369488,
+          "listed_count": 16,
+          "media_count": 8991,
+          "tweet_count": 99472
+        },
+        "username": "0_yip1213_CHN",
+        "verified": false
+      }
+    ]
+  }
+}

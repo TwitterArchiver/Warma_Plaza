@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2055343928333697048",
+    "created_at": "2026-05-16T11:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055617834265567677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1890343594248036352",
+          "start": 0,
+          "username": "1s8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055617834265567677",
+    "in_reply_to_user_id": "1890343594248036352",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055343928333697048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1s8964 ლ⁠(⁠・⁠﹏⁠・⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2055343928333697048",
+        "created_at": "2026-05-16T11:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055617834265567677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1890343594248036352",
+              "start": 0,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055617834265567677",
+        "in_reply_to_user_id": "1890343594248036352",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055343928333697048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1s8964 ლ⁠(⁠・⁠﹏⁠・⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890343594248036352",
+        "conversation_id": "2055343928333697048",
+        "created_at": "2026-05-15T17:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055343928333697048"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055343928333697048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3394,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现不管什么群最后都会演变成繁茂洞穴，腊主席风评这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 7498,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 9140
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "Freiheit ist immer Freiheit der Andersdenkenden",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/7z6gPw9fqS"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "腊稻蛤桃包的结合体☭🚩",
+        "pinned_tweet_id": "2046681269153476753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019218017431732224/e-4kyE4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 1260,
+          "like_count": 8523,
+          "listed_count": 10,
+          "media_count": 1432,
+          "tweet_count": 6549
+        },
+        "url": "https://t.co/7z6gPw9fqS",
+        "username": "1s8964",
+        "verified": false
+      }
+    ]
+  }
+}

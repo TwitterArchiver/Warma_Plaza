@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2071827515887522144",
+    "created_at": "2026-06-30T07:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071852014695584075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040682287843422208",
+          "start": 0,
+          "username": "Salachanoari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071852014695584075",
+    "in_reply_to_user_id": "2040682287843422208",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071827515887522144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Salachanoari ^-^"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071827386765553664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCcCAAWMAAlbkW.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071827386753060865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCcB_9XkAEPF3q.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071827386790797312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCcCAGXYAAzpz_.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071827386807578625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCcCAKXcAEnFSh.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2071827515887522144",
+        "created_at": "2026-06-30T07:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071852014695584075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040682287843422208",
+              "start": 0,
+              "username": "Salachanoari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071852014695584075",
+        "in_reply_to_user_id": "2040682287843422208",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071827515887522144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Salachanoari ^-^"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071827386765553664",
+            "3_2071827386753060865",
+            "3_2071827386790797312",
+            "3_2071827386807578625"
+          ]
+        },
+        "author_id": "2040682287843422208",
+        "conversation_id": "2071827515887522144",
+        "created_at": "2026-06-30T05:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071827515887522144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJ7qVcpzh7",
+              "end": 27,
+              "expanded_url": "https://x.com/Salachanoari/status/2071827515887522144/photo/1",
+              "media_key": "3_2071827386765553664",
+              "start": 4,
+              "url": "https://t.co/TJ7qVcpzh7"
+            },
+            {
+              "display_url": "pic.x.com/TJ7qVcpzh7",
+              "end": 27,
+              "expanded_url": "https://x.com/Salachanoari/status/2071827515887522144/photo/1",
+              "media_key": "3_2071827386753060865",
+              "start": 4,
+              "url": "https://t.co/TJ7qVcpzh7"
+            },
+            {
+              "display_url": "pic.x.com/TJ7qVcpzh7",
+              "end": 27,
+              "expanded_url": "https://x.com/Salachanoari/status/2071827515887522144/photo/1",
+              "media_key": "3_2071827386790797312",
+              "start": 4,
+              "url": "https://t.co/TJ7qVcpzh7"
+            },
+            {
+              "display_url": "pic.x.com/TJ7qVcpzh7",
+              "end": 27,
+              "expanded_url": "https://x.com/Salachanoari/status/2071827515887522144/photo/1",
+              "media_key": "3_2071827386807578625",
+              "start": 4,
+              "url": "https://t.co/TJ7qVcpzh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071827515887522144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "城隍庙 https://t.co/TJ7qVcpzh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 10716
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T06:46:25.000Z",
+        "description": "呃…真寻配沙拉的小号到处转转\n一名画师，也是画画老师，欢迎一起讨论画画技巧和国家大事，歡迎大家去關注我b站「真尋配沙拉等於歐尼醬」，感謝大家支持",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/QI5T3lE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/QI5T3lE",
+                "start": 0,
+                "url": "https://t.co/2HTkpeOWVD"
+              }
+            ]
+          }
+        },
+        "id": "2040682287843422208",
+        "location": "中国",
+        "name": "Salachan🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820655738875904/L0MiNbt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 31,
+          "like_count": 124,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/2HTkpeOWVD",
+        "username": "Salachanoari",
+        "verified": false
+      }
+    ]
+  }
+}

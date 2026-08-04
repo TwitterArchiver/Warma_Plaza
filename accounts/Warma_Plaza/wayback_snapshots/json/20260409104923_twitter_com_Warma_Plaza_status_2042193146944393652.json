@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2041764047222403417",
+    "created_at": "2026-04-09T10:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042193146944393652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1890343594248036352",
+          "start": 0,
+          "username": "1s8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042193146944393652",
+    "in_reply_to_user_id": "1890343594248036352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041764047222403417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1s8964 （;≥皿≤）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2041764040402464768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXNk7da8AAtnA3.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2041764047222403417",
+        "created_at": "2026-04-09T10:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042193146944393652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1890343594248036352",
+              "start": 0,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042193146944393652",
+        "in_reply_to_user_id": "1890343594248036352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041764047222403417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1s8964 （;≥皿≤）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041764040402464768"
+          ]
+        },
+        "author_id": "1890343594248036352",
+        "conversation_id": "2041764047222403417",
+        "created_at": "2026-04-08T06:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041764047222403417"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "大不写作业运动"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ER09RA2as4",
+              "end": 32,
+              "expanded_url": "https://x.com/1s8964/status/2041764047222403417/photo/1",
+              "media_key": "3_2041764040402464768",
+              "start": 9,
+              "url": "https://t.co/ER09RA2as4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041764047222403417",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 20897,
+          "like_count": 381,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#大不写作业运动 https://t.co/ER09RA2as4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4891,
+          "following_count": 7487,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 560,
+          "tweet_count": 7396
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "别的忘了 总之开个庆祝会 这叫物质不灭定律",
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "腊稻蛤桃包的结合体☭🚩",
+        "pinned_tweet_id": "2027159092226064680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019218017431732224/e-4kyE4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1167,
+          "like_count": 8025,
+          "listed_count": 9,
+          "media_count": 1316,
+          "tweet_count": 6077
+        },
+        "username": "1s8964",
+        "verified": false
+      }
+    ]
+  }
+}

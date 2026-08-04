@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1983538148522242356",
+    "created_at": "2025-10-30T06:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T07:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983789288182395343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983789288182395343",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983538148522242356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming2952 (／_＼)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1983538148522242356",
+        "created_at": "2025-10-30T06:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983789288182395343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983789288182395343",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983538148522242356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming2952 (／_＼)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794617194954850304",
+        "conversation_id": "1983538148522242356",
+        "created_at": "2025-10-29T14:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983538148522242356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983538148522242356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2371,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这个头像太不成熟了\n周末我会换一个成熟的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4326,
+          "following_count": 7487,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3745
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/En | 政史地亡命文科生 | 助ta们涨粉:@virtual_kaf @gen_senden @pp71294406 @IzayoiMarin @NovaBabelo @QQ5915179 @brandon94623 @oldsddl4gunmu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "gen_senden"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "pp71294406"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "IzayoiMarin"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "NovaBabelo"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "QQ5915179"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "brandon94623"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "oldsddl4gunmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TvdkBws4WA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TvdkBws4WA",
+                "start": 0,
+                "url": "https://t.co/XlFsCAnf0y"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "↓discord群→",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 1658,
+          "like_count": 19674,
+          "listed_count": 12,
+          "media_count": 963,
+          "tweet_count": 5799
+        },
+        "url": "https://t.co/XlFsCAnf0y",
+        "username": "Baixiaoming2952",
+        "verified": false
+      }
+    ]
+  }
+}

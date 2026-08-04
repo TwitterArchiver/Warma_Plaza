@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1895427696458629354",
+    "created_at": "2025-11-18T10:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990735777169293779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878356855975723008",
+          "start": 0,
+          "username": "ugglasquest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990735777169293779",
+    "in_reply_to_user_id": "1878356855975723008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895427696458629354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugglasquest (´இ皿இ｀) \n(´◊ω◊｀) 哈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1895427672949313536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3pbReW0AA3aUj.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1895427673708535808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3pbUTXoAALx-p.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1895427674296000512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk3pbWfboAAvr9C.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1895427696458629354",
+        "created_at": "2025-11-18T10:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990735777169293779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878356855975723008",
+              "start": 0,
+              "username": "ugglasquest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990735777169293779",
+        "in_reply_to_user_id": "1878356855975723008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895427696458629354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugglasquest (´இ皿இ｀) \n(´◊ω◊｀) 哈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895427672949313536",
+            "3_1895427673708535808",
+            "3_1895427674296000512"
+          ]
+        },
+        "author_id": "1878356855975723008",
+        "conversation_id": "1895427696458629354",
+        "created_at": "2025-02-28T10:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T11:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895427696458629354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfCOmWb9ZN",
+              "end": 120,
+              "expanded_url": "https://x.com/ugglasquest/status/1895427696458629354/photo/1",
+              "media_key": "3_1895427672949313536",
+              "start": 97,
+              "url": "https://t.co/jfCOmWb9ZN"
+            },
+            {
+              "display_url": "pic.x.com/jfCOmWb9ZN",
+              "end": 120,
+              "expanded_url": "https://x.com/ugglasquest/status/1895427696458629354/photo/1",
+              "media_key": "3_1895427673708535808",
+              "start": 97,
+              "url": "https://t.co/jfCOmWb9ZN"
+            },
+            {
+              "display_url": "pic.x.com/jfCOmWb9ZN",
+              "end": 120,
+              "expanded_url": "https://x.com/ugglasquest/status/1895427696458629354/photo/1",
+              "media_key": "3_1895427674296000512",
+              "start": 97,
+              "url": "https://t.co/jfCOmWb9ZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895427696458629354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8573,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "更新置顶₍˄·͈༝·͈˄*₎◞ ̑̑\n大家好啊我是ugglas，可以叫我五仁\n重度抑郁和焦虑  人际交往障碍  强迫  od  自伤  酗酒  吸烟\n喜欢画画\n喜欢和小女孩玩(˵¯͒〰¯͒˵) https://t.co/jfCOmWb9ZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4375,
+          "following_count": 7492,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4054
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T08:22:54.000Z",
+        "description": "shtwt/edtwt  lesbian  08 自虐狂 自毁倾向  流血推预警  精神病预警‼️ 偶尔会发一些自己的绘画作品   ̑̑zzz和末日厨房玩家 我是女同性恋https://t.co/BS4jLUBFXD匿名提问箱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ugras2",
+                "end": 108,
+                "expanded_url": "https://ngl.link/ugras2",
+                "start": 85,
+                "url": "https://t.co/BS4jLUBFXD"
+              }
+            ]
+          }
+        },
+        "id": "1878356855975723008",
+        "location": "里世界 南望町",
+        "name": "Ugras ^q^",
+        "pinned_tweet_id": "1895427696458629354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975953302086127616/ZriLTRGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 51,
+          "like_count": 13893,
+          "listed_count": 3,
+          "media_count": 398,
+          "tweet_count": 1979
+        },
+        "username": "ugglasquest",
+        "verified": false
+      }
+    ]
+  }
+}

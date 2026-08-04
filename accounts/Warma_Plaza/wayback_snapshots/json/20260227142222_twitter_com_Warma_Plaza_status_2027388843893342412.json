@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2027378323412963600",
+    "created_at": "2026-02-27T14:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027388843893342412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2002580306461868032",
+          "start": 0,
+          "username": "kevinteio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027388843893342412",
+    "in_reply_to_user_id": "2002580306461868032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027378323412963600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kevinteio ᵕ᷄≀ ̠ᵕ᷅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2027378323412963600",
+        "created_at": "2026-02-27T14:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027388843893342412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2002580306461868032",
+              "start": 0,
+              "username": "kevinteio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027388843893342412",
+        "in_reply_to_user_id": "2002580306461868032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027378323412963600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kevinteio ᵕ᷄≀ ̠ᵕ᷅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002580306461868032",
+        "conversation_id": "2027378323412963600",
+        "created_at": "2026-02-27T13:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T14:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027378323412963600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengtunwudaimu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mengtunwudaimu/status/2027307858010820725",
+              "start": 17,
+              "url": "https://t.co/VySf46t5xC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027378323412963600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027307858010820725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支那在與AI吵架這方面遙遙領先🤔 https://t.co/VySf46t5xC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4796,
+          "following_count": 7494,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 552,
+          "tweet_count": 6704
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T03:22:38.000Z",
+        "description": "資本主義者，右派，基督教徒，支持台灣獨立，堅決反對一切共產主義、帝國主義、左派、女權、LGBT和伊斯蘭，嚮往自由與文明，厭惡支那，熱愛美國和日本🥰  歡迎各位支黑互fo",
+        "id": "2002580306461868032",
+        "name": "Kevin🇺🇸🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026595674570268672/fpyg7Gyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 466,
+          "like_count": 7910,
+          "listed_count": 8,
+          "media_count": 225,
+          "tweet_count": 1209
+        },
+        "username": "kevinteio",
+        "verified": false
+      }
+    ]
+  }
+}

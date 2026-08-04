@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1885251732638491097",
+    "created_at": "2025-02-17T14:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T15:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891492978163655004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645782504157364224",
+          "start": 0,
+          "username": "0Shimokitazawa0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891492978163655004",
+    "in_reply_to_user_id": "1645782504157364224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885333238694166645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0Shimokitazawa0 3月6日见！ƪ(˘⌣˘)ʃ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1885251732638491097",
+        "created_at": "2025-02-17T14:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T15:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891492978163655004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645782504157364224",
+              "start": 0,
+              "username": "0Shimokitazawa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891492978163655004",
+        "in_reply_to_user_id": "1645782504157364224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885333238694166645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Shimokitazawa0 3月6日见！ƪ(˘⌣˘)ʃ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645782504157364224",
+        "conversation_id": "1885251732638491097",
+        "created_at": "2025-01-31T14:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T15:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885333238694166645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885333238694166645",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885251732638491097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 9800X3D+9070XT！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 7476,
+          "like_count": 556,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1087
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T13:35:13.000Z",
+        "description": "大麦果汁爱好者。无聊的左右之分只为占领伪善高地，不负责照顾情绪，小鬼请自重。",
+        "id": "1645782504157364224",
+        "name": "真夏夜の鍋夢",
+        "pinned_tweet_id": "1863024468341453015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816824591047938048/hpiEGkbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 443,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 10643
+        },
+        "username": "0Shimokitazawa0",
+        "verified": false
+      }
+    ]
+  }
+}

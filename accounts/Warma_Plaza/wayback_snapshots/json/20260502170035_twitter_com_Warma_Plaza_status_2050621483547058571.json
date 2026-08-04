@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2050612466053443895",
+    "created_at": "2026-05-02T17:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050621483547058571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1703086500366450688",
+          "start": 0,
+          "username": "AGQNLZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050621483547058571",
+    "in_reply_to_user_id": "1703086500366450688",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050612466053443895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGQNLZS (⁠눈⁠‸⁠눈⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84167,
+        "height": 1280,
+        "media_key": "13_2050612390790836224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050612390790836224/img/qO7NDu2J-3TyO8J_.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050612390790836224/vid/avc1/320x568/h4C1Lqw5wDP9q4ZI.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050612390790836224/vid/avc1/480x852/LUHAe39o0nSQfLw-.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050612390790836224/vid/avc1/720x1280/S3u2krU7FoSKtwog.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050612390790836224/pl/bi290QdcdhDXZK-p.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2050612466053443895",
+        "created_at": "2026-05-02T17:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050621483547058571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1703086500366450688",
+              "start": 0,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050621483547058571",
+        "in_reply_to_user_id": "1703086500366450688",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050612466053443895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGQNLZS (⁠눈⁠‸⁠눈⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050612390790836224"
+          ]
+        },
+        "author_id": "1703086500366450688",
+        "conversation_id": "2050612466053443895",
+        "created_at": "2026-05-02T16:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050612466053443895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q94G4gkGv7",
+              "end": 58,
+              "expanded_url": "https://x.com/AGQNLZS/status/2050612466053443895/video/1",
+              "media_key": "13_2050612390790836224",
+              "start": 35,
+              "url": "https://t.co/Q94G4gkGv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050612466053443895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饭店公然张贴“给不起小费就别出门吃饭”，美国的小费制度越来越离谱了！ https://t.co/Q94G4gkGv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4982,
+          "following_count": 7495,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 567,
+          "tweet_count": 8632
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998077784149884936/OTy6-Uac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6073,
+          "following_count": 189,
+          "like_count": 363,
+          "listed_count": 53,
+          "media_count": 1030,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

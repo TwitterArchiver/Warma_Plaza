@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2043136904548258088",
+    "created_at": "2026-04-12T07:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043230887618433324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2446210904",
+          "start": 0,
+          "username": "JazzGarlic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043230887618433324",
+    "in_reply_to_user_id": "2446210904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043136904548258088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JazzGarlic ｢(ﾟﾍﾟ)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2043136899859005440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFquL3eWwAAb7hN.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2043136904548258088",
+        "created_at": "2026-04-12T07:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043230887618433324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2446210904",
+              "start": 0,
+              "username": "JazzGarlic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043230887618433324",
+        "in_reply_to_user_id": "2446210904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043136904548258088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JazzGarlic ｢(ﾟﾍﾟ)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043136899859005440"
+          ]
+        },
+        "author_id": "2446210904",
+        "conversation_id": "2043136904548258088",
+        "created_at": "2026-04-12T01:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043136904548258088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eG6ZOOGhdA",
+              "end": 81,
+              "expanded_url": "https://x.com/JazzGarlic/status/2043136904548258088/photo/1",
+              "media_key": "3_2043136899859005440",
+              "start": 58,
+              "url": "https://t.co/eG6ZOOGhdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043136904548258088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6970,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后续：等了整整两天，黑客大佬终于回复我了。但是结果令人遗憾，因为windows 98并不支持powershell。 https://t.co/eG6ZOOGhdA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 7496,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 562,
+          "tweet_count": 7755
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-15T23:37:48.000Z",
+        "description": "爱国的简中键政圈代码老师。 照片为网图，非本人。 Yes, I do speak English.",
+        "id": "2446210904",
+        "name": "北美打字员",
+        "pinned_tweet_id": "2027242385860637032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953585926967377920/o01QEC9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 528,
+          "like_count": 16472,
+          "listed_count": 52,
+          "media_count": 395,
+          "tweet_count": 9407
+        },
+        "username": "JazzGarlic",
+        "verified": true
+      }
+    ]
+  }
+}

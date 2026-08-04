@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2025385016851849469",
+    "created_at": "2026-02-25T10:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026600706585837866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942051519395983360",
+          "start": 0,
+          "username": "bluewolflan66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026600706585837866",
+    "in_reply_to_user_id": "1942051519395983360",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025385016851849469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluewolflan66 ( *⊙~⊙) ！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32415,
+        "height": 1280,
+        "media_key": "7_2025384945997459456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025384945997459456/pu/img/X_6R2FnIP8wBZmm4.jpg",
+        "public_metrics": {
+          "view_count": 27387
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025384945997459456/pu/vid/avc1/320x710/yzV70Vx2hy21Cbm4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025384945997459456/pu/vid/avc1/480x1066/b4llfF6mR4tRMAbS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025384945997459456/pu/vid/avc1/576x1280/Cy1X6xkVp9r4mYCv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025384945997459456/pu/pl/yUIjeNzUKJj7VhHf.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2025385016851849469",
+        "created_at": "2026-02-25T10:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026600706585837866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942051519395983360",
+              "start": 0,
+              "username": "bluewolflan66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026600706585837866",
+        "in_reply_to_user_id": "1942051519395983360",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025385016851849469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluewolflan66 ( *⊙~⊙) ！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025384945997459456"
+          ]
+        },
+        "author_id": "1942051519395983360",
+        "conversation_id": "2025385016851849469",
+        "created_at": "2026-02-22T01:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025385016851849469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9AvRryLRJ",
+              "end": 31,
+              "expanded_url": "https://x.com/bluewolflan66/status/2025385016851849469/video/1",
+              "media_key": "7_2025384945997459456",
+              "start": 8,
+              "url": "https://t.co/M9AvRryLRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025385016851849469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 52302,
+          "like_count": 517,
+          "quote_count": 11,
+          "reply_count": 81,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "越了解越拥护🫡 https://t.co/M9AvRryLRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4791,
+          "following_count": 7495,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 552,
+          "tweet_count": 6666
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T02:42:37.000Z",
+        "description": "🇹🇼🇯🇵🇺🇦🇮🇱  包蜜，小學博士生，管理老中這一块，安卓護照持有者，謝謝你發給我的台灣國國籍🥰",
+        "id": "1942051519395983360",
+        "location": "Singapore",
+        "name": "阿蘭（二代目）",
+        "pinned_tweet_id": "2000124928239284653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005065655738138624/Wuwox6lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 166,
+          "like_count": 4887,
+          "listed_count": 11,
+          "media_count": 1067,
+          "tweet_count": 2899
+        },
+        "username": "bluewolflan66",
+        "verified": false
+      }
+    ]
+  }
+}

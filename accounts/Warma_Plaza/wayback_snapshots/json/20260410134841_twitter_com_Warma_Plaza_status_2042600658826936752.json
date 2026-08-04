@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2042070592820842846",
+    "created_at": "2026-04-10T13:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042600658826936752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040775269213192193",
+          "start": 0,
+          "username": "Natsumeann64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042600658826936752",
+    "in_reply_to_user_id": "2040775269213192193",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042070592820842846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumeann64 ┌(。Д。)┐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2042070592820842846",
+        "created_at": "2026-04-10T13:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042600658826936752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040775269213192193",
+              "start": 0,
+              "username": "Natsumeann64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042600658826936752",
+        "in_reply_to_user_id": "2040775269213192193",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042070592820842846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumeann64 ┌(。Д。)┐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040775269213192193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2042070592820842846",
+        "created_at": "2026-04-09T02:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042070592820842846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jueshengshenla…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/jueshengshenlan/status/2042034883804196869",
+              "start": 20,
+              "url": "https://t.co/DFvhIwth1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042070592820842846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042034883804196869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倪茂森你敢去b站发傻逼习近平五个字吗？ https://t.co/DFvhIwth1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896,
+          "following_count": 7491,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 561,
+          "tweet_count": 7406
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T12:56:01.000Z",
+        "description": "二号@Natsumeann13 三号@Natsumeann89 习近平我操你妈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Natsumeann13"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Natsumeann89"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sbxjp.com",
+                "end": 23,
+                "expanded_url": "http://sbxjp.com",
+                "start": 0,
+                "url": "https://t.co/fQBwdJyI0I"
+              }
+            ]
+          }
+        },
+        "id": "2040775269213192193",
+        "location": "太虚山",
+        "name": "符华🍥🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040776370520035328/TVN11lCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 158,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/fQBwdJyI0I",
+        "username": "Natsumeann64",
+        "verified": false
+      }
+    ]
+  }
+}

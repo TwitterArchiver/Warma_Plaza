@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1946740887217983950",
+    "created_at": "2025-07-20T01:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T02:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946751162860159001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911351259749294080",
+          "start": 0,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946751162860159001",
+    "in_reply_to_user_id": "1911351259749294080",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 103,
+      "like_count": 7,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946740887217983950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quitewaterqwq ｜д•´)!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_1946740884373983232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwQ2hSLXUAAJ5gO.jpg",
+        "width": 506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1946740887217983950",
+        "created_at": "2025-07-20T01:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T02:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946751162860159001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911351259749294080",
+              "start": 0,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946751162860159001",
+        "in_reply_to_user_id": "1911351259749294080",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946740887217983950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quitewaterqwq ｜д•´)!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946740884373983232"
+          ]
+        },
+        "author_id": "1911351259749294080",
+        "conversation_id": "1946740887217983950",
+        "created_at": "2025-07-20T01:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T02:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946740887217983950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hYeMeIeMb",
+              "end": 29,
+              "expanded_url": "https://x.com/Quitewaterqwq/status/1946740887217983950/photo/1",
+              "media_key": "3_1946740884373983232",
+              "start": 6,
+              "url": "https://t.co/4hYeMeIeMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946740887217983950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1400,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个表是？ https://t.co/4hYeMeIeMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 7491,
+          "like_count": 646,
+          "listed_count": 4,
+          "media_count": 450,
+          "tweet_count": 2113
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "09山东准高一|不b任何人|infp|友🏳️‍🌈🏳️‍⚧️非性少数|无固定政治立场|实验爱好者|推荐关注朋友👉@elp15_ @hajixi12356 @IzumiKonata2016 @Shimamura_Tako @wusweet_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "elp15_"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "hajixi12356"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "IzumiKonata2016"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "Shimamura_Tako"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "wusweet_i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PJRSYa",
+                "end": 23,
+                "expanded_url": "https://t.me/PJRSYa",
+                "start": 0,
+                "url": "https://t.co/9QvFwvU0yb"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "location": "IP属地:中国",
+        "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
+        "pinned_tweet_id": "1941510780517745036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 686,
+          "like_count": 2143,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 2383
+        },
+        "url": "https://t.co/9QvFwvU0yb",
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

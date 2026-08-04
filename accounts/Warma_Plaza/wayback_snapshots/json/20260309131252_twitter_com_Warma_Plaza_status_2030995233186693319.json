@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2030896871783432390",
+    "created_at": "2026-03-09T13:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030995233186693319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030995233186693319",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030896871783432390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 (•̩̩̩̩＿•̩̩̩̩)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2030896758809886720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8x14xbAAADF7I.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2030896871783432390",
+        "created_at": "2026-03-09T13:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030995233186693319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030995233186693319",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030896871783432390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 (•̩̩̩̩＿•̩̩̩̩)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030896758809886720"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2030896871783432390",
+        "created_at": "2026-03-09T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030896871783432390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pt9DXnIxms",
+              "end": 166,
+              "expanded_url": "https://x.com/Rococo90933671/status/2030896871783432390/photo/1",
+              "media_key": "3_2030896758809886720",
+              "start": 143,
+              "url": "https://t.co/Pt9DXnIxms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030896871783432390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "发明卸载APP显示“残忍离开”的人真是个天（傻）才（逼）\n\n每次进入卸载页面，从杀毒软件到社交平台，从原神到崩铁，它总会可怜兮兮地问我：呜呜呜，真的要走吗？你走了我们吃什么？\n\n明明只是正常操作，怎么搞得像我做错了什么？\n\n更离谱的是，有时候我还真被这句话拿捏住了，最后默默点了取消。\n\n它很操蛋。不跟你讲功能，不跟你讲逻辑，它直接攻击你的愧疚感。\n\n它跟你说你走了会失去什么功能，它也跟你说你走了会伤害我——在一个纯粹的工具行为的基础上，添加了无厘头的情感选择——你一走，就成了“残忍”“狠心”“无情”。\n\n可凭什么呢？我花钱了，我用完了，我不想用了，这是我的自由。\n\n这玩意背后真的全是套路。\n\n一个沟槽的产品经理承认：这些文案，都是AB测试测出来的。哪个版本让用户留下的概率高，就用哪个，而“残忍离开”那个版本，留人率最高。\n\n我tm以为是自己心软，其实是掉进了别人设计好的坑里。\n\n有一种心理叫损失厌恶。人对失去的恐惧，比对得到的渴望强烈得多。你让我赚100块，我可能没多大感觉；但你让我亏100块，我能难受一整天。\n\n而且，比APP更可怕的，是生活里到处都是拿这一点来PUA的套路，无师自通者也大有人在。\n\n这套“你走就是你狠心”的话术，不止APP在用：\n\n领导：“公司现在正是用人的时候，你走了我们吃什么？”\n\n“是啊，吃什么？”\n\n对象：“我为你付出那么多，你就这么狠心？你怎么这么自私，呸！”\n\n朋友：“这么不给面子？是不是看不起我？”\n\n每一句话，都让你觉得自己十恶不赦。\n\n坚持自己的选择，就得背上“狠心”“无情”“自私”的标签；想做自己，就得先过一关“你是不是对不起别人”的灵魂拷问。\n\n太多人被这套操蛋玩意困住了——工作干得不开心，不敢走，因为“老板对我挺好的”；恋爱谈得很累，不敢分，因为“ta那么爱我”；甚至买个东西不满意，都不敢退，觉得“人家做生意不容易”。\n\n我们被调成啥样了？懂事到把自己的边界让给别人踩。\n\n被人用愧疚感绑架这事，很多时候真的让人有熟睡丈夫般的无力感。\n\n不过，也有几个办法，不一定高级，但有可能管用。\n\n1. 把那句话翻译成人话\n\nAPP说“残忍离开”：“你走了我怎么爆你金币？怎么让你狠狠氪648？”\n\n老板说“你走了我怎么交代”：“我不想招新人，好不容易调出来一个给我无偿加班996007的捏，就这么走了？”\n\n朋友说“这么不给面子”：“居然不陪我玩，我怎么让你借钱给我？我草。”\n\n它们只是别人表达需求的方式，不是对你的道德审判。\n\n2. 你的选择，不需要别人批准\n\n你的选择即你的人生。（Your choices become your life.）\n\n你的时间，你的精力。你有权决定把它们花在哪里。别人可以失望，可以难过，可以不理解——那是他们的事。你不能因为怕别人失望，就把自己困在原地。\n\n我可以让你失望，但我不能让自己委屈。\n\n3. 如果可以，夺回主动权\n\n下次再看到“残忍离开”，你别慌，别躲。你就盯着那四个字看两秒，然后微微一笑，点下去。\n\n心里默念：又要老子氪金，又要老子爆金币，我****。深渊膨胀堪比津巴布韦币，为了卖卡环境恶心得演都不演了，我****！\n\n你不是在伤害谁，你只是在做一个对自己负责的选择。\n\n4. 相信自己并不狠心\n\n我琢磨这件事很久，后来想明白了——\n\n我们之所以被一句“残忍离开”拿捏住，是因为我们骨子里怕当“坏人”。\n\n我们从小被教育要善良，要为别人着想，不要伤害别人。结果长大了，连拒绝一个APP都觉得有负罪感。\n\n可你有没有想过，你对自己，才是最心狠的那个？你对自己狠得一笔，才不敢走，不敢换，不敢说“不”。\n\n你把别人的感受放在第一位，把自己的需求往后排。你怕别人失望，就不怕自己委屈吗？\n\n真正的“残忍”，是对自己残忍——明知道该走了，还拖着；明知道不合适，还忍着；明知道想要什么，还不敢说。\n\n那些APP、那些人、那些事，只是过客。\n\n你不用愧疚，不用解释，不用道歉。\n\n下次再看到“残忍离开”，你啥也不用多想——喊出一句草泥马——\n\n然后该退出的就退出，该卸载就卸载！\n\n没有下次相遇了（无慈悲）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4887,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "发明卸载APP显示“残忍离开”的人真是个天（傻）才（逼）\n\n每次进入卸载页面，从杀毒软件到社交平台，从原神到崩铁，它总会可怜兮兮地问我：呜呜呜，真的要走吗？你走了我们吃什么？\n\n明明只是正常操作，怎么搞得像我做错了什么？\n\n更离谱的是，有时候我还真被这句话拿捏住了，最后默默点了取消。 https://t.co/Pt9DXnIxms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4789,
+          "following_count": 7493,
+          "like_count": 672,
+          "listed_count": 8,
+          "media_count": 554,
+          "tweet_count": 6853
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9262,
+          "following_count": 2645,
+          "like_count": 31131,
+          "listed_count": 25,
+          "media_count": 3309,
+          "tweet_count": 18572
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

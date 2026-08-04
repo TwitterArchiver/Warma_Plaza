@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1980250040993284592",
+    "created_at": "2025-10-20T15:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980292008901247453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800118088924299265",
+          "start": 0,
+          "username": "EvenCroren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980292008901247453",
+    "in_reply_to_user_id": "1800118088924299265",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980250040993284592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvenCroren ｡( ͒•‧̫•ू⑅ ͒)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1980250040993284592",
+        "created_at": "2025-10-20T15:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980292008901247453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800118088924299265",
+              "start": 0,
+              "username": "EvenCroren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980292008901247453",
+        "in_reply_to_user_id": "1800118088924299265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980250040993284592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvenCroren ｡( ͒•‧̫•ू⑅ ͒)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800118088924299265",
+        "conversation_id": "1980250040993284592",
+        "created_at": "2025-10-20T12:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980250040993284592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SilenceGvq/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/SilenceGvq/status/1980116728375033887",
+              "start": 31,
+              "url": "https://t.co/E8BDp1LTNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980250040993284592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980116728375033887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北洋冥國派收收味好嘛😅 軍閥控制國會的時代都能吹 也是神人了 https://t.co/E8BDp1LTNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 7491,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 3443
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T10:51:47.000Z",
+        "description": "立場は固定されていない（逍遙派） /汪精衛推し\n🚪$8964 $731 $1213\n匿名メールボックス：https://t.co/mRTXmHFwKW\n日本語勉強中です！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evencroren",
+                "end": 75,
+                "expanded_url": "https://ngl.link/evencroren",
+                "start": 52,
+                "url": "https://t.co/mRTXmHFwKW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubisoft.com",
+                "end": 23,
+                "expanded_url": "http://www.ubisoft.com",
+                "start": 0,
+                "url": "https://t.co/zC1L8yqzbF"
+              }
+            ]
+          }
+        },
+        "id": "1800118088924299265",
+        "location": "New Taipei, Taiwan",
+        "name": "EvenCroren（新北の虎🐱）",
+        "pinned_tweet_id": "1938375066820948419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955294706587537411/Jq-Z3Mm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 702,
+          "like_count": 10117,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/zC1L8yqzbF",
+        "username": "EvenCroren",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981946100417548628",
+    "created_at": "2025-10-25T05:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981963041865605380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319600236491255808",
+          "start": 0,
+          "username": "miku_suki393939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981963041865605380",
+    "in_reply_to_user_id": "1319600236491255808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981946100417548628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku_suki393939 ╰(⇀‸↼)╯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981946088945762304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FJd5OWQAATB7h.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981946100417548628",
+        "created_at": "2025-10-25T05:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981963041865605380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319600236491255808",
+              "start": 0,
+              "username": "miku_suki393939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981963041865605380",
+        "in_reply_to_user_id": "1319600236491255808",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981946100417548628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku_suki393939 ╰(⇀‸↼)╯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981946088945762304"
+          ]
+        },
+        "author_id": "1319600236491255808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981946100417548628",
+        "created_at": "2025-10-25T04:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981946100417548628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U83zZ71pE4",
+              "end": 45,
+              "expanded_url": "https://x.com/miku_suki393939/status/1981946100417548628/photo/1",
+              "media_key": "3_1981946088945762304",
+              "start": 22,
+              "url": "https://t.co/U83zZ71pE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981946100417548628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们cos的是初音未来在衡水读高中时的样子 https://t.co/U83zZ71pE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 7490,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 504,
+          "tweet_count": 3643
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T11:23:30.000Z",
+        "description": "日本潜伏中のオタク／ACG全振り勢🎨ライブ現場主食🍙コール命がけ🔥音ゲ廃人🎧アニメ・ボカロ・V箱に沼ってる全推し勢🌸ヲタ芸修行中💡    勇気と愛を持って、大切な人奪わんとするすべての運命に立ち向かえ",
+        "id": "1319600236491255808",
+        "location": "初音ミク",
+        "name": "🌸婲緋節扌喿⛩️🩵39C5BB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803097210193915904/pojoHfV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4167,
+          "following_count": 1977,
+          "like_count": 162163,
+          "listed_count": 16,
+          "media_count": 4030,
+          "tweet_count": 67193
+        },
+        "username": "miku_suki393939",
+        "verified": false
+      }
+    ]
+  }
+}

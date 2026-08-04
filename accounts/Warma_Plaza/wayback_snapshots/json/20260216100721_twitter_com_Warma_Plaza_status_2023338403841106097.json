@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2022978831053922534",
+    "created_at": "2026-02-16T10:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023338403841106097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983755008777838592",
+          "start": 0,
+          "username": "Droplet_Express"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023338403841106097",
+    "in_reply_to_user_id": "1983755008777838592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022978831053922534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Droplet_Express ( ´ﾟωﾟ)..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2022978831053922534",
+        "created_at": "2026-02-16T10:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023338403841106097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983755008777838592",
+              "start": 0,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023338403841106097",
+        "in_reply_to_user_id": "1983755008777838592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022978831053922534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Droplet_Express ( ´ﾟωﾟ)..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983755008777838592",
+        "conversation_id": "2022978831053922534",
+        "created_at": "2026-02-15T10:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022978831053922534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chukuang2018/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/chukuang2018/status/2022702580229673325",
+              "start": 77,
+              "url": "https://t.co/MSC5PYF2aY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022978831053922534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3279,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022702580229673325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "墙内反贼殖畜对照着自己城市的人均GDP偷偷一算，麻痹的少了一位数！\n心里气不过赶紧从床上滚坐起来上推找粉红骂架去，腻得发黑的床单黏在后背上也没发觉😂🤣🤣 https://t.co/MSC5PYF2aY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4740,
+          "following_count": 7490,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 540,
+          "tweet_count": 6324
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T04:37:22.000Z",
+        "description": "我感觉我又行了\n不太行小号@WallfacerO41419",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "WallfacerO41419"
+              }
+            ]
+          }
+        },
+        "id": "1983755008777838592",
+        "location": "上海",
+        "name": "红咖喱🚗🚗🚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008874514739089409/ua45H7SZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 413,
+          "like_count": 10373,
+          "listed_count": 14,
+          "media_count": 90,
+          "tweet_count": 2032
+        },
+        "username": "Droplet_Express",
+        "verified": false
+      }
+    ]
+  }
+}

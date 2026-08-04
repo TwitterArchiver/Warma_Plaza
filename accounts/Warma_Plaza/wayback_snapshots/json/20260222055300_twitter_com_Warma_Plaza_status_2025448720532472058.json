@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2025435299464306782",
+    "created_at": "2026-02-22T05:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025448720532472058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932702866571239424",
+          "start": 0,
+          "username": "Uchina_Ob1450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025448720532472058",
+    "in_reply_to_user_id": "1932702866571239424",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025435299464306782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uchina_Ob1450 （ ’ - ’ * )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2025435290496815104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvKql2aUAA_U4W.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2025435299464306782",
+        "created_at": "2026-02-22T05:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025448720532472058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932702866571239424",
+              "start": 0,
+              "username": "Uchina_Ob1450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025448720532472058",
+        "in_reply_to_user_id": "1932702866571239424",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025435299464306782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uchina_Ob1450 （ ’ - ’ * )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025435290496815104"
+          ]
+        },
+        "author_id": "1932702866571239424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025435299464306782",
+        "created_at": "2026-02-22T04:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025435299464306782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2023188623261409280/NapyaySV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2023188623261409280/NapyaySV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/fdlOy3JfUb"
+            },
+            {
+              "display_url": "pic.x.com/fUAxj0WGLh",
+              "end": 71,
+              "expanded_url": "https://x.com/Uchina_Ob1450/status/2025435299464306782/photo/1",
+              "media_key": "3_2025435290496815104",
+              "start": 48,
+              "url": "https://t.co/fUAxj0WGLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025435299464306782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/fdlOy3JfUb https://t.co/fUAxj0WGLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4784,
+          "following_count": 7494,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 6542
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-11T07:34:25.000Z",
+        "description": "鏡子不磨不平\n支黑反賊不滅不行\n試看將來的環球\n必是赤旗的世界",
+        "id": "1932702866571239424",
+        "location": "宇智波村",
+        "name": "神秘面具男·滅殖之刃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976079095126765568/GbWPFVlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 212,
+          "like_count": 1853,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1652
+        },
+        "username": "Uchina_Ob1450",
+        "verified": false
+      }
+    ]
+  }
+}

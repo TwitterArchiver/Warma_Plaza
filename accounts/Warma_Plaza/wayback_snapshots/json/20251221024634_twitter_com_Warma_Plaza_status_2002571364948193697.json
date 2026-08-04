@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002559379867119636",
+    "created_at": "2025-12-21T02:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002571364948193697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697606014768709632",
+          "start": 0,
+          "username": "jidu507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002571364948193697",
+    "in_reply_to_user_id": "1697606014768709632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002559379867119636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jidu507 揉揉~ε(;。&gt;д＜)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002559379867119636",
+        "created_at": "2025-12-21T02:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002571364948193697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697606014768709632",
+              "start": 0,
+              "username": "jidu507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002571364948193697",
+        "in_reply_to_user_id": "1697606014768709632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002559379867119636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jidu507 揉揉~ε(;。&gt;д＜)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697606014768709632",
+        "conversation_id": "2002559379867119636",
+        "created_at": "2025-12-21T01:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T02:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002559379867119636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002559379867119636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我下午要去清理耳桥的发炎，我又熬穿了，一会真要休息了心脏跳的好快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4543,
+          "following_count": 7491,
+          "like_count": 679,
+          "listed_count": 6,
+          "media_count": 523,
+          "tweet_count": 5101
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T13:43:14.000Z",
+        "description": "这里是我的日记本",
+        "id": "1697606014768709632",
+        "location": "耳机里的世界",
+        "name": "灵魂在拥抱中回暖",
+        "pinned_tweet_id": "1995036214802743632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994594926043312128/0hNUkwsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 33,
+          "like_count": 25401,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 622
+        },
+        "username": "jidu507",
+        "verified": false
+      }
+    ]
+  }
+}

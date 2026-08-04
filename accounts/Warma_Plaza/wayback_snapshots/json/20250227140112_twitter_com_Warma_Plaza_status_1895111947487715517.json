@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895111944874663936"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1895111947487715517",
+    "created_at": "2025-02-27T14:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T15:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895111947487715517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jIOs0hgZvp",
+          "end": 183,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1895111947487715517/photo/1",
+          "media_key": "3_1895111944874663936",
+          "start": 160,
+          "url": "https://t.co/jIOs0hgZvp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895111947487715517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起来三年前的今夜，玩“Online”的时候，因为按了一个红色开关，导致整个沃星开始大地震（约8.0级），然后“海啸”和随之而来的“动荡”和“战乱”，差点让沃星人四分五裂...(／_＼)\n结果玩着玩着，就困得睡着了...当再醒来时，一切居然平静如初，仿佛什么都没发生一样...٩(๑•ㅂ•)۶\n如果没有该多好... https://t.co/jIOs0hgZvp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1895111944874663936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkzKRevaoAAqfZr.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895111944874663936"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1895111947487715517",
+        "created_at": "2025-02-27T14:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T15:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895111947487715517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIOs0hgZvp",
+              "end": 183,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1895111947487715517/photo/1",
+              "media_key": "3_1895111944874663936",
+              "start": 160,
+              "url": "https://t.co/jIOs0hgZvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895111947487715517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来三年前的今夜，玩“Online”的时候，因为按了一个红色开关，导致整个沃星开始大地震（约8.0级），然后“海啸”和随之而来的“动荡”和“战乱”，差点让沃星人四分五裂...(／_＼)\n结果玩着玩着，就困得睡着了...当再醒来时，一切居然平静如初，仿佛什么都没发生一样...٩(๑•ㅂ•)۶\n如果没有该多好... https://t.co/jIOs0hgZvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 7482,
+          "like_count": 555,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1119
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

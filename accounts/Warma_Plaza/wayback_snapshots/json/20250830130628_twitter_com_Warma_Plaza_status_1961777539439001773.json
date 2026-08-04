@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1961762773404115328",
+    "created_at": "2025-08-30T13:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T14:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961777539439001773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759609422777577472",
+          "start": 0,
+          "username": "liuying_021464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961777539439001773",
+    "in_reply_to_user_id": "1759609422777577472",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961762773404115328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuying_021464 ╭(°A°`)╮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1961762773404115328",
+        "created_at": "2025-08-30T13:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961777539439001773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759609422777577472",
+              "start": 0,
+              "username": "liuying_021464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961777539439001773",
+        "in_reply_to_user_id": "1759609422777577472",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961762773404115328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuying_021464 ╭(°A°`)╮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759609422777577472",
+        "conversation_id": "1961762773404115328",
+        "created_at": "2025-08-30T12:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961762773404115328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961762773404115328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 297,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后就是纯视奸号了，在此悼念我自己🕯️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4131,
+          "following_count": 7484,
+          "like_count": 661,
+          "listed_count": 8,
+          "media_count": 477,
+          "tweet_count": 2553
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T16:03:02.000Z",
+        "description": "我不断期待着属于自己的事件的发生\n长期淡推",
+        "id": "1759609422777577472",
+        "location": "中国",
+        "name": "抹茶小乐奈",
+        "pinned_tweet_id": "1953814755015360882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952362918466428928/fqxWXZZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 3140,
+          "like_count": 55809,
+          "listed_count": 11,
+          "media_count": 359,
+          "tweet_count": 18834
+        },
+        "username": "liuying_021464",
+        "verified": false
+      }
+    ]
+  }
+}

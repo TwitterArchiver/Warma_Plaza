@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2008132047613858299",
+    "created_at": "2026-01-06T11:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008504634193965374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711278732525367296",
+          "start": 0,
+          "username": "Pyongyang_cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008504634193965374",
+    "in_reply_to_user_id": "1711278732525367296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008132047613858299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyongyang_cui ｡ﾟ(ﾟ´△`ﾟ)ﾟ｡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32533,
+        "height": 1116,
+        "media_key": "13_2008131961295196160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008131961295196160/img/lYp7dNk6Du646iY2.jpg",
+        "public_metrics": {
+          "view_count": 74475
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008131961295196160/vid/avc1/320x620/nX9h6YpiVaXKggNm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008131961295196160/vid/avc1/480x930/-bXAlifClzVAdwJY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008131961295196160/vid/avc1/576x1116/o533Ya50ZUrcZGIA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008131961295196160/pl/PKGll5RTqcbTKPLt.m3u8?v=733"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 25200,
+        "height": 1280,
+        "media_key": "13_2008131961290907648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008131961290907648/img/NhbQxTXdMeKgx3QG.jpg",
+        "public_metrics": {
+          "view_count": 6417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008131961290907648/vid/avc1/320x568/NyxTvuZw9rLTXkf5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008131961290907648/vid/avc1/480x852/ieCEOuxsWBDb5trI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008131961290907648/vid/avc1/720x1280/UPwVASL48TA_Io-g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008131961290907648/pl/39Y7WD07lxeqrNgI.m3u8?v=cad"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2008132047613858299",
+        "created_at": "2026-01-06T11:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008504634193965374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711278732525367296",
+              "start": 0,
+              "username": "Pyongyang_cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008504634193965374",
+        "in_reply_to_user_id": "1711278732525367296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008132047613858299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyongyang_cui ｡ﾟ(ﾟ´△`ﾟ)ﾟ｡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008131961295196160",
+            "13_2008131961290907648"
+          ]
+        },
+        "author_id": "1711278732525367296",
+        "conversation_id": "2008132047613858299",
+        "created_at": "2026-01-05T11:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008132047613858299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfR3ktCHqh",
+              "end": 129,
+              "expanded_url": "https://x.com/Pyongyang_cui/status/2008132047613858299/video/1",
+              "media_key": "13_2008131961295196160",
+              "start": 106,
+              "url": "https://t.co/jfR3ktCHqh"
+            },
+            {
+              "display_url": "pic.x.com/jfR3ktCHqh",
+              "end": 129,
+              "expanded_url": "https://x.com/Pyongyang_cui/status/2008132047613858299/video/1",
+              "media_key": "13_2008131961290907648",
+              "start": 106,
+              "url": "https://t.co/jfR3ktCHqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008132047613858299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 137432,
+          "like_count": 731,
+          "quote_count": 6,
+          "reply_count": 47,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "河南省82岁孤寡老头陈大明独自抚养孙子，每天去人力市场搬砖头背水泥苟延残喘。事情曝光后，地方上秉着共产党人「丧事喜办」的原则，绝口不提怎么帮扶，而是号召大家学习陈大明老先生身处逆境也绝不给国家添负担的优良品质。 https://t.co/jfR3ktCHqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 7492,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5507
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T07:14:27.000Z",
+        "description": "朝鲜宣传鼓动部",
+        "id": "1711278732525367296",
+        "location": "North Korea",
+        "name": "平壤崔纽毕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711311890473943040/tL9D_UtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26213,
+          "following_count": 217,
+          "like_count": 11052,
+          "listed_count": 105,
+          "media_count": 3353,
+          "tweet_count": 6580
+        },
+        "username": "Pyongyang_cui",
+        "verified": true
+      }
+    ]
+  }
+}

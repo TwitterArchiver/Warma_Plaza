@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2054587354770461019",
+    "created_at": "2026-05-13T16:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054605042259538106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "5967912",
+          "start": 0,
+          "username": "tinyfool"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054605042259538106",
+    "in_reply_to_user_id": "5967912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054587354770461019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinyfool ＼⁠(ﾟ⁠ｰﾟ⁠＼⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2054587354770461019",
+        "created_at": "2026-05-13T16:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054605042259538106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "5967912",
+              "start": 0,
+              "username": "tinyfool"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054605042259538106",
+        "in_reply_to_user_id": "5967912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054587354770461019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinyfool ＼⁠(ﾟ⁠ｰﾟ⁠＼⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "5967912",
+        "conversation_id": "2054587354770461019",
+        "created_at": "2026-05-13T15:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054587354770461019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yongquan/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yongquan/status/2054501910934372757",
+              "start": 7,
+              "url": "https://t.co/b6E4JaieXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054587354770461019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3415,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054501910934372757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是铜锣烧吧 https://t.co/b6E4JaieXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4994,
+          "following_count": 7498,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8953
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-11T17:10:33.000Z",
+        "description": "Youtuber\n20年老程序员，业已退休，不以写代码为主业。\n不是英语老师，但开发了\"英语轻松读\"，做了广受好评的学习英语的视频。\n心在日本，人目前在天津\nYoutube：\n英语学习之路 https://t.co/fY05anVN8r\n胡说八道 https://t.co/FQLaNWFD5j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/tinyfoolgmail",
+                "end": 118,
+                "expanded_url": "http://youtube.com/c/tinyfoolgmail",
+                "start": 95,
+                "url": "https://t.co/fY05anVN8r"
+              },
+              {
+                "display_url": "tinyurl.com/2j928ecm",
+                "end": 147,
+                "expanded_url": "http://tinyurl.com/2j928ecm",
+                "start": 124,
+                "url": "https://t.co/FQLaNWFD5j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "codechina.org",
+                "end": 23,
+                "expanded_url": "https://codechina.org/",
+                "start": 0,
+                "url": "https://t.co/h65nactS6S"
+              }
+            ]
+          }
+        },
+        "id": "5967912",
+        "location": "Tianjin",
+        "name": "Tinyfool",
+        "pinned_tweet_id": "1529730373789179909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634730992278839297/vZg4HnAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191400,
+          "following_count": 988,
+          "like_count": 7685,
+          "listed_count": 1486,
+          "media_count": 5102,
+          "tweet_count": 108678
+        },
+        "url": "https://t.co/h65nactS6S",
+        "username": "tinyfool",
+        "verified": true
+      }
+    ]
+  }
+}

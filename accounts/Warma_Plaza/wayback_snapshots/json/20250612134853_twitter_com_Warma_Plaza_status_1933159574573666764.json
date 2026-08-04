@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933159567120289793"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1933158330945745080",
+    "created_at": "2025-06-12T13:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T14:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933159574573666764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1897621173741178880",
+          "start": 0,
+          "username": "HanRuoYi"
+        },
+        {
+          "end": 23,
+          "id": "1803288616539668480",
+          "start": 10,
+          "username": "KitaIkuyo870"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MBo7eaRmn",
+          "end": 54,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1933159574573666764/photo/1",
+          "media_key": "3_1933159567120289793",
+          "start": 31,
+          "url": "https://t.co/3MBo7eaRmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933159574573666764",
+    "in_reply_to_user_id": "1897621173741178880",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933159043708895628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanRuoYi @KitaIkuyo870 (ꐦÒ‸Ó) https://t.co/3MBo7eaRmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_1933159567120289793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP2YkxaUAEkDAJ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933159567120289793"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1933158330945745080",
+        "created_at": "2025-06-12T13:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T14:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933159574573666764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897621173741178880",
+              "start": 0,
+              "username": "HanRuoYi"
+            },
+            {
+              "end": 23,
+              "id": "1803288616539668480",
+              "start": 10,
+              "username": "KitaIkuyo870"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MBo7eaRmn",
+              "end": 54,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1933159574573666764/photo/1",
+              "media_key": "3_1933159567120289793",
+              "start": 31,
+              "url": "https://t.co/3MBo7eaRmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933159574573666764",
+        "in_reply_to_user_id": "1897621173741178880",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933159043708895628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanRuoYi @KitaIkuyo870 (ꐦÒ‸Ó) https://t.co/3MBo7eaRmn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897621173741178880",
+        "conversation_id": "1933158330945745080",
+        "created_at": "2025-06-12T13:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T14:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933159043708895628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803288616539668480",
+              "start": 0,
+              "username": "KitaIkuyo870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933159043708895628",
+        "in_reply_to_user_id": "1803288616539668480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933158330945745080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitaIkuyo870 哇warma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3610,
+          "following_count": 7486,
+          "like_count": 613,
+          "listed_count": 3,
+          "media_count": 374,
+          "tweet_count": 1602
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T12:13:06.000Z",
+        "description": "？想不到自我介绍",
+        "id": "1897621173741178880",
+        "name": "Han RuoYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924793875002216448/oUo9Ve0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 85,
+          "like_count": 5056,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 77
+        },
+        "username": "HanRuoYi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "ငါမင်းကိုကြိုက်တယ်၊ မင်းငါ့ကိုကြိုက်တယ်။",
+        "id": "1803288616539668480",
+        "location": "缅甸联邦共和国",
+        "name": "Kita Ikuyo",
+        "pinned_tweet_id": "1824905551681380465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899379290342617088/EZmnCJTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 673,
+          "like_count": 4758,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 1974
+        },
+        "username": "KitaIkuyo870",
+        "verified": false
+      }
+    ]
+  }
+}

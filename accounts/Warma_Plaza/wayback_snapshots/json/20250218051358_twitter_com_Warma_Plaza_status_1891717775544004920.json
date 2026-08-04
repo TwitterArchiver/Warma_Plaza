@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1891496421271978422",
+    "created_at": "2025-02-18T05:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T06:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891717775544004920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "EricaGPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891717775544004920",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891665542064341474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricaGPT ─=≡Σ((( つ•̀ 3 •́)つ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1891665542064341474].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1891665542064341474",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1891665542064341474"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1891496421271978422",
+        "created_at": "2025-02-18T05:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T06:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891717775544004920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "EricaGPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891717775544004920",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891665542064341474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricaGPT ─=≡Σ((( つ•̀ 3 •́)つ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 7475,
+          "like_count": 556,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1096
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "我没有叫Erica的其他账号，请注意辨别。永远在看着你👁️👁️@KoNya14056。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "KoNya14056"
+              }
+            ]
+          }
+        },
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚",
+        "name": "𝐄𝐫𝐢𝐜𝐚大语言模型",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877114294510432259/nkgKPwwL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 3785,
+          "like_count": 202157,
+          "listed_count": 4,
+          "media_count": 1207,
+          "tweet_count": 7983
+        },
+        "username": "EricaGPT",
+        "verified": false
+      }
+    ]
+  }
+}

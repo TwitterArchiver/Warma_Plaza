@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2068035961242706313",
+    "created_at": "2026-06-22T12:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069028367391936539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2043643861105274880",
+          "start": 0,
+          "username": "aaabcdca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069028367391936539",
+    "in_reply_to_user_id": "2043643861105274880",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068035961242706313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaabcdca (╯﹏╰）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2068035957962731520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMjvzEacAAwtet.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2068035961242706313",
+        "created_at": "2026-06-22T12:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069028367391936539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043643861105274880",
+              "start": 0,
+              "username": "aaabcdca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069028367391936539",
+        "in_reply_to_user_id": "2043643861105274880",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068035961242706313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaabcdca (╯﹏╰）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068035957962731520"
+          ]
+        },
+        "author_id": "2043643861105274880",
+        "conversation_id": "2068035961242706313",
+        "created_at": "2026-06-19T18:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068035961242706313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJUaI3WHIr",
+              "end": 23,
+              "expanded_url": "https://x.com/aaabcdca/status/2068035961242706313/photo/1",
+              "media_key": "3_2068035957962731520",
+              "start": 0,
+              "url": "https://t.co/oJUaI3WHIr"
+            },
+            {
+              "display_url": "x.com/dokucs4/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/dokucs4/status/2067663419096899909",
+              "start": 24,
+              "url": "https://t.co/oxaby63yWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068035961242706313",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 836,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067663419096899909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/oJUaI3WHIr https://t.co/oxaby63yWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5208,
+          "following_count": 7488,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 10562
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T10:54:56.000Z",
+        "description": "胡锦涛派| |江邓时代支持者| 早期习近平支持者| 支持六四武力镇压| 孙中山派| 三民主义| 民主国民党路线倾向🇹󠅢‍🇼| 民族主义者改革派| 支持LGBT🏳️‍🌈🏳️‍⚧丨部分社会自由丨男女平等丨反对地域歧视丨支黑进我主页自动4000+😹",
+        "id": "2043643861105274880",
+        "location": "中南海丨人民大会堂丨江苏省泰州市海陵区多儿巷1号",
+        "name": "愤怒的胡锦涛🇨🇳🇹󠅢‍🇼🏳️‍⚧🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065392406011564032/PuCG34dB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 75,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "aaabcdca",
+        "verified": false
+      }
+    ]
+  }
+}

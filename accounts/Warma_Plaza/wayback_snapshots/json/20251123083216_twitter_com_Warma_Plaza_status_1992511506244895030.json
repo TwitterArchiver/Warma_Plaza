@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1992383343069909054",
+    "created_at": "2025-11-23T08:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992511506244895030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669250248265302020",
+          "start": 0,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992511506244895030",
+    "in_reply_to_user_id": "1669250248265302020",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992383343069909054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu96175836 ｜д•´)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1926522618338791425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrxiHT3W0AEYnaw.jpg",
+        "width": 506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1992383343069909054",
+        "created_at": "2025-11-23T08:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T09:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992511506244895030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669250248265302020",
+              "start": 0,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992511506244895030",
+        "in_reply_to_user_id": "1669250248265302020",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992383343069909054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu96175836 ｜д•´)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926522618338791425"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "1992383343069909054",
+        "created_at": "2025-11-23T00:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992383343069909054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LuiApBUjo",
+              "end": 70,
+              "expanded_url": "https://x.com/xu96175836/status/1992383343069909054/photo/1",
+              "media_key": "3_1926522618338791425",
+              "start": 47,
+              "url": "https://t.co/3LuiApBUjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992383343069909054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8644,
+          "like_count": 258,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "请  支  持  声  援  中  国  人， 捣  毁  中  共  的  防  火  墙 https://t.co/3LuiApBUjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4403,
+          "following_count": 7491,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 514,
+          "tweet_count": 4316
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118274,
+          "following_count": 1484,
+          "like_count": 7506,
+          "listed_count": 344,
+          "media_count": 11258,
+          "tweet_count": 12386
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

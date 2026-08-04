@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984806565715882364",
+    "created_at": "2025-11-02T06:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984867274214498451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903061664137912320",
+          "start": 0,
+          "username": "blackna1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984867274214498451",
+    "in_reply_to_user_id": "1903061664137912320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984806565715882364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackna1201 (　′Д`)彡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984806565715882364",
+        "created_at": "2025-11-02T06:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984867274214498451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "blackna1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984867274214498451",
+        "in_reply_to_user_id": "1903061664137912320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984806565715882364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackna1201 (　′Д`)彡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903061664137912320",
+        "conversation_id": "1984806565715882364",
+        "created_at": "2025-11-02T02:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T03:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984806565715882364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984806565715882364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手汗 你赢了 你凭借着强如润滑油的效果让我的手机再受重创"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 7479,
+          "like_count": 682,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 3856
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T12:32:02.000Z",
+        "description": "我是一位上海理工大学附属中学的学生 男的\n喜欢音游（phigros osu malody等等） 赛车（f1 gt3之类的）骑车（一窍不通 骑着上下学玩）羽毛球（不是很会打）等事物\n永远喜欢伊蕾娜\n喜欢平常简单的事物 也喜欢干一些疯狂的事情\n只是一个梦想落空的笨蛋罢了",
+        "id": "1903061664137912320",
+        "location": "和平国洛贝塔",
+        "name": "blackna1201",
+        "pinned_tweet_id": "1958470668862759213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904515651596873728/Glc0mx6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 315,
+          "like_count": 4169,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 2532
+        },
+        "username": "blackna1201",
+        "verified": false
+      }
+    ]
+  }
+}

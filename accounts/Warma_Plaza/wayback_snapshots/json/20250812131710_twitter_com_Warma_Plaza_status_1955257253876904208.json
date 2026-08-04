@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1955255290045272405",
+    "created_at": "2025-08-12T13:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955257253876904208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881256183828496385",
+          "start": 0,
+          "username": "Line_XII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955257253876904208",
+    "in_reply_to_user_id": "1881256183828496385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955255290045272405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Line_XII ヾ(´〇｀)ﾉ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1955255290045272405",
+        "created_at": "2025-08-12T13:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955257253876904208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881256183828496385",
+              "start": 0,
+              "username": "Line_XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955257253876904208",
+        "in_reply_to_user_id": "1881256183828496385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955255290045272405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Line_XII ヾ(´〇｀)ﾉ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881256183828496385",
+        "conversation_id": "1955255290045272405",
+        "created_at": "2025-08-12T13:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955255290045272405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955255290045272405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊啊快来和我互动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 7493,
+          "like_count": 663,
+          "listed_count": 5,
+          "media_count": 468,
+          "tweet_count": 2379
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T08:24:25.000Z",
+        "description": "【中华未来主义 - 革命的马克思主义】｜左翼泛亚主义｜1920年代左翼反对派｜无产阶级专政委员会共和国｜社会主义计算机化｜社会主义超工业化",
+        "id": "1881256183828496385",
+        "name": "転炉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952609027118313472/gWfZa4zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 209,
+          "like_count": 1426,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 381
+        },
+        "username": "Line_XII",
+        "verified": false
+      }
+    ]
+  }
+}

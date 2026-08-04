@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1939763778301968574",
+    "created_at": "2025-06-30T23:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T00:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939825245952860377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1567870152016039938",
+          "start": 0,
+          "username": "duyuye620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939825245952860377",
+    "in_reply_to_user_id": "1567870152016039938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939763778301968574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duyuye620 好耶~✌︎( ᐛ )✌︎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1939763778301968574",
+        "created_at": "2025-06-30T23:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T00:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939825245952860377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1567870152016039938",
+              "start": 0,
+              "username": "duyuye620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939825245952860377",
+        "in_reply_to_user_id": "1567870152016039938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939763778301968574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duyuye620 好耶~✌︎( ᐛ )✌︎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567870152016039938",
+        "conversation_id": "1939763778301968574",
+        "created_at": "2025-06-30T19:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T20:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939763778301968574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Warma_Plaza/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Warma_Plaza/status/1939688472635453912",
+              "start": 27,
+              "url": "https://t.co/8YWbqO8orP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939763778301968574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939688472635453912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下半年应该能解决了，后面会轻松点，工作不用拼生拼死了 https://t.co/8YWbqO8orP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3713,
+          "following_count": 7484,
+          "like_count": 629,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 1896
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T13:39:33.000Z",
+        "description": "欢迎互关  社畜 \n     大魔法师女装子 （发涩涩注意）\n           随缘求同城  \n                   顺眼互关\n               #女装子 #绳缚初心 #贞操带\n          随缘 点赞´･ᴗ･`",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "女装子"
+              },
+              {
+                "end": 99,
+                "start": 94,
+                "tag": "绳缚初心"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "贞操带"
+              }
+            ]
+          }
+        },
+        "id": "1567870152016039938",
+        "name": "拉拉夜夜🍥（只是因为鱼板可爱）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582237306769244160/_PB0gq7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 347,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1699
+        },
+        "username": "duyuye620",
+        "verified": false
+      }
+    ]
+  }
+}

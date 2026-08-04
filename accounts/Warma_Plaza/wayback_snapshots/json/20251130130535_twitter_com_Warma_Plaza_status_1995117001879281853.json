@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1994446453956383063",
+    "created_at": "2025-11-30T13:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T14:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995117001879281853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1444139109513973760",
+          "start": 0,
+          "username": "DinGzzz258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995117001879281853",
+    "in_reply_to_user_id": "1444139109513973760",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 649,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994446453956383063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DinGzzz258 ╭(°A°`)╮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 681,
+        "media_key": "3_1994446440098406400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62yeGGboAAjkt2.png",
+        "width": 379
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1994446453956383063",
+        "created_at": "2025-11-30T13:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995117001879281853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444139109513973760",
+              "start": 0,
+              "username": "DinGzzz258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995117001879281853",
+        "in_reply_to_user_id": "1444139109513973760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 649,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994446453956383063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DinGzzz258 ╭(°A°`)╮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994446440098406400"
+          ]
+        },
+        "author_id": "1444139109513973760",
+        "conversation_id": "1994446453956383063",
+        "created_at": "2025-11-28T16:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994446453956383063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSHfFcsbnN",
+              "end": 23,
+              "expanded_url": "https://x.com/DinGzzz258/status/1994446453956383063/photo/1",
+              "media_key": "3_1994446440098406400",
+              "start": 0,
+              "url": "https://t.co/DSHfFcsbnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994446453956383063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 180989,
+          "like_count": 1646,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DSHfFcsbnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4440,
+          "following_count": 7489,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 4605
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T03:17:15.000Z",
+        "description": "桃李春风一杯酒 江湖夜雨十年灯",
+        "id": "1444139109513973760",
+        "location": "理塘",
+        "name": "重庆十六中",
+        "pinned_tweet_id": "1452819518401646592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979104255647608832/_Nvd3Tlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12724,
+          "following_count": 1320,
+          "like_count": 24834,
+          "listed_count": 71,
+          "media_count": 6486,
+          "tweet_count": 16463
+        },
+        "username": "DinGzzz258",
+        "verified": false
+      }
+    ]
+  }
+}

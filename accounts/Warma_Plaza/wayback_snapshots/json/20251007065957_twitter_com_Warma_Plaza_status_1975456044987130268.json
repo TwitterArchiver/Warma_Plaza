@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1975423569237848423",
+    "created_at": "2025-10-07T06:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T07:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975456044987130268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963129386137460738",
+          "start": 0,
+          "username": "Takanashi_Naomi"
+        },
+        {
+          "end": 31,
+          "id": "1927174135391662080",
+          "start": 17,
+          "username": "JunfengHaoyiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975456044987130268",
+    "in_reply_to_user_id": "1963129386137460738",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975454477479256155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takanashi_Naomi @JunfengHaoyiu (ノ_＜。)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1975423569237848423",
+        "created_at": "2025-10-07T06:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975456044987130268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963129386137460738",
+              "start": 0,
+              "username": "Takanashi_Naomi"
+            },
+            {
+              "end": 31,
+              "id": "1927174135391662080",
+              "start": 17,
+              "username": "JunfengHaoyiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975456044987130268",
+        "in_reply_to_user_id": "1963129386137460738",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975454477479256155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takanashi_Naomi @JunfengHaoyiu (ノ_＜。)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963129386137460738",
+        "conversation_id": "1975423569237848423",
+        "created_at": "2025-10-07T06:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975454477479256155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559223020245331971",
+              "start": 0,
+              "username": "tiegang10086"
+            },
+            {
+              "end": 30,
+              "id": "1794617194954850304",
+              "start": 14,
+              "username": "Baixiaoming0707"
+            },
+            {
+              "end": 45,
+              "id": "1927174135391662080",
+              "start": 31,
+              "username": "JunfengHaoyiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975454477479256155",
+        "in_reply_to_user_id": "1559223020245331971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975453481898287336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiegang10086 @Baixiaoming0707 @JunfengHaoyiu 这种人再来一次封城断粮就治好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4276,
+          "following_count": 7489,
+          "like_count": 667,
+          "listed_count": 7,
+          "media_count": 492,
+          "tweet_count": 3077
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T06:38:30.000Z",
+        "description": "05后/💙車仔💙/信息专业在读/业余军事爱好者/⚠️经常键政⚠️/❗️不欢迎粉红、黄鹅‼️/橄榄后不定期重生/小号：@TakanashiNaomi1/习主席万寿无疆\\😭/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "TakanashiNaomi1"
+              }
+            ]
+          }
+        },
+        "id": "1963129386137460738",
+        "location": "日本",
+        "name": "小鳥遊なおみ🇯🇵 🎌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965252920603279360/lEB2Ika5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 99,
+          "like_count": 727,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 1065
+        },
+        "username": "Takanashi_Naomi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T01:25:08.000Z",
+        "description": "高中小深红爱党爱国🇨🇳我确实是脱产学生，你也可以说我认知不够，因为学海无涯。🥰幸福是奋斗来的，认知越高越爱党",
+        "id": "1927174135391662080",
+        "location": "能进入联合国的唯一的中国",
+        "name": "Jeremy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931312391595429888/yQ8Weq0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 59,
+          "like_count": 546,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1236
+        },
+        "username": "JunfengHaoyiu",
+        "verified": false
+      }
+    ]
+  }
+}

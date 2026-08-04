@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990738409090936918",
+    "created_at": "2025-11-18T11:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990739636612686218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "weidafuxing8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990739636612686218",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990738409090936918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weidafuxing8964 &lt;(￣3￣)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1993,
+        "media_key": "3_1990738396105617409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6CGBhybMAEDdE5.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990738409090936918",
+        "created_at": "2025-11-18T11:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990739636612686218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "weidafuxing8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990739636612686218",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990738409090936918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weidafuxing8964 &lt;(￣3￣)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990738396105617409"
+          ]
+        },
+        "author_id": "1980140172726673408",
+        "conversation_id": "1990738409090936918",
+        "created_at": "2025-11-18T11:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990738409090936918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AW9z2MZCl2",
+              "end": 32,
+              "expanded_url": "https://x.com/weidafuxing8964/status/1990738409090936918/photo/1",
+              "media_key": "3_1990738396105617409",
+              "start": 9,
+              "url": "https://t.co/AW9z2MZCl2"
+            },
+            {
+              "display_url": "x.com/dongming101/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/dongming101/status/1990707405949448434",
+              "start": 33,
+              "url": "https://t.co/zTPudECWKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990738409090936918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990707405949448434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天呐这简直就是我 https://t.co/AW9z2MZCl2 https://t.co/zTPudECWKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 7491,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4065
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "被🐴支克制裁过一次了，目前淡推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@xiaofenhong89…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@xiaofenhong8964",
+                "start": 0,
+                "url": "https://t.co/6r1cSIIQBQ"
+              }
+            ]
+          }
+        },
+        "id": "1980140172726673408",
+        "location": "坦克履带，长安街，北平",
+        "name": "近平諾維奇·習（強国雪蓮転生）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980140335545069568/foRSU4CX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 76,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/6r1cSIIQBQ",
+        "username": "weidafuxing8964",
+        "verified": false
+      }
+    ]
+  }
+}

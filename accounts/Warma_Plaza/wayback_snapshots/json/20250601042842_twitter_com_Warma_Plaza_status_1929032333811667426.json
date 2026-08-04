@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1928955835507728771",
+    "created_at": "2025-06-01T04:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T05:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929032333811667426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798617161969156096",
+          "start": 0,
+          "username": "salazar19121949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929032333811667426",
+    "in_reply_to_user_id": "1798617161969156096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929032262898585749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salazar19121949 快乐！＼(*T▽T*)／"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1928955835507728771",
+        "created_at": "2025-06-01T04:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929032333811667426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798617161969156096",
+              "start": 0,
+              "username": "salazar19121949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929032333811667426",
+        "in_reply_to_user_id": "1798617161969156096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929032262898585749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salazar19121949 快乐！＼(*T▽T*)／"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798617161969156096",
+        "conversation_id": "1928955835507728771",
+        "created_at": "2025-06-01T04:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929032262898585749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929032262898585749",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928955835507728771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 儿童节快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 7498,
+          "like_count": 604,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 1540
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T07:25:35.000Z",
+        "description": "自相残杀无数次，人类脑腐第一次",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xinfajia.net/index/windex.p…",
+                "end": 23,
+                "expanded_url": "http://www.xinfajia.net/index/windex.page",
+                "start": 0,
+                "url": "https://t.co/sW0LEbgncm"
+              }
+            ]
+          }
+        },
+        "id": "1798617161969156096",
+        "location": "马孔多",
+        "name": "🇵🇹萨拉查☩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928743937574895616/FHoFuS2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 1698,
+          "like_count": 5416,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2174
+        },
+        "url": "https://t.co/sW0LEbgncm",
+        "username": "salazar19121949",
+        "verified": false
+      }
+    ]
+  }
+}

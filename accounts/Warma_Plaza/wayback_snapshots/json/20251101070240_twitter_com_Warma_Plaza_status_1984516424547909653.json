@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984289035108680047",
+    "created_at": "2025-11-01T07:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T08:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984516424547909653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1431277156030500873",
+          "start": 0,
+          "username": "TearDownNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984516424547909653",
+    "in_reply_to_user_id": "1431277156030500873",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984289035108680047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TearDownNF ₍⁽⁰^⁰⁾₎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_1984289032323600385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mcXJdaEAEDcr7.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984289035108680047",
+        "created_at": "2025-11-01T07:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T08:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984516424547909653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1431277156030500873",
+              "start": 0,
+              "username": "TearDownNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984516424547909653",
+        "in_reply_to_user_id": "1431277156030500873",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984289035108680047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TearDownNF ₍⁽⁰^⁰⁾₎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984289032323600385"
+          ]
+        },
+        "author_id": "1431277156030500873",
+        "conversation_id": "1984289035108680047",
+        "created_at": "2025-10-31T15:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984289035108680047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0EngAxq74",
+              "end": 23,
+              "expanded_url": "https://x.com/TearDownNF/status/1984289035108680047/photo/1",
+              "media_key": "3_1984289032323600385",
+              "start": 0,
+              "url": "https://t.co/y0EngAxq74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984289035108680047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5794,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/y0EngAxq74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4331,
+          "following_count": 7494,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3806
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T15:27:31.000Z",
+        "description": "修身齊家治國平天下",
+        "id": "1431277156030500873",
+        "location": "🇹🇼 中國 China",
+        "name": "🇹🇼夜音華",
+        "pinned_tweet_id": "1975943128122347573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969916644202876928/KTsnpjQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 20,
+          "like_count": 114,
+          "listed_count": 17,
+          "media_count": 940,
+          "tweet_count": 3330
+        },
+        "username": "TearDownNF",
+        "verified": false
+      }
+    ]
+  }
+}

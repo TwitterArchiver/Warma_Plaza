@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2058718922279657484",
+    "created_at": "2026-05-25T13:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058897590507409891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744267618947899393",
+          "start": 0,
+          "username": "MentorWong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058897590507409891",
+    "in_reply_to_user_id": "1744267618947899393",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058718922279657484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MentorWong (⁠˘⁠･⁠_⁠･⁠˘⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2058718238083895296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIJVHmb0AAb7KO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1499,
+        "media_key": "3_2058718635355783168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIJsPjbwAArZC8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1502,
+        "media_key": "3_2058718682470305792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIJu_EaUAAN_lj.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2058718922279657484",
+        "created_at": "2026-05-25T13:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058897590507409891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744267618947899393",
+              "start": 0,
+              "username": "MentorWong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058897590507409891",
+        "in_reply_to_user_id": "1744267618947899393",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058718922279657484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MentorWong (⁠˘⁠･⁠_⁠･⁠˘⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058718238083895296",
+            "3_2058718635355783168",
+            "3_2058718682470305792"
+          ]
+        },
+        "author_id": "1744267618947899393",
+        "conversation_id": "2058718922279657484",
+        "created_at": "2026-05-25T01:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058718922279657484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5b6wmnYyqP",
+              "end": 46,
+              "expanded_url": "https://x.com/MentorWong/status/2058718922279657484/photo/1",
+              "media_key": "3_2058718238083895296",
+              "start": 23,
+              "url": "https://t.co/5b6wmnYyqP"
+            },
+            {
+              "display_url": "pic.x.com/5b6wmnYyqP",
+              "end": 46,
+              "expanded_url": "https://x.com/MentorWong/status/2058718922279657484/photo/1",
+              "media_key": "3_2058718635355783168",
+              "start": 23,
+              "url": "https://t.co/5b6wmnYyqP"
+            },
+            {
+              "display_url": "pic.x.com/5b6wmnYyqP",
+              "end": 46,
+              "expanded_url": "https://x.com/MentorWong/status/2058718922279657484/photo/1",
+              "media_key": "3_2058718682470305792",
+              "start": 23,
+              "url": "https://t.co/5b6wmnYyqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058718922279657484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 59829,
+          "like_count": 414,
+          "quote_count": 6,
+          "reply_count": 111,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "每一次发生在中国人身上的灾难，不会没有原因。 https://t.co/5b6wmnYyqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5039,
+          "following_count": 7499,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9493
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T07:59:47.000Z",
+        "description": "Premium+ User\nSubscribe me for $1 only! \nI post funny stuffs and mock the people who deserve it.",
+        "id": "1744267618947899393",
+        "location": "Seoul, South Korea ",
+        "name": "SifuWong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851498412581273602/LMOuJG7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9612,
+          "following_count": 10026,
+          "like_count": 15580,
+          "listed_count": 14,
+          "media_count": 304,
+          "tweet_count": 50061
+        },
+        "username": "MentorWong",
+        "verified": true
+      }
+    ]
+  }
+}

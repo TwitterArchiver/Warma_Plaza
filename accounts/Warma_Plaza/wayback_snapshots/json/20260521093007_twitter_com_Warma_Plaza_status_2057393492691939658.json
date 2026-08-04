@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2057335951844880679",
+    "created_at": "2026-05-21T09:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057393492691939658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057393492691939658",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057335951844880679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk ರ⁠╭⁠╮⁠ರ额..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1371,
+        "media_key": "3_2057335944710434816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0gJDgbsAAdOqh.jpg",
+        "width": 960
+      },
+      {
+        "height": 1349,
+        "media_key": "3_2057335944710414336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0gJDgbYAAKpX6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2057335951844880679",
+        "created_at": "2026-05-21T09:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057393492691939658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057393492691939658",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057335951844880679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk ರ⁠╭⁠╮⁠ರ额..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057335944710434816",
+            "3_2057335944710414336"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057335951844880679",
+        "created_at": "2026-05-21T05:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057335951844880679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DVnWxV1WYn",
+              "end": 64,
+              "expanded_url": "https://x.com/codyhunk/status/2057335951844880679/photo/1",
+              "media_key": "3_2057335944710434816",
+              "start": 41,
+              "url": "https://t.co/DVnWxV1WYn"
+            },
+            {
+              "display_url": "pic.x.com/DVnWxV1WYn",
+              "end": 64,
+              "expanded_url": "https://x.com/codyhunk/status/2057335951844880679/photo/1",
+              "media_key": "3_2057335944710414336",
+              "start": 41,
+              "url": "https://t.co/DVnWxV1WYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057335951844880679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32085,
+          "like_count": 166,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "青岛和济南为了争山东首家山姆于是决策同一天开业，结果两家店都出现了店内偷吃行为。 https://t.co/DVnWxV1WYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5041,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 6,
+          "media_count": 570,
+          "tweet_count": 9314
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13827,
+          "following_count": 1161,
+          "like_count": 24310,
+          "listed_count": 40,
+          "media_count": 6199,
+          "tweet_count": 9319
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

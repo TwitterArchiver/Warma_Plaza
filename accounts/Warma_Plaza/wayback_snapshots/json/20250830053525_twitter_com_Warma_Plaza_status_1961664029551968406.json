@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1961031874836578559",
+    "created_at": "2025-08-30T05:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T06:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961664029551968406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1944827559419764737",
+          "start": 0,
+          "username": "Marcus19P8964"
+        },
+        {
+          "end": 26,
+          "id": "147929555",
+          "start": 15,
+          "username": "leige88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961664029551968406",
+    "in_reply_to_user_id": "1944827559419764737",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961627391920685270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marcus19P8964 @leige88888 (／_＼)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1961031874836578559",
+        "created_at": "2025-08-30T05:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T06:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961664029551968406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1944827559419764737",
+              "start": 0,
+              "username": "Marcus19P8964"
+            },
+            {
+              "end": 26,
+              "id": "147929555",
+              "start": 15,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961664029551968406",
+        "in_reply_to_user_id": "1944827559419764737",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961627391920685270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marcus19P8964 @leige88888 (／_＼)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944827559419764737",
+        "conversation_id": "1961031874836578559",
+        "created_at": "2025-08-30T03:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T04:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961627391920685270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 24,
+              "id": "147929555",
+              "start": 13,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961627391920685270",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961575183376097280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @leige88888 抱歉，还是少掺和这个吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 7489,
+          "like_count": 661,
+          "listed_count": 8,
+          "media_count": 477,
+          "tweet_count": 2537
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T18:33:39.000Z",
+        "description": "一个纯良maoist，一个正在高举要乐奈思想的挚旗手",
+        "id": "1944827559419764737",
+        "location": "巴黎公社",
+        "name": "⬅️零厨师爱美食(退推)",
+        "pinned_tweet_id": "1951660815129387206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945027075124920320/gza3uFzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 135,
+          "like_count": 7076,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 2211
+        },
+        "username": "Marcus19P8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T12:03:13.000Z",
+        "description": "我是来看反贼笑话的",
+        "id": "147929555",
+        "name": "磊哥聊政经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696104044497178624/ix24cEav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37557,
+          "following_count": 389,
+          "like_count": 338,
+          "listed_count": 104,
+          "media_count": 3105,
+          "tweet_count": 5402
+        },
+        "username": "leige88888",
+        "verified": true
+      }
+    ]
+  }
+}

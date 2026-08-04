@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936182874702569472"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1936182277651792345",
+    "created_at": "2025-06-20T22:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T23:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936182877202563304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jek4LMyOSy",
+          "end": 48,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1936182877202563304/photo/1",
+          "media_key": "3_1936182874702569472",
+          "start": 25,
+          "url": "https://t.co/jek4LMyOSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936182877202563304",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936182277651792345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele ( ´ﾟжﾟ｀) https://t.co/jek4LMyOSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "3_1936182874702569472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt60EPLXYAA3esP.jpg",
+        "width": 348
+      },
+      {
+        "height": 1203,
+        "media_key": "3_1936023223205810176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4i3TAW0AAEgkK.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936182874702569472"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1936182277651792345",
+        "created_at": "2025-06-20T22:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T23:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936182877202563304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jek4LMyOSy",
+              "end": 48,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1936182877202563304/photo/1",
+              "media_key": "3_1936182874702569472",
+              "start": 25,
+              "url": "https://t.co/jek4LMyOSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936182877202563304",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936182277651792345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele ( ´ﾟжﾟ｀) https://t.co/jek4LMyOSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936023223205810176"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1936182277651792345",
+        "created_at": "2025-06-20T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936182277651792345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bMmlC3O6H",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1936182277651792345/photo/1",
+              "media_key": "3_1936023223205810176",
+              "start": 61,
+              "url": "https://t.co/3bMmlC3O6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936182277651792345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿\n南宁市江南万达广场举办的一场针对应届毕业生的招聘会\n地铁安检两三千，每天十二小时月休四天，可申请加班挣加班费。 https://t.co/3bMmlC3O6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3620,
+          "following_count": 7475,
+          "like_count": 620,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 1666
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018183,
+          "following_count": 970,
+          "like_count": 7068,
+          "listed_count": 8170,
+          "media_count": 30239,
+          "tweet_count": 36800
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

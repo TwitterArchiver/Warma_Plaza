@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1994582803623940405",
+    "created_at": "2025-11-29T10:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T11:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994719612139966593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706612962168070144",
+          "start": 0,
+          "username": "langheying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994719612139966593",
+    "in_reply_to_user_id": "1706612962168070144",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994582803623940405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@langheying ( ^◞_◟^)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_1994582800918536192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64ufVvaYAAu4KS.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1626,
+        "media_key": "3_1994582797756108802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64ufJ9bkAIbFhy.jpg",
+        "width": 1257
+      },
+      {
+        "height": 1386,
+        "media_key": "3_1994582797760303104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64ufJ-bkAAMyEL.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1994582803623940405",
+        "created_at": "2025-11-29T10:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994719612139966593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706612962168070144",
+              "start": 0,
+              "username": "langheying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994719612139966593",
+        "in_reply_to_user_id": "1706612962168070144",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994582803623940405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@langheying ( ^◞_◟^)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994582800918536192",
+            "3_1994582797756108802",
+            "3_1994582797760303104"
+          ]
+        },
+        "author_id": "1706612962168070144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994582803623940405",
+        "created_at": "2025-11-29T01:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994582803623940405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciNY07q62I",
+              "end": 34,
+              "expanded_url": "https://x.com/langheying/status/1994582803623940405/photo/1",
+              "media_key": "3_1994582800918536192",
+              "start": 11,
+              "url": "https://t.co/ciNY07q62I"
+            },
+            {
+              "display_url": "pic.x.com/ciNY07q62I",
+              "end": 34,
+              "expanded_url": "https://x.com/langheying/status/1994582803623940405/photo/1",
+              "media_key": "3_1994582797756108802",
+              "start": 11,
+              "url": "https://t.co/ciNY07q62I"
+            },
+            {
+              "display_url": "pic.x.com/ciNY07q62I",
+              "end": 34,
+              "expanded_url": "https://x.com/langheying/status/1994582803623940405/photo/1",
+              "media_key": "3_1994582797760303104",
+              "start": 11,
+              "url": "https://t.co/ciNY07q62I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994582803623940405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 185800,
+          "like_count": 1408,
+          "quote_count": 26,
+          "reply_count": 133,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "宣传口已经没人了吗👁 https://t.co/ciNY07q62I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4432,
+          "following_count": 7494,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 4565
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:13:39.000Z",
+        "description": "狼桜一生押し",
+        "id": "1706612962168070144",
+        "location": "Hong Kong",
+        "name": "リシャオラン🐻",
+        "pinned_tweet_id": "1992797915874803874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954197516884336640/mj-WM2By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 1254,
+          "like_count": 3585,
+          "listed_count": 2,
+          "media_count": 907,
+          "tweet_count": 2859
+        },
+        "username": "langheying",
+        "verified": false
+      }
+    ]
+  }
+}

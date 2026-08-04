@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002559589053849930",
+    "created_at": "2025-12-21T10:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002686202605121985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766703737572118528",
+          "start": 0,
+          "username": "shenchusima228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002686202605121985",
+    "in_reply_to_user_id": "1766703737572118528",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002559589053849930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenchusima228 (ᇂ_ᇂ|||)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002559586868617216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8qFVZDbYAAZxNH.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002559589053849930",
+        "created_at": "2025-12-21T10:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002686202605121985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766703737572118528",
+              "start": 0,
+              "username": "shenchusima228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002686202605121985",
+        "in_reply_to_user_id": "1766703737572118528",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002559589053849930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenchusima228 (ᇂ_ᇂ|||)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002559586868617216"
+          ]
+        },
+        "author_id": "1766703737572118528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2002559589053849930",
+        "created_at": "2025-12-21T01:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T02:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002559589053849930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjxjwO0MsC",
+              "end": 33,
+              "expanded_url": "https://x.com/shenchusima228/status/2002559589053849930/photo/1",
+              "media_key": "3_2002559586868617216",
+              "start": 10,
+              "url": "https://t.co/bjxjwO0MsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002559589053849930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3761,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "百度ai把我吓晕了 https://t.co/bjxjwO0MsC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4545,
+          "following_count": 7493,
+          "like_count": 679,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 5119
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T05:53:02.000Z",
+        "description": "中华人民共和国台湾省省长",
+        "id": "1766703737572118528",
+        "location": "中华人民共和国，台湾省台北市",
+        "name": "赖清德",
+        "pinned_tweet_id": "1995001371129778305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001913672801898497/ws5pWUPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 107,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 610
+        },
+        "username": "shenchusima228",
+        "verified": false
+      }
+    ]
+  }
+}

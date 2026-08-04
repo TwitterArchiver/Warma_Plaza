@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1926253051897065495",
+    "created_at": "2025-05-24T15:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T16:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926303012445724967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905362528143822848",
+          "start": 0,
+          "username": "sola_nubes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926303012445724967",
+    "in_reply_to_user_id": "1905362528143822848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926253051897065495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sola_nubes ಠ_ರೃ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1926253051897065495",
+        "created_at": "2025-05-24T15:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926303012445724967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905362528143822848",
+              "start": 0,
+              "username": "sola_nubes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926303012445724967",
+        "in_reply_to_user_id": "1905362528143822848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926253051897065495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sola_nubes ಠ_ರೃ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905362528143822848",
+        "conversation_id": "1926253051897065495",
+        "created_at": "2025-05-24T12:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T13:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926253051897065495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XeproCN/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/XeproCN/status/1926251749771288824",
+              "start": 8,
+              "url": "https://t.co/e2GxcHBiuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926253051897065495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926251749771288824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❓邀请各位围观 https://t.co/e2GxcHBiuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 7496,
+          "like_count": 585,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 1460
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T20:53:49.000Z",
+        "description": "所有的明天",
+        "id": "1905362528143822848",
+        "location": "Greenland",
+        "name": "青色的云",
+        "pinned_tweet_id": "1926253051897065495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905362648751112194/Hn_SLKjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 107,
+          "like_count": 588,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 2860
+        },
+        "username": "sola_nubes",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2083001014517731747",
+    "created_at": "2026-07-31T10:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083142185244082585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083142185244082585",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083001014517731747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza ⌒꩜ᯅ꩜⌒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2083000745885065216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhOJGVaYAAfE-y.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 41940,
+        "height": 1440,
+        "media_key": "13_2083000745906044928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083000745906044928/img/PAz_MQqtmiwhmMIe.jpg",
+        "public_metrics": {
+          "view_count": 327
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/620x360/_5SSATmiIE4sevY1.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/464x270/dqgAc0ytkAYxkB25.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/pl/V7o7pO9sRJV1qNPl.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/2480x1440/lIsQx3VP0rHw8OnH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083000745906044928/vid/avc1/1240x720/iKosUH5h6C-sKqRT.mp4"
+          }
+        ],
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2083001014517731747",
+        "created_at": "2026-07-31T10:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083142185244082585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083142185244082585",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083001014517731747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza ⌒꩜ᯅ꩜⌒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083000745885065216",
+            "13_2083000745906044928"
+          ]
+        },
+        "author_id": "2008360423771316224",
+        "conversation_id": "2083001014517731747",
+        "created_at": "2026-07-31T01:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083001014517731747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1dioh3xGk",
+              "end": 68,
+              "expanded_url": "https://x.com/Konizaza/status/2083001014517731747/video/1",
+              "media_key": "3_2083000745885065216",
+              "start": 45,
+              "url": "https://t.co/v1dioh3xGk"
+            },
+            {
+              "display_url": "pic.x.com/v1dioh3xGk",
+              "end": 68,
+              "expanded_url": "https://x.com/Konizaza/status/2083001014517731747/video/1",
+              "media_key": "13_2083000745906044928",
+              "start": 45,
+              "url": "https://t.co/v1dioh3xGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083001014517731747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "😋哈哈哈安慕希玩家你们怕了吧喵～\n😡窝把泥们的末地都炸了喵\n😋米米石界才是最好玩的游戏喵 https://t.co/v1dioh3xGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5411,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 12019
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n爱玩米米石界｜😡反安慕希😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbfdds"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "location": "你的心里（江苏南京）",
+        "name": "Konizaza🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2079010466269937972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 1538,
+          "like_count": 6540,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 2841
+        },
+        "url": "https://t.co/UxxyJbfdds",
+        "username": "Konizaza",
+        "verified": true
+      }
+    ]
+  }
+}

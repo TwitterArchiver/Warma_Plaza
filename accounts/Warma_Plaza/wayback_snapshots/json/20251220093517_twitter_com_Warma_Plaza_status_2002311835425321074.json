@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2001910494450586034",
+    "created_at": "2025-12-20T09:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T10:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002311835425321074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1610179975960793089",
+          "start": 0,
+          "username": "ksisses934"
+        },
+        {
+          "end": 26,
+          "id": "1258409534046924800",
+          "start": 12,
+          "username": "allen27410505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002311835425321074",
+    "in_reply_to_user_id": "1610179975960793089",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002015799477981349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksisses934 @allen27410505 (╯°Д°)╯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2001910494450586034",
+        "created_at": "2025-12-20T09:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002311835425321074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1610179975960793089",
+              "start": 0,
+              "username": "ksisses934"
+            },
+            {
+              "end": 26,
+              "id": "1258409534046924800",
+              "start": 12,
+              "username": "allen27410505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002311835425321074",
+        "in_reply_to_user_id": "1610179975960793089",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002015799477981349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksisses934 @allen27410505 (╯°Д°)╯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610179975960793089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2001910494450586034",
+        "created_at": "2025-12-19T13:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002015799477981349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1258409534046924800",
+              "start": 0,
+              "username": "allen27410505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002015799477981349",
+        "in_reply_to_user_id": "1258409534046924800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001910494450586034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allen27410505 习近平最文明👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 7494,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 4995
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T07:44:14.000Z",
+        "description": "CN/EN/JP 👌🇨🇦⏰ 甘野春Amano Haruru (@ohotomosan 帮忙取的🥒🥒) 推特简中区头号纯良❤️希望能好好说话💙 必回fo🥰感谢你的关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "ohotomosan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ZVQnCfvGh",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ZVQnCfvGh",
+                "start": 0,
+                "url": "https://t.co/OzDxNGNfv9"
+              }
+            ]
+          }
+        },
+        "id": "1610179975960793089",
+        "location": "敌托邦",
+        "name": "酸甜良前辈🎄",
+        "pinned_tweet_id": "2002033695935373506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975271288470933504/Q7y5MY9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 325,
+          "like_count": 3651,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2320
+        },
+        "url": "https://t.co/OzDxNGNfv9",
+        "username": "ksisses934",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T14:53:21.000Z",
+        "description": "Love China,Love the world.\n一起正能量，一起愛國，一起講好中國故事。共同傳遞中國聲音。（allen唯一賬號）",
+        "id": "1258409534046924800",
+        "name": "allen",
+        "pinned_tweet_id": "1594204327270236160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995284793043660801/9uWsm8C8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212560,
+          "following_count": 313,
+          "like_count": 41579,
+          "listed_count": 230,
+          "media_count": 5815,
+          "tweet_count": 8654
+        },
+        "username": "allen27410505",
+        "verified": false
+      }
+    ]
+  }
+}

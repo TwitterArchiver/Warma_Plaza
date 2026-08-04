@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1999514262738202780",
+    "created_at": "2025-12-14T00:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T01:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000005219665719584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905362528143822848",
+          "start": 0,
+          "username": "sola_nubes"
+        },
+        {
+          "end": 28,
+          "id": "1741637177556054016",
+          "start": 12,
+          "username": "karengo43464567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000005219665719584",
+    "in_reply_to_user_id": "1905362528143822848",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999922701155336263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sola_nubes @karengo43464567 (／_＼)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999922701155336263].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999922701155336263",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999922701155336263"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1999514262738202780",
+        "created_at": "2025-12-14T00:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T01:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000005219665719584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905362528143822848",
+              "start": 0,
+              "username": "sola_nubes"
+            },
+            {
+              "end": 28,
+              "id": "1741637177556054016",
+              "start": 12,
+              "username": "karengo43464567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000005219665719584",
+        "in_reply_to_user_id": "1905362528143822848",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999922701155336263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sola_nubes @karengo43464567 (／_＼)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 7488,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 522,
+          "tweet_count": 4916
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T20:53:49.000Z",
+        "description": "所有的明天",
+        "id": "1905362528143822848",
+        "location": "Greenland",
+        "name": "带带哈基米",
+        "pinned_tweet_id": "1995854333762830808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987947895224758273/Y3P7yuM2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 240,
+          "like_count": 1713,
+          "listed_count": 9,
+          "media_count": 163,
+          "tweet_count": 10287
+        },
+        "username": "sola_nubes",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T01:47:52.000Z",
+        "description": "新号秽土转生（老号:我推的裕仁陛下）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zoom.us",
+                "end": 23,
+                "expanded_url": "https://www.zoom.us",
+                "start": 0,
+                "url": "https://t.co/VqlSVog4OC"
+              }
+            ]
+          }
+        },
+        "id": "1741637177556054016",
+        "location": "Uruguay",
+        "name": "进击的昭和",
+        "pinned_tweet_id": "1999821580042678286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999484039875690498/9wrIr8I3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 82,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/VqlSVog4OC",
+        "username": "karengo43464567",
+        "verified": false
+      }
+    ]
+  }
+}

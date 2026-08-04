@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1972069928586076287",
+    "created_at": "2025-09-28T14:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T15:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972302565057675335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758840658817855488",
+          "start": 0,
+          "username": "Winnie896481192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972302565057675335",
+    "in_reply_to_user_id": "1758840658817855488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972302384375460148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winnie896481192 甚？｢(ﾟﾍﾟ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1972069928586076287",
+        "created_at": "2025-09-28T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972302565057675335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758840658817855488",
+              "start": 0,
+              "username": "Winnie896481192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972302565057675335",
+        "in_reply_to_user_id": "1758840658817855488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972302384375460148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winnie896481192 甚？｢(ﾟﾍﾟ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758840658817855488",
+        "conversation_id": "1972069928586076287",
+        "created_at": "2025-09-28T14:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972302384375460148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "DongMing101"
+            },
+            {
+              "end": 25,
+              "id": "1628965541057642496",
+              "start": 13,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972302384375460148",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972271582749065573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongMing101 @Warma_Plaza 你对党不忠😡👊\n唐哥都没屏蔽我 给我发小红心❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4207,
+          "following_count": 7492,
+          "like_count": 665,
+          "listed_count": 7,
+          "media_count": 488,
+          "tweet_count": 2811
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T13:08:19.000Z",
+        "description": "🀄️👊🐻👊 🀄️ 🐖🪿我与我的动物朋友们 有时r18谨慎关注 不爱别伤害 回复有时看不到🙂‍↕️  链接是匿名回复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/winnie53806",
+                "end": 23,
+                "expanded_url": "https://ngl.link/winnie53806",
+                "start": 0,
+                "url": "https://t.co/KNrKXW5qfr"
+              }
+            ]
+          }
+        },
+        "id": "1758840658817855488",
+        "location": "马斯克床下",
+        "name": "大刁维尼🇦🇶（不互关）",
+        "pinned_tweet_id": "1971232671583043897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923397588545675264/ijju9xCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 491,
+          "like_count": 33231,
+          "listed_count": 1,
+          "media_count": 1099,
+          "tweet_count": 10403
+        },
+        "url": "https://t.co/KNrKXW5qfr",
+        "username": "Winnie896481192",
+        "verified": false
+      }
+    ]
+  }
+}

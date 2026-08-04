@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2055882619028677112",
+    "created_at": "2026-05-18T01:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056182084704911386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885641757469380608",
+          "start": 0,
+          "username": "nishuodeduiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056182084704911386",
+    "in_reply_to_user_id": "1885641757469380608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055882619028677112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nishuodeduiiii ಠ⁠﹏⁠ಠ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2055882582357921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf2UO1bUAAc_f6.jpg",
+        "width": 1006
+      },
+      {
+        "height": 563,
+        "media_key": "3_2055882582353756160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf2UO0bwAArpAG.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2055882619028677112",
+        "created_at": "2026-05-18T01:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056182084704911386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885641757469380608",
+              "start": 0,
+              "username": "nishuodeduiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056182084704911386",
+        "in_reply_to_user_id": "1885641757469380608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055882619028677112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nishuodeduiiii ಠ⁠﹏⁠ಠ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055882582357921792",
+            "3_2055882582353756160"
+          ]
+        },
+        "author_id": "1885641757469380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055882619028677112",
+        "created_at": "2026-05-17T05:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055882619028677112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdYlY9Po3I",
+              "end": 32,
+              "expanded_url": "https://x.com/nishuodeduiiii/status/2055882619028677112/photo/1",
+              "media_key": "3_2055882582357921792",
+              "start": 9,
+              "url": "https://t.co/SdYlY9Po3I"
+            },
+            {
+              "display_url": "pic.x.com/SdYlY9Po3I",
+              "end": 32,
+              "expanded_url": "https://x.com/nishuodeduiiii/status/2055882619028677112/photo/1",
+              "media_key": "3_2055882582353756160",
+              "start": 9,
+              "url": "https://t.co/SdYlY9Po3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055882619028677112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 245520,
+          "like_count": 981,
+          "quote_count": 7,
+          "reply_count": 186,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的阵营: https://t.co/SdYlY9Po3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5028,
+          "following_count": 7495,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 9200
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T10:50:09.000Z",
+        "description": "世界穿过我———\n\n“革命死了，革命万岁！”\n\n欢迎互fo 关注鱼泡泡（你说得对）谢谢喵\n\n马主义者 不完全的卢主义者 可能是民社 也可能是极左\n\n暴躁的我@GrlIntrpted\n高考完或许会有小男娘形态的我……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "GrlIntrpted"
+              }
+            ]
+          }
+        },
+        "id": "1885641757469380608",
+        "location": "雨一直下",
+        "name": "鱼鱼鱼鱼鱼泡泡（你说得对）",
+        "pinned_tweet_id": "2026997670326468936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484031225016320/29RTmaK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 481,
+          "like_count": 1528,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 2831
+        },
+        "username": "nishuodeduiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2013796261116395611",
+    "created_at": "2026-01-21T03:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T04:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013809299026546721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835299449721200640",
+          "start": 0,
+          "username": "lucun357175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013809299026546721",
+    "in_reply_to_user_id": "1835299449721200640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013796261116395611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucun357175 （՞ټ՞）抱抱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2013796261116395611",
+        "created_at": "2026-01-21T03:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T04:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013809299026546721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835299449721200640",
+              "start": 0,
+              "username": "lucun357175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013809299026546721",
+        "in_reply_to_user_id": "1835299449721200640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013796261116395611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucun357175 （՞ټ՞）抱抱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835299449721200640",
+        "conversation_id": "2013796261116395611",
+        "created_at": "2026-01-21T02:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013796261116395611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013796261116395611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一开始面投的公司，hr告诉我觉得我的简历很不错，回头通知我二面，结果从去年到现在连推3次，现在还没通知我面试，还pua我现在大环境不好，刚转正只有5000块是很正常的。最好后面不要来找我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 7489,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 535,
+          "tweet_count": 6002
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T12:47:50.000Z",
+        "description": "最后一句话是谢谢你",
+        "id": "1835299449721200640",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "超级坏的人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984153760923578375/l5_G1oZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 23,
+          "like_count": 516,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1187
+        },
+        "username": "lucun357175",
+        "verified": false
+      }
+    ]
+  }
+}

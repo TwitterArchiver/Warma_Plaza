@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911037702734000128"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1911035328359493811",
+    "created_at": "2025-04-12T12:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T13:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911037705984909344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825021494805581824",
+          "start": 0,
+          "username": "lumuyuanMadoka2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mi9NsryRGD",
+          "end": 40,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1911037705984909344/photo/1",
+          "media_key": "3_1911037702734000128",
+          "start": 17,
+          "url": "https://t.co/Mi9NsryRGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911037705984909344",
+    "in_reply_to_user_id": "1825021494805581824",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911035328359493811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuanMadoka2 https://t.co/Mi9NsryRGD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_1911037702734000128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVeql_WsAAzTRa.jpg",
+        "width": 227
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1911035310542135296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVcfWYXoAABe6w.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1911035310722469888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVcfXDXUAAt4qM.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911037702734000128"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1911035328359493811",
+        "created_at": "2025-04-12T12:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911037705984909344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mi9NsryRGD",
+              "end": 40,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1911037705984909344/photo/1",
+              "media_key": "3_1911037702734000128",
+              "start": 17,
+              "url": "https://t.co/Mi9NsryRGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911037705984909344",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911035328359493811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 https://t.co/Mi9NsryRGD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911035310542135296",
+            "3_1911035310722469888"
+          ]
+        },
+        "author_id": "1825021494805581824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1911035328359493811",
+        "created_at": "2025-04-12T12:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911035328359493811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12Cq9W4RoL",
+              "end": 104,
+              "expanded_url": "https://x.com/lumuyuanMadoka2/status/1911035328359493811/photo/1",
+              "media_key": "3_1911035310542135296",
+              "start": 81,
+              "url": "https://t.co/12Cq9W4RoL"
+            },
+            {
+              "display_url": "pic.x.com/12Cq9W4RoL",
+              "end": 104,
+              "expanded_url": "https://x.com/lumuyuanMadoka2/status/1911035328359493811/photo/1",
+              "media_key": "3_1911035310722469888",
+              "start": 81,
+              "url": "https://t.co/12Cq9W4RoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911035328359493811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好家伙，华为你有大病吧你\n我之前一直以为一些推友昵称标的就是🏳‍ ⚧，结果原来是🏳‍⚧，但是手机不显示。。\n不是平台的问题，是他华为的系统问题\n真不愧是遥遥领先 https://t.co/12Cq9W4RoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3355,
+          "following_count": 7484,
+          "like_count": 572,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 1268
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "@lumuyuanMadoka 的转生号——————————————————————\n日常丨百合豚丨ACGN丨MC丨🏳️‍🌈友好丨日本語を学ぶ丨🇨🇳，中华民族，网左，本号键政🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "lumuyuanMadoka"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "鹿目圆○",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 269,
+          "like_count": 7416,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 2726
+        },
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

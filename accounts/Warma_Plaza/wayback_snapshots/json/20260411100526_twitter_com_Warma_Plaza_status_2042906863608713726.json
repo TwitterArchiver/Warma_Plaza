@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2042580112810369494",
+    "created_at": "2026-04-11T10:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042906863608713726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1986856540251537408",
+          "start": 0,
+          "username": "fuziwaranyanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042906863608713726",
+    "in_reply_to_user_id": "1986856540251537408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042580112810369494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@fuziwaranyanya ๑ᵒᯅᵒ๑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1779,
+        "media_key": "3_2042580109928853504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFizybWWcAAK8h8.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2183,
+        "media_key": "3_2042580109815640064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFizya7W8AAmSgn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2042580112810369494",
+        "created_at": "2026-04-11T10:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042906863608713726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986856540251537408",
+              "start": 0,
+              "username": "fuziwaranyanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042906863608713726",
+        "in_reply_to_user_id": "1986856540251537408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042580112810369494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@fuziwaranyanya ๑ᵒᯅᵒ๑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042580109928853504",
+            "3_2042580109815640064"
+          ]
+        },
+        "author_id": "1986856540251537408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042580112810369494",
+        "created_at": "2026-04-10T12:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042580112810369494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kJsRbQSeHC",
+              "end": 65,
+              "expanded_url": "https://x.com/fuziwaranyanya/status/2042580112810369494/photo/1",
+              "media_key": "3_2042580109928853504",
+              "start": 42,
+              "url": "https://t.co/kJsRbQSeHC"
+            },
+            {
+              "display_url": "pic.x.com/kJsRbQSeHC",
+              "end": 65,
+              "expanded_url": "https://x.com/fuziwaranyanya/status/2042580112810369494/photo/1",
+              "media_key": "3_2042580109815640064",
+              "start": 42,
+              "url": "https://t.co/kJsRbQSeHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042580112810369494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4386,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "这有什么，我还听说过圣战的时候有一些中国人不但不与皇军为敌还反过来帮皇军一起屠支😄 https://t.co/kJsRbQSeHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 7496,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 562,
+          "tweet_count": 7588
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T18:01:44.000Z",
+        "description": "我是共产党，你是支那猪。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/E6k2TPf0mn"
+              }
+            ]
+          }
+        },
+        "id": "1986856540251537408",
+        "location": "新华社",
+        "name": "喵主席爱吃蛋炒饭🇨🇳",
+        "pinned_tweet_id": "2042554563526381699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035768373456330752/-ojh-tBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 868,
+          "like_count": 2601,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 4417
+        },
+        "url": "https://t.co/E6k2TPf0mn",
+        "username": "fuziwaranyanya",
+        "verified": false
+      }
+    ]
+  }
+}

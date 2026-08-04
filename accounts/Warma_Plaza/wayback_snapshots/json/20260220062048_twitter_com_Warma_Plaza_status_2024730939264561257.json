@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2024713787182587927",
+    "created_at": "2026-02-20T06:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024730939264561257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885641757469380608",
+          "start": 0,
+          "username": "cngzh3963511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024730939264561257",
+    "in_reply_to_user_id": "1885641757469380608",
+    "lang": "el",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024713787182587927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cngzh3963511 ᵟຶᴖ ᵟຶ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2024713787182587927",
+        "created_at": "2026-02-20T06:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024730939264561257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885641757469380608",
+              "start": 0,
+              "username": "cngzh3963511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024730939264561257",
+        "in_reply_to_user_id": "1885641757469380608",
+        "lang": "el",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024713787182587927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cngzh3963511 ᵟຶᴖ ᵟຶ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885641757469380608",
+        "conversation_id": "2024713787182587927",
+        "created_at": "2026-02-20T05:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024713787182587927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024713787182587927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么推特不能像抖音一样买流呢🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4765,
+          "following_count": 7484,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 546,
+          "tweet_count": 6483
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T10:50:09.000Z",
+        "description": "温和左翼｜改良主义者｜可以接纳一切左翼和温和民主派\n纯良舟友❤️傻卵二刺螈",
+        "id": "1885641757469380608",
+        "location": "雨一直下",
+        "name": "你说得对",
+        "pinned_tweet_id": "1888575141204066613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024698363162349569/q0VWh2dz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 229
+        },
+        "username": "cngzh3963511",
+        "verified": false
+      }
+    ]
+  }
+}

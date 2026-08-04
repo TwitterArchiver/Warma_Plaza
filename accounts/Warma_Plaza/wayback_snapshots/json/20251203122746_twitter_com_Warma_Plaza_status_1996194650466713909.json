@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1995827777866731610",
+    "created_at": "2025-12-03T12:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996194650466713909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182479361275920384",
+          "start": 0,
+          "username": "SagaeSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996194650466713909",
+    "in_reply_to_user_id": "1182479361275920384",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995827777866731610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagaeSayuki (˵¯͒〰¯͒˵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1995827777866731610",
+        "created_at": "2025-12-03T12:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996194650466713909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182479361275920384",
+              "start": 0,
+              "username": "SagaeSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996194650466713909",
+        "in_reply_to_user_id": "1182479361275920384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995827777866731610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagaeSayuki (˵¯͒〰¯͒˵)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1182479361275920384",
+        "conversation_id": "1995827777866731610",
+        "created_at": "2025-12-02T12:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995827777866731610"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Blåhaj",
+              "probability": 0.4644,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995827777866731610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Blåhajと一緒に寝る💤。\nおやすみにゃさい～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 7484,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 517,
+          "tweet_count": 4706
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-11T02:14:23.000Z",
+        "description": "這是一隻居住在日本列島的平成十一年式普通貓貓。我堆砌毫無意義的文字，我進行漫無目的的旅行，我度過無可留戀的人生。",
+        "id": "1182479361275920384",
+        "location": "堤防決壊時最大浸水深5m",
+        "name": "寒河江桜雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835671919305330688/T3uemmfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 1104,
+          "like_count": 47214,
+          "listed_count": 8,
+          "media_count": 1461,
+          "tweet_count": 7212
+        },
+        "username": "SagaeSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

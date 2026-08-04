@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1994249088414662839",
+    "created_at": "2025-11-28T03:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T04:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994249202130387435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1593905954575171584",
+          "start": 0,
+          "username": "wbsdsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994249202130387435",
+    "in_reply_to_user_id": "1593905954575171584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994249088414662839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbsdsf (▲ ︻ ▲)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_1994249085961031680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6z--kpa0AAXhl3.jpg",
+        "width": 529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1994249088414662839",
+        "created_at": "2025-11-28T03:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994249202130387435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1593905954575171584",
+              "start": 0,
+              "username": "wbsdsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994249202130387435",
+        "in_reply_to_user_id": "1593905954575171584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994249088414662839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbsdsf (▲ ︻ ▲)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994249085961031680"
+          ]
+        },
+        "author_id": "1593905954575171584",
+        "conversation_id": "1994249088414662839",
+        "created_at": "2025-11-28T03:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994249088414662839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFJvAErmGh",
+              "end": 23,
+              "expanded_url": "https://x.com/wbsdsf/status/1994249088414662839/photo/1",
+              "media_key": "3_1994249085961031680",
+              "start": 0,
+              "url": "https://t.co/mFJvAErmGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994249088414662839",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mFJvAErmGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417,
+          "following_count": 7491,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 514,
+          "tweet_count": 4439
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "叫妈妈只是爱好，介意致歉\n性压抑郭楠，力工思想传承者，自然女，孙吧黄牌，恋丑癖\nhttps://t.co/5TQnxFrCix 自用蜂鸟vpn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=r0Rkh4Yh",
+                "start": 40,
+                "url": "https://t.co/5TQnxFrCix"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓前",
+        "name": "也许没人认识我",
+        "pinned_tweet_id": "1903106755288240388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978164101701611520/lJ5SMSpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13475,
+          "following_count": 2315,
+          "like_count": 57945,
+          "listed_count": 21,
+          "media_count": 2493,
+          "tweet_count": 25473
+        },
+        "username": "wbsdsf",
+        "verified": false
+      }
+    ]
+  }
+}

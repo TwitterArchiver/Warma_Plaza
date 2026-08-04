@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2022972164497125421",
+    "created_at": "2026-02-17T09:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023690907233775819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1563151051251159043",
+          "start": 0,
+          "username": "777Nanami_Cute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023690907233775819",
+    "in_reply_to_user_id": "1563151051251159043",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022972164497125421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@777Nanami_Cute ╮(╯_╰)╭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2022972164497125421",
+        "created_at": "2026-02-17T09:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023690907233775819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1563151051251159043",
+              "start": 0,
+              "username": "777Nanami_Cute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023690907233775819",
+        "in_reply_to_user_id": "1563151051251159043",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022972164497125421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@777Nanami_Cute ╮(╯_╰)╭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563151051251159043",
+        "conversation_id": "2022972164497125421",
+        "created_at": "2026-02-15T09:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022972164497125421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangzhian8848/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/wangzhian8848/status/2022820658699473111",
+              "start": 17,
+              "url": "https://t.co/MTVXTm6vxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022972164497125421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022820658699473111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王局最好的结局是去缅北当电诈头子 https://t.co/MTVXTm6vxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4746,
+          "following_count": 7492,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 540,
+          "tweet_count": 6382
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T13:07:23.000Z",
+        "description": "「禰的語言是我步履前的明燈，是我路途上的光明」(詠119:105)｜代理喵喵露✝️@MiaoMiaoLuCute｜莲🪷@Daryl336｜#VAMOUZ🇩🇪🐭 @mousesports｜#FaZeUP @FaZeEsports",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 69,
+                "tag": "VAMOUZ"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "FaZeUP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "MiaoMiaoLuCute"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "Daryl336"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "mousesports"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "FaZeEsports"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/profiles/76561…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/profiles/76561199136981003/",
+                "start": 0,
+                "url": "https://t.co/dQrujcoqL3"
+              }
+            ]
+          }
+        },
+        "id": "1563151051251159043",
+        "location": "唐宁街10号",
+        "name": "⛩️ひなた",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986025827734040576/Ra5ZaCF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 394,
+          "like_count": 132401,
+          "listed_count": 7,
+          "media_count": 431,
+          "tweet_count": 4591
+        },
+        "url": "https://t.co/dQrujcoqL3",
+        "username": "777Nanami_Cute",
+        "verified": false
+      }
+    ]
+  }
+}

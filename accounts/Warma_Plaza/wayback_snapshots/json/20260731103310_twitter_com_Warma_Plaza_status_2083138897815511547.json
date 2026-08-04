@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2083070774118940920",
+    "created_at": "2026-07-31T10:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083138897815511547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954474751260585984",
+          "start": 0,
+          "username": "PRCXIJINPING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083138897815511547",
+    "in_reply_to_user_id": "1954474751260585984",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083070774118940920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRCXIJINPING (´ . .̫ . `)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1739,
+        "media_key": "3_2083070757802999808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiN0VDaAAA9XjS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2083070764346220544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiN0tbboAAddPa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1748,
+        "media_key": "3_2083070769572311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiN1A5bcAARDGV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2083070774118940920",
+        "created_at": "2026-07-31T10:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083138897815511547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954474751260585984",
+              "start": 0,
+              "username": "PRCXIJINPING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083138897815511547",
+        "in_reply_to_user_id": "1954474751260585984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083070774118940920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRCXIJINPING (´ . .̫ . `)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083070757802999808",
+            "3_2083070764346220544",
+            "3_2083070769572311040"
+          ]
+        },
+        "author_id": "1954474751260585984",
+        "conversation_id": "2083070774118940920",
+        "created_at": "2026-07-31T06:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083070774118940920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g15WSlmNBf",
+              "end": 40,
+              "expanded_url": "https://x.com/PRCXIJINPING/status/2083070774118940920/photo/1",
+              "media_key": "3_2083070757802999808",
+              "start": 17,
+              "url": "https://t.co/g15WSlmNBf"
+            },
+            {
+              "display_url": "pic.x.com/g15WSlmNBf",
+              "end": 40,
+              "expanded_url": "https://x.com/PRCXIJINPING/status/2083070774118940920/photo/1",
+              "media_key": "3_2083070764346220544",
+              "start": 17,
+              "url": "https://t.co/g15WSlmNBf"
+            },
+            {
+              "display_url": "pic.x.com/g15WSlmNBf",
+              "end": 40,
+              "expanded_url": "https://x.com/PRCXIJINPING/status/2083070774118940920/photo/1",
+              "media_key": "3_2083070769572311040",
+              "start": 17,
+              "url": "https://t.co/g15WSlmNBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083070774118940920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个人好，下一任国家主席就给他了 https://t.co/g15WSlmNBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5411,
+          "following_count": 7497,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 12007
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T09:28:03.000Z",
+        "description": "中华人民共和国主席，老习VPN特批用户\n新左派\nENTJ-A",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mc.163.com",
+                "end": 23,
+                "expanded_url": "https://mc.163.com",
+                "start": 0,
+                "url": "https://t.co/tCeyYxQN4d"
+              }
+            ]
+          }
+        },
+        "id": "1954474751260585984",
+        "location": "东亚防御倡议协定 中华人民共和国",
+        "name": "习近平",
+        "pinned_tweet_id": "2071836780731761095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081410422960439297/CDVuljQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 586,
+          "like_count": 10472,
+          "listed_count": 4,
+          "media_count": 735,
+          "tweet_count": 7773
+        },
+        "url": "https://t.co/tCeyYxQN4d",
+        "username": "PRCXIJINPING",
+        "verified": false
+      }
+    ]
+  }
+}

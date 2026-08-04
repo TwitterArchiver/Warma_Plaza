@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2076172017712443785",
+    "created_at": "2026-07-12T10:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076257782446367073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076257782446367073",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076172017712443785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth ಠ_ಠ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39334,
+        "height": 640,
+        "media_key": "7_2076172000410886144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076172000410886144/pu/img/KAinQc2ehNHnjBJZ.jpg",
+        "public_metrics": {
+          "view_count": 1832
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076172000410886144/pu/vid/avc1/320x568/TzJC2mqHTDwNg459.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076172000410886144/pu/vid/avc1/360x640/Zr2okPK2GHXoD47j.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076172000410886144/pu/pl/zTBVGaCQaA6eei1n.m3u8?tag=12&v=2dc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2076172017712443785",
+        "created_at": "2026-07-12T10:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076257782446367073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076257782446367073",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076172017712443785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth ಠ_ಠ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076172000410886144"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2076172017712443785",
+        "created_at": "2026-07-12T05:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076172017712443785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6JhrmVvYv",
+              "end": 138,
+              "expanded_url": "https://x.com/TaoistYouth/status/2076172017712443785/video/1",
+              "media_key": "7_2076172000410886144",
+              "start": 115,
+              "url": "https://t.co/z6JhrmVvYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076172017712443785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3974,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“习近平喝过百事可乐？嘎子冲塔被封号”\n\n中国知名演员、潘嘎之交创作人“嘎子”谢孟伟，在直播期间冲塔讲述普通人维权发声是没用的被“某人”（习近平）控制能不能发声，并表示他和普通人都一样，在共产党淫威面前都是贫下中农，努力没有用的 https://t.co/z6JhrmVvYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5297,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 577,
+          "tweet_count": 11080
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "右翼自由派/自由意志主义/反极权/永远铭记六四/\n日本留学生/高一做题区/道教善信☯/友跨非跨🏳️‍⚧️/时而暴躁时而温和/键政辱包重度依赖/\n一入玄门终不悔，永做三清不二臣/六四精神永存，自由民主不死/\n努力突破1000fo喵/\n回fo标准：简介、名称和内容明确或粉丝量大于50。小号防失联@TaoistYouth3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 146,
+                "username": "TaoistYouth3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20740…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2074037789138772108",
+                "start": 0,
+                "url": "https://t.co/UuEmggjyf8"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2074807249047081307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 470,
+          "like_count": 9546,
+          "listed_count": 9,
+          "media_count": 358,
+          "tweet_count": 3291
+        },
+        "url": "https://t.co/UuEmggjyf8",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

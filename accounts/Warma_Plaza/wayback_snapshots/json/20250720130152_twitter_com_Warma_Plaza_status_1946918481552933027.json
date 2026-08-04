@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1946855885906788443",
+    "created_at": "2025-07-20T13:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T14:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946918481552933027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557541453253038080",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946918481552933027",
+    "in_reply_to_user_id": "1557541453253038080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 24,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946855885906788443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 可惜了(•̩̩̩̩＿•̩̩̩̩)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946855843011416064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwSfEweW0AAq4bj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1946855885906788443",
+        "created_at": "2025-07-20T13:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946918481552933027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946918481552933027",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946855885906788443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 可惜了(•̩̩̩̩＿•̩̩̩̩)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946855843011416064"
+          ]
+        },
+        "author_id": "1557541453253038080",
+        "conversation_id": "1946855885906788443",
+        "created_at": "2025-07-20T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946855885906788443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hED5xUJ2xb",
+              "end": 45,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/1946855885906788443/photo/1",
+              "media_key": "3_1946855843011416064",
+              "start": 22,
+              "url": "https://t.co/hED5xUJ2xb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946855885906788443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说各位有人在南昌吗？有人想与小蓝面基吗？ https://t.co/hED5xUJ2xb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3776,
+          "following_count": 7492,
+          "like_count": 646,
+          "listed_count": 4,
+          "media_count": 451,
+          "tweet_count": 2123
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "Name:小蓝/Alan\n简中/English/Español/C/Python\nFriendly except with SB, rac!st,支黑,谣棍\nSUPPORT✊🏻🌹🇵🇸🇺🇦🇨🇳🇺🇸☮️毛 #中推名人评分\n欢迎友好交流(8964=no repost on🇨🇳social media)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmPIIJ"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-福州分区",
+        "name": "枫糖小蓝🫐 (Di Alan Chan 🌊🐻👊🏻）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941423260811603968/BG4MVxMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 431,
+          "like_count": 3589,
+          "listed_count": 2,
+          "media_count": 503,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/wy2TJmPIIJ",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

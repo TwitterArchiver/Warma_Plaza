@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2054610848656572823",
+    "created_at": "2026-05-14T03:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054766675615269013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054766675615269013",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054610848656572823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele (⁠´⁠-⁠﹏⁠-⁠`⁠；⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 428617,
+        "height": 1080,
+        "media_key": "13_2054610258069176320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054610258069176320/img/hhaT2gS-m6DTBJWy.jpg",
+        "public_metrics": {
+          "view_count": 166114
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054610258069176320/vid/avc1/1280x720/RyWPssUZByS698Rw.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054610258069176320/vid/avc1/480x270/dXaIfCtnYAuMoPf_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054610258069176320/vid/avc1/640x360/1IGkm8U4ymInLBMy.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054610258069176320/vid/avc1/1920x1080/ggtAV5yTedi4eWv6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054610258069176320/pl/6arb04mLXbH0RmNn.m3u8?v=9f2"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2054610848656572823",
+        "created_at": "2026-05-14T03:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054766675615269013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054766675615269013",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054610848656572823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele (⁠´⁠-⁠﹏⁠-⁠`⁠；⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054610258069176320"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2054610848656572823",
+        "created_at": "2026-05-13T17:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054610848656572823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/slewqhCSRH",
+              "end": 162,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054610848656572823/video/1",
+              "media_key": "13_2054610258069176320",
+              "start": 139,
+              "url": "https://t.co/slewqhCSRH"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2054564152954298455",
+              "start": 163,
+              "url": "https://t.co/wmkELOUX7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054610848656572823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 506148,
+          "like_count": 1435,
+          "quote_count": 18,
+          "reply_count": 162,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054564152954298455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月13日晚，在特朗普下榻北京四季酒店前\n视频显示，沿途道路全部清空，只有他的车队得以通行。警车在前开道，声势浩大。\n车队从守候在路边的民众面前缓缓驶过，足足走了七分钟，才看到队尾。\n大批民众聚集在道路两边，只为一睹其风采与车队。民众们连连惊呼：“卧槽，太牛了，牛逼，太帅了” https://t.co/slewqhCSRH https://t.co/wmkELOUX7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 7497,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8962
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221060,
+          "following_count": 1052,
+          "like_count": 9505,
+          "listed_count": 8719,
+          "media_count": 46722,
+          "tweet_count": 53831
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

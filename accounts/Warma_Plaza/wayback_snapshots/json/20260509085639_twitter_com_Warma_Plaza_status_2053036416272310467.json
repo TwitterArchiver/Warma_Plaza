@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2052967373762957745",
+    "created_at": "2026-05-09T08:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053036416272310467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1789837129247531008",
+          "start": 0,
+          "username": "Shirasu8964228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053036416272310467",
+    "in_reply_to_user_id": "1789837129247531008",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052967373762957745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirasu8964228 ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 874,
+        "media_key": "3_2052967357581271040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2a70QaoAAKDZt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 460,
+        "media_key": "3_2052967355496759296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2a7sfbgAAMW5P.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2052967373762957745",
+        "created_at": "2026-05-09T08:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053036416272310467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1789837129247531008",
+              "start": 0,
+              "username": "Shirasu8964228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053036416272310467",
+        "in_reply_to_user_id": "1789837129247531008",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052967373762957745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirasu8964228 ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052967357581271040",
+            "3_2052967355496759296"
+          ]
+        },
+        "author_id": "1789837129247531008",
+        "conversation_id": "2052967373762957745",
+        "created_at": "2026-05-09T04:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052967373762957745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doDFysv2mV",
+              "end": 82,
+              "expanded_url": "https://x.com/Shirasu8964228/status/2052967373762957745/photo/1",
+              "media_key": "3_2052967357581271040",
+              "start": 59,
+              "url": "https://t.co/doDFysv2mV"
+            },
+            {
+              "display_url": "pic.x.com/doDFysv2mV",
+              "end": 82,
+              "expanded_url": "https://x.com/Shirasu8964228/status/2052967373762957745/photo/1",
+              "media_key": "3_2052967355496759296",
+              "start": 59,
+              "url": "https://t.co/doDFysv2mV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052967373762957745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是白衛兵，女兒評論大外宣也是讓變性金剛批鬥上惹🥹\n那些認為他捍衛“中華民國”的藍衛兵們，還好意思說他反對中共嗎？ https://t.co/doDFysv2mV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4995,
+          "following_count": 7494,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 8836
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T01:58:49.000Z",
+        "description": "中非與伊斯蘭原始人的主人，不時更新一些畫作\n貓貓（❤️）：@honxine8964\n♥：@ProcyonCoke731\n@Yamawuchimisaki\n莉奈妹妹：@RinaSato01\n液態貓貓：@saya8964cat\n閨蜜：@Je1nFaur_l\n好朋友：@Eris37298  @MasaoYamato001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "honxine8964"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "ProcyonCoke731"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Yamawuchimisaki"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "RinaSato01"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "saya8964cat"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Je1nFaur_l"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Eris37298"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "MasaoYamato001"
+              }
+            ]
+          }
+        },
+        "id": "1789837129247531008",
+        "location": "大日本帝國台北州",
+        "name": "✠✝️🇦🇹Sato Hiromichi🇯🇵🌸🧋（茉莉奶茶）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052811427753443328/csUc7qTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4739,
+          "following_count": 3326,
+          "like_count": 99902,
+          "listed_count": 32,
+          "media_count": 5026,
+          "tweet_count": 34273
+        },
+        "username": "Shirasu8964228",
+        "verified": false
+      }
+    ]
+  }
+}

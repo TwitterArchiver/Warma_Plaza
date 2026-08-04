@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1973714301816029592",
+    "created_at": "2025-10-02T15:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T16:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973766465569657030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1950398337427132417",
+          "start": 0,
+          "username": "polpot6353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973766465569657030",
+    "in_reply_to_user_id": "1950398337427132417",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973714301816029592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polpot6353 (=°Д°=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1973714301816029592",
+        "created_at": "2025-10-02T15:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T16:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973766465569657030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1950398337427132417",
+              "start": 0,
+              "username": "polpot6353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973766465569657030",
+        "in_reply_to_user_id": "1950398337427132417",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973714301816029592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polpot6353 (=°Д°=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950398337427132417",
+        "conversation_id": "1973714301816029592",
+        "created_at": "2025-10-02T11:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T12:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973714301816029592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973714301816029592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊…..受不了……想立刻性解放……女同志們…..快靠過來主席這邊…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 7494,
+          "like_count": 666,
+          "listed_count": 7,
+          "media_count": 490,
+          "tweet_count": 2936
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T03:30:20.000Z",
+        "description": "台灣-柬埔寨混血，左派，請各位多多關注並支持",
+        "id": "1950398337427132417",
+        "name": "言八·毛賴波",
+        "pinned_tweet_id": "1972561402901705208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972566219418157056/ljqegzUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 325,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1050
+        },
+        "username": "polpot6353",
+        "verified": false
+      }
+    ]
+  }
+}

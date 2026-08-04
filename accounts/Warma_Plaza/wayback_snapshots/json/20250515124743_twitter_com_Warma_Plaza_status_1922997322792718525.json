@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922997319055581184"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1922997322792718525",
+    "created_at": "2025-05-15T12:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T13:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922997322792718525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nLiBlIUMLL",
+          "end": 180,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1922997322792718525/photo/1",
+          "media_key": "3_1922997319055581184",
+          "start": 157,
+          "url": "https://t.co/nLiBlIUMLL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922997322792718525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很久以前，在沃星上有个大陆，那里曾经各种灾害频发...(╥_╥)\n而在沃元纪的古代时期（为1xxx年），有沃沃为了谋生，冒着被海浪吞噬/鲨鱼啃的危险，来到了一座荒芜的岛上...QAQ\n原本那贫瘠不堪的岛，历经多少代沃沃的开发，已经变了模样...\n但沃沃们自古是一家...信仰、理念、风俗都一样...(●'◡'●) https://t.co/nLiBlIUMLL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1922997319055581184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_b34pWIAArHkL.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922997319055581184"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1922997322792718525",
+        "created_at": "2025-05-15T12:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T13:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922997322792718525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLiBlIUMLL",
+              "end": 180,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1922997322792718525/photo/1",
+              "media_key": "3_1922997319055581184",
+              "start": 157,
+              "url": "https://t.co/nLiBlIUMLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922997322792718525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很久以前，在沃星上有个大陆，那里曾经各种灾害频发...(╥_╥)\n而在沃元纪的古代时期（为1xxx年），有沃沃为了谋生，冒着被海浪吞噬/鲨鱼啃的危险，来到了一座荒芜的岛上...QAQ\n原本那贫瘠不堪的岛，历经多少代沃沃的开发，已经变了模样...\n但沃沃们自古是一家...信仰、理念、风俗都一样...(●'◡'●) https://t.co/nLiBlIUMLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3482,
+          "following_count": 7488,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 1379
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

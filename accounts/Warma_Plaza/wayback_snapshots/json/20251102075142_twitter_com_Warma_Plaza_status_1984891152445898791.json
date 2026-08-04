@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984672360608514091",
+    "created_at": "2025-11-02T07:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984891152445898791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1664696385277665281",
+          "start": 0,
+          "username": "Hoshino_CNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984891152445898791",
+    "in_reply_to_user_id": "1664696385277665281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984672360608514091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_CNA 、ヽ｀(￣ ￣)┌\"\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984672360608514091",
+        "created_at": "2025-11-02T07:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984891152445898791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1664696385277665281",
+              "start": 0,
+              "username": "Hoshino_CNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984891152445898791",
+        "in_reply_to_user_id": "1664696385277665281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984672360608514091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_CNA 、ヽ｀(￣ ￣)┌\"\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664696385277665281",
+        "conversation_id": "1984672360608514091",
+        "created_at": "2025-11-01T17:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984672360608514091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/annayanamisuki…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/annayanamisuki/status/1984469805802406138",
+              "start": 29,
+              "url": "https://t.co/qoPzOGXRng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984672360608514091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984469805802406138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用点狗屁不通的加密黑话在墙里一天到晚放狗皮的人差不多得了 https://t.co/qoPzOGXRng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4346,
+          "following_count": 7483,
+          "like_count": 683,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 3861
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T18:12:55.000Z",
+        "description": "既然你把反对的标准定的那么宽泛那么低，那我为什么不当你所说的那个反对者呢呢",
+        "id": "1664696385277665281",
+        "name": "小鸟游ホシノ👊🏴‍☠️🇵🇸🇪🇭🔥",
+        "pinned_tweet_id": "1774770163663204620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823948319867199492/6rRYxJOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 780,
+          "like_count": 68492,
+          "listed_count": 7,
+          "media_count": 741,
+          "tweet_count": 12137
+        },
+        "username": "Hoshino_CNA",
+        "verified": false
+      }
+    ]
+  }
+}

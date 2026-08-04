@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1986969870840569874",
+    "created_at": "2025-11-09T04:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T05:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987381837426262462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874297169592934401",
+          "start": 0,
+          "username": "EdenSongSG"
+        },
+        {
+          "end": 24,
+          "id": "1598640474113290240",
+          "start": 12,
+          "username": "LQniupitang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987381837426262462",
+    "in_reply_to_user_id": "1874297169592934401",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987208436015317068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EdenSongSG @LQniupitang (ꐦ°᷄д°᷅)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1986969870840569874",
+        "created_at": "2025-11-09T04:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T05:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987381837426262462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874297169592934401",
+              "start": 0,
+              "username": "EdenSongSG"
+            },
+            {
+              "end": 24,
+              "id": "1598640474113290240",
+              "start": 12,
+              "username": "LQniupitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987381837426262462",
+        "in_reply_to_user_id": "1874297169592934401",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987208436015317068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EdenSongSG @LQniupitang (ꐦ°᷄д°᷅)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1987208434740305934"
+          ]
+        },
+        "author_id": "1874297169592934401",
+        "conversation_id": "1986969870840569874",
+        "created_at": "2025-11-08T17:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987208436015317068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598640474113290240",
+              "start": 0,
+              "username": "LQniupitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987208436015317068",
+        "in_reply_to_user_id": "1598640474113290240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986969870840569874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LQniupitang 零敲牛皮糖有几个家人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4357,
+          "following_count": 7486,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 509,
+          "tweet_count": 3924
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T03:31:01.000Z",
+        "description": "全网最尊重邱少云的主播，大号正在打官司 传送舱:https://t.co/UubP0Bm6G9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Eden20220224?t…",
+                "end": 47,
+                "expanded_url": "https://x.com/Eden20220224?t=SWVN6HhBr18z5CktXl1-1Q&s=09",
+                "start": 24,
+                "url": "https://t.co/UubP0Bm6G9"
+              }
+            ]
+          }
+        },
+        "id": "1874297169592934401",
+        "name": "习迈手爱人民🇨🇳（炭烤邱少云）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940300797478076422/-0LjAQ2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 311,
+          "like_count": 2109,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 984
+        },
+        "username": "EdenSongSG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T11:29:42.000Z",
+        "description": "你知道：零敲牛皮糖、537.7是什麼意思嗎？\nChinese Path to Modernization；\nSocialism with Chinese Characteristics；\n人民有信仰，民族有希望，國家有力量。\n原号：@liuguangchui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 116,
+                "username": "liuguangchui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JUixJDTL7U"
+              }
+            ]
+          }
+        },
+        "id": "1598640474113290240",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖537.7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981752996850470912/YGaSuiOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51784,
+          "following_count": 2067,
+          "like_count": 92098,
+          "listed_count": 176,
+          "media_count": 10165,
+          "tweet_count": 37247
+        },
+        "url": "https://t.co/JUixJDTL7U",
+        "username": "LQniupitang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1885251732638491097",
+    "created_at": "2025-03-22T22:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T23:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903581795393863880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796175665840238592",
+          "start": 0,
+          "username": "chuanxing176550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903581795393863880",
+    "in_reply_to_user_id": "1796175665840238592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903516636239528411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanxing176550 唉...(◞‸◟ )\n（无力感）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1885251732638491097",
+        "created_at": "2025-03-22T22:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T23:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903581795393863880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796175665840238592",
+              "start": 0,
+              "username": "chuanxing176550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903581795393863880",
+        "in_reply_to_user_id": "1796175665840238592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903516636239528411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanxing176550 唉...(◞‸◟ )\n（无力感）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796175665840238592",
+        "conversation_id": "1885251732638491097",
+        "created_at": "2025-03-22T18:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T19:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903516636239528411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903516636239528411",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885251732638491097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 不太懂电脑配置相关🤔但是或许AB？我的了解止步于50系列相对40的提升并不多但是40已经停产全线溢价，有点为暑假配电脑困扰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261,
+          "following_count": 7489,
+          "like_count": 557,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1175
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T13:44:05.000Z",
+        "description": "人如机  如果愿意互fo就更好了  请免疫我的黄色废料",
+        "id": "1796175665840238592",
+        "name": "川行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796176212475207680/NcqV3D5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 61,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 139
+        },
+        "username": "chuanxing176550",
+        "verified": false
+      }
+    ]
+  }
+}

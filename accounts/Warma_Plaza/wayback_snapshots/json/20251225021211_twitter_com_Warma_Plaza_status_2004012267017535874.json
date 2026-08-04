@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2003875061217079544",
+    "created_at": "2025-12-25T02:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T03:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004012267017535874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890343594248036352",
+          "start": 0,
+          "username": "lihongzhi425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004012267017535874",
+    "in_reply_to_user_id": "1890343594248036352",
+    "lang": "el",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003875061217079544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihongzhi425 ψ(｀∇´)ψ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2003875061217079544",
+        "created_at": "2025-12-25T02:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T03:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004012267017535874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890343594248036352",
+              "start": 0,
+              "username": "lihongzhi425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004012267017535874",
+        "in_reply_to_user_id": "1890343594248036352",
+        "lang": "el",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003875061217079544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihongzhi425 ψ(｀∇´)ψ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890343594248036352",
+        "conversation_id": "2003875061217079544",
+        "created_at": "2025-12-24T17:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003875061217079544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003875061217079544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我们抛弃了“解放思想实事求是”的正确理论，抛弃了改革开放的正确路线，那可真是走上邪路了\n如果我们又搞意识形态控制，又搞领袖崇拜，那可真是走上邪路了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4587,
+          "following_count": 7480,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 528,
+          "tweet_count": 5220
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "我坚信，任何困难都难不倒英雄的中国人民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/zhaohongzhi1126",
+                "end": 23,
+                "expanded_url": "https://x.com/zhaohongzhi1126",
+                "start": 0,
+                "url": "https://t.co/atUKW9bjjK"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "李洪志🇨🇳🇪🇺🇭🇰🇲🇴",
+        "pinned_tweet_id": "1976684323727421668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998170053414408192/S-mMJ6xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 943,
+          "like_count": 5627,
+          "listed_count": 4,
+          "media_count": 964,
+          "tweet_count": 4499
+        },
+        "url": "https://t.co/atUKW9bjjK",
+        "username": "lihongzhi425",
+        "verified": false
+      }
+    ]
+  }
+}

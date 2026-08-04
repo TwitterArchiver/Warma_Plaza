@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2048215379252769031",
+    "created_at": "2026-04-26T14:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048406344248725942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048406344248725942",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048215379252769031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@TReverie_ (⁠･⁠–⁠･⁠)⁠ ⁠\\⁠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10171,
+        "height": 1274,
+        "media_key": "7_2048215356804829184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048215356804829184/pu/img/Uht-P_XrrRnOuHXn.jpg",
+        "public_metrics": {
+          "view_count": 11680
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048215356804829184/pu/vid/avc1/320x588/Z9RnSon4uqidf8P3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048215356804829184/pu/vid/avc1/480x882/nrj-WdPWdgQGG6Mr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048215356804829184/pu/vid/avc1/692x1274/Q8HMZ2A3LnBz23eF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048215356804829184/pu/pl/8Cv2rjf7xO88YGAR.m3u8"
+          }
+        ],
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2048215379252769031",
+        "created_at": "2026-04-26T14:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048406344248725942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048406344248725942",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048215379252769031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@TReverie_ (⁠･⁠–⁠･⁠)⁠ ⁠\\⁠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048215356804829184"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2048215379252769031",
+        "created_at": "2026-04-26T01:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048215379252769031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QRV54UdoP",
+              "end": 33,
+              "expanded_url": "https://x.com/TReverie_/status/2048215379252769031/video/1",
+              "media_key": "7_2048215356804829184",
+              "start": 10,
+              "url": "https://t.co/5QRV54UdoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048215379252769031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 22636,
+          "like_count": 361,
+          "quote_count": 9,
+          "reply_count": 17,
+          "retweet_count": 35
+        },
+        "reply_settings": "other",
+        "text": "习近平再现帝王功😁 https://t.co/5QRV54UdoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4969,
+          "following_count": 7492,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 566,
+          "tweet_count": 8400
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "Being anti-CCP inside China",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2041716413640143032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047713047876427781/2OSEy5yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 1706,
+          "like_count": 21827,
+          "listed_count": 73,
+          "media_count": 1550,
+          "tweet_count": 4698
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

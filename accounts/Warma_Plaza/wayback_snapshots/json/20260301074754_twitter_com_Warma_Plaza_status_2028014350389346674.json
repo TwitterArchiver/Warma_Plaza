@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2027942088164442319",
+    "created_at": "2026-03-01T07:47:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T08:47:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028014350389346674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1828811688893960192",
+          "start": 0,
+          "username": "zwdwft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028014350389346674",
+    "in_reply_to_user_id": "1828811688893960192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027942088164442319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwdwft (≖_≖ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2027942077598928896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSykzhaEAAran0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 999,
+        "media_key": "3_2027942077808705536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSyk0TbAAA8I5z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1316,
+        "media_key": "3_2027942077817147392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSyk0Vb0AAcngY.jpg",
+        "width": 872
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027942077590614016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSykzfbMAADLHM.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2027942088164442319",
+        "created_at": "2026-03-01T07:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028014350389346674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1828811688893960192",
+              "start": 0,
+              "username": "zwdwft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028014350389346674",
+        "in_reply_to_user_id": "1828811688893960192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027942088164442319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwdwft (≖_≖ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027942077598928896",
+            "3_2027942077808705536",
+            "3_2027942077817147392",
+            "3_2027942077590614016"
+          ]
+        },
+        "author_id": "1828811688893960192",
+        "conversation_id": "2027942088164442319",
+        "created_at": "2026-03-01T03:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027942088164442319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzBCGgFG9n",
+              "end": 100,
+              "expanded_url": "https://x.com/zwdwft/status/2027942088164442319/photo/1",
+              "media_key": "3_2027942077598928896",
+              "start": 77,
+              "url": "https://t.co/XzBCGgFG9n"
+            },
+            {
+              "display_url": "pic.x.com/XzBCGgFG9n",
+              "end": 100,
+              "expanded_url": "https://x.com/zwdwft/status/2027942088164442319/photo/1",
+              "media_key": "3_2027942077808705536",
+              "start": 77,
+              "url": "https://t.co/XzBCGgFG9n"
+            },
+            {
+              "display_url": "pic.x.com/XzBCGgFG9n",
+              "end": 100,
+              "expanded_url": "https://x.com/zwdwft/status/2027942088164442319/photo/1",
+              "media_key": "3_2027942077817147392",
+              "start": 77,
+              "url": "https://t.co/XzBCGgFG9n"
+            },
+            {
+              "display_url": "pic.x.com/XzBCGgFG9n",
+              "end": 100,
+              "expanded_url": "https://x.com/zwdwft/status/2027942088164442319/photo/1",
+              "media_key": "3_2027942077590614016",
+              "start": 77,
+              "url": "https://t.co/XzBCGgFG9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027942088164442319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嚇尿了啦 伊朗向中共國買的武器裝備屁用沒有 直接被秒殺🤣🤣🤣\n啊對啦對啦 遙遙領先了啦🤪🤪🤪\n遙遙領先啦 中共國小粉紅們趕緊背上炸藥包保護習包子啦😂😂😂 https://t.co/XzBCGgFG9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 7496,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 552,
+          "tweet_count": 6713
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T15:07:51.000Z",
+        "description": "🇹🇼中華民國與中華人民共和國互不隸屬 🇹🇼（民視讚夯 夯爆了 歡迎來收看由我祥子親自贊助的頻道）目前加拿大留學 精通簡體漢語 繁體漢語 廣東語 香港語 台語 英語 法語 日語 （兩岸同屬一中 一中是中華民國 不是中華人民共和國分離出去只75年的共獨團體）🇹🇼中華民國建國1912年1月1日至今114年🇹🇼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ftv_forum?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ftv_forum?si=1niLi98BN35bEojQ",
+                "start": 0,
+                "url": "https://t.co/EEvDCiUamz"
+              }
+            ]
+          }
+        },
+        "id": "1828811688893960192",
+        "location": "中華民國",
+        "name": "🇹🇼反共第一名 反共急先鋒-祥子🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019027532247662593/uclOgRTI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 94,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 643,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/EEvDCiUamz",
+        "username": "zwdwft",
+        "verified": false
+      }
+    ]
+  }
+}

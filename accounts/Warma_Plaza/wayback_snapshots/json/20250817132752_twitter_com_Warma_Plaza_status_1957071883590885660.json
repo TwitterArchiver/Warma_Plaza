@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1957067165133369790",
+    "created_at": "2025-08-17T13:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T14:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957071883590885660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897310514151350278",
+          "start": 0,
+          "username": "jiedingzhen2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957071883590885660",
+    "in_reply_to_user_id": "1897310514151350278",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957067165133369790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiedingzhen2 (╥_╥)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957067156828639232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjmNcxa0AAqhfH.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1957067165133369790",
+        "created_at": "2025-08-17T13:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957071883590885660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897310514151350278",
+              "start": 0,
+              "username": "jiedingzhen2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957071883590885660",
+        "in_reply_to_user_id": "1897310514151350278",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957067165133369790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiedingzhen2 (╥_╥)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957067156828639232"
+          ]
+        },
+        "author_id": "1897310514151350278",
+        "conversation_id": "1957067165133369790",
+        "created_at": "2025-08-17T13:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T14:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957067165133369790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dq4rMSgzs8",
+              "end": 31,
+              "expanded_url": "https://x.com/jiedingzhen2/status/1957067165133369790/photo/1",
+              "media_key": "3_1957067156828639232",
+              "start": 8,
+              "url": "https://t.co/Dq4rMSgzs8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957067165133369790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋给我拉黑了🤣 https://t.co/Dq4rMSgzs8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4075,
+          "following_count": 7493,
+          "like_count": 662,
+          "listed_count": 5,
+          "media_count": 472,
+          "tweet_count": 2426
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:37:41.000Z",
+        "description": "大号界丁真和小号都被封了，这是第三个号",
+        "id": "1897310514151350278",
+        "name": "界丁真🇨🇳🇵🇸🇺🇦",
+        "pinned_tweet_id": "1956361153950720453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928469858603466752/vn-9KSCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 149,
+          "like_count": 249,
+          "listed_count": 5,
+          "media_count": 88,
+          "tweet_count": 1417
+        },
+        "username": "jiedingzhen2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2060156931084624158",
+    "created_at": "2026-05-29T04:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060211257542946818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051965726043635712",
+          "start": 0,
+          "username": "whatasiger"
+        },
+        {
+          "end": 20,
+          "id": "770292380704604161",
+          "start": 12,
+          "username": "_Warma_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060211257542946818",
+    "in_reply_to_user_id": "2051965726043635712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060211135920668990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatasiger @_Warma_ (⁠o⁠´⁠･⁠_⁠･⁠)⁠っ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2060156931084624158",
+        "created_at": "2026-05-29T04:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060211257542946818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051965726043635712",
+              "start": 0,
+              "username": "whatasiger"
+            },
+            {
+              "end": 20,
+              "id": "770292380704604161",
+              "start": 12,
+              "username": "_Warma_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060211257542946818",
+        "in_reply_to_user_id": "2051965726043635712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060211135920668990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatasiger @_Warma_ (⁠o⁠´⁠･⁠_⁠･⁠)⁠っ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051965726043635712",
+        "conversation_id": "2060156931084624158",
+        "created_at": "2026-05-29T04:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060211135920668990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 21,
+              "id": "770292380704604161",
+              "start": 13,
+              "username": "_Warma_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060211135920668990",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060211050386165939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @_Warma_ 😮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5084,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9861
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T10:02:16.000Z",
+        "description": "2008-10｜人类?｜LGBTQ+ 友好｜写点小说｜ACG 相关（Bangumi）：https://t.co/KrQeYLLYXa｜个人博客＆作品：https://t.co/EhqryVku36 ｜头发焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bgm.tv/user/whatasiger",
+                "end": 66,
+                "expanded_url": "https://bgm.tv/user/whatasiger",
+                "start": 43,
+                "url": "https://t.co/KrQeYLLYXa"
+              },
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 98,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 75,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          }
+        },
+        "id": "2051965726043635712",
+        "location": "Tokyo-to, Japan",
+        "name": "Whatasiger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051966277821022208/On2McT3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 91,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/EhqryVku36",
+        "username": "whatasiger",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-29T16:09:49.000Z",
+        "description": "I'm Warma. weibo:_warma_,Bilibili https://t.co/pNIFSyte4p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/53456",
+                "end": 57,
+                "expanded_url": "http://space.bilibili.com/53456",
+                "start": 34,
+                "url": "https://t.co/pNIFSyte4p"
+              }
+            ]
+          }
+        },
+        "id": "770292380704604161",
+        "name": "Warma",
+        "pinned_tweet_id": "868782919870959616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/865627909184147456/AVm2qa0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8672,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 14,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "_Warma_",
+        "verified": false
+      }
+    ]
+  }
+}

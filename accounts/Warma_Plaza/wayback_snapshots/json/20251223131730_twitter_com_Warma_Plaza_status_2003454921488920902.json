@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2003020225672094019",
+    "created_at": "2025-12-23T13:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T14:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003454921488920902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916081963045408768",
+          "start": 0,
+          "username": "Mariage7Sorcier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003454921488920902",
+    "in_reply_to_user_id": "1916081963045408768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003454866623193587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mariage7Sorcier ლ(＾ω＾ლ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2003020225672094019",
+        "created_at": "2025-12-23T13:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003454921488920902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916081963045408768",
+              "start": 0,
+              "username": "Mariage7Sorcier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003454921488920902",
+        "in_reply_to_user_id": "1916081963045408768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003454866623193587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mariage7Sorcier ლ(＾ω＾ლ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916081963045408768",
+        "conversation_id": "2003020225672094019",
+        "created_at": "2025-12-23T13:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T14:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003454866623193587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003454866623193587",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003454311100219444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 贴贴~(｡･ˇ_ˇ･｡:)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4566,
+          "following_count": 7491,
+          "like_count": 679,
+          "listed_count": 6,
+          "media_count": 526,
+          "tweet_count": 5180
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T10:48:52.000Z",
+        "description": "小号\n②：@xinglinai8964/总觉得简介空荡荡的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "xinglinai8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@mariage7sorci…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@mariage7sorcier",
+                "start": 0,
+                "url": "https://t.co/OciWQPw07U"
+              }
+            ]
+          }
+        },
+        "id": "1916081963045408768",
+        "name": "右代宫·真里亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942900929293934592/qUjBIU3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 435,
+          "like_count": 23859,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/OciWQPw07U",
+        "username": "Mariage7Sorcier",
+        "verified": false
+      }
+    ]
+  }
+}

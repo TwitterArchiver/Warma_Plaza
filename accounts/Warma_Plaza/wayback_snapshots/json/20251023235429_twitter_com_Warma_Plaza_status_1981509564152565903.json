@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981346574530990586",
+    "created_at": "2025-10-23T23:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T00:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981509564152565903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980613234903408640",
+          "start": 0,
+          "username": "renejura0329"
+        },
+        {
+          "end": 27,
+          "id": "1975178922095775744",
+          "start": 14,
+          "username": "twiays114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981509564152565903",
+    "in_reply_to_user_id": "1980613234903408640",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981410809940234300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renejura0329 @twiays114514 (*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981346574530990586",
+        "created_at": "2025-10-23T23:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T00:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981509564152565903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980613234903408640",
+              "start": 0,
+              "username": "renejura0329"
+            },
+            {
+              "end": 27,
+              "id": "1975178922095775744",
+              "start": 14,
+              "username": "twiays114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981509564152565903",
+        "in_reply_to_user_id": "1980613234903408640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981410809940234300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renejura0329 @twiays114514 (*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980613234903408640",
+        "conversation_id": "1981346574530990586",
+        "created_at": "2025-10-23T17:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981410809940234300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975178922095775744",
+              "start": 0,
+              "username": "twiays114514"
+            },
+            {
+              "end": 26,
+              "id": "1628965541057642496",
+              "start": 14,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981410809940234300",
+        "in_reply_to_user_id": "1975178922095775744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981375498338046448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twiays114514 @Warma_Plaza 最左有你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315,
+          "following_count": 7488,
+          "like_count": 673,
+          "listed_count": 7,
+          "media_count": 501,
+          "tweet_count": 3508
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T12:33:02.000Z",
+        "description": "漣絵樹羅官方粉丝账号：漣絵樹羅EzraRan™ FAN ACCOUNT OFFICIAL ⒺⓏⓇ•ⓉⓈ丨露莉亚&卡莉奥斯特罗一生推；已精神脱脂入欧🇪🇺感觉良好。丨魅日亲美的走资汉奸自由派小支黑🌄丨带有特色主义的新时代小🕷️丨；我才不是漣絵樹羅EzraRan。",
+        "id": "1980613234903408640",
+        "location": "日本 大阪府 大阪市 北区",
+        "name": "Yuzakisama🇹🇼🇨🇳 （EZR™•FAN ACCOUNT OFFICIAL）",
+        "pinned_tweet_id": "1980662214811062420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980631802357170176/1GyjIFk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 111,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 179
+        },
+        "username": "renejura0329",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T12:39:10.000Z",
+        "description": "捧起一束花\n向你所在的方向抛去\n月光照亮了你的背影\n我也因喜悦而哭泣\n千百腾挪，辗转反侧\n以爱恋之心祈愿相遇\n我所深信不疑的奇迹",
+        "id": "1975178922095775744",
+        "name": "爱恋的厄洛斯",
+        "pinned_tweet_id": "1977295118970532092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977053380469256192/n5OHOub4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 123,
+          "like_count": 3510,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 717
+        },
+        "username": "twiays114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1962746097409106243",
+    "created_at": "2025-09-02T10:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T11:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962819254388170782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "147929555",
+          "start": 0,
+          "username": "leige88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962819254388170782",
+    "in_reply_to_user_id": "147929555",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962805426938102126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leige88888 (T＿T)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1962805389139025922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1JGh7aoAIoyKg.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1962746097409106243",
+        "created_at": "2025-09-02T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962819254388170782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147929555",
+              "start": 0,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962819254388170782",
+        "in_reply_to_user_id": "147929555",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962805426938102126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leige88888 (T＿T)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962805389139025922"
+          ]
+        },
+        "author_id": "147929555",
+        "conversation_id": "1962746097409106243",
+        "created_at": "2025-09-02T09:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962805426938102126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1094108741618659335",
+              "start": 0,
+              "username": "Oldmoney_1987"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/05q5t7ti8O",
+              "end": 53,
+              "expanded_url": "https://x.com/leige88888/status/1962805426938102126/photo/1",
+              "media_key": "3_1962805389139025922",
+              "start": 30,
+              "url": "https://t.co/05q5t7ti8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962805426938102126",
+        "in_reply_to_user_id": "1094108741618659335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962746097409106243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oldmoney_1987 这孩子已经废了，每天意淫反共 https://t.co/05q5t7ti8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4138,
+          "following_count": 7486,
+          "like_count": 661,
+          "listed_count": 8,
+          "media_count": 478,
+          "tweet_count": 2597
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T12:03:13.000Z",
+        "description": "我是来看反贼笑话的",
+        "id": "147929555",
+        "name": "磊哥聊政经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696104044497178624/ix24cEav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37621,
+          "following_count": 389,
+          "like_count": 338,
+          "listed_count": 104,
+          "media_count": 3107,
+          "tweet_count": 5406
+        },
+        "username": "leige88888",
+        "verified": true
+      }
+    ]
+  }
+}

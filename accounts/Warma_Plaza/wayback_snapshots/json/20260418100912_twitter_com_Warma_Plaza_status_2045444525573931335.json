@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1744949709951860904",
+    "created_at": "2026-04-18T10:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045444525573931335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1318180670",
+          "start": 0,
+          "username": "puzzlerlee"
+        },
+        {
+          "end": 25,
+          "id": "2017608795174649856",
+          "start": 12,
+          "username": "NatsumeAnn78"
+        },
+        {
+          "end": 42,
+          "id": "1955652430789812225",
+          "start": 26,
+          "username": "63hanpyeong8963"
+        },
+        {
+          "end": 59,
+          "id": "1811604757670137856",
+          "start": 43,
+          "username": "KuaiLe_fengnan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045444525573931335",
+    "in_reply_to_user_id": "1318180670",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045439781547729406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puzzlerlee @NatsumeAnn78 @63hanpyeong8963 @KuaiLe_fengnan1 (⁠´⁠;⁠︵⁠;⁠`⁠)"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [NatsumeAnn78].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "NatsumeAnn78",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "NatsumeAnn78"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2045439158538375168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLcE9ZakAAIQ9H.png",
+        "width": 680
+      },
+      {
+        "height": 313,
+        "media_key": "3_2045439213706084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLcIK6bAAAq9Aq.png",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1744949709951860904",
+        "created_at": "2026-04-18T10:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045444525573931335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1318180670",
+              "start": 0,
+              "username": "puzzlerlee"
+            },
+            {
+              "end": 25,
+              "id": "2017608795174649856",
+              "start": 12,
+              "username": "NatsumeAnn78"
+            },
+            {
+              "end": 42,
+              "id": "1955652430789812225",
+              "start": 26,
+              "username": "63hanpyeong8963"
+            },
+            {
+              "end": 59,
+              "id": "1811604757670137856",
+              "start": 43,
+              "username": "KuaiLe_fengnan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045444525573931335",
+        "in_reply_to_user_id": "1318180670",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045439781547729406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puzzlerlee @NatsumeAnn78 @63hanpyeong8963 @KuaiLe_fengnan1 (⁠´⁠;⁠︵⁠;⁠`⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045439158538375168",
+            "3_2045439213706084352"
+          ]
+        },
+        "author_id": "1318180670",
+        "conversation_id": "1744949709951860904",
+        "created_at": "2026-04-18T09:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045439781547729406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017608795174649856",
+              "start": 0,
+              "username": "NatsumeAnn78"
+            },
+            {
+              "end": 30,
+              "id": "1955652430789812225",
+              "start": 14,
+              "username": "63hanpyeong8963"
+            },
+            {
+              "end": 47,
+              "id": "1811604757670137856",
+              "start": 31,
+              "username": "KuaiLe_fengnan1"
+            },
+            {
+              "end": 99,
+              "id": "1955652430789812225",
+              "start": 83,
+              "username": "63hanpyeong8963"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5ZdFgrfvo",
+              "end": 176,
+              "expanded_url": "https://x.com/puzzlerlee/status/2045439781547729406/photo/1",
+              "media_key": "3_2045439158538375168",
+              "start": 153,
+              "url": "https://t.co/d5ZdFgrfvo"
+            },
+            {
+              "display_url": "pic.x.com/d5ZdFgrfvo",
+              "end": 176,
+              "expanded_url": "https://x.com/puzzlerlee/status/2045439781547729406/photo/1",
+              "media_key": "3_2045439213706084352",
+              "start": 153,
+              "url": "https://t.co/d5ZdFgrfvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045439781547729406",
+        "in_reply_to_user_id": "1318180670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037775267448475764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NatsumeAnn78 @63hanpyeong8963 @KuaiLe_fengnan1 把我逗它队友的话发到群里让群里的人看它的笑话。然后它的傻逼Incel爹@63hanpyeong8963给我点了一个大大的赞。Incel家族好像从来不会看帖子什么内容只会无脑转发点赞。真是愚蠢的Incel家族呀 https://t.co/d5ZdFgrfvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4947,
+          "following_count": 7497,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 563,
+          "tweet_count": 8013
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-31T11:09:25.000Z",
+        "description": "那些熟练的用中文帮助美国和西方攻击中国的华人们，你们是真的不觉得自己愚蠢和羞耻吗？抹黑了中国只能让西方更看不起你们，仇视你们。每次和你们对线我都觉得你们即可悲又可恨",
+        "id": "1318180670",
+        "name": "拼图者",
+        "pinned_tweet_id": "1744949709951860904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1146671723565047808/g8-Z8woN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 531,
+          "like_count": 9766,
+          "listed_count": 27,
+          "media_count": 6465,
+          "tweet_count": 58221
+        },
+        "username": "puzzlerlee",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T15:27:44.000Z",
+        "description": "이",
+        "id": "1955652430789812225",
+        "location": "평영",
+        "name": "항평칚우 이",
+        "pinned_tweet_id": "2030719954014916937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009607097667981312/jnW9y0CU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 3715,
+          "like_count": 55879,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 11214
+        },
+        "username": "63hanpyeong8963",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "我王梦圆与国铁郑州局不共戴天 | 二号机：@puzzlerIee | 过去身：暂无 | 狗与@care1337_禁止入内⛔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "puzzlerIee"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "care1337_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/YXwTSLKCMiw/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/YXwTSLKCMiw/",
+                "start": 0,
+                "url": "https://t.co/vtQnVsJIoV"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "皇漢無害化集中消殺中心",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2042410246405308624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024445274782126084/9s-dKeed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 619,
+          "like_count": 933,
+          "listed_count": 3,
+          "media_count": 648,
+          "tweet_count": 4265
+        },
+        "url": "https://t.co/vtQnVsJIoV",
+        "username": "KuaiLe_fengnan1",
+        "verified": true
+      }
+    ]
+  }
+}

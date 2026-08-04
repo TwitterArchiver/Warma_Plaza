@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1992042729493364850",
+    "created_at": "2025-11-22T04:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T05:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992094971235897413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913631704914219008",
+          "start": 0,
+          "username": "NovaBabelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992094971235897413",
+    "in_reply_to_user_id": "1913631704914219008",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992042729493364850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NovaBabelo (๑′°︿°๑)......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1992042729493364850",
+        "created_at": "2025-11-22T04:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T05:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992094971235897413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913631704914219008",
+              "start": 0,
+              "username": "NovaBabelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992094971235897413",
+        "in_reply_to_user_id": "1913631704914219008",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992042729493364850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NovaBabelo (๑′°︿°๑)......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913631704914219008",
+        "conversation_id": "1992042729493364850",
+        "created_at": "2025-11-22T01:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992042729493364850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qin88484/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/qin88484/status/1991789987931803934",
+              "start": 17,
+              "url": "https://t.co/wPTcscnDgs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992042729493364850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991789987931803934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都快幹到49年了，勞中怎麼還沒炸 https://t.co/wPTcscnDgs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 7484,
+          "like_count": 682,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 4221
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T16:32:38.000Z",
+        "description": "野蠻其思想，文明其體魄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/973907",
+                "end": 23,
+                "expanded_url": "https://ngl.link/973907",
+                "start": 0,
+                "url": "https://t.co/irpyGN974U"
+              }
+            ]
+          }
+        },
+        "id": "1913631704914219008",
+        "location": "坐標：華南",
+        "name": "Lekanteto.",
+        "pinned_tweet_id": "1989756392891453751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991828002704072704/czOizybu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1325,
+          "like_count": 22204,
+          "listed_count": 4,
+          "media_count": 625,
+          "tweet_count": 8323
+        },
+        "url": "https://t.co/irpyGN974U",
+        "username": "NovaBabelo",
+        "verified": false
+      }
+    ]
+  }
+}

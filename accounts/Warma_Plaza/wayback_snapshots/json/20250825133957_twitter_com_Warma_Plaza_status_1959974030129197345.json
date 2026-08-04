@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1959657184163459293",
+    "created_at": "2025-08-25T13:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T14:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959974030129197345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1491786147961323526",
+          "start": 0,
+          "username": "WangxsNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959974030129197345",
+    "in_reply_to_user_id": "1491786147961323526",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959657184163459293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangxsNB ...( ＿ ＿)ノ｜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1959657167986069506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIZz8NbkAIM_Uc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1959657167986069504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIZz8NbkAAxvtM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1959657184163459293",
+        "created_at": "2025-08-25T13:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959974030129197345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1491786147961323526",
+              "start": 0,
+              "username": "WangxsNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959974030129197345",
+        "in_reply_to_user_id": "1491786147961323526",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959657184163459293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangxsNB ...( ＿ ＿)ノ｜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959657167986069506",
+            "3_1959657167986069504"
+          ]
+        },
+        "author_id": "1491786147961323526",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1959657184163459293",
+        "created_at": "2025-08-24T16:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T17:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959657184163459293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wy4h4CH8wE",
+              "end": 91,
+              "expanded_url": "https://x.com/WangxsNB/status/1959657184163459293/photo/1",
+              "media_key": "3_1959657167986069506",
+              "start": 68,
+              "url": "https://t.co/Wy4h4CH8wE"
+            },
+            {
+              "display_url": "pic.x.com/Wy4h4CH8wE",
+              "end": 91,
+              "expanded_url": "https://x.com/WangxsNB/status/1959657184163459293/photo/1",
+              "media_key": "3_1959657167986069504",
+              "start": 68,
+              "url": "https://t.co/Wy4h4CH8wE"
+            },
+            {
+              "display_url": "x.com/wangxsnb/statu…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/wangxsnb/status/1935971018864214362",
+              "start": 92,
+              "url": "https://t.co/uBc2CGwtkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959657184163459293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 50071,
+          "like_count": 230,
+          "quote_count": 12,
+          "reply_count": 24,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935971018864214362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又一次在黑客松见到六年级小朋友了，他做了一个 c2c 电商网站\n\n除了欣慰少年之清醒独立，\n还会有种与小朋友同场竞技的莫名羞愧感... https://t.co/Wy4h4CH8wE https://t.co/uBc2CGwtkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 7488,
+          "like_count": 660,
+          "listed_count": 8,
+          "media_count": 476,
+          "tweet_count": 2493
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T14:48:45.000Z",
+        "description": "🚀Indie Developer 👨‍🎓PhD Candidate 🛠️Building for Freedom.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wangxs.cfd",
+                "end": 23,
+                "expanded_url": "https://wangxs.cfd",
+                "start": 0,
+                "url": "https://t.co/R5jvxdlBlw"
+              }
+            ]
+          }
+        },
+        "id": "1491786147961323526",
+        "name": "Axis Wang",
+        "pinned_tweet_id": "1943564717953561068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921399854007291904/kjUx__5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4166,
+          "following_count": 684,
+          "like_count": 4805,
+          "listed_count": 33,
+          "media_count": 309,
+          "tweet_count": 2470
+        },
+        "url": "https://t.co/R5jvxdlBlw",
+        "username": "WangxsNB",
+        "verified": false
+      }
+    ]
+  }
+}

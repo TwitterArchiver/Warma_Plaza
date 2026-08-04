@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2058565590810587607",
+    "created_at": "2026-05-28T08:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059912236832031155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2000383206445719552",
+          "start": 0,
+          "username": "PRC_Arba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059912236832031155",
+    "in_reply_to_user_id": "2000383206445719552",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058565590810587607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRC_Arba (⁠─⁠.⁠─⁠|⁠|⁠）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22080,
+        "height": 1080,
+        "media_key": "13_2058565274446729216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058565274446729216/img/ZLIK_5yHD0J4pdOP.jpg",
+        "public_metrics": {
+          "view_count": 526
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058565274446729216/vid/avc1/320x320/nHs_OM9OScW4AgJe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058565274446729216/vid/avc1/540x540/SnB6AhL8vT8PPUU9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058565274446729216/vid/avc1/720x720/xQmYINLu6UeyILpO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058565274446729216/pl/CXUKXKPr12Y4Gzub.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2058565590810587607",
+        "created_at": "2026-05-28T08:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059912236832031155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000383206445719552",
+              "start": 0,
+              "username": "PRC_Arba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059912236832031155",
+        "in_reply_to_user_id": "2000383206445719552",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058565590810587607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRC_Arba (⁠─⁠.⁠─⁠|⁠|⁠）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058565274446729216"
+          ]
+        },
+        "author_id": "2000383206445719552",
+        "conversation_id": "2058565590810587607",
+        "created_at": "2026-05-24T15:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058565590810587607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bT4T9VR5wk",
+              "end": 57,
+              "expanded_url": "https://x.com/PRC_Arba/status/2058565590810587607/video/1",
+              "media_key": "13_2058565274446729216",
+              "start": 34,
+              "url": "https://t.co/bT4T9VR5wk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058565590810587607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1447,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "【edit】“中国的领导人/我将无我 不负人民”\n（压画质，重发） https://t.co/bT4T9VR5wk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5073,
+          "following_count": 7499,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9786
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T01:51:45.000Z",
+        "description": "PRC🇨🇳|前期本土自由派中期网左|目前为左翼建制派|左翼民族主义|亲欧反美|反独促统、一国一制|对本土自由派/毛左友好|理性拥护习近平|不拉黑屏蔽任何人\n台湾朋友：@whitelate0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "whitelate0001"
+              }
+            ]
+          }
+        },
+        "id": "2000383206445719552",
+        "location": "THE PEOPLE'S REPUBLIC OF CHINA",
+        "name": "Arba🇨🇳",
+        "pinned_tweet_id": "2006763449796407599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050950185015296001/squunr_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 134,
+          "like_count": 2318,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 1131
+        },
+        "username": "PRC_Arba",
+        "verified": false
+      }
+    ]
+  }
+}

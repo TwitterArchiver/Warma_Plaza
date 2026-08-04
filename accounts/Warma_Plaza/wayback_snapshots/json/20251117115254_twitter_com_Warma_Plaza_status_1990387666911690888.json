@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990342986807603450",
+    "created_at": "2025-11-17T11:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T12:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990387666911690888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477627413953925122",
+          "start": 0,
+          "username": "whoamIand_0401"
+        },
+        {
+          "end": 28,
+          "id": "1527847554825723905",
+          "start": 16,
+          "username": "WLoliyeyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990387666911690888",
+    "in_reply_to_user_id": "1477627413953925122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990343609061961864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whoamIand_0401 @WLoliyeyeye 唉...(ノ\"◑ ◑)ノ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990342986807603450",
+        "created_at": "2025-11-17T11:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T12:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990387666911690888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477627413953925122",
+              "start": 0,
+              "username": "whoamIand_0401"
+            },
+            {
+              "end": 28,
+              "id": "1527847554825723905",
+              "start": 16,
+              "username": "WLoliyeyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990387666911690888",
+        "in_reply_to_user_id": "1477627413953925122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990343609061961864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whoamIand_0401 @WLoliyeyeye 唉...(ノ\"◑ ◑)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477627413953925122",
+        "conversation_id": "1990342986807603450",
+        "created_at": "2025-11-17T08:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990343609061961864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527847554825723905",
+              "start": 0,
+              "username": "WLoliyeyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990343609061961864",
+        "in_reply_to_user_id": "1527847554825723905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990342986807603450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WLoliyeyeye 先生が一番悪いです、と言えばいい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4369,
+          "following_count": 7493,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4022
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T13:06:56.000Z",
+        "description": "詳しくは⇓に記載\nhttps://t.co/FbCF2mG3cM\n\n夜間鍵アカ、アイスブログ営業中\n\n旅はまだ続く",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/whoamIand_0401",
+                "end": 32,
+                "expanded_url": "http://twpf.jp/whoamIand_0401",
+                "start": 9,
+                "url": "https://t.co/FbCF2mG3cM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/evilflowers13",
+                "end": 23,
+                "expanded_url": "http://ameblo.jp/evilflowers13",
+                "start": 0,
+                "url": "https://t.co/ygsJZwvzog"
+              }
+            ]
+          }
+        },
+        "id": "1477627413953925122",
+        "location": "北海道みなみサイド",
+        "name": "かいぶつさん🍥",
+        "pinned_tweet_id": "1990228403963002894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888021747905204224/0g9e0siW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 736,
+          "like_count": 157247,
+          "listed_count": 19,
+          "media_count": 2181,
+          "tweet_count": 335122
+        },
+        "url": "https://t.co/ygsJZwvzog",
+        "username": "whoamIand_0401",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T03:03:49.000Z",
+        "description": "自由引导人民   台湾不是中共政府的",
+        "id": "1527847554825723905",
+        "name": "w~~",
+        "pinned_tweet_id": "1989573266953179553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971163884779417600/u0nbCeQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 207,
+          "like_count": 2717,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 600
+        },
+        "username": "WLoliyeyeye",
+        "verified": false
+      }
+    ]
+  }
+}

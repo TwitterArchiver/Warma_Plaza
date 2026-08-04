@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2000577548539900032",
+    "created_at": "2025-12-16T19:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T20:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001010793895326205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1500428770011856898",
+          "start": 0,
+          "username": "denki_kai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001010793895326205",
+    "in_reply_to_user_id": "1500428770011856898",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000936013489983551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@denki_kai (*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2000577548539900032",
+        "created_at": "2025-12-16T19:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T20:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001010793895326205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1500428770011856898",
+              "start": 0,
+              "username": "denki_kai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001010793895326205",
+        "in_reply_to_user_id": "1500428770011856898",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000936013489983551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@denki_kai (*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500428770011856898",
+        "conversation_id": "2000577548539900032",
+        "created_at": "2025-12-16T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000936013489983551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000936013489983551",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000870705400045761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 泥嚎！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4515,
+          "following_count": 7483,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 522,
+          "tweet_count": 4931
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T11:11:58.000Z",
+        "description": "实际上就是一偷吃同人饭的，爱国爱党爱人民 求求晶哥放过我这一切全都是胡锦涛太帅的缘故（）\n❤️：涛/温/莉卡/\n🍡好感团派所有人，请支持团子大家族谢谢喵（）\n🚫：皇汉粉红支黑一切极左右\n❗：含有其它成分（车万）\n⚠️:很naive，有低脂发言请自动忽略（）💟欢迎所有友善的推油一起来玩！即使观点不同也没关系！",
+        "id": "1500428770011856898",
+        "location": "仰  望  星  空",
+        "name": "電気槐⚡🌳",
+        "pinned_tweet_id": "2000577548539900032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988248589899014144/H0J2qpDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 96,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 390
+        },
+        "username": "denki_kai",
+        "verified": false
+      }
+    ]
+  }
+}

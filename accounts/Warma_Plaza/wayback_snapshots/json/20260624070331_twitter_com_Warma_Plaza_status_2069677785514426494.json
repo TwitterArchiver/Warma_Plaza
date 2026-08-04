@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2069490416668590312",
+    "created_at": "2026-06-24T07:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069677785514426494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787748911878156288",
+          "start": 0,
+          "username": "anyue_1207"
+        },
+        {
+          "end": 25,
+          "id": "1669543422586421248",
+          "start": 12,
+          "username": "Letana358121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069677785514426494",
+    "in_reply_to_user_id": "1787748911878156288",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069490416668590312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyue_1207 @Letana358121 T_T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069490413963276288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhOkR5bcAAvpIE.jpg",
+        "width": 1755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2069490416668590312",
+        "created_at": "2026-06-24T07:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069677785514426494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787748911878156288",
+              "start": 0,
+              "username": "anyue_1207"
+            },
+            {
+              "end": 25,
+              "id": "1669543422586421248",
+              "start": 12,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069677785514426494",
+        "in_reply_to_user_id": "1787748911878156288",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069490416668590312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyue_1207 @Letana358121 T_T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069490413963276288"
+          ]
+        },
+        "author_id": "1787748911878156288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069490416668590312",
+        "created_at": "2026-06-23T18:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T19:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069490416668590312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOnNxtIiru",
+              "end": 104,
+              "expanded_url": "https://x.com/anyue_1207/status/2069490416668590312/photo/1",
+              "media_key": "3_2069490413963276288",
+              "start": 81,
+              "url": "https://t.co/mOnNxtIiru"
+            },
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2069322836108542357",
+              "start": 105,
+              "url": "https://t.co/PTfkkZkGuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069490416668590312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2496,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069322836108542357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有跨旗的全挂逼了，所以真的违禁品不查，管这……\n是这样吗？\n某个欺软怕硬小人得志的公司\n没有哪国zf让你这么做吧？\n你国医院都承认的东西，你不认？\n丢人现眼…… https://t.co/mOnNxtIiru https://t.co/PTfkkZkGuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 7497,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 10589
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "INFJ  | mtf |\nfirst hrt 2014.10.8/last hrt 2025.10.14",
+        "id": "1787748911878156288",
+        "name": "黯月",
+        "pinned_tweet_id": "2039430334681391158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069473079647150080/82Csd9P2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1069,
+          "like_count": 3936,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "anyue_1207",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "ぐわんと燃え上がっちゃった\n栄光の手をご覧/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 1544,
+          "like_count": 58829,
+          "listed_count": 7,
+          "media_count": 2350,
+          "tweet_count": 21321
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": false
+      }
+    ]
+  }
+}

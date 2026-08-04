@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2071853417333702988",
+    "created_at": "2026-06-30T07:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071859542414274647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1374225903136481284",
+          "start": 0,
+          "username": "Whatis7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071859542414274647",
+    "in_reply_to_user_id": "1374225903136481284",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071853417333702988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Whatis7777777 (e_e)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2071853417333702988",
+        "created_at": "2026-06-30T07:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071859542414274647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1374225903136481284",
+              "start": 0,
+              "username": "Whatis7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071859542414274647",
+        "in_reply_to_user_id": "1374225903136481284",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071853417333702988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Whatis7777777 (e_e)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374225903136481284",
+        "conversation_id": "2071853417333702988",
+        "created_at": "2026-06-30T07:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071853417333702988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Iunadied/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Iunadied/status/2071676794483187854",
+              "start": 20,
+              "url": "https://t.co/iyE7O4jt7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071853417333702988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071676794483187854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某国人的丑恶嘴脸，巴西人总算也见识了😎 https://t.co/iyE7O4jt7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 10725
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T05:06:10.000Z",
+        "description": "并没有政治立场，\n如果一定要有，\n那就永远支持真相和人性吧！\n小号：@SmallGoodL\nBe true, be brave, be strong… \nI'm proud of being Chinese.\nYouTube频道：https://t.co/JaWOOlxlKG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "SmallGoodL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.ly/yJbtD",
+                "end": 138,
+                "expanded_url": "https://t.ly/yJbtD",
+                "start": 115,
+                "url": "https://t.co/JaWOOlxlKG"
+              }
+            ]
+          }
+        },
+        "id": "1374225903136481284",
+        "name": "实事求是永立不败之地",
+        "pinned_tweet_id": "1995166173097533543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914869466762293248/13sKKCwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52216,
+          "following_count": 3919,
+          "like_count": 225453,
+          "listed_count": 196,
+          "media_count": 7299,
+          "tweet_count": 99731
+        },
+        "url": "",
+        "username": "Whatis7777777",
+        "verified": true
+      }
+    ]
+  }
+}

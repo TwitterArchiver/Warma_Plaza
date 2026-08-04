@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2074258426385805654",
+    "created_at": "2026-07-07T00:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074284085648965920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227651021557706753",
+          "start": 0,
+          "username": "JiangXu6489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074284085648965920",
+    "in_reply_to_user_id": "1227651021557706753",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074258426385805654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiangXu6489 (T_T)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1677,
+        "media_key": "3_2074258420455071744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMk_CyOWYAAgvYi.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2074258426385805654",
+        "created_at": "2026-07-07T00:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074284085648965920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227651021557706753",
+              "start": 0,
+              "username": "JiangXu6489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074284085648965920",
+        "in_reply_to_user_id": "1227651021557706753",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074258426385805654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangXu6489 (T_T)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074258420455071744"
+          ]
+        },
+        "author_id": "1227651021557706753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074258426385805654",
+        "created_at": "2026-07-06T22:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074258426385805654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RK63v8JsHk",
+              "end": 69,
+              "expanded_url": "https://x.com/JiangXu6489/status/2074258426385805654/photo/1",
+              "media_key": "3_2074258420455071744",
+              "start": 46,
+              "url": "https://t.co/RK63v8JsHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074258426385805654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日一呼：停止人權迫害，結束獨裁暴政，中共下台，審判習近平，自由屬於人民！停止迫害牛騰宇！ https://t.co/RK63v8JsHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5248,
+          "following_count": 7498,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 577,
+          "tweet_count": 10891
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T17:50:13.000Z",
+        "description": "中国公民徐江，四川绵阳人，木匠，职业打假人，流亡美国的政治异见人士，中国民主党义工，中国议会注册选民，海外每日一呼发起人。",
+        "id": "1227651021557706753",
+        "location": "Manhattan, NY",
+        "name": "Jiang Xu-Freedom Voice 自由之声",
+        "pinned_tweet_id": "1848010910171840717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932265898066235392/Ds-ecNly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4769,
+          "following_count": 1835,
+          "like_count": 13381,
+          "listed_count": 33,
+          "media_count": 2398,
+          "tweet_count": 12261
+        },
+        "url": "",
+        "username": "JiangXu6489",
+        "verified": true
+      }
+    ]
+  }
+}

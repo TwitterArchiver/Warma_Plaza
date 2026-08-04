@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1945789733751357565",
+    "created_at": "2025-07-17T13:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T14:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945835685371646310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884959792390938624",
+          "start": 0,
+          "username": "mengqing5735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945835685371646310",
+    "in_reply_to_user_id": "1884959792390938624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945789733751357565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengqing5735 沃...(´ . .̫ . `)\n没有什么特别好的朋友...(˘̩̩̩ε˘̩ƪ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1945789733751357565",
+        "created_at": "2025-07-17T13:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945835685371646310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884959792390938624",
+              "start": 0,
+              "username": "mengqing5735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945835685371646310",
+        "in_reply_to_user_id": "1884959792390938624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945789733751357565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing5735 沃...(´ . .̫ . `)\n没有什么特别好的朋友...(˘̩̩̩ε˘̩ƪ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884959792390938624",
+        "conversation_id": "1945789733751357565",
+        "created_at": "2025-07-17T10:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945789733751357565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945789733751357565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 127,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的特别特别羡慕你们可以在网上交到那种特别特别好的朋友……\n我真的好羡慕，好羡慕……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 7490,
+          "like_count": 640,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 2065
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "14-year-old trans-girl/姐姐酱 @qqnjjwb    /政治当乐子/❤️@sxshuishuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "qqnjjwb"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "sxshuishuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luna8964",
+                "end": 23,
+                "expanded_url": "http://t.me/luna8964",
+                "start": 0,
+                "url": "https://t.co/8iYgYgFDXc"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "location": "美丽新世界",
+        "name": "梦情酱🏳️‍⚧️🍥🐱🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932034241610878976/HZNQGzCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 1053,
+          "like_count": 17500,
+          "listed_count": 7,
+          "media_count": 218,
+          "tweet_count": 7719
+        },
+        "url": "https://t.co/8iYgYgFDXc",
+        "username": "mengqing5735",
+        "verified": false
+      }
+    ]
+  }
+}

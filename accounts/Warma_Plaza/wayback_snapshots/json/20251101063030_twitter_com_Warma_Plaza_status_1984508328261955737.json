@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984213216759808432",
+    "created_at": "2025-11-01T06:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984508328261955737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963129386137460738",
+          "start": 0,
+          "username": "Takanashi_Naomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984508328261955737",
+    "in_reply_to_user_id": "1963129386137460738",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984213216759808432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takanashi_Naomi (〃°°〃)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1908,
+        "media_key": "3_1984213189333250049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lXYgTacAEzQCr.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984213216759808432",
+        "created_at": "2025-11-01T06:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984508328261955737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963129386137460738",
+              "start": 0,
+              "username": "Takanashi_Naomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984508328261955737",
+        "in_reply_to_user_id": "1963129386137460738",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984213216759808432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takanashi_Naomi (〃°°〃)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984213189333250049"
+          ]
+        },
+        "author_id": "1963129386137460738",
+        "conversation_id": "1984213216759808432",
+        "created_at": "2025-10-31T10:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984213216759808432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPGdB85ncf",
+              "end": 32,
+              "expanded_url": "https://x.com/Takanashi_Naomi/status/1984213216759808432/photo/1",
+              "media_key": "3_1984213189333250049",
+              "start": 9,
+              "url": "https://t.co/tPGdB85ncf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984213216759808432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢推广喵～🥰😘 https://t.co/tPGdB85ncf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 7492,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3791
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T06:38:30.000Z",
+        "description": "包蜜/05后/💙車仔💙/中国、台湾互不隶属/日台友好/🇯🇵军事爱好者/⚠️粉蛆、川粉、黄鹅、皇汉勿扰⚠️/不参与赛博PVP😋就喜欢看你急得跳脚又不能拿我怎么办的样子🥰/你看不惯我就block我啊🥰",
+        "id": "1963129386137460738",
+        "location": "日本",
+        "name": "小鳥遊なおみ🇯🇵 🎌",
+        "pinned_tweet_id": "1979902874873455035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981431424633704448/nmaJGzY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 121,
+          "like_count": 1584,
+          "listed_count": 12,
+          "media_count": 97,
+          "tweet_count": 2167
+        },
+        "username": "Takanashi_Naomi",
+        "verified": false
+      }
+    ]
+  }
+}

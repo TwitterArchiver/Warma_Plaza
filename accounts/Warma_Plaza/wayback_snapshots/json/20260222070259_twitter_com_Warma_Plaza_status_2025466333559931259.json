@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2025451884530807263",
+    "created_at": "2026-02-22T07:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T08:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025466333559931259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953660584639004672",
+          "start": 0,
+          "username": "Yuecengliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025466333559931259",
+    "in_reply_to_user_id": "1953660584639004672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025451884530807263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuecengliu (⋆ꁏہꁏ⋆)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2025451879346692096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvZwMIbYAArB9G.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2025451884530807263",
+        "created_at": "2026-02-22T07:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025466333559931259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953660584639004672",
+              "start": 0,
+              "username": "Yuecengliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025466333559931259",
+        "in_reply_to_user_id": "1953660584639004672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025451884530807263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuecengliu (⋆ꁏہꁏ⋆)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025451879346692096"
+          ]
+        },
+        "author_id": "1953660584639004672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2025451884530807263",
+        "created_at": "2026-02-22T06:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T07:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025451884530807263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022962389520629760/tWtTsVa2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/L0mWDmhvDm"
+            },
+            {
+              "display_url": "pic.x.com/VJ8o8FjEc1",
+              "end": 64,
+              "expanded_url": "https://x.com/Yuecengliu/status/2025451884530807263/photo/1",
+              "media_key": "3_2025451879346692096",
+              "start": 41,
+              "url": "https://t.co/VJ8o8FjEc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025451884530807263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/L0mWDmhvDm https://t.co/VJ8o8FjEc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4785,
+          "following_count": 7493,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 550,
+          "tweet_count": 6547
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T03:33:03.000Z",
+        "description": "1937年，南京爆发大规模新型冠状狂犬病，阻断了正在进行中的南京大联欢，大日本皇军两位老英雄菩萨心肠，不得不使用雷霆手段联合江油老英雄邓碾平清理感染源，石井正丽空输部队大展神威，钟莲花在两位老英雄向井田毅达成211时研发出了疫苗，并配合远道而来的美国志愿军飞虎队李帕斯基同志驾驶P51野马空投汽油弹进行2000℃高温消毒",
+        "id": "1953660584639004672",
+        "location": "南京颈部核酸采集点",
+        "name": "习见雅🦊👻🇨🇳",
+        "pinned_tweet_id": "2025461705187160121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023030396334604288/6ljPpx15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 410,
+          "like_count": 1842,
+          "listed_count": 2,
+          "media_count": 1331,
+          "tweet_count": 3156
+        },
+        "username": "Yuecengliu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2042604537425670232",
+    "created_at": "2026-04-11T14:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042968962888331412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1357592934321778688",
+          "start": 0,
+          "username": "iya_iya_iya_180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042968962888331412",
+    "in_reply_to_user_id": "1357592934321778688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042968722512711697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iya_iya_iya_180 (ﾟ3ﾟ)好像...没你吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2042604537425670232",
+        "created_at": "2026-04-11T14:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042968962888331412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1357592934321778688",
+              "start": 0,
+              "username": "iya_iya_iya_180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042968962888331412",
+        "in_reply_to_user_id": "1357592934321778688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042968722512711697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iya_iya_iya_180 (ﾟ3ﾟ)好像...没你吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357592934321778688",
+        "conversation_id": "2042604537425670232",
+        "created_at": "2026-04-11T14:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042968722512711697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042968722512711697",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042604537425670232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza ☝️😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 7490,
+          "like_count": 667,
+          "listed_count": 8,
+          "media_count": 562,
+          "tweet_count": 7632
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-05T07:32:40.000Z",
+        "description": "致自由 | 本账号推文内容：80%转贴/引用 10%鉴证 9%超怪xp碎碎念 1%既不超绝也不可爱更不少女的日常",
+        "id": "1357592934321778688",
+        "location": "People's Republic of China",
+        "name": "脱水碳化",
+        "pinned_tweet_id": "1992195777742135771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011777898785751041/R0zQB2aW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 197,
+          "like_count": 43492,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 7744
+        },
+        "username": "iya_iya_iya_180",
+        "verified": false
+      }
+    ]
+  }
+}

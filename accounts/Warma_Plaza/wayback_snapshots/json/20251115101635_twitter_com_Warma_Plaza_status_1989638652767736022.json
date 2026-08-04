@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1989637479369249088",
+    "created_at": "2025-11-15T10:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989638652767736022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "ZJURsNvP5K25665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989638652767736022",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989637479369249088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZJURsNvP5K25665 (*╯3╰)......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1989637479369249088",
+        "created_at": "2025-11-15T10:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989638652767736022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "ZJURsNvP5K25665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989638652767736022",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989637479369249088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZJURsNvP5K25665 (*╯3╰)......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "1989637479369249088",
+        "created_at": "2025-11-15T10:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989637479369249088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mitsuki87613/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/mitsuki87613/status/1989595405869617383",
+              "start": 141,
+              "url": "https://t.co/K8KGo7Umoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989637479369249088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989595405869617383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俄乌战争初无数粉蛆为兄弟邻国“收复领土”的军事行动无不欢呼雀跃，战争至今除了封锁的边境、强行的征兵与暴涨的物价什么也没有带给俄国人民，纵使俄最终胜利也无法掩饰其人民身上的伤痕。\n如今轮到了中国头上，他们站在民族主义叙事可笑立场上再次开始上蹿下跳。什么时候醒了，估计是被无人机炸醒的 https://t.co/K8KGo7Umoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4354,
+          "following_count": 7483,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 3974
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "很差劲的废柴阴湿宅（真\n属性超杂可能会随机掉落一些\n大概键政居多，学习足够前不会认定意识形态     \n马列毛书籍阅读中  目前还是☭ 赤匪😡📕🚩\n反建制🇨🇳中修伪政权必亡！\n希望和米娜桑好好相处🥺可以接受各种温和/偏右属性与理性讨论（粉红/极端支黑请屏蔽我）\n休学很无聊所以私信什么都可以我睡醒了就会回（",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "不/存在的第一共和国",
+        "pinned_tweet_id": "1988549080620876015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974874538384236544/06pl-pM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 470,
+          "like_count": 4707,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 325
+        },
+        "username": "ZJURsNvP5K25665",
+        "verified": false
+      }
+    ]
+  }
+}

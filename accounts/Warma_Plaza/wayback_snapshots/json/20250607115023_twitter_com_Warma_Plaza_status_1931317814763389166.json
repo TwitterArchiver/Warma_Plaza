@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931317784648306688"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1931314965509779670",
+    "created_at": "2025-06-07T11:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T12:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931317814763389166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1551598616375988224",
+          "start": 0,
+          "username": "FMCDDD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b2vQfGzSyh",
+          "end": 56,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1931317814763389166/photo/1",
+          "media_key": "3_1931317784648306688",
+          "start": 33,
+          "url": "https://t.co/b2vQfGzSyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931317814763389166",
+    "in_reply_to_user_id": "1551598616375988224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931317555916083702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FMCDDD 呜哇哇哇哇哇哇ε=ε=(＞Д＜)ノノ!!\n揉揉~ https://t.co/b2vQfGzSyh"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1931317555916083702].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1931317555916083702",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1931317555916083702"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 181,
+        "media_key": "3_1931317784648306688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1rSuZbUAAyL2W.jpg",
+        "width": 180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931317784648306688"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1931314965509779670",
+        "created_at": "2025-06-07T11:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931317814763389166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1551598616375988224",
+              "start": 0,
+              "username": "FMCDDD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2vQfGzSyh",
+              "end": 56,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1931317814763389166/photo/1",
+              "media_key": "3_1931317784648306688",
+              "start": 33,
+              "url": "https://t.co/b2vQfGzSyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931317814763389166",
+        "in_reply_to_user_id": "1551598616375988224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931317555916083702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FMCDDD 呜哇哇哇哇哇哇ε=ε=(＞Д＜)ノノ!!\n揉揉~ https://t.co/b2vQfGzSyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3594,
+          "following_count": 7486,
+          "like_count": 610,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 1568
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T16:02:04.000Z",
+        "description": "ㄅㄣㄉㄢ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fmcddd0326",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fmcddd0326",
+                "start": 0,
+                "url": "https://t.co/0eoduB6juK"
+              }
+            ]
+          }
+        },
+        "id": "1551598616375988224",
+        "location": "重庆",
+        "name": "粉面永远爱菜蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880465940309241861/_84WsTrk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 1645,
+          "like_count": 11594,
+          "listed_count": 2,
+          "media_count": 421,
+          "tweet_count": 5071
+        },
+        "url": "https://t.co/0eoduB6juK",
+        "username": "FMCDDD",
+        "verified": false
+      }
+    ]
+  }
+}

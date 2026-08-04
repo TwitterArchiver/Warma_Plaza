@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2012320204202848301",
+    "created_at": "2026-01-18T00:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012678510452834735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621709543750385664",
+          "start": 0,
+          "username": "quarktalksss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012678510452834735",
+    "in_reply_to_user_id": "1621709543750385664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012320204202848301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quarktalksss (′◓д◒)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9302,
+        "height": 1030,
+        "media_key": "7_2012320190282059776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012320190282059776/pu/img/8dhnUSwKgHTKalyO.jpg",
+        "public_metrics": {
+          "view_count": 158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012320190282059776/pu/vid/avc1/320x686/ppMULuoCUKnKJZPK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012320190282059776/pu/vid/avc1/480x1030/ccTVY0Pyccdh3nIW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012320190282059776/pu/pl/R47CbBQEFSHfZuxO.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2012320204202848301",
+        "created_at": "2026-01-18T00:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012678510452834735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621709543750385664",
+              "start": 0,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012678510452834735",
+        "in_reply_to_user_id": "1621709543750385664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012320204202848301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quarktalksss (′◓д◒)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012320190282059776"
+          ]
+        },
+        "author_id": "1621709543750385664",
+        "conversation_id": "2012320204202848301",
+        "created_at": "2026-01-17T00:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T01:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012320204202848301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjb3uQUnD4",
+              "end": 40,
+              "expanded_url": "https://x.com/quarktalksss/status/2012320204202848301/video/1",
+              "media_key": "7_2012320190282059776",
+              "start": 17,
+              "url": "https://t.co/rjb3uQUnD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012320204202848301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 74559,
+          "like_count": 726,
+          "quote_count": 10,
+          "reply_count": 121,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "都这样了，他还以为是上学的问题。 https://t.co/rjb3uQUnD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 7495,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 534,
+          "tweet_count": 5879
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "2012360436583141574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17665,
+          "following_count": 17,
+          "like_count": 669,
+          "listed_count": 95,
+          "media_count": 446,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": false
+      }
+    ]
+  }
+}

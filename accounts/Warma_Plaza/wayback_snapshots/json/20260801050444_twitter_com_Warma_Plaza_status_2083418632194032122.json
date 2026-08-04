@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2083135598592921948",
+    "created_at": "2026-08-01T05:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083418632194032122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083418632194032122",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083135598592921948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 ´_&gt;`"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083135581224402944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjIxjHbgAAS1ur.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083135580909801472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjIxh8bEAAW5mP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083135581291528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjIxjXbwAA48I5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083135580918194176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjIxh-bIAAJTm8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2083135598592921948",
+        "created_at": "2026-08-01T05:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083418632194032122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083418632194032122",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083135598592921948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 ´_&gt;`"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083135581224402944",
+            "3_2083135580909801472",
+            "3_2083135581291528192",
+            "3_2083135580918194176"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2083135598592921948",
+        "created_at": "2026-07-31T10:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083135598592921948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lq37qxSo5g",
+              "end": 27,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2083135598592921948/photo/1",
+              "media_key": "3_2083135581224402944",
+              "start": 4,
+              "url": "https://t.co/lq37qxSo5g"
+            },
+            {
+              "display_url": "pic.x.com/lq37qxSo5g",
+              "end": 27,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2083135598592921948/photo/1",
+              "media_key": "3_2083135580909801472",
+              "start": 4,
+              "url": "https://t.co/lq37qxSo5g"
+            },
+            {
+              "display_url": "pic.x.com/lq37qxSo5g",
+              "end": 27,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2083135598592921948/photo/1",
+              "media_key": "3_2083135581291528192",
+              "start": 4,
+              "url": "https://t.co/lq37qxSo5g"
+            },
+            {
+              "display_url": "pic.x.com/lq37qxSo5g",
+              "end": 27,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2083135598592921948/photo/1",
+              "media_key": "3_2083135580918194176",
+              "start": 4,
+              "url": "https://t.co/lq37qxSo5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083135598592921948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 817,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洲子橘 https://t.co/lq37qxSo5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5417,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 12136
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 1280,
+          "like_count": 7610,
+          "listed_count": 6,
+          "media_count": 671,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

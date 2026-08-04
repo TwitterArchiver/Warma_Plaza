@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981698530868965869",
+    "created_at": "2025-10-24T17:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T18:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981779342712877498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1741196237150232576",
+          "start": 0,
+          "username": "iteza_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981779342712877498",
+    "in_reply_to_user_id": "1741196237150232576",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981698530868965869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iteza_07 ƪ(•̃͡ε•̃͡)∫ʃ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981698517664948224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BoTWVWYAA5j5U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2009,
+        "media_key": "3_1981698517652344832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BoTWSWEAAmArP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1577,
+        "media_key": "3_1981698517727916032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BoTWkXMAA6Zr5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1987,
+        "media_key": "3_1981698517648257024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BoTWRXsAAClKn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981698530868965869",
+        "created_at": "2025-10-24T17:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981779342712877498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1741196237150232576",
+              "start": 0,
+              "username": "iteza_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981779342712877498",
+        "in_reply_to_user_id": "1741196237150232576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981698530868965869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iteza_07 ƪ(•̃͡ε•̃͡)∫ʃ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981698517664948224",
+            "3_1981698517652344832",
+            "3_1981698517727916032",
+            "3_1981698517648257024"
+          ]
+        },
+        "author_id": "1741196237150232576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1981698530868965869",
+        "created_at": "2025-10-24T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981698530868965869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MU6NAKhqcD",
+              "end": 181,
+              "expanded_url": "https://x.com/iteza_07/status/1981698530868965869/photo/1",
+              "media_key": "3_1981698517664948224",
+              "start": 158,
+              "url": "https://t.co/MU6NAKhqcD"
+            },
+            {
+              "display_url": "pic.x.com/MU6NAKhqcD",
+              "end": 181,
+              "expanded_url": "https://x.com/iteza_07/status/1981698530868965869/photo/1",
+              "media_key": "3_1981698517652344832",
+              "start": 158,
+              "url": "https://t.co/MU6NAKhqcD"
+            },
+            {
+              "display_url": "pic.x.com/MU6NAKhqcD",
+              "end": 181,
+              "expanded_url": "https://x.com/iteza_07/status/1981698530868965869/photo/1",
+              "media_key": "3_1981698517727916032",
+              "start": 158,
+              "url": "https://t.co/MU6NAKhqcD"
+            },
+            {
+              "display_url": "pic.x.com/MU6NAKhqcD",
+              "end": 181,
+              "expanded_url": "https://x.com/iteza_07/status/1981698530868965869/photo/1",
+              "media_key": "3_1981698517648257024",
+              "start": 158,
+              "url": "https://t.co/MU6NAKhqcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981698530868965869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1872,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "写个自介条，希望能扩到新朋友。\ncn凉茶，一般邦友。推双子or巴绯，不雷梦男向之外的任何。\n喜欢买变形金刚、星战6寸/3.75寸人偶、杂七杂八的萝卜ip以及高达食玩fw、gframe和mse。\n喜欢邦邦的娃娃，吧唧和立牌买的比较少。\n最近在玩一些gal。\n今年开始尝试cosplay，因为是肥仔所以多有不还原见谅。 https://t.co/MU6NAKhqcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 7493,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 503,
+          "tweet_count": 3575
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T20:35:24.000Z",
+        "description": "我是凉茶",
+        "id": "1741196237150232576",
+        "location": "死星二号基地",
+        "name": "Prima",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981386848057376768/RAKOjbLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 479,
+          "like_count": 7681,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 4338
+        },
+        "username": "iteza_07",
+        "verified": false
+      }
+    ]
+  }
+}

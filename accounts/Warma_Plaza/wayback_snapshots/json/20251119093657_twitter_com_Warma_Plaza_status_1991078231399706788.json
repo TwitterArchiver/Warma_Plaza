@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1986519695634424129",
+    "created_at": "2025-11-19T09:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991078231399706788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800118088924299265",
+          "start": 0,
+          "username": "EvenCroren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991078231399706788",
+    "in_reply_to_user_id": "1800118088924299265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986519695634424129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvenCroren ( ´ﾟжﾟ｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1272,
+        "media_key": "3_1986519692794871809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5GJIrRbQAEhVYu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1986519695634424129",
+        "created_at": "2025-11-19T09:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991078231399706788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800118088924299265",
+              "start": 0,
+              "username": "EvenCroren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991078231399706788",
+        "in_reply_to_user_id": "1800118088924299265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986519695634424129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvenCroren ( ´ﾟжﾟ｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986519692794871809"
+          ]
+        },
+        "author_id": "1800118088924299265",
+        "conversation_id": "1986519695634424129",
+        "created_at": "2025-11-06T19:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T20:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986519695634424129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uveuj7uwcX",
+              "end": 29,
+              "expanded_url": "https://x.com/EvenCroren/status/1986519695634424129/photo/1",
+              "media_key": "3_1986519692794871809",
+              "start": 6,
+              "url": "https://t.co/uveuj7uwcX"
+            },
+            {
+              "display_url": "x.com/ARVNVT870/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ARVNVT870/status/1986446412482245096",
+              "start": 30,
+              "url": "https://t.co/8Zat14QuxV"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1986519695634424129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 29018,
+          "like_count": 289,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986446412482245096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "現身說法👍 https://t.co/uveuj7uwcX https://t.co/8Zat14QuxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4383,
+          "following_count": 7491,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 4111
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T10:51:47.000Z",
+        "description": "立場は固定されていない（逍遙派） /汪精衛推し\n🚪$8964 $731 $1213\n匿名メールボックス：https://t.co/mRTXmHFwKW\n日本語勉強中です！偶爾po政治推文",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evencroren",
+                "end": 75,
+                "expanded_url": "https://ngl.link/evencroren",
+                "start": 52,
+                "url": "https://t.co/mRTXmHFwKW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubisoft.com",
+                "end": 23,
+                "expanded_url": "http://www.ubisoft.com",
+                "start": 0,
+                "url": "https://t.co/zC1L8yqzbF"
+              }
+            ]
+          }
+        },
+        "id": "1800118088924299265",
+        "location": "New Taipei, Taiwan",
+        "name": "Timoris（新北の虎🐱）",
+        "pinned_tweet_id": "1938375066820948419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988992016307605504/YxKLLRx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 711,
+          "like_count": 10594,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/zC1L8yqzbF",
+        "username": "EvenCroren",
+        "verified": false
+      }
+    ]
+  }
+}

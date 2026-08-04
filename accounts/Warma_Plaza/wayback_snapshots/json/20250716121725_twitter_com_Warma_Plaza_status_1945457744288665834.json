@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1945456972414824658",
+    "created_at": "2025-07-16T12:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T13:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945457744288665834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921515276686024704",
+          "start": 0,
+          "username": "LiTiao10560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945457744288665834",
+    "in_reply_to_user_id": "1921515276686024704",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945456972414824658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiTiao10560 ( ˙ω˙ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1945456972414824658",
+        "created_at": "2025-07-16T12:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945457744288665834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921515276686024704",
+              "start": 0,
+              "username": "LiTiao10560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945457744288665834",
+        "in_reply_to_user_id": "1921515276686024704",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945456972414824658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiTiao10560 ( ˙ω˙ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921515276686024704",
+        "conversation_id": "1945456972414824658",
+        "created_at": "2025-07-16T12:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945456972414824658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siwu_87_426/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/siwu_87_426/status/1944996106330308962",
+              "start": 40,
+              "url": "https://t.co/ZFsATtlGW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945456972414824658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944996106330308962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们台湾人没有资格逃避责任，中国就是你们的家，你们不打扫，你们就不配当中国人！ https://t.co/ZFsATtlGW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 7488,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 2033
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T10:38:54.000Z",
+        "description": "我是一名日俄混血美少女，母亲是日本人，父亲是俄国人，因为某件事，对邻座的久世政近产生了兴趣，并不时用俄语向他表真心话！",
+        "id": "1921515276686024704",
+        "location": "Padang China, Kedah",
+        "name": "艾莉莎九條🇯🇵🇷🇺混血☦️🤢🤮♍♏🇺🇦🇮🇱🇨🇳🇹🇼",
+        "pinned_tweet_id": "1943174685249749477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921843075795607552/ePBVPhWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 781,
+          "like_count": 762,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1345
+        },
+        "username": "LiTiao10560",
+        "verified": false
+      }
+    ]
+  }
+}

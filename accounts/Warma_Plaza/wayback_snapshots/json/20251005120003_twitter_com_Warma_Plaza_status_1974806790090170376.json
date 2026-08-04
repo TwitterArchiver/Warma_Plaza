@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1974804930805514480",
+    "created_at": "2025-10-05T12:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974806790090170376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1244424427313348608",
+          "start": 0,
+          "username": "Errrrese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974806790090170376",
+    "in_reply_to_user_id": "1244424427313348608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974804930805514480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Errrrese ( ε:)......"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1974804930805514480].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1974804930805514480",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1974804930805514480"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1974804930805514480",
+        "created_at": "2025-10-05T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974806790090170376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1244424427313348608",
+              "start": 0,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974806790090170376",
+        "in_reply_to_user_id": "1244424427313348608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974804930805514480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Errrrese ( ε:)......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4261,
+          "following_count": 7484,
+          "like_count": 666,
+          "listed_count": 7,
+          "media_count": 491,
+          "tweet_count": 3020
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T00:41:24.000Z",
+        "description": "二十年後又是一條好漢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4zVdahr8MmdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4zVdahr8MmdmZjI1",
+                "start": 0,
+                "url": "https://t.co/pMI9Cu6KOu"
+              }
+            ]
+          }
+        },
+        "id": "1244424427313348608",
+        "location": "사리원",
+        "name": "老资历",
+        "pinned_tweet_id": "1973619917556723808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973387374425153536/qntaO7ts_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 1960,
+          "like_count": 83187,
+          "listed_count": 17,
+          "media_count": 2207,
+          "tweet_count": 25082
+        },
+        "url": "https://t.co/pMI9Cu6KOu",
+        "username": "Errrrese",
+        "verified": false
+      }
+    ]
+  }
+}

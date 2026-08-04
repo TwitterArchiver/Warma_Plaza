@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2050361819412451493",
+    "created_at": "2026-05-02T12:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050556569730109821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521308732805849089",
+          "start": 0,
+          "username": "tianzige4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050556569730109821",
+    "in_reply_to_user_id": "1521308732805849089",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050361819412451493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianzige4 (⁠ᗒ⁠ᗩ⁠ᗕ⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16533,
+        "height": 1024,
+        "media_key": "7_2050361785853919232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050361785853919232/pu/img/iPLLO9EMg_nf2PnA.jpg",
+        "public_metrics": {
+          "view_count": 13740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050361785853919232/pu/vid/avc1/320x568/5n4kRXYkSQWKZ774.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050361785853919232/pu/vid/avc1/480x852/q6WEz5ej97UzmfaF.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050361785853919232/pu/vid/avc1/576x1024/MTdJRGmyslTutVw6.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050361785853919232/pu/pl/9OPHSRwl_uhmrytx.m3u8?tag=25&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2050361819412451493",
+        "created_at": "2026-05-02T12:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050556569730109821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521308732805849089",
+              "start": 0,
+              "username": "tianzige4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050556569730109821",
+        "in_reply_to_user_id": "1521308732805849089",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050361819412451493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianzige4 (⁠ᗒ⁠ᗩ⁠ᗕ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050361785853919232"
+          ]
+        },
+        "author_id": "1521308732805849089",
+        "conversation_id": "2050361819412451493",
+        "created_at": "2026-05-01T23:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050361819412451493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dz8zMnfyr0",
+              "end": 46,
+              "expanded_url": "https://x.com/tianzige4/status/2050361819412451493/video/1",
+              "media_key": "7_2050361785853919232",
+              "start": 23,
+              "url": "https://t.co/dz8zMnfyr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050361819412451493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 27514,
+          "like_count": 213,
+          "quote_count": 11,
+          "reply_count": 130,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "五一假期的中国国家图书馆，没有喧嚣只有奋斗！ https://t.co/dz8zMnfyr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4982,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 567,
+          "tweet_count": 8617
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T02:01:00.000Z",
+        "description": "野生时评人\n我的优兔频道：https://t.co/ZdSthFa6rJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-dezhou?s…",
+                "end": 36,
+                "expanded_url": "https://youtube.com/@user-dezhou?si=B0XX2E-_OGkQZt0o",
+                "start": 13,
+                "url": "https://t.co/ZdSthFa6rJ"
+              }
+            ]
+          }
+        },
+        "id": "1521308732805849089",
+        "location": "山东",
+        "name": "田字格",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760517663045124096/HXQW4WQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84095,
+          "following_count": 10690,
+          "like_count": 109220,
+          "listed_count": 213,
+          "media_count": 17357,
+          "tweet_count": 33026
+        },
+        "username": "tianzige4",
+        "verified": true
+      }
+    ]
+  }
+}

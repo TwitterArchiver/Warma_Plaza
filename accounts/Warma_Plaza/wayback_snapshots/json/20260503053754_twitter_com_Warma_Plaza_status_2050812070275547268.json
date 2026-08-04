@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2050802617505505756",
+    "created_at": "2026-05-03T05:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050812070275547268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851886837570375682",
+          "start": 0,
+          "username": "JDjdjj32945"
+        },
+        {
+          "end": 26,
+          "id": "3032768018",
+          "start": 13,
+          "username": "Chiyorin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050812070275547268",
+    "in_reply_to_user_id": "1851886837570375682",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050804539830530415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDjdjj32945 @Chiyorin8964 ಥ⁠‿⁠ಥ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050804523300765696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXr2SsbQAAUlMJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2050802617505505756",
+        "created_at": "2026-05-03T05:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050812070275547268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851886837570375682",
+              "start": 0,
+              "username": "JDjdjj32945"
+            },
+            {
+              "end": 26,
+              "id": "3032768018",
+              "start": 13,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050812070275547268",
+        "in_reply_to_user_id": "1851886837570375682",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050804539830530415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDjdjj32945 @Chiyorin8964 ಥ⁠‿⁠ಥ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050804523300765696"
+          ]
+        },
+        "author_id": "1851886837570375682",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050802617505505756",
+        "created_at": "2026-05-03T05:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050804539830530415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rVy6ncKOd",
+              "end": 49,
+              "expanded_url": "https://x.com/JDjdjj32945/status/2050804539830530415/photo/1",
+              "media_key": "3_2050804523300765696",
+              "start": 26,
+              "url": "https://t.co/9rVy6ncKOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050804539830530415",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050802617505505756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 還有這位，幾乎每次都在 https://t.co/9rVy6ncKOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4986,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 567,
+          "tweet_count": 8661
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T07:20:15.000Z",
+        "description": "我們是小國小民，但是我們是好國好人                    \n  \n      我是安和昴的アホ毛/米澤茜Love/百合好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/girlsbandcry",
+                "end": 23,
+                "expanded_url": "https://x.com/girlsbandcry",
+                "start": 0,
+                "url": "https://t.co/8zB1tr88vI"
+              }
+            ]
+          }
+        },
+        "id": "1851886837570375682",
+        "location": " Taiwan Provintia",
+        "name": "Louis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044042598147637248/E-uusaG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 115,
+          "like_count": 37861,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/8zB1tr88vI",
+        "username": "JDjdjj32945",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream 早稲田大学 M1\n😘：@DurantRaym93677 里：@cccy0037\nTG频道：https://t.co/Es5shIbjtN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "cccy0037"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 116,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 93,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8leun8gncrcug2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8leun8gncrcug2l?t=qy144m&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dSRKPVvMWt"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2036269883038769496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 1511,
+          "like_count": 6983,
+          "listed_count": 10,
+          "media_count": 924,
+          "tweet_count": 3438
+        },
+        "url": "https://t.co/dSRKPVvMWt",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

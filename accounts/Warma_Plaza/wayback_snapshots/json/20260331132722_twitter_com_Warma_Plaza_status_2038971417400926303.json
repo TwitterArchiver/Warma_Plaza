@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2038971342322840010",
+    "created_at": "2026-03-31T13:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038971417400926303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795483114418167808",
+          "start": 0,
+          "username": "1731332216qq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038971417400926303",
+    "in_reply_to_user_id": "1795483114418167808",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038971342322840010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1731332216qq (o゜▽゜)o☆[BINGO!]"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2038971342322840010",
+        "created_at": "2026-03-31T13:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038971417400926303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795483114418167808",
+              "start": 0,
+              "username": "1731332216qq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038971417400926303",
+        "in_reply_to_user_id": "1795483114418167808",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038971342322840010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1731332216qq (o゜▽゜)o☆[BINGO!]"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795483114418167808",
+        "conversation_id": "2038971342322840010",
+        "created_at": "2026-03-31T13:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038971342322840010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038971342322840010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复活了说是，可惜照片全删了，后悔喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4907,
+          "following_count": 7498,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 557,
+          "tweet_count": 7234
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T15:51:56.000Z",
+        "description": "诈尸了） 曾经是mtf xyn  是INFP\n好多东西都删掉了qwq\n欢迎大家来找我玩啊  可以跟我互fo喵",
+        "id": "1795483114418167808",
+        "location": "中国",
+        "name": "我不是甜甜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038971083014230016/6Kjpyolm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 421,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "1731332216qq",
+        "verified": false
+      }
+    ]
+  }
+}

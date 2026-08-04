@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1944390175414481361",
+    "created_at": "2025-07-13T14:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T15:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944397092677673395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944397092677673395",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944390175414481361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ (。-ω-)zzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_1944390156565254144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvvci6rWkAAxc0F.jpg",
+        "width": 3120
+      },
+      {
+        "height": 3120,
+        "media_key": "3_1944390156217450496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvvci5YbgAAVZhd.jpg",
+        "width": 3120
+      },
+      {
+        "height": 3120,
+        "media_key": "3_1944390156380717058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvvci5_WwAIG_wx.jpg",
+        "width": 3120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1944390175414481361",
+        "created_at": "2025-07-13T14:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T15:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944397092677673395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944397092677673395",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944390175414481361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ (。-ω-)zzz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944390156565254144",
+            "3_1944390156217450496",
+            "3_1944390156380717058"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1944390175414481361",
+        "created_at": "2025-07-13T13:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944390175414481361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKWG8NWltk",
+              "end": 32,
+              "expanded_url": "https://x.com/huahuojiang_/status/1944390175414481361/photo/1",
+              "media_key": "3_1944390156565254144",
+              "start": 9,
+              "url": "https://t.co/jKWG8NWltk"
+            },
+            {
+              "display_url": "pic.x.com/jKWG8NWltk",
+              "end": 32,
+              "expanded_url": "https://x.com/huahuojiang_/status/1944390175414481361/photo/1",
+              "media_key": "3_1944390156217450496",
+              "start": 9,
+              "url": "https://t.co/jKWG8NWltk"
+            },
+            {
+              "display_url": "pic.x.com/jKWG8NWltk",
+              "end": 32,
+              "expanded_url": "https://x.com/huahuojiang_/status/1944390175414481361/photo/1",
+              "media_key": "3_1944390156380717058",
+              "start": 9,
+              "url": "https://t.co/jKWG8NWltk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944390175414481361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 341,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "摸着自己的腿睡觉 https://t.co/jKWG8NWltk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 7491,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 444,
+          "tweet_count": 1990
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Muoujiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 32,
+                "url": "https://t.co/LtoB1mlWHz"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1939327665745564090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6212,
+          "following_count": 3667,
+          "like_count": 89415,
+          "listed_count": 13,
+          "media_count": 4821,
+          "tweet_count": 77073
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

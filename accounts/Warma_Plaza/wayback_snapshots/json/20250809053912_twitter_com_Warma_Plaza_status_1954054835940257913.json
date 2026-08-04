@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1954044883737751964",
+    "created_at": "2025-08-09T05:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T06:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954054835940257913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2893298701",
+          "start": 0,
+          "username": "BX14198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954054835940257913",
+    "in_reply_to_user_id": "2893298701",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954044883737751964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BX14198964 （)´д`(）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1954044883737751964",
+        "created_at": "2025-08-09T05:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T06:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954054835940257913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2893298701",
+              "start": 0,
+              "username": "BX14198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954054835940257913",
+        "in_reply_to_user_id": "2893298701",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954044883737751964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BX14198964 （)´д`(）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2893298701",
+        "conversation_id": "1954044883737751964",
+        "created_at": "2025-08-09T04:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T05:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954044883737751964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954044883737751964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人都跟神经病一样，一头能够控制自己情绪的中国人已经是十四亿头贱畜中的极品了，人均狂躁症喜怒无常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4053,
+          "following_count": 7488,
+          "like_count": 660,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 2325
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T01:06:54.000Z",
+        "description": "台灣是一個獨立國家，台灣人不是中國人",
+        "id": "2893298701",
+        "location": "台灣國",
+        "name": "毛沢東🇳🇫",
+        "pinned_tweet_id": "1930780888230678657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917414465689243648/81pRIHho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 58,
+          "like_count": 2606,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 260
+        },
+        "username": "BX14198964",
+        "verified": false
+      }
+    ]
+  }
+}

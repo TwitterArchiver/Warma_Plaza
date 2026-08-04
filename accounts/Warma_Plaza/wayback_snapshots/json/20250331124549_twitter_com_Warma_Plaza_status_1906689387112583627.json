@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906689383576764417"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1906689387112583627",
+    "created_at": "2025-03-31T12:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T13:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906689387112583627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZ6CSg0ppF",
+          "end": 169,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1906689387112583627/photo/1",
+          "media_key": "3_1906689383576764417",
+          "start": 146,
+          "url": "https://t.co/YZ6CSg0ppF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906689387112583627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请注意，开往雨希路及沿途各站的末班车将由本站开出，请尽快购票进站。\n下一站：雨希路，本次列车的终点站。列车运行方向右侧车门将要开启，所有乘客请在该站下车。去往雨希纪念馆或沃玛医学院的乘客，请在本站下车。\n雨希路。本次列车的终点站，请所有乘客离开车厢，感谢您搭乘xx地铁。唉...(◞‸◟ ) https://t.co/YZ6CSg0ppF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1906689383576764417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXr5G0aAAEReL9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906689383576764417"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1906689387112583627",
+        "created_at": "2025-03-31T12:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T13:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906689387112583627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZ6CSg0ppF",
+              "end": 169,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1906689387112583627/photo/1",
+              "media_key": "3_1906689383576764417",
+              "start": 146,
+              "url": "https://t.co/YZ6CSg0ppF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906689387112583627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请注意，开往雨希路及沿途各站的末班车将由本站开出，请尽快购票进站。\n下一站：雨希路，本次列车的终点站。列车运行方向右侧车门将要开启，所有乘客请在该站下车。去往雨希纪念馆或沃玛医学院的乘客，请在本站下车。\n雨希路。本次列车的终点站，请所有乘客离开车厢，感谢您搭乘xx地铁。唉...(◞‸◟ ) https://t.co/YZ6CSg0ppF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 7485,
+          "like_count": 561,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 1207
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

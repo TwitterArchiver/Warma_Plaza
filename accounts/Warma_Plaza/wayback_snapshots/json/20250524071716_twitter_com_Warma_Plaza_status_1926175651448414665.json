@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926175648428576768"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1926155519925829903",
+    "created_at": "2025-05-24T07:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T08:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926175651448414665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1916142068516388864",
+          "start": 0,
+          "username": "u0shark"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1yoWdPeaVW",
+          "end": 42,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1926175651448414665/photo/1",
+          "media_key": "3_1926175648428576768",
+          "start": 19,
+          "url": "https://t.co/1yoWdPeaVW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926175651448414665",
+    "in_reply_to_user_id": "1916142068516388864",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926175432774205447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@u0shark (＞Д＜)ノノ!! https://t.co/1yoWdPeaVW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 215,
+        "media_key": "3_1926175648428576768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrsmjAOX0AAbP29.jpg",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926175648428576768"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1926155519925829903",
+        "created_at": "2025-05-24T07:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926175651448414665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1916142068516388864",
+              "start": 0,
+              "username": "u0shark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yoWdPeaVW",
+              "end": 42,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1926175651448414665/photo/1",
+              "media_key": "3_1926175648428576768",
+              "start": 19,
+              "url": "https://t.co/1yoWdPeaVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926175651448414665",
+        "in_reply_to_user_id": "1916142068516388864",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926175432774205447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u0shark (＞Д＜)ノノ!! https://t.co/1yoWdPeaVW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916142068516388864",
+        "conversation_id": "1926155519925829903",
+        "created_at": "2025-05-24T07:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926175432774205447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926175432774205447",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926155519925829903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 鲨鲨在深海里也有所耳闻😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3514,
+          "following_count": 7489,
+          "like_count": 585,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 1456
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T14:47:31.000Z",
+        "description": "别骂我，我是好鲨",
+        "id": "1916142068516388864",
+        "location": "海里",
+        "name": "幽灵鲨🦈",
+        "pinned_tweet_id": "1916175669849166187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916357131290480645/zunJbLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 98,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1356
+        },
+        "username": "u0shark",
+        "verified": false
+      }
+    ]
+  }
+}

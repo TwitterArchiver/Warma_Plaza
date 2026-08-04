@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990349415387889909",
+    "created_at": "2025-11-17T12:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T13:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990401120011768173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345200516335161344",
+          "start": 0,
+          "username": "Fayden_Nokki"
+        },
+        {
+          "end": 22,
+          "id": "1868203874726887424",
+          "start": 14,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990401120011768173",
+    "in_reply_to_user_id": "1345200516335161344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990400980207227214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayden_Nokki @daozhir (=ＴェＴ=)\n具象化了QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_1990400974930997248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59TJB9acAAY0Rh.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990349415387889909",
+        "created_at": "2025-11-17T12:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990401120011768173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345200516335161344",
+              "start": 0,
+              "username": "Fayden_Nokki"
+            },
+            {
+              "end": 22,
+              "id": "1868203874726887424",
+              "start": 14,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990401120011768173",
+        "in_reply_to_user_id": "1345200516335161344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990400980207227214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayden_Nokki @daozhir (=ＴェＴ=)\n具象化了QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990400974930997248"
+          ]
+        },
+        "author_id": "1345200516335161344",
+        "conversation_id": "1990349415387889909",
+        "created_at": "2025-11-17T12:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990400980207227214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 21,
+              "id": "1868203874726887424",
+              "start": 13,
+              "username": "daozhir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sLuoyMtT7W",
+              "end": 45,
+              "expanded_url": "https://x.com/Fayden_Nokki/status/1990400980207227214/photo/1",
+              "media_key": "3_1990400974930997248",
+              "start": 22,
+              "url": "https://t.co/sLuoyMtT7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990400980207227214",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990384904207774015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @daozhir https://t.co/sLuoyMtT7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4370,
+          "following_count": 7494,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4027
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T02:49:43.000Z",
+        "description": "🃂 🃗",
+        "id": "1345200516335161344",
+        "location": "Neon Bay",
+        "name": "V “Nøkki” Fayden (Lite)",
+        "pinned_tweet_id": "1797531859280330989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650660406661373952/XrxKDDdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 578,
+          "like_count": 45631,
+          "listed_count": 3,
+          "media_count": 1722,
+          "tweet_count": 10998
+        },
+        "username": "Fayden_Nokki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "叫我小倒就好丨16岁丨lesbian丨overdose丨精神疾病患者丨LGBTQ+全友好🏳️‍🌈 丨 只fo同类丨 sub丨0 丨欢迎找我聊聊天丨请多关照喵",
+        "id": "1868203874726887424",
+        "location": "Hello",
+        "name": "我活着，无声的淌血",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 240,
+          "like_count": 765,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 372
+        },
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

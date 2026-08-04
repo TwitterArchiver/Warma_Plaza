@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1987788728455364887",
+    "created_at": "2025-11-15T10:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989637187697316318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979147878405935105",
+          "start": 0,
+          "username": "maxiulianenwaer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989637187697316318",
+    "in_reply_to_user_id": "1979147878405935105",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989633340765606132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maxiulianenwaer ( ⚆ _ ⚆ )…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1987788728455364887",
+        "created_at": "2025-11-15T10:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989637187697316318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979147878405935105",
+              "start": 0,
+              "username": "maxiulianenwaer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989637187697316318",
+        "in_reply_to_user_id": "1979147878405935105",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989633340765606132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maxiulianenwaer ( ⚆ _ ⚆ )…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979147878405935105",
+        "conversation_id": "1987788728455364887",
+        "created_at": "2025-11-15T09:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989633340765606132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1211622537458663426",
+              "start": 0,
+              "username": "aoligei114514"
+            },
+            {
+              "end": 30,
+              "id": "2615416958",
+              "start": 15,
+              "username": "JohnKorButcher"
+            },
+            {
+              "end": 40,
+              "id": "1790370144755351552",
+              "start": 31,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989633340765606132",
+        "in_reply_to_user_id": "1211622537458663426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989630881489981734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoligei114514 @JohnKorButcher @FurinaDF 中国失业率上升遥遥领先，美国就算是底层民众也比中国的过得好。🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4354,
+          "following_count": 7480,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 3971
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T11:31:39.000Z",
+        "description": "先祖1897来到加拿大定居‖06年加拿大籍华裔‖在中国长大‖已经回到加拿大生活一年‖动漫爱好者‖喜欢户外打猎",
+        "id": "1979147878405935105",
+        "location": "Vancouver",
+        "name": "山楂樹🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979149006929379328/jpsUK9DL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 132,
+          "like_count": 863,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 393
+        },
+        "username": "maxiulianenwaer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1998321618464969117",
+    "created_at": "2025-12-09T09:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998324426752877051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983344007054032896",
+          "start": 0,
+          "username": "Pages__Lily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998324426752877051",
+    "in_reply_to_user_id": "1983344007054032896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998321618464969117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pages__Lily (⊃･ᴥ･)つ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15045,
+        "height": 1920,
+        "media_key": "13_1998316515096158208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998316515096158208/img/iJaYFJ5ZXtiOhajd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998316515096158208/vid/avc1/320x568/Y-8uEHlgxXfQNpWq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998316515096158208/vid/avc1/480x852/UjTEXm_aJgDHQVka.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998316515096158208/vid/avc1/720x1280/CiQkXIKayOHZGb7w.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998316515096158208/pl/4NJBuR4tGmXjCDHW.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1998321618464969117",
+        "created_at": "2025-12-09T09:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998324426752877051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983344007054032896",
+              "start": 0,
+              "username": "Pages__Lily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998324426752877051",
+        "in_reply_to_user_id": "1983344007054032896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998321618464969117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pages__Lily (⊃･ᴥ･)つ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998316515096158208"
+          ]
+        },
+        "author_id": "1983344007054032896",
+        "conversation_id": "1998321618464969117",
+        "created_at": "2025-12-09T09:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998321618464969117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zsWkxRZDs",
+              "end": 165,
+              "expanded_url": "https://x.com/Pages__Lily/status/1998321618464969117/video/1",
+              "media_key": "13_1998316515096158208",
+              "start": 142,
+              "url": "https://t.co/8zsWkxRZDs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998321618464969117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在上海上学的时候一次很晚了打车回学校\n为了省钱同意司机提议拼车，上来一个男乘客，那个男士是台湾人来出差\n但是他中途就下车了，他下车前叮嘱我不要睡觉，注意安全，还把司机找他的零钱都给我了。\n每当想起这件小事都让我感到很温暖\n我想X上骂大陆的台湾人也只是一小部分吧，大部分人还是善良的 https://t.co/8zsWkxRZDs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4496,
+          "following_count": 7495,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 4809
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T01:24:08.000Z",
+        "description": "100%follow互fo\nMutual follow!",
+        "id": "1983344007054032896",
+        "name": "Lily Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983344465470472192/X9vuWSnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 133,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 280
+        },
+        "username": "Pages__Lily",
+        "verified": false
+      }
+    ]
+  }
+}

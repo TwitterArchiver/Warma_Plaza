@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002344547192615277",
+    "created_at": "2025-12-20T12:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T13:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002348573367701736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1197017532365803520",
+          "start": 0,
+          "username": "Frontlinestory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002348573367701736",
+    "in_reply_to_user_id": "1197017532365803520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002344547192615277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frontlinestory (❁ᴗ͈ˬᴗ͈)/"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1966,
+        "media_key": "3_2002342070347026432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m_gQ3a0AApWR5.jpg",
+        "width": 2621
+      },
+      {
+        "height": 1966,
+        "media_key": "3_2002342070900699140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m_gS7bMAQuTl1.jpg",
+        "width": 2621
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2002342069227171841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m_gMsbMAEoMCk.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1143,
+        "media_key": "3_2002342069793325056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m_gOzaAAAbo5y.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002344547192615277",
+        "created_at": "2025-12-20T12:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002348573367701736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1197017532365803520",
+              "start": 0,
+              "username": "Frontlinestory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002348573367701736",
+        "in_reply_to_user_id": "1197017532365803520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002344547192615277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frontlinestory (❁ᴗ͈ˬᴗ͈)/"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002342070347026432",
+            "3_2002342070900699140",
+            "3_2002342069227171841",
+            "3_2002342069793325056"
+          ]
+        },
+        "author_id": "1197017532365803520",
+        "conversation_id": "2002344547192615277",
+        "created_at": "2025-12-20T11:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002344547192615277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "NCPA",
+              "probability": 0.7054,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 60,
+              "normalized_text": "The Merry Widow",
+              "probability": 0.8982,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "National Centre",
+              "probability": 0.517,
+              "start": 68,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Arts",
+              "probability": 0.5065,
+              "start": 103,
+              "type": "Other"
+            },
+            {
+              "end": 113,
+              "normalized_text": "NCPA",
+              "probability": 0.5786,
+              "start": 110,
+              "type": "Organization"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Beijing",
+              "probability": 0.9495,
+              "start": 120,
+              "type": "Place"
+            },
+            {
+              "end": 211,
+              "normalized_text": "NCPA",
+              "probability": 0.5696,
+              "start": 208,
+              "type": "Organization"
+            },
+            {
+              "end": 273,
+              "normalized_text": "NCPA",
+              "probability": 0.488,
+              "start": 270,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "NCPA"
+            },
+            {
+              "end": 127,
+              "start": 119,
+              "tag": "Beijing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBlZyuSoi1",
+              "end": 298,
+              "expanded_url": "https://x.com/Frontlinestory/status/2002344547192615277/photo/1",
+              "media_key": "3_2002342070347026432",
+              "start": 275,
+              "url": "https://t.co/WBlZyuSoi1"
+            },
+            {
+              "display_url": "pic.x.com/WBlZyuSoi1",
+              "end": 298,
+              "expanded_url": "https://x.com/Frontlinestory/status/2002344547192615277/photo/1",
+              "media_key": "3_2002342070900699140",
+              "start": 275,
+              "url": "https://t.co/WBlZyuSoi1"
+            },
+            {
+              "display_url": "pic.x.com/WBlZyuSoi1",
+              "end": 298,
+              "expanded_url": "https://x.com/Frontlinestory/status/2002344547192615277/photo/1",
+              "media_key": "3_2002342069227171841",
+              "start": 275,
+              "url": "https://t.co/WBlZyuSoi1"
+            },
+            {
+              "display_url": "pic.x.com/WBlZyuSoi1",
+              "end": 298,
+              "expanded_url": "https://x.com/Frontlinestory/status/2002344547192615277/photo/1",
+              "media_key": "3_2002342069793325056",
+              "start": 275,
+              "url": "https://t.co/WBlZyuSoi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002344547192615277",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 109,
+                "tag": "NCPA"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "tag": "Beijing"
+              },
+              {
+                "end": 454,
+                "start": 445,
+                "tag": "Malaysia"
+              },
+              {
+                "end": 536,
+                "start": 530,
+                "tag": "China"
+              },
+              {
+                "end": 560,
+                "start": 551,
+                "tag": "HongKong"
+              },
+              {
+                "end": 571,
+                "start": 565,
+                "tag": "Macao"
+              }
+            ]
+          },
+          "text": "NCPA Live Makes Historic Overseas Debut with \"The Merry Widow\"\n\nThe National Centre for the Performing Arts (#NCPA) in #Beijing marked a major milestone tonight with the first international livestream of its NCPA Live series. In celebration of its 18th anniversary, the NCPA presented a spectacular 4K UHD(Ultra High Definition) + 5.1 surround sound broadcast of its production of Franz Lehár's operetta \"The Merry Widow\", reaching audiences in #Malaysia for the very first time. The livestream was simultaneously screened across #China, including in #HongKong and #Macao."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "NCPA Live Makes Historic Overseas Debut with \"The Merry Widow\"\n\nThe National Centre for the Performing Arts (#NCPA) in #Beijing marked a major milestone tonight with the first international livestream of its NCPA Live series. In celebration of its 18th anniversary, the NCPA https://t.co/WBlZyuSoi1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 7493,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 5092
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-20T05:03:29.000Z",
+        "description": "@CGTNOfficial News Gathering Team. Thanks for following! 谢谢大家关注！我们是CGTN记者团，一起讲好中国故事，欢迎互粉！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "CGTNOfficial"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/5401376278",
+                "end": 23,
+                "expanded_url": "http://weibo.com/u/5401376278",
+                "start": 0,
+                "url": "https://t.co/R2447FRtoB"
+              }
+            ]
+          }
+        },
+        "id": "1197017532365803520",
+        "location": "Beijing, China",
+        "name": "CGTN Frontline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1330977941946187776/p3AUOAVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30641,
+          "following_count": 3768,
+          "like_count": 12122,
+          "listed_count": 32,
+          "media_count": 16486,
+          "tweet_count": 25465
+        },
+        "url": "https://t.co/R2447FRtoB",
+        "username": "Frontlinestory",
+        "verified": true
+      }
+    ]
+  }
+}

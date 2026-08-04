@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2060025565650788704",
+    "created_at": "2026-05-29T12:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060332248235467114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1318180670",
+          "start": 0,
+          "username": "puzzlerlee"
+        },
+        {
+          "end": 23,
+          "id": "1816131011568148480",
+          "start": 12,
+          "username": "james_xond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060332248235467114",
+    "in_reply_to_user_id": "1318180670",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060324986167144680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puzzlerlee @james_xond ⊙⁠﹏⁠⊙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2060025565650788704",
+        "created_at": "2026-05-29T12:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060332248235467114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1318180670",
+              "start": 0,
+              "username": "puzzlerlee"
+            },
+            {
+              "end": 23,
+              "id": "1816131011568148480",
+              "start": 12,
+              "username": "james_xond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060332248235467114",
+        "in_reply_to_user_id": "1318180670",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060324986167144680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puzzlerlee @james_xond ⊙⁠﹏⁠⊙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318180670",
+        "conversation_id": "2060025565650788704",
+        "created_at": "2026-05-29T11:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060324986167144680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816131011568148480",
+              "start": 0,
+              "username": "james_xond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324986167144680",
+        "in_reply_to_user_id": "1816131011568148480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060025565650788704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@james_xond 你能拯救世界吗？又或者你能帮助你遇见的每个穷人吗？就是这个单亲妈妈你这次帮她买了，10天后喝完了你还会继续吗？当然我可能当时会帮她买，也可能假装看不见。我也不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5100,
+          "following_count": 7499,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 571,
+          "tweet_count": 9963
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-31T11:09:25.000Z",
+        "description": "X上第一遛狗王，战绩可查：https://t.co/fgoA4rIopB\nhttps://t.co/sICEto2KQR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/PinTuZhe_s_dad…",
+                "end": 36,
+                "expanded_url": "https://x.com/PinTuZhe_s_dad/status/2057444190917943584",
+                "start": 13,
+                "url": "https://t.co/fgoA4rIopB"
+              },
+              {
+                "display_url": "x.com/xmliu114514/st…",
+                "end": 60,
+                "expanded_url": "https://x.com/xmliu114514/status/2057848340654800931",
+                "start": 37,
+                "url": "https://t.co/sICEto2KQR"
+              }
+            ]
+          }
+        },
+        "id": "1318180670",
+        "name": "拼图者",
+        "pinned_tweet_id": "1744949709951860904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1146671723565047808/g8-Z8woN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 533,
+          "like_count": 9834,
+          "listed_count": 27,
+          "media_count": 7189,
+          "tweet_count": 60299
+        },
+        "username": "puzzlerlee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T15:19:23.000Z",
+        "description": "People inspire me. Humor keeps me sane.",
+        "id": "1816131011568148480",
+        "name": "James 𝕏ond",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994652036395061248/RwwzseI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 923,
+          "like_count": 138815,
+          "listed_count": 32,
+          "media_count": 2382,
+          "tweet_count": 111505
+        },
+        "username": "james_xond",
+        "verified": true
+      }
+    ]
+  }
+}

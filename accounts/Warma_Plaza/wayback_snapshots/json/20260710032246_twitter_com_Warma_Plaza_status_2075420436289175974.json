@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2075405766090207666",
+    "created_at": "2026-07-10T03:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075420436289175974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874809413229527040",
+          "start": 0,
+          "username": "zmx8067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075420436289175974",
+    "in_reply_to_user_id": "1874809413229527040",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075405766090207666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zmx8067 (｡ì _ í｡)？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 129966,
+        "height": 664,
+        "media_key": "13_2075405641330626560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075405641330626560/img/wFIHHlgNp25RRV1I.jpg",
+        "public_metrics": {
+          "view_count": 318
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075405641330626560/vid/avc1/320x392/SlrCkCGVlyb_BNsi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075405641330626560/vid/avc1/480x590/F9qTk_MXs6pQi0KU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075405641330626560/vid/avc1/540x664/OpvLYqDnr_PKeP5D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075405641330626560/pl/lpgW4-d5gmhQHmqD.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2075405766090207666",
+        "created_at": "2026-07-10T03:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075420436289175974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874809413229527040",
+              "start": 0,
+              "username": "zmx8067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075420436289175974",
+        "in_reply_to_user_id": "1874809413229527040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075405766090207666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmx8067 (｡ì _ í｡)？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075405641330626560"
+          ]
+        },
+        "author_id": "1874809413229527040",
+        "conversation_id": "2075405766090207666",
+        "created_at": "2026-07-10T02:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075405766090207666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIZhpHBYPD",
+              "end": 95,
+              "expanded_url": "https://x.com/zmx8067/status/2075405766090207666/video/1",
+              "media_key": "13_2075405641330626560",
+              "start": 72,
+              "url": "https://t.co/VIZhpHBYPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075405766090207666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 753,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳🇷🇺俄羅斯水兵在山東青島的夜市上和中國小伙比賽扳手腕，雖然是輪番作戰，但是中國小伙還是贏了。\n\n這個小伙看起來也不壯啊，怎麼這麼大力氣？🤔 https://t.co/VIZhpHBYPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5285,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 577,
+          "tweet_count": 11023
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T13:26:25.000Z",
+        "description": "關注與中國🇨🇳有關的時政新聞和八卦。\n\nFollow political news and gossip related to China.",
+        "id": "1874809413229527040",
+        "name": "油爆琵琶拌着面🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914664813873258498/lx4gOiqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17350,
+          "following_count": 3999,
+          "like_count": 43450,
+          "listed_count": 73,
+          "media_count": 2708,
+          "tweet_count": 19692
+        },
+        "url": "",
+        "username": "zmx8067",
+        "verified": true
+      }
+    ]
+  }
+}

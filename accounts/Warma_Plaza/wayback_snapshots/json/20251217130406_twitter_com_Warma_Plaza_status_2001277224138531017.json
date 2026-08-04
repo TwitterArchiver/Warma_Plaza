@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2001276200212484524",
+    "created_at": "2025-12-17T13:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001277224138531017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001277224138531017",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001276200212484524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele （๑˃̣︿˂̣๑）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2001205628346462209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8W16ogacAEyJQr.jpg",
+        "width": 1014
+      },
+      {
+        "height": 689,
+        "media_key": "3_2001205745371754496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8W2BcdasAArmnd.png",
+        "width": 976
+      },
+      {
+        "height": 580,
+        "media_key": "3_2001206023621840896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8W2RpBaEAAw9JT.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2001276200212484524",
+        "created_at": "2025-12-17T13:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001277224138531017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001277224138531017",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001276200212484524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele （๑˃̣︿˂̣๑）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001205628346462209",
+            "3_2001205745371754496",
+            "3_2001206023621840896"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2001276200212484524",
+        "created_at": "2025-12-17T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001276200212484524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UiLQaZXzh",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2001276200212484524/photo/1",
+              "media_key": "3_2001205628346462209",
+              "start": 80,
+              "url": "https://t.co/8UiLQaZXzh"
+            },
+            {
+              "display_url": "pic.x.com/8UiLQaZXzh",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2001276200212484524/photo/1",
+              "media_key": "3_2001205745371754496",
+              "start": 80,
+              "url": "https://t.co/8UiLQaZXzh"
+            },
+            {
+              "display_url": "pic.x.com/8UiLQaZXzh",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2001276200212484524/photo/1",
+              "media_key": "3_2001206023621840896",
+              "start": 80,
+              "url": "https://t.co/8UiLQaZXzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001276200212484524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，教育部印发《关于进一步加强中小学日常考试管理的通知》，明确要求减少考试频次、提升考试质量、强化考试安全管理，切实减轻学生学业负担，促进学生身心健康发展。\n提出，义务教育阶段其他年级原则上每学期只组织一次期末考试，初中可根据学科特点适当安排一次期中考试，普通高中须严格控制考试次数。同时，义务教育学校日常考试实行等级评价，成绩不排名、不公布，仅以适当方式反馈给学生和家长，坚决纠正“唯分数论”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1260,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近日，教育部印发《关于进一步加强中小学日常考试管理的通知》，明确要求减少考试频次、提升考试质量、强化考试安全管理，切实减轻学生学业负担，促进学生身心健康发展。 https://t.co/8UiLQaZXzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 7492,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 522,
+          "tweet_count": 4939
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161751,
+          "following_count": 986,
+          "like_count": 8469,
+          "listed_count": 8415,
+          "media_count": 38629,
+          "tweet_count": 45534
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

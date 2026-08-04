@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2062551959731884296",
+    "created_at": "2026-06-05T07:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062794711937757546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983755008777838592",
+          "start": 0,
+          "username": "Droplet_Express"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062794711937757546",
+    "in_reply_to_user_id": "1983755008777838592",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062551959731884296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Droplet_Express (⁠ʘ⁠ᗩ⁠ʘ⁠’⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2062551959731884296",
+        "created_at": "2026-06-05T07:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062794711937757546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983755008777838592",
+              "start": 0,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062794711937757546",
+        "in_reply_to_user_id": "1983755008777838592",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062551959731884296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Droplet_Express (⁠ʘ⁠ᗩ⁠ʘ⁠’⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983755008777838592",
+        "conversation_id": "2062551959731884296",
+        "created_at": "2026-06-04T15:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062551959731884296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kong_tian_not/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/kong_tian_not/status/2062550915048264177",
+              "start": 49,
+              "url": "https://t.co/SiPuDkUkjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062551959731884296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11981,
+          "like_count": 334,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550915048264177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人如果只是反共，顶多算个无能废物罢了。但美化侵略者，那性质就变了，那就是猪狗不如的汉奸杂碎。 https://t.co/SiPuDkUkjQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5140,
+          "following_count": 7492,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 572,
+          "tweet_count": 10233
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T04:37:22.000Z",
+        "description": "我感觉我又行了。流年清风皆有约，\n浮生繁花自如期。",
+        "id": "1983755008777838592",
+        "location": "上海",
+        "name": "红咖喱🚗🚗🚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029055241950498816/14vYtgei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 278,
+          "like_count": 51931,
+          "listed_count": 40,
+          "media_count": 690,
+          "tweet_count": 5903
+        },
+        "username": "Droplet_Express",
+        "verified": false
+      }
+    ]
+  }
+}

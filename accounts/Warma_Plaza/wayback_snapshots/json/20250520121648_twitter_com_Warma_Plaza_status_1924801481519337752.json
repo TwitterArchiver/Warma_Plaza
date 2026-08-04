@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1924797591365312928",
+    "created_at": "2025-05-20T12:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T13:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924801481519337752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552940762186125312",
+          "start": 0,
+          "username": "lin_wanqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924801481519337752",
+    "in_reply_to_user_id": "1552940762186125312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924797591365312928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_wanqiu ヽ(*。&gt;Д&lt;)o゜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1924797574525157376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZBMi4bAAALmYq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1924797591365312928",
+        "created_at": "2025-05-20T12:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924801481519337752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552940762186125312",
+              "start": 0,
+              "username": "lin_wanqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924801481519337752",
+        "in_reply_to_user_id": "1552940762186125312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924797591365312928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_wanqiu ヽ(*。&gt;Д&lt;)o゜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924797574525157376"
+          ]
+        },
+        "author_id": "1552940762186125312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1924797591365312928",
+        "created_at": "2025-05-20T12:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T13:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924797591365312928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t2ER5gMXoC",
+              "end": 36,
+              "expanded_url": "https://x.com/lin_wanqiu/status/1924797591365312928/photo/1",
+              "media_key": "3_1924797574525157376",
+              "start": 13,
+              "url": "https://t.co/t2ER5gMXoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924797591365312928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520大餐，吃甏肉干饭了 https://t.co/t2ER5gMXoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3504,
+          "following_count": 7489,
+          "like_count": 582,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1421
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T08:55:25.000Z",
+        "description": "爱好:主机游戏，和观察生物多样性。\n旷野之息300小时，王国之泪200小时萌新。\nNintendo ruled the world.\n\n任豚\n\n（私信不回）",
+        "id": "1552940762186125312",
+        "location": "Fuzhou,Fujian,China",
+        "name": "电子莽夫秀总",
+        "pinned_tweet_id": "1834486024262873132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861099641481392128/MeiHKuck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 1745,
+          "like_count": 30864,
+          "listed_count": 11,
+          "media_count": 2427,
+          "tweet_count": 20382
+        },
+        "username": "lin_wanqiu",
+        "verified": false
+      }
+    ]
+  }
+}

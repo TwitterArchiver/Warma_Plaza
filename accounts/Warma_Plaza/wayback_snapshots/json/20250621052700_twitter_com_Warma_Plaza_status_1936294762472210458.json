@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1936289923444990018",
+    "created_at": "2025-06-21T05:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T06:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936294762472210458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1608747238741753856",
+          "start": 0,
+          "username": "hnnn09700535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936294762472210458",
+    "in_reply_to_user_id": "1608747238741753856",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936294601989738627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnnn09700535 ＼＼\\\\٩( 'ω' )و //／／"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1936289923444990018",
+        "created_at": "2025-06-21T05:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936294762472210458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1608747238741753856",
+              "start": 0,
+              "username": "hnnn09700535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936294762472210458",
+        "in_reply_to_user_id": "1608747238741753856",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936294601989738627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnnn09700535 ＼＼\\\\٩( 'ω' )و //／／"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608747238741753856",
+        "conversation_id": "1936289923444990018",
+        "created_at": "2025-06-21T05:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936294601989738627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936294601989738627",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936294142507991129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 冰鸡淋和我一起化了（\n但是好吃捏😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 7479,
+          "like_count": 620,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 1691
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T08:50:29.000Z",
+        "description": "",
+        "id": "1608747238741753856",
+        "name": "肉叽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790606930538377216/pWkQMhZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 53,
+          "like_count": 3132,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 349
+        },
+        "username": "hnnn09700535",
+        "verified": false
+      }
+    ]
+  }
+}

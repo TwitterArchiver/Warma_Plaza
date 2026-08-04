@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1967777945415716963",
+    "created_at": "2025-09-16T13:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967940420924801121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946995412767768576",
+          "start": 0,
+          "username": "president_bo73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967940420924801121",
+    "in_reply_to_user_id": "1946995412767768576",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967777945415716963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@president_bo73 ~%?…;# *’☆&amp;℃$︿★?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_1967777934288273408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07zmwIawAAYvJm.jpg",
+        "width": 377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1967777945415716963",
+        "created_at": "2025-09-16T13:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967940420924801121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946995412767768576",
+              "start": 0,
+              "username": "president_bo73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967940420924801121",
+        "in_reply_to_user_id": "1946995412767768576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967777945415716963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@president_bo73 ~%?…;# *’☆&amp;℃$︿★?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967777934288273408"
+          ]
+        },
+        "author_id": "1946995412767768576",
+        "conversation_id": "1967777945415716963",
+        "created_at": "2025-09-16T02:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967777945415716963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJroJzdd1F",
+              "end": 88,
+              "expanded_url": "https://x.com/president_bo73/status/1967777945415716963/photo/1",
+              "media_key": "3_1967777934288273408",
+              "start": 65,
+              "url": "https://t.co/MJroJzdd1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967777945415716963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5519,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现，现在网左网右在互联网上吵的血雨腥风，无论是老毛还是老邓都是过去的事，过去的事讨论的这么激烈无非是不敢在墙内批评现在这位 https://t.co/MJroJzdd1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 7490,
+          "like_count": 665,
+          "listed_count": 8,
+          "media_count": 486,
+          "tweet_count": 2718
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T18:07:44.000Z",
+        "description": "玩梗大于鉴证，别动不动扣我帽子，无任何意识形态，无任何立场，小号逃生舱@JianYu9325412（有作品都可以互fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "JianYu9325412"
+              }
+            ]
+          }
+        },
+        "id": "1946995412767768576",
+        "location": "北京",
+        "name": "薄主席",
+        "pinned_tweet_id": "1959330481364746269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955139322409066496/9JGTO_1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 396,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1342
+        },
+        "username": "president_bo73",
+        "verified": false
+      }
+    ]
+  }
+}

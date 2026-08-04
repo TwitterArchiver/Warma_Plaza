@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2051510895755620738",
+    "created_at": "2026-05-05T05:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051535453409698095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "147929555",
+          "start": 0,
+          "username": "leige88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051535453409698095",
+    "in_reply_to_user_id": "147929555",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051510895755620738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leige88888 (⁠･ั⁠ω⁠･ั⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20155,
+        "height": 1280,
+        "media_key": "13_2051510456192528384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051510456192528384/img/jW5Fera1kfbBVISE.jpg",
+        "public_metrics": {
+          "view_count": 186
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051510456192528384/vid/avc1/320x568/52BKJ89tbfXsvSDB.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051510456192528384/vid/avc1/480x852/tVCVX2qyTxYKblmp.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051510456192528384/vid/avc1/720x1280/2ee2ohZLEasSaFIg.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051510456192528384/pl/UkLBnn3gXKbIFaBR.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2051510895755620738",
+        "created_at": "2026-05-05T05:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051535453409698095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147929555",
+              "start": 0,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051535453409698095",
+        "in_reply_to_user_id": "147929555",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051510895755620738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leige88888 (⁠･ั⁠ω⁠･ั⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051510456192528384"
+          ]
+        },
+        "author_id": "147929555",
+        "conversation_id": "2051510895755620738",
+        "created_at": "2026-05-05T03:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051510895755620738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIVZhhqBcm",
+              "end": 94,
+              "expanded_url": "https://x.com/leige88888/status/2051510895755620738/video/1",
+              "media_key": "13_2051510456192528384",
+              "start": 71,
+              "url": "https://t.co/hIVZhhqBcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051510895755620738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这只土殖的认知和价值观在X上非常的普遍，崇洋媚外,甘愿当西方殖民主义者的肉便器，只能显出人格的低下。你看这货的长相，就明白了什么叫相由心生。 https://t.co/hIVZhhqBcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4986,
+          "following_count": 7497,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 8772
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T12:03:13.000Z",
+        "description": "我是来看反贼笑话的",
+        "id": "147929555",
+        "name": "磊哥聊政经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696104044497178624/ix24cEav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40841,
+          "following_count": 407,
+          "like_count": 344,
+          "listed_count": 123,
+          "media_count": 3437,
+          "tweet_count": 5876
+        },
+        "username": "leige88888",
+        "verified": true
+      }
+    ]
+  }
+}

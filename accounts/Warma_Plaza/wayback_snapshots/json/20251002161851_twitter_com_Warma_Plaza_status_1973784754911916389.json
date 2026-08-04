@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1973778405800960317",
+    "created_at": "2025-10-02T16:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T17:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973784754911916389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962176856654073856",
+          "start": 0,
+          "username": "LeXin81742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973784754911916389",
+    "in_reply_to_user_id": "1962176856654073856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973783083360108996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeXin81742 (⚆′ム⚆)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1973778405800960317",
+        "created_at": "2025-10-02T16:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T17:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973784754911916389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962176856654073856",
+              "start": 0,
+              "username": "LeXin81742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973784754911916389",
+        "in_reply_to_user_id": "1962176856654073856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973783083360108996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeXin81742 (⚆′ム⚆)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962176856654073856",
+        "conversation_id": "1973778405800960317",
+        "created_at": "2025-10-02T16:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T17:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973783083360108996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973783083360108996",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973780402679787822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza (　ﾟ∀ﾟ) ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4243,
+          "following_count": 7496,
+          "like_count": 666,
+          "listed_count": 7,
+          "media_count": 490,
+          "tweet_count": 2945
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T15:33:20.000Z",
+        "description": "中国狗熊岭主席 Chairman of China Democracy Party 中国民主党的理念：公平、公正、天下为公！Idea of CDP： Fairness, Justice, Country belong to Public!",
+        "id": "1962176856654073856",
+        "location": "熊太",
+        "name": "熊太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973781165766221824/rPJlVKDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 68,
+          "like_count": 1140,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 133
+        },
+        "username": "LeXin81742",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2025836122744770626",
+    "created_at": "2026-05-21T07:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057367631641161797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFRin_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057367631641161797",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025836122744770626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFRin_CN (⁠o⁠´⁠･⁠_⁠･⁠)⁠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025836017731977216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB03H_IbQAAGYEw.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 62019,
+        "height": 1280,
+        "media_key": "7_2025836034089734144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025836034089734144/pu/img/ffP3mRLRSCtW49XC.jpg",
+        "public_metrics": {
+          "view_count": 6744
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025836034089734144/pu/vid/avc1/320x568/q7Pas7C-huBWBRCS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025836034089734144/pu/vid/avc1/480x852/89OOzPEpZWkxJn40.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025836034089734144/pu/vid/avc1/720x1280/CCcTW1b-w_ONbZUW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025836034089734144/pu/pl/3CRZDwsdNbq7lsJn.m3u8?tag=12&v=55e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2025836122744770626",
+        "created_at": "2026-05-21T07:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057367631641161797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFRin_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057367631641161797",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025836122744770626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFRin_CN (⁠o⁠´⁠･⁠_⁠･⁠)⁠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025836017731977216",
+            "7_2025836034089734144"
+          ]
+        },
+        "author_id": "1723532985679704064",
+        "conversation_id": "2025836122744770626",
+        "created_at": "2026-02-23T07:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025836122744770626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "n55"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "药娘"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "N552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkjQbdEPFd",
+              "end": 87,
+              "expanded_url": "https://x.com/HFLMTF/status/2025836122744770626/video/1",
+              "media_key": "3_2025836017731977216",
+              "start": 64,
+              "url": "https://t.co/kkjQbdEPFd"
+            },
+            {
+              "display_url": "pic.x.com/kkjQbdEPFd",
+              "end": 87,
+              "expanded_url": "https://x.com/HFLMTF/status/2025836122744770626/video/1",
+              "media_key": "7_2025836034089734144",
+              "start": 64,
+              "url": "https://t.co/kkjQbdEPFd"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2025836122744770626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 14362,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "N55 开房只登记一人信息，前台见是两个人，问询要求登记后发生打斗，最终寡不敌众被按倒在地😭\n#n55 #药娘 #N552AA https://t.co/kkjQbdEPFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5040,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 6,
+          "media_count": 570,
+          "tweet_count": 9299
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007.10/大一在读/165-46kg/已有对象/欢迎扩列",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgdbbx"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "不明",
+        "name": "HFRin🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052322043283259392/ncPV9icw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 209,
+          "like_count": 2426,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/N9WRdgdbbx",
+        "username": "HFRin_CN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938789131095810547",
+    "created_at": "2025-07-16T12:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T13:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945463042957013030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830493173099208704",
+          "start": 0,
+          "username": "LeeWilliam99928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945463042957013030",
+    "in_reply_to_user_id": "1830493173099208704",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945461684010889567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeWilliam99928 (´ . .̫ . `)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938789131095810547",
+        "created_at": "2025-07-16T12:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945463042957013030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830493173099208704",
+              "start": 0,
+              "username": "LeeWilliam99928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945463042957013030",
+        "in_reply_to_user_id": "1830493173099208704",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945461684010889567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeWilliam99928 (´ . .̫ . `)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830493173099208704",
+        "conversation_id": "1938789131095810547",
+        "created_at": "2025-07-16T12:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945461684010889567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            },
+            {
+              "end": 31,
+              "id": "1249525383797456898",
+              "start": 15,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945461684010889567",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939124159767855426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan @jakobsonradical 大支玩文字游戏很厉害的，老美医疗是明着坑人，大支是各种暗箱，可以预见，未来10亿级别的人大部分人如果疾病缠身真的不如那些意外去世的人幸运 🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 7491,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 2042
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T06:29:47.000Z",
+        "description": "",
+        "id": "1830493173099208704",
+        "name": "艾蓮·山魚·翁Eileen Mntfish Ong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927338057742565376/jgVUflE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 2406,
+          "like_count": 1828,
+          "listed_count": 0,
+          "media_count": 572,
+          "tweet_count": 5513
+        },
+        "username": "LeeWilliam99928",
+        "verified": false
+      }
+    ]
+  }
+}

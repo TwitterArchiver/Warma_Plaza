@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2067608577054003575",
+    "created_at": "2026-06-19T10:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067911195496251417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067911195496251417",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067608577054003575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 !?(･_･;?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2067608554669031424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGfBpubQAAP4lD.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2067608552748011520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGfBika0AAPZS9.jpg",
+        "width": 762
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2067608552748015616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGfBika4AAFXx2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2067608577054003575",
+        "created_at": "2026-06-19T10:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067911195496251417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067911195496251417",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067608577054003575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 !?(･_･;?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067608554669031424",
+            "3_2067608552748011520",
+            "3_2067608552748015616"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2067608577054003575",
+        "created_at": "2026-06-18T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067608577054003575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/45UFyApADi",
+              "end": 34,
+              "expanded_url": "https://x.com/Rococo90933671/status/2067608577054003575/photo/1",
+              "media_key": "3_2067608554669031424",
+              "start": 11,
+              "url": "https://t.co/45UFyApADi"
+            },
+            {
+              "display_url": "pic.x.com/45UFyApADi",
+              "end": 34,
+              "expanded_url": "https://x.com/Rococo90933671/status/2067608577054003575/photo/1",
+              "media_key": "3_2067608552748011520",
+              "start": 11,
+              "url": "https://t.co/45UFyApADi"
+            },
+            {
+              "display_url": "pic.x.com/45UFyApADi",
+              "end": 34,
+              "expanded_url": "https://x.com/Rococo90933671/status/2067608577054003575/photo/1",
+              "media_key": "3_2067608552748015616",
+              "start": 11,
+              "url": "https://t.co/45UFyApADi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067608577054003575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 133525,
+          "like_count": 951,
+          "quote_count": 7,
+          "reply_count": 79,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "金门的奶茶广告牛大了 https://t.co/45UFyApADi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5211,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 10537
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12860,
+          "following_count": 3125,
+          "like_count": 41069,
+          "listed_count": 42,
+          "media_count": 4393,
+          "tweet_count": 22807
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

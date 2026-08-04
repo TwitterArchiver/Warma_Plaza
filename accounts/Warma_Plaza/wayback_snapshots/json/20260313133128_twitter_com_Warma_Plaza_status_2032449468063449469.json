@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2032442920087998670",
+    "created_at": "2026-03-13T13:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032449468063449469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        },
+        {
+          "end": 23,
+          "id": "1775505096081825792",
+          "start": 15,
+          "username": "mzd1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032449468063449469",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032442920087998670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot @mzd1966 (｡•ˇ‸ˇ•｡)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1101,
+        "media_key": "3_2032442893588459520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSwCxqbcAAxXH2.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2032442920087998670",
+        "created_at": "2026-03-13T13:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032449468063449469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            },
+            {
+              "end": 23,
+              "id": "1775505096081825792",
+              "start": 15,
+              "username": "mzd1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032449468063449469",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032442920087998670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot @mzd1966 (｡•ˇ‸ˇ•｡)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032442893588459520"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2032442920087998670",
+        "created_at": "2026-03-13T13:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032442920087998670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yq4fPhks9T",
+              "end": 37,
+              "expanded_url": "https://x.com/xijinping_bot/status/2032442920087998670/photo/1",
+              "media_key": "3_2032442893588459520",
+              "start": 14,
+              "url": "https://t.co/yq4fPhks9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032442920087998670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "脱北者看到这个牌子心都凉了 https://t.co/yq4fPhks9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4793,
+          "following_count": 7463,
+          "like_count": 672,
+          "listed_count": 8,
+          "media_count": 555,
+          "tweet_count": 6972
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/@genya1976/资本只想住高楼，而权力不但想住高楼，还想俯视住在平房的我们！/不被认可的毛左派，茫然的寻找正确道路/就读于古拉格大学夹边沟分学院梁家河校区/本账所有言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾加快速度/顶峰论/预制论/反马反苏保卫毛主席",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "genya1976"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "我还会回去的",
+        "name": "羽泽东🇮🇷🚩——苏系基本盘 斯大林的丈夫",
+        "pinned_tweet_id": "2032234039114190999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031303065001926656/OAZEIhGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 1458,
+          "like_count": 17756,
+          "listed_count": 8,
+          "media_count": 694,
+          "tweet_count": 14700
+        },
+        "username": "xijinping_bot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T12:46:27.000Z",
+        "description": "我本以为党会救我，后来我才知道党把我抛弃了/苏系、秦制与一丝蓝是人性阴暗面具像化的产物，是地球的兴兵没有一个无辜的/主人@Pomb0ring/星努@Ceciliahyve/亲密战友、合作伙伴、我心中的红太阳@CPUP2024/利伯塔利亚之梦何时实现？/关注我的会回关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "Pomb0ring"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Ceciliahyve"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "CPUP2024"
+              }
+            ]
+          }
+        },
+        "id": "1775505096081825792",
+        "location": "毛主席纪念堂",
+        "name": "羽泽东委员会☭🚩",
+        "pinned_tweet_id": "2032321296290496737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032243064375541760/Y124GOyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 931,
+          "like_count": 9791,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 7446
+        },
+        "username": "mzd1966",
+        "verified": false
+      }
+    ]
+  }
+}

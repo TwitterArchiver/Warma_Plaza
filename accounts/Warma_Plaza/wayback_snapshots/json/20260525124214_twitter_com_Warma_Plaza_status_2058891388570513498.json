@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2058746414356922557",
+    "created_at": "2026-05-25T12:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058891388570513498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058891388570513498",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058746414356922557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao (⁠o⁠´⁠･⁠_⁠･⁠)⁠"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31766,
+        "height": 1542,
+        "media_key": "13_2058746305879638016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058746305879638016/img/NqD3UOJDb2ipnWCo.jpg",
+        "public_metrics": {
+          "view_count": 25762
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305879638016/vid/avc1/1080x1542/ycGGfgRn7qa8x2rZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305879638016/vid/avc1/480x684/sn9P1H9wyd68lQMX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305879638016/vid/avc1/720x1028/rjcJLSncmHLYwvb2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058746305879638016/pl/SrXFdOIv4EyiI53u.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305879638016/vid/avc1/320x456/qIn12tVlxHXIy3VS.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 38000,
+        "height": 1302,
+        "media_key": "13_2058746305883832320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058746305883832320/img/y6LAjExwAeuuhY4d.jpg",
+        "public_metrics": {
+          "view_count": 6730
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305883832320/vid/avc1/720x1058/IR39x8pik26J6WMV.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305883832320/vid/avc1/320x470/mg4BmAXdZyvFWjOI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058746305883832320/pl/tuUjFxLrycHv7Ww8.m3u8?v=290"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305883832320/vid/avc1/480x704/c519s_lKBUhytKoO.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058746305883832320/vid/avc1/886x1302/7YUeHFtAgAxFEQ_J.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2058746414356922557",
+        "created_at": "2026-05-25T12:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058891388570513498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058891388570513498",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058746414356922557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao (⁠o⁠´⁠･⁠_⁠･⁠)⁠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058746305879638016",
+            "13_2058746305883832320"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "2058746414356922557",
+        "created_at": "2026-05-25T03:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058746414356922557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMdoPjiMcD",
+              "end": 34,
+              "expanded_url": "https://x.com/cuichenghao/status/2058746414356922557/video/1",
+              "media_key": "13_2058746305879638016",
+              "start": 11,
+              "url": "https://t.co/vMdoPjiMcD"
+            },
+            {
+              "display_url": "pic.x.com/vMdoPjiMcD",
+              "end": 34,
+              "expanded_url": "https://x.com/cuichenghao/status/2058746414356922557/video/1",
+              "media_key": "13_2058746305883832320",
+              "start": 11,
+              "url": "https://t.co/vMdoPjiMcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058746414356922557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 61487,
+          "like_count": 373,
+          "quote_count": 6,
+          "reply_count": 120,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "鸿蒙系统安装成功🤣🤣 https://t.co/vMdoPjiMcD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5039,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9464
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104326,
+          "following_count": 749,
+          "like_count": 7681,
+          "listed_count": 349,
+          "media_count": 4378,
+          "tweet_count": 4574
+        },
+        "username": "cuichenghao",
+        "verified": true
+      }
+    ]
+  }
+}

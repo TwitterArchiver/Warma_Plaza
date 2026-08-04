@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1966824750552150299",
+    "created_at": "2025-09-13T11:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966826138929631270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640674561980260354",
+          "start": 0,
+          "username": "NmsleseResearch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966826138929631270",
+    "in_reply_to_user_id": "1640674561980260354",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966824750552150299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NmsleseResearch o(´^｀)o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1328,
+        "media_key": "3_1966824743853838336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uQrxDbUAAGLsh.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1966824750552150299",
+        "created_at": "2025-09-13T11:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966826138929631270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640674561980260354",
+              "start": 0,
+              "username": "NmsleseResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966826138929631270",
+        "in_reply_to_user_id": "1640674561980260354",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966824750552150299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NmsleseResearch o(´^｀)o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966824743853838336"
+          ]
+        },
+        "author_id": "1640674561980260354",
+        "conversation_id": "1966824750552150299",
+        "created_at": "2025-09-13T11:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966824750552150299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKvmjTA9Bu",
+              "end": 23,
+              "expanded_url": "https://x.com/NmsleseResearch/status/1966824750552150299/photo/1",
+              "media_key": "3_1966824743853838336",
+              "start": 0,
+              "url": "https://t.co/VKvmjTA9Bu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966824750552150299",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VKvmjTA9Bu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4150,
+          "following_count": 7493,
+          "like_count": 665,
+          "listed_count": 8,
+          "media_count": 484,
+          "tweet_count": 2678
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "location": "Nmslese City",
+        "name": "熊老大 🔬 兔友研究院B🐻t",
+        "pinned_tweet_id": "1939673186796548497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15720,
+          "following_count": 2724,
+          "like_count": 430412,
+          "listed_count": 75,
+          "media_count": 8484,
+          "tweet_count": 24318
+        },
+        "username": "NmsleseResearch",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928950576743854086"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1928837806656237905",
+    "created_at": "2025-05-31T23:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T00:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928950583144362330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773877435748270080",
+          "start": 0,
+          "username": "manakaao68"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N9TPGdELnS",
+          "end": 46,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1928950583144362330/photo/1",
+          "media_key": "3_1928950576743854086",
+          "start": 23,
+          "url": "https://t.co/N9TPGdELnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928950583144362330",
+    "in_reply_to_user_id": "1773877435748270080",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928837806656237905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manakaao68 (ɔˆз(ˆ⌣ˆc) https://t.co/N9TPGdELnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1928950576743854086",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsUCVFwaMAY2zDU.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928950576743854086"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1928837806656237905",
+        "created_at": "2025-05-31T23:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T00:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928950583144362330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773877435748270080",
+              "start": 0,
+              "username": "manakaao68"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9TPGdELnS",
+              "end": 46,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1928950583144362330/photo/1",
+              "media_key": "3_1928950576743854086",
+              "start": 23,
+              "url": "https://t.co/N9TPGdELnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928950583144362330",
+        "in_reply_to_user_id": "1773877435748270080",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928837806656237905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manakaao68 (ɔˆз(ˆ⌣ˆc) https://t.co/N9TPGdELnS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773877435748270080",
+        "conversation_id": "1928837806656237905",
+        "created_at": "2025-05-31T15:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T16:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928837806656237905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928837806656237905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想有人抱抱我....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 7492,
+          "like_count": 596,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 1510
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "戀星粉/城市客車愛好者\n里 @ND5_0179",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "ND5_0179"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集團",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍧🍟🍕🌮🍩🍡🍨",
+        "pinned_tweet_id": "1922109819504218319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908306914179768324/fjN1gKeL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 4545,
+          "like_count": 27807,
+          "listed_count": 11,
+          "media_count": 2031,
+          "tweet_count": 33335
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

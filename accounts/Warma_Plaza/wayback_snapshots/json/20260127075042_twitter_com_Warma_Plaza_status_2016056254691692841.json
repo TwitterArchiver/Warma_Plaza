@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2015687963364168079",
+    "created_at": "2026-01-27T07:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016056254691692841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1711718284717137920",
+          "start": 0,
+          "username": "liminfin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016056254691692841",
+    "in_reply_to_user_id": "1711718284717137920",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015687963364168079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liminfin ε(;。&gt;д＜)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015687955147575296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kphACa0AAhY6Q.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2015687963364168079",
+        "created_at": "2026-01-27T07:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016056254691692841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1711718284717137920",
+              "start": 0,
+              "username": "liminfin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016056254691692841",
+        "in_reply_to_user_id": "1711718284717137920",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015687963364168079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liminfin ε(;。&gt;д＜)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015687955147575296"
+          ]
+        },
+        "author_id": "1711718284717137920",
+        "conversation_id": "2015687963364168079",
+        "created_at": "2026-01-26T07:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015687963364168079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFbEwyGZWt",
+              "end": 25,
+              "expanded_url": "https://x.com/liminfin/status/2015687963364168079/photo/1",
+              "media_key": "3_2015687955147575296",
+              "start": 2,
+              "url": "https://t.co/RFbEwyGZWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015687963364168079",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1904,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "‽ https://t.co/RFbEwyGZWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4693,
+          "following_count": 7493,
+          "like_count": 677,
+          "listed_count": 8,
+          "media_count": 536,
+          "tweet_count": 6132
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T12:20:41.000Z",
+        "description": "parody",
+        "id": "1711718284717137920",
+        "location": "Hong Kong",
+        "name": "Utopia🕯️",
+        "pinned_tweet_id": "1888930773396574627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014991281337090048/ANQhEbum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 2493,
+          "like_count": 116441,
+          "listed_count": 24,
+          "media_count": 3866,
+          "tweet_count": 37042
+        },
+        "username": "liminfin",
+        "verified": false
+      }
+    ]
+  }
+}

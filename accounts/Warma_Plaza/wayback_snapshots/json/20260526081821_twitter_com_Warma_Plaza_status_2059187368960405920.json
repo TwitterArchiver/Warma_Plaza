@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2059060935436976420",
+    "created_at": "2026-05-26T08:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059187368960405920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1598640474113290240",
+          "start": 0,
+          "username": "LQniupitang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059187368960405920",
+    "in_reply_to_user_id": "1598640474113290240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059060935436976420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LQniupitang :⁠-⁠\\"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95712,
+        "height": 720,
+        "media_key": "13_2059060764137418752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059060764137418752/img/bQw6YaeI2cmCe6qt.jpg",
+        "public_metrics": {
+          "view_count": 3598
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059060764137418752/vid/avc1/480x270/_u_c7J9VPK5LXh8x.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059060764137418752/vid/avc1/640x360/rRhTv1c0z6raW1Yx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059060764137418752/vid/avc1/1280x720/XiTppBsRIMebtBCM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059060764137418752/pl/70s2xnhYApPbKGvc.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2059060935436976420",
+        "created_at": "2026-05-26T08:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059187368960405920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598640474113290240",
+              "start": 0,
+              "username": "LQniupitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059187368960405920",
+        "in_reply_to_user_id": "1598640474113290240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059060935436976420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LQniupitang :⁠-⁠\\"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059060764137418752"
+          ]
+        },
+        "author_id": "1598640474113290240",
+        "conversation_id": "2059060935436976420",
+        "created_at": "2026-05-25T23:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059060935436976420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8IVuXO70H",
+              "end": 60,
+              "expanded_url": "https://x.com/LQniupitang/status/2059060935436976420/video/1",
+              "media_key": "13_2059060764137418752",
+              "start": 37,
+              "url": "https://t.co/N8IVuXO70H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059060935436976420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5995,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这就叫全心全意为人民服务。\n这就叫人民子弟兵。\n你们的精神母国是没有的。 https://t.co/N8IVuXO70H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053,
+          "following_count": 7497,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9575
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T11:29:42.000Z",
+        "description": "你知道：零敲牛皮糖、537.7是什麼意思嗎？\nChinese Path to Modernization；\nSocialism with Chinese Characteristics；\n原号：@liuguangchui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "liuguangchui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JUixJDUiXs"
+              }
+            ]
+          }
+        },
+        "id": "1598640474113290240",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖537.7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039019610457190404/i3aAGc90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55939,
+          "following_count": 2082,
+          "like_count": 96339,
+          "listed_count": 202,
+          "media_count": 11046,
+          "tweet_count": 38936
+        },
+        "url": "https://t.co/JUixJDUiXs",
+        "username": "LQniupitang",
+        "verified": false
+      }
+    ]
+  }
+}

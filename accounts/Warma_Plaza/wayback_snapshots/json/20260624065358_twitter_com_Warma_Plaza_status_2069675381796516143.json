@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2069654958593732733",
+    "created_at": "2026-06-24T06:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069675381796516143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737377062636363776",
+          "start": 0,
+          "username": "kMuDmZvzWJ77310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069675381796516143",
+    "in_reply_to_user_id": "1737377062636363776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069654958593732733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kMuDmZvzWJ77310 (´･_･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_2069654952918827008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjkNtRawAAgkeV.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2069654958593732733",
+        "created_at": "2026-06-24T06:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069675381796516143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737377062636363776",
+              "start": 0,
+              "username": "kMuDmZvzWJ77310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069675381796516143",
+        "in_reply_to_user_id": "1737377062636363776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069654958593732733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kMuDmZvzWJ77310 (´･_･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069654952918827008"
+          ]
+        },
+        "author_id": "1737377062636363776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2069654958593732733",
+        "created_at": "2026-06-24T05:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069654958593732733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zCtn3U4vr",
+              "end": 167,
+              "expanded_url": "https://x.com/kMuDmZvzWJ77310/status/2069654958593732733/photo/1",
+              "media_key": "3_2069654952918827008",
+              "start": 144,
+              "url": "https://t.co/9zCtn3U4vr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069654958593732733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下推友们的家人对中共领导人的评价都是什么样子的，毕竟大伙对中共领导的评价基本都七七八八了，想看看大伙的家人会有什么看法。\n\n先说说我家人对中共领导人的看法\n毛泽东：就是非常标准的大众化印象\n邓小平：让中国强盛起来的关键人物\n江泽民：还不错\n胡锦涛：评价一般甚至差\n习近平：评价挺好的 https://t.co/9zCtn3U4vr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 7494,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 10584
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T07:39:27.000Z",
+        "description": "政治立场：建制左，思想：传统左派，马列毛主义，民主社会主义倾向，不推塔，改造改良塔，香港人🇭🇰，简繁中文都可以，喜欢中国近代史，月丑，喜欢persona系列，脑子可能有点不太正常",
+        "id": "1737377062636363776",
+        "location": "中华苏维埃社会主义共和国香港特别行政区",
+        "name": "剑劍劎剣",
+        "pinned_tweet_id": "2059947302790549696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066602256213139456/YYFLrye2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 3146,
+          "like_count": 5463,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 752
+        },
+        "url": "",
+        "username": "kMuDmZvzWJ77310",
+        "verified": false
+      }
+    ]
+  }
+}

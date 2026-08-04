@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1948999547822154180",
+    "created_at": "2025-07-26T07:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T08:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949002097682223543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695276124081618944",
+          "start": 0,
+          "username": "Zane_III_Ren"
+        },
+        {
+          "end": 30,
+          "id": "1716422465063374848",
+          "start": 14,
+          "username": "Luoen_5_shdatid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949002097682223543",
+    "in_reply_to_user_id": "1695276124081618944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949000016686727249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zane_III_Ren @Luoen_5_shdatid ( ´ﾟωﾟ)？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1948999547822154180",
+        "created_at": "2025-07-26T07:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T08:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949002097682223543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695276124081618944",
+              "start": 0,
+              "username": "Zane_III_Ren"
+            },
+            {
+              "end": 30,
+              "id": "1716422465063374848",
+              "start": 14,
+              "username": "Luoen_5_shdatid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949002097682223543",
+        "in_reply_to_user_id": "1695276124081618944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949000016686727249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zane_III_Ren @Luoen_5_shdatid ( ´ﾟωﾟ)？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695276124081618944",
+        "conversation_id": "1948999547822154180",
+        "created_at": "2025-07-26T06:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T07:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949000016686727249"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "teSt",
+              "probability": 0.5595,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "teSting",
+              "probability": 0.5597,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 57,
+              "id": "1716422465063374848",
+              "start": 41,
+              "username": "Luoen_5_shdatid"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/segu_iii_ren",
+              "end": 105,
+              "expanded_url": "https://ngl.link/segu_iii_ren",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1949000092674850816/nC6oPzo4?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1949000092674850816/nC6oPzo4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "@segu_iii_ren: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/segu_iii_ren",
+              "url": "https://t.co/ttt8ucMGRK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949000016686727249",
+        "in_reply_to_user_id": "1695276124081618944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948999547822154180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "also\nteSt\nI'll post relative pictures at @luoen_5_shdatid if i succeed in teSting\nhttps://t.co/ttt8ucMGRK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3795,
+          "following_count": 7491,
+          "like_count": 650,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 2174
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T03:25:23.000Z",
+        "description": "❤️0.125 Artists\n💛Alt @Kadugen_1_chuda\n💙Other accounts @enli_6\n🤍Cyber Consort @JawenZhu\n🖤Discord server https://t.co/2iv9uIGr1z\nPartner @truthdigY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "Kadugen_1_chuda"
+              },
+              {
+                "end": 61,
+                "start": 54,
+                "username": "enli_6"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "JawenZhu"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "truthdigY"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/DrppS8rD",
+                "end": 126,
+                "expanded_url": "http://discord.gg/DrppS8rD",
+                "start": 103,
+                "url": "https://t.co/2iv9uIGr1z"
+              }
+            ]
+          }
+        },
+        "id": "1695276124081618944",
+        "location": "直隸province,中華",
+        "name": "_te_S(comms 0/3)(接稿0/3)",
+        "pinned_tweet_id": "1910998430878699631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844754903862030336/R6LVk4ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 621,
+          "like_count": 1264,
+          "listed_count": 5,
+          "media_count": 517,
+          "tweet_count": 20079
+        },
+        "username": "Zane_III_Ren",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T11:53:30.000Z",
+        "description": "Main account @Zane_III_Ren\nOther accounts @enli_6\nI repost all I liked at my main account here.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "Zane_III_Ren"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "enli_6"
+              }
+            ]
+          }
+        },
+        "id": "1716422465063374848",
+        "location": "中華",
+        "name": "Zhzhe",
+        "pinned_tweet_id": "1816484647465013430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814717974605148163/Y6LQpooO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1064
+        },
+        "username": "Luoen_5_shdatid",
+        "verified": false
+      }
+    ]
+  }
+}

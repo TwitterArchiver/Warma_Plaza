@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1864330073970757828",
+    "created_at": "2024-12-27T14:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T15:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872648430973317617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1285633492131262465",
+          "start": 0,
+          "username": "youthful_vista"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872648430973317617",
+    "in_reply_to_user_id": "1285633492131262465",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872630347403514167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youthful_vista ( p′︵‵。)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1872630347403514167].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1872630347403514167",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1872630347403514167"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1864330073970757828",
+        "created_at": "2024-12-27T14:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T15:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872648430973317617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1285633492131262465",
+              "start": 0,
+              "username": "youthful_vista"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872648430973317617",
+        "in_reply_to_user_id": "1285633492131262465",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872630347403514167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youthful_vista ( p′︵‵。)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！沃玛本尊请看：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "沃家东边的深处",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 7484,
+          "like_count": 550,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 918
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T17:53:18.000Z",
+        "description": "睡觉领域大神/冲浪低手/如果你是逆民请滚",
+        "id": "1285633492131262465",
+        "location": "China",
+        "name": "不要变回溺水的尸体",
+        "pinned_tweet_id": "1860648848730784074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849149747980054528/V2juspwD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 346,
+          "like_count": 4351,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 7730
+        },
+        "username": "youthful_vista",
+        "verified": false
+      }
+    ]
+  }
+}

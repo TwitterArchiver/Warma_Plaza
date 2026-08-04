@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1970283523518161157",
+    "created_at": "2025-09-24T13:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T14:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970836690165207075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1702316313472081921",
+          "start": 0,
+          "username": "k49ur473"
+        },
+        {
+          "end": 21,
+          "id": "1750684739441446912",
+          "start": 10,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970836690165207075",
+    "in_reply_to_user_id": "1702316313472081921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970680120068448558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k49ur473 @wngy189327 (ﾟ⊿ﾟ)ﾂ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1970283523518161157",
+        "created_at": "2025-09-24T13:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970836690165207075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1702316313472081921",
+              "start": 0,
+              "username": "k49ur473"
+            },
+            {
+              "end": 21,
+              "id": "1750684739441446912",
+              "start": 10,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970836690165207075",
+        "in_reply_to_user_id": "1702316313472081921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970680120068448558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k49ur473 @wngy189327 (ﾟ⊿ﾟ)ﾂ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702316313472081921",
+        "conversation_id": "1970283523518161157",
+        "created_at": "2025-09-24T02:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T03:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970680120068448558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970680120068448558",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970283523518161157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 mtf支持纳粹和法西斯？这几个是怎么组合到一起的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 7475,
+          "like_count": 665,
+          "listed_count": 7,
+          "media_count": 487,
+          "tweet_count": 2782
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T13:40:28.000Z",
+        "description": "中文 /English/日本語 OK！| Rust和Kotlin高度黑子 | 舞萌樱将持有 | GoLang和TypeScript享受者 | 好用的代理：https://t.co/HmIg4t7tjK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miaona.org/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://miaona.org/#/register?code=amRzwRzt",
+                "start": 77,
+                "url": "https://t.co/HmIg4t7tjK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akich.io",
+                "end": 23,
+                "expanded_url": "https://akich.io/",
+                "start": 0,
+                "url": "https://t.co/fl14H01veE"
+              }
+            ]
+          }
+        },
+        "id": "1702316313472081921",
+        "location": "茨城 鹿嶋市",
+        "name": "AkiChan",
+        "pinned_tweet_id": "1881620432627085501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840336006459052033/J9d3uSO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 175,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/fl14H01veE",
+        "username": "k49ur473",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一个翻车的法西斯\n130斤\n10年的mtf\n15岁的xyn\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n本号不涉政，只更新日常 涉政见大号   @min_hong75899\n同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "min_hong75899"
+              }
+            ]
+          }
+        },
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 202,
+          "like_count": 3310,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 414
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

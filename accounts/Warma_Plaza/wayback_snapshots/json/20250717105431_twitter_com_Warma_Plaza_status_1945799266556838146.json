@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1945509090861691187",
+    "created_at": "2025-07-17T10:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T11:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945799266556838146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884959792390938624",
+          "start": 0,
+          "username": "mengqing5735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945799266556838146",
+    "in_reply_to_user_id": "1884959792390938624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945509090861691187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengqing5735 抱抱~\n穷人也要过得有尊严啦~(*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1945509090861691187",
+        "created_at": "2025-07-17T10:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T11:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945799266556838146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884959792390938624",
+              "start": 0,
+              "username": "mengqing5735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945799266556838146",
+        "in_reply_to_user_id": "1884959792390938624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945509090861691187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing5735 抱抱~\n穷人也要过得有尊严啦~(*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884959792390938624",
+        "conversation_id": "1945509090861691187",
+        "created_at": "2025-07-16T15:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T16:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945509090861691187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945509090861691187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特上就我家最穷😅不是说中国很多穷人吗😅tmd我不管是线上线下都没见过比我家穷的😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3766,
+          "following_count": 7490,
+          "like_count": 640,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 2055
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "14-year-old trans-girl/姐姐酱 @qqnjjwb    /政治当乐子/❤️@sxshuishuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "qqnjjwb"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "sxshuishuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/luna8964",
+                "end": 23,
+                "expanded_url": "http://t.me/luna8964",
+                "start": 0,
+                "url": "https://t.co/8iYgYgFDXc"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "location": "美丽新世界",
+        "name": "梦情酱🏳️‍⚧️🍥🐱🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932034241610878976/HZNQGzCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 1053,
+          "like_count": 17497,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 7706
+        },
+        "url": "https://t.co/8iYgYgFDXc",
+        "username": "mengqing5735",
+        "verified": false
+      }
+    ]
+  }
+}

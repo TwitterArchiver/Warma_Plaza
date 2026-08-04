@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2049508690819272911",
+    "created_at": "2026-04-29T15:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049510043314425892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1093535434146103296",
+          "start": 0,
+          "username": "rnnnnnennnenne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049510043314425892",
+    "in_reply_to_user_id": "1093535434146103296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049508690819272911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnnnnnennnenne ʕ⁠っ⁠•⁠ᴥ⁠•⁠ʔ⁠っ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2049508690819272911",
+        "created_at": "2026-04-29T15:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049510043314425892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1093535434146103296",
+              "start": 0,
+              "username": "rnnnnnennnenne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049510043314425892",
+        "in_reply_to_user_id": "1093535434146103296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049508690819272911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnnnnnennnenne ʕ⁠っ⁠•⁠ᴥ⁠•⁠ʔ⁠っ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1093535434146103296",
+        "conversation_id": "2049508690819272911",
+        "created_at": "2026-04-29T15:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049508690819272911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049508690819272911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恢复吃糖和色了\n分手后决定还是做回像自己想做的事情\n谈恋爱确实不适合我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4982,
+          "following_count": 7493,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 566,
+          "tweet_count": 8574
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-07T15:42:19.000Z",
+        "description": "😼",
+        "id": "1093535434146103296",
+        "name": "Renen",
+        "pinned_tweet_id": "1709829337934098873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800867762904150016/CXAbUpvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 654,
+          "like_count": 8336,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 899
+        },
+        "username": "rnnnnnennnenne",
+        "verified": false
+      }
+    ]
+  }
+}

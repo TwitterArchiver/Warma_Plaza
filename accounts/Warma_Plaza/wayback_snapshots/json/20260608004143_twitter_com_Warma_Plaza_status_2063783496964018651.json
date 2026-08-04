@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2063606827015918039",
+    "created_at": "2026-06-08T00:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T01:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063783496964018651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1468458312",
+          "start": 0,
+          "username": "Hp2ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063783496964018651",
+    "in_reply_to_user_id": "1468458312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063606827015918039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hp2ai ┗⁠(⁠•⁠ˇ⁠_⁠ˇ⁠•⁠)⁠―⁠？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063606811866054657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNndkFaQAEJrV4.jpg",
+        "width": 1678
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063606811874537472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNndkHbsAA4phf.jpg",
+        "width": 1738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2063606827015918039",
+        "created_at": "2026-06-08T00:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T01:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063783496964018651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1468458312",
+              "start": 0,
+              "username": "Hp2ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063783496964018651",
+        "in_reply_to_user_id": "1468458312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063606827015918039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hp2ai ┗⁠(⁠•⁠ˇ⁠_⁠ˇ⁠•⁠)⁠―⁠？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063606811866054657",
+            "3_2063606811874537472"
+          ]
+        },
+        "author_id": "1468458312",
+        "conversation_id": "2063606827015918039",
+        "created_at": "2026-06-07T12:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063606827015918039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHxSpw7eBg",
+              "end": 67,
+              "expanded_url": "https://x.com/Hp2ai/status/2063606827015918039/photo/1",
+              "media_key": "3_2063606811866054657",
+              "start": 44,
+              "url": "https://t.co/sHxSpw7eBg"
+            },
+            {
+              "display_url": "pic.x.com/sHxSpw7eBg",
+              "end": 67,
+              "expanded_url": "https://x.com/Hp2ai/status/2063606827015918039/photo/1",
+              "media_key": "3_2063606811874537472",
+              "start": 44,
+              "url": "https://t.co/sHxSpw7eBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063606827015918039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1384,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，在大学城夜市摆摊每天营业额5000+\n下午四点出摊，晚上11点收摊，就八小时！ https://t.co/sHxSpw7eBg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 10397
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-29T23:27:33.000Z",
+        "description": "啥都想了解一点，港美股开户  全球银行卡💳\n全球电话卡\n🚀一起成长，一起闯关",
+        "id": "1468458312",
+        "location": "Fujian xiamen",
+        "name": "Hpp2",
+        "pinned_tweet_id": "2057493755758891387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042908617641463809/dTGZoq5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 606,
+          "like_count": 1029,
+          "listed_count": 11,
+          "media_count": 292,
+          "tweet_count": 2364
+        },
+        "username": "Hp2ai",
+        "verified": true
+      }
+    ]
+  }
+}

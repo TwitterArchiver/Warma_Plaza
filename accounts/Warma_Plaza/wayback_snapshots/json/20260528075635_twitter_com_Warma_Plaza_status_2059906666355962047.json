@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2059842805732937919",
+    "created_at": "2026-05-28T07:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059906666355962047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576102262581080065",
+          "start": 0,
+          "username": "Amelia181672271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059906666355962047",
+    "in_reply_to_user_id": "1576102262581080065",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059842805732937919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amelia181672271 ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2059842659989303296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYH_FnbsAAPkov.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1741,
+        "media_key": "3_2059842659989303297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYH_FnbsAEe5qJ.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2059842805732937919",
+        "created_at": "2026-05-28T07:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059906666355962047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576102262581080065",
+              "start": 0,
+              "username": "Amelia181672271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059906666355962047",
+        "in_reply_to_user_id": "1576102262581080065",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059842805732937919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amelia181672271 ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059842659989303296",
+            "3_2059842659989303297"
+          ]
+        },
+        "author_id": "1576102262581080065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059842805732937919",
+        "created_at": "2026-05-28T03:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059842805732937919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fCcDr3YHsx",
+              "end": 41,
+              "expanded_url": "https://x.com/Amelia181672271/status/2059842805732937919/photo/1",
+              "media_key": "3_2059842659989303296",
+              "start": 18,
+              "url": "https://t.co/fCcDr3YHsx"
+            },
+            {
+              "display_url": "pic.x.com/fCcDr3YHsx",
+              "end": 41,
+              "expanded_url": "https://x.com/Amelia181672271/status/2059842805732937919/photo/1",
+              "media_key": "3_2059842659989303297",
+              "start": 18,
+              "url": "https://t.co/fCcDr3YHsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059842805732937919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2987,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有什麼方法阻止這些民進黨的網軍嗎？ https://t.co/fCcDr3YHsx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5073,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9774
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T06:51:12.000Z",
+        "description": "Taiwanese journalist, this is a commentary account.\n\n追蹤我，每天了解台灣新資訊。",
+        "id": "1576102262581080065",
+        "location": "台灣台北市大安區仁愛路",
+        "name": "Amelia",
+        "pinned_tweet_id": "1894658424778232081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048738327080402944/aFrPo1AN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35119,
+          "following_count": 109,
+          "like_count": 16066,
+          "listed_count": 136,
+          "media_count": 5512,
+          "tweet_count": 15592
+        },
+        "username": "Amelia181672271",
+        "verified": false
+      }
+    ]
+  }
+}

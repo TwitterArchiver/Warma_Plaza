@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2078075045973508405",
+    "created_at": "2026-07-18T05:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078357769410019637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048745058804105216",
+          "start": 0,
+          "username": "TaoistYouth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078357769410019637",
+    "in_reply_to_user_id": "2048745058804105216",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078075045973508405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth 。・°°・(＞_＜)・°°・。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77766,
+        "height": 1280,
+        "media_key": "7_2078074973793796096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078074973793796096/pu/img/9YabixZn8wJuoN0E.jpg",
+        "public_metrics": {
+          "view_count": 486189
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078074973793796096/pu/vid/avc1/320x674/sxM6yWlyBG8ddtWy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078074973793796096/pu/vid/avc1/480x1012/QA3T6i8EVzPgDGgZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078074973793796096/pu/vid/avc1/606x1280/81iMiZ5adw5IdWL3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078074973793796096/pu/pl/F-RGdH3Pu4DwrdKx.m3u8?tag=12"
+          }
+        ],
+        "width": 606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2078075045973508405",
+        "created_at": "2026-07-18T05:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078357769410019637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048745058804105216",
+              "start": 0,
+              "username": "TaoistYouth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078357769410019637",
+        "in_reply_to_user_id": "2048745058804105216",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078075045973508405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth 。・°°・(＞_＜)・°°・。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078074973793796096"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "conversation_id": "2078075045973508405",
+        "created_at": "2026-07-17T11:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078075045973508405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGyZJjJ5nl",
+              "end": 66,
+              "expanded_url": "https://x.com/TaoistYouth/status/2078075045973508405/video/1",
+              "media_key": "7_2078074973793796096",
+              "start": 43,
+              "url": "https://t.co/TGyZJjJ5nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078075045973508405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 814845,
+          "like_count": 1774,
+          "quote_count": 9,
+          "reply_count": 775,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "网友在抖音直播间冲塔，引导主播说出敏感词“习包子”，\n随后直播间被瞬间封禁\n露头就秒 https://t.co/TGyZJjJ5nl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5348,
+          "following_count": 7497,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 578,
+          "tweet_count": 11319
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "右翼自由派/自由意志主义/反极权/永远铭记六四/\n日本留学生/高一做题区/道教善信☯/友跨非跨🏳️‍⚧️/时而暴躁时而温和/键政辱包重度依赖/\n一入玄门终不悔，永做三清不二臣/六四精神永存，自由民主不死/\n努力突破1500fo喵/\n回fo标准：简介、名称和内容明确立场鲜明。小号防失联@TaoistYouth3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "TaoistYouth3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20780…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2078075045973508405",
+                "start": 0,
+                "url": "https://t.co/5jSv6g2H41"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist_Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2076995318558937099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 641,
+          "like_count": 10860,
+          "listed_count": 10,
+          "media_count": 432,
+          "tweet_count": 4031
+        },
+        "url": "https://t.co/5jSv6g2H41",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

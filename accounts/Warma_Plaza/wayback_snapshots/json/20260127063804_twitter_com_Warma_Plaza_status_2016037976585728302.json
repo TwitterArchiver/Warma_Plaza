@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2015794038847472123",
+    "created_at": "2026-01-27T06:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016037976585728302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1554663217984851968",
+          "start": 0,
+          "username": "EZPZ86364301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016037976585728302",
+    "in_reply_to_user_id": "1554663217984851968",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015794038847472123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EZPZ86364301 (╥╯﹏╰╥)ง"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2015794038847472123",
+        "created_at": "2026-01-27T06:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016037976585728302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1554663217984851968",
+              "start": 0,
+              "username": "EZPZ86364301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016037976585728302",
+        "in_reply_to_user_id": "1554663217984851968",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015794038847472123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EZPZ86364301 (╥╯﹏╰╥)ง"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554663217984851968",
+        "conversation_id": "2015794038847472123",
+        "created_at": "2026-01-26T14:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015794038847472123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lanshan_L1/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Lanshan_L1/status/2015782707180270060",
+              "start": 22,
+              "url": "https://t.co/HWDTHnaSJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015794038847472123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1068,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015782707180270060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可别忘了贪官变多和防火墙也是那个年代的产物 https://t.co/HWDTHnaSJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4691,
+          "following_count": 7490,
+          "like_count": 677,
+          "listed_count": 8,
+          "media_count": 536,
+          "tweet_count": 6113
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T03:01:03.000Z",
+        "description": "Ideas don't determine who's right, POWER determines who's right.\nWake up!",
+        "id": "1554663217984851968",
+        "name": "除草机 LwnM0w3r",
+        "pinned_tweet_id": "2013174695265550831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871226561225211904/bRvc4KZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 4332,
+          "like_count": 319353,
+          "listed_count": 7,
+          "media_count": 268,
+          "tweet_count": 26198
+        },
+        "username": "EZPZ86364301",
+        "verified": false
+      }
+    ]
+  }
+}

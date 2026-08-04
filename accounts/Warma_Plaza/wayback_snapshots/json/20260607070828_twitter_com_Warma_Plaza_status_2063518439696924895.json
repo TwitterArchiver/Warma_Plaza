@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2063471186991096123",
+    "created_at": "2026-06-07T07:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063518439696924895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2037086952034566144",
+          "start": 0,
+          "username": "tsingin129041"
+        },
+        {
+          "end": 28,
+          "id": "1830913797604941829",
+          "start": 15,
+          "username": "dehuraguwolf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518439696924895",
+    "in_reply_to_user_id": "2037086952034566144",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063516546522374474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsingin129041 @dehuraguwolf ಠ⁠ಗ⁠ಠ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2063471186991096123",
+        "created_at": "2026-06-07T07:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063518439696924895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037086952034566144",
+              "start": 0,
+              "username": "tsingin129041"
+            },
+            {
+              "end": 28,
+              "id": "1830913797604941829",
+              "start": 15,
+              "username": "dehuraguwolf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518439696924895",
+        "in_reply_to_user_id": "2037086952034566144",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063516546522374474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsingin129041 @dehuraguwolf ಠ⁠ಗ⁠ಠ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037086952034566144",
+        "conversation_id": "2063471186991096123",
+        "created_at": "2026-06-07T07:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063516546522374474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830913797604941829",
+              "start": 0,
+              "username": "dehuraguwolf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063516546522374474",
+        "in_reply_to_user_id": "1830913797604941829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063515260087415187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dehuraguwolf 这也是没有办法的事啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5169,
+          "following_count": 7498,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 10308
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T08:39:20.000Z",
+        "description": "国家：🇨🇳\n抱有好感的国家：🇫🇷🇨🇺🇩🇪🇯🇵🇰🇷🇬🇧🇺🇸🇷🇺\n最喜欢的政治角色：孙中山\n思想倾向：偏保守\n喜欢的虚拟角色：洛天依 初音未来\n最喜欢的游戏：永劫无间",
+        "id": "2037086952034566144",
+        "name": "初白洛🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037087090442399744/iJjauX6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 133
+        },
+        "username": "tsingin129041",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T10:20:52.000Z",
+        "description": "メイン機 Galaxy S24 Ultra\nサブ機 Nothing Phone 2a\n非常用機 AQUOS Wish 3\nコレクション Note見ろ\nH24です\n海外垢、ゴミ垢即ブロック（トラブル防止）\n定期的にツイートできなくなる\n1日50ツイートのみとか死ねよ普通に",
+        "id": "1830913797604941829",
+        "location": "広島県",
+        "name": "デフラグ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579696136638464/Yy9vd64i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 281,
+          "like_count": 10477,
+          "listed_count": 1,
+          "media_count": 1551,
+          "tweet_count": 6401
+        },
+        "username": "dehuraguwolf",
+        "verified": false
+      }
+    ]
+  }
+}

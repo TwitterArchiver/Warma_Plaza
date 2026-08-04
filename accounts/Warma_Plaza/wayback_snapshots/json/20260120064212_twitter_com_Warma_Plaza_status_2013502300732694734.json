@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2012857281151746326",
+    "created_at": "2026-01-20T06:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T07:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013502300732694734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1359055471106134016",
+          "start": 0,
+          "username": "kohinatamika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013502300732694734",
+    "in_reply_to_user_id": "1359055471106134016",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012857281151746326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohinatamika ། – _ – །"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2012857258745421824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8bAyMWYAASsUH.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2012857258774855680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8bAyTXgAANa61.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2012857258741297152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8bAyLXcAAXy6w.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2012857281151746326",
+        "created_at": "2026-01-20T06:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T07:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013502300732694734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1359055471106134016",
+              "start": 0,
+              "username": "kohinatamika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013502300732694734",
+        "in_reply_to_user_id": "1359055471106134016",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012857281151746326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohinatamika ། – _ – །"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012857258745421824",
+            "3_2012857258774855680",
+            "3_2012857258741297152"
+          ]
+        },
+        "author_id": "1359055471106134016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2012857281151746326",
+        "created_at": "2026-01-18T11:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012857281151746326"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "ディズニー",
+              "probability": 0.3373,
+              "start": 28,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CyffoN56mA",
+              "end": 84,
+              "expanded_url": "https://x.com/kohinatamika/status/2012857281151746326/photo/1",
+              "media_key": "3_2012857258745421824",
+              "start": 61,
+              "url": "https://t.co/CyffoN56mA"
+            },
+            {
+              "display_url": "pic.x.com/CyffoN56mA",
+              "end": 84,
+              "expanded_url": "https://x.com/kohinatamika/status/2012857281151746326/photo/1",
+              "media_key": "3_2012857258774855680",
+              "start": 61,
+              "url": "https://t.co/CyffoN56mA"
+            },
+            {
+              "display_url": "pic.x.com/CyffoN56mA",
+              "end": 84,
+              "expanded_url": "https://x.com/kohinatamika/status/2012857281151746326/photo/1",
+              "media_key": "3_2012857258741297152",
+              "start": 61,
+              "url": "https://t.co/CyffoN56mA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012857281151746326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 110248,
+          "like_count": 5980,
+          "quote_count": 46,
+          "reply_count": 137,
+          "retweet_count": 697
+        },
+        "reply_settings": "everyone",
+        "text": "少し前に高校のお友達の\nつーちゃん、はっぱちゃんと3人でディズニーへ行ってきた時の🐭🏰🫶✨\n\n2人のぬいに挟まれるわい。 https://t.co/CyffoN56mA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4663,
+          "following_count": 7490,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 534,
+          "tweet_count": 5972
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T08:25:02.000Z",
+        "description": "S所属の小日向美香です🍊 【アニメ】＃バンドリ #MyGO !!!!!/Ba.長崎そよ【ゲーム】#少女とドラゴン /レテ【舞台】#春風外伝2021 /黒子と #少ステ再演 /スオウ #散る君うらら/脇沸きわ 【ラジオ】#小日向美香のラジラブ！ #イマ2 【配信】#こひなたぼっこ #こひチャン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "MyGO"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "少女とドラゴン"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "tag": "春風外伝2021"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "少ステ再演"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "tag": "散る君うらら"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "tag": "小日向美香のラジラブ"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "イマ2"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "tag": "こひなたぼっこ"
+              },
+              {
+                "end": 146,
+                "start": 140,
+                "tag": "こひチャン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kohinata_mika",
+                "end": 23,
+                "expanded_url": "http://instagram.com/kohinata_mika",
+                "start": 0,
+                "url": "https://t.co/55PTrk2Xws"
+              }
+            ]
+          }
+        },
+        "id": "1359055471106134016",
+        "location": "DMは事務所が管理しています。",
+        "name": "小日向美香",
+        "pinned_tweet_id": "1952709238498984233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952701283900772352/nGxs0NJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114780,
+          "following_count": 486,
+          "like_count": 6420,
+          "listed_count": 842,
+          "media_count": 1506,
+          "tweet_count": 5427
+        },
+        "url": "https://t.co/55PTrk2Xws",
+        "username": "kohinatamika",
+        "verified": true
+      }
+    ]
+  }
+}

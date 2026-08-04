@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1935286828904665362",
+    "created_at": "2025-06-18T11:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T12:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935294170266325288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672120275205525504",
+          "start": 0,
+          "username": "Like_Rosemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935294170266325288",
+    "in_reply_to_user_id": "1672120275205525504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935286828904665362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Like_Rosemi 唔姆o(╥﹏╥)o......\n抱抱（？）\n( ˙ε . )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1935286828904665362",
+        "created_at": "2025-06-18T11:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935294170266325288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672120275205525504",
+              "start": 0,
+              "username": "Like_Rosemi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935294170266325288",
+        "in_reply_to_user_id": "1672120275205525504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935286828904665362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Like_Rosemi 唔姆o(╥﹏╥)o......\n抱抱（？）\n( ˙ε . )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672120275205525504",
+        "conversation_id": "1935286828904665362",
+        "created_at": "2025-06-18T10:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935286828904665362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935286828904665362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么无人找我互转。你好我好大家好🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3614,
+          "following_count": 7477,
+          "like_count": 616,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 1643
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T05:52:09.000Z",
+        "description": "🚪52纯绿｜150｜接伤口定制（技术不精dbq）｜互fo不论成分｜od紫餐精神病｜可以叫我鱼鱼｜infp💤｜负能｜小号@LikeRosemi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "LikeRosemi"
+              }
+            ]
+          }
+        },
+        "id": "1672120275205525504",
+        "location": "Kilmarnock, Scotland",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "1935032184601198681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921580753227317248/PtlXMbOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 547,
+          "like_count": 3346,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 608
+        },
+        "username": "Like_Rosemi",
+        "verified": false
+      }
+    ]
+  }
+}

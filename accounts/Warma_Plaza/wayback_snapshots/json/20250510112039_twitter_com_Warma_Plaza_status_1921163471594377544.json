@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1921162521521565854",
+    "created_at": "2025-05-10T11:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T12:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921163471594377544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573663582994444289",
+          "start": 0,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921163471594377544",
+    "in_reply_to_user_id": "1573663582994444289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921162521521565854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guojiazongshuji (oＡo川)......\n((유∀유|||))"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1173,
+        "media_key": "3_1921162506518585344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqlXHvTW4AAB9Qx.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1921162521521565854",
+        "created_at": "2025-05-10T11:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921163471594377544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921163471594377544",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921162521521565854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji (oＡo川)......\n((유∀유|||))"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921162506518585344"
+          ]
+        },
+        "author_id": "1573663582994444289",
+        "conversation_id": "1921162521521565854",
+        "created_at": "2025-05-10T11:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921162521521565854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRAMsRyuv4",
+              "end": 63,
+              "expanded_url": "https://x.com/guojiazongshuji/status/1921162521521565854/photo/1",
+              "media_key": "3_1921162506518585344",
+              "start": 40,
+              "url": "https://t.co/vRAMsRyuv4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921162521521565854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还有人记得他吗？刚入推的时候天天看到，但在2022年末突然停止更新，无任何音讯 https://t.co/vRAMsRyuv4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3446,
+          "following_count": 7490,
+          "like_count": 578,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 1344
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "满洲国出身 / 国歌《南蛮大布》/满洲第一厨师老八 / 外交部发言人黑手哥 / 一级上将宇将军 / 传统运动项目海兰泡冬泳大赛 / 信仰李洪志《转法轮》/ 满洲国传统美食桌饺🥟大酱、西安猪臊子/自用🪜👉 https://t.co/6jlWXuGrL5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "susu.hamstercloud.de/register?code=…",
+                "end": 125,
+                "expanded_url": "https://susu.hamstercloud.de/register?code=p3VhqxV5",
+                "start": 102,
+                "url": "https://t.co/6jlWXuGrL5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html?spm=C73544894212.P59511941341.0.0",
+                "start": 0,
+                "url": "https://t.co/Y7VxXFmWIL"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "符拉迪沃斯托克—满俄奥运会现场",
+        "name": "狐仙苏苏",
+        "pinned_tweet_id": "1790949934688268776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10530,
+          "following_count": 570,
+          "like_count": 57068,
+          "listed_count": 25,
+          "media_count": 275,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/Y7VxXFmWIL",
+        "username": "guojiazongshuji",
+        "verified": true
+      }
+    ]
+  }
+}

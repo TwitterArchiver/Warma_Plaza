@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1957795307468591552",
+    "created_at": "2025-08-19T13:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T14:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957800856235249691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868840215789617152",
+          "start": 0,
+          "username": "hoJVBLquMR58036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957800856235249691",
+    "in_reply_to_user_id": "1868840215789617152",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957795307468591552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoJVBLquMR58036 (´-﹏-`；)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1957795307468591552",
+        "created_at": "2025-08-19T13:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957800856235249691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868840215789617152",
+              "start": 0,
+              "username": "hoJVBLquMR58036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957800856235249691",
+        "in_reply_to_user_id": "1868840215789617152",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957795307468591552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoJVBLquMR58036 (´-﹏-`；)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868840215789617152",
+        "conversation_id": "1957795307468591552",
+        "created_at": "2025-08-19T13:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957795307468591552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957795307468591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "户晨风面相分析：一看就是在单位不受待见、被排挤、被欺负过的经常抱怨社会的人。\n峰哥面相分析：一看就是撩妹不成反而被妹子一脚踹开的内心七个不服八个不忿的性压抑人士。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4083,
+          "following_count": 7484,
+          "like_count": 662,
+          "listed_count": 7,
+          "media_count": 473,
+          "tweet_count": 2441
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T02:06:54.000Z",
+        "description": "男权主义",
+        "id": "1868840215789617152",
+        "name": "仝云泽🇭🇰🇰🇷🇸🇬🇦🇪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868907162212483079/8_Ymk0C5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 165,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 4476
+        },
+        "username": "hoJVBLquMR58036",
+        "verified": false
+      }
+    ]
+  }
+}

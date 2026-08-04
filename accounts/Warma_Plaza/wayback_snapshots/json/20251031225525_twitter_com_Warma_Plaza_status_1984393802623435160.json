@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984260534171271614",
+    "created_at": "2025-10-31T22:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T23:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984393802623435160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830129345899188224",
+          "start": 0,
+          "username": "xiaoyi198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984393802623435160",
+    "in_reply_to_user_id": "1830129345899188224",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984260534171271614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi198964 ε=ε=ε=ε=(;。&gt;д＜)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1984260531927285760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mCcNNagAA-xIM.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984260534171271614",
+        "created_at": "2025-10-31T22:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T23:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984393802623435160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830129345899188224",
+              "start": 0,
+              "username": "xiaoyi198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984393802623435160",
+        "in_reply_to_user_id": "1830129345899188224",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984260534171271614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi198964 ε=ε=ε=ε=(;。&gt;д＜)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984260531927285760"
+          ]
+        },
+        "author_id": "1830129345899188224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984260534171271614",
+        "created_at": "2025-10-31T14:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984260534171271614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4wInmhK8V",
+              "end": 28,
+              "expanded_url": "https://x.com/xiaoyi198964/status/1984260534171271614/photo/1",
+              "media_key": "3_1984260531927285760",
+              "start": 5,
+              "url": "https://t.co/U4wInmhK8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984260534171271614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么社？ https://t.co/U4wInmhK8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 7491,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3751
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T06:24:20.000Z",
+        "description": "梗图号，随缘回fo（不会看成分，也不会单取），自用梯子 https://t.co/LPf9qwXHFD    ccp远离我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "singlinkvpn.com",
+                "end": 51,
+                "expanded_url": "https://www.singlinkvpn.com/",
+                "start": 28,
+                "url": "https://t.co/LPf9qwXHFD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@user362016133…",
+                "end": 23,
+                "expanded_url": "http://tiktok.com/@user36201613338222",
+                "start": 0,
+                "url": "https://t.co/ePTkAC0If6"
+              }
+            ]
+          }
+        },
+        "id": "1830129345899188224",
+        "location": "Taiwan",
+        "name": "小翌同學✨🎊🍟🍺🍿",
+        "pinned_tweet_id": "1953668164589695301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967397641278681089/XsYvtUL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 5729,
+          "like_count": 19650,
+          "listed_count": 9,
+          "media_count": 410,
+          "tweet_count": 5956
+        },
+        "url": "https://t.co/ePTkAC0If6",
+        "username": "xiaoyi198964",
+        "verified": false
+      }
+    ]
+  }
+}

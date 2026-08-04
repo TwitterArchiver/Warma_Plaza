@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2059386910645350615",
+    "created_at": "2026-05-27T10:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059580676387848296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043541321361600512",
+          "start": 0,
+          "username": "johndutton0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059580676387848296",
+    "in_reply_to_user_id": "2043541321361600512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059562738003943629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johndutton0412 没事的啦..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2059386910645350615",
+        "created_at": "2026-05-27T10:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059580676387848296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043541321361600512",
+              "start": 0,
+              "username": "johndutton0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059580676387848296",
+        "in_reply_to_user_id": "2043541321361600512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059562738003943629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johndutton0412 没事的啦..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043541321361600512",
+        "conversation_id": "2059386910645350615",
+        "created_at": "2026-05-27T09:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059562738003943629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059562738003943629",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059559657602208115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 这是什么新兴人类语言吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5070,
+          "following_count": 7500,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9708
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T04:06:52.000Z",
+        "description": "著名老色批（第12个号），Telegram：@walawala2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "walawala2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/johndutton0412",
+                "end": 23,
+                "expanded_url": "http://www.x.com/johndutton0412",
+                "start": 0,
+                "url": "https://t.co/MnA78I6RSe"
+              }
+            ]
+          }
+        },
+        "id": "2043541321361600512",
+        "location": "Electra Ave,Rowland Heights",
+        "name": "老槍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058279748200169473/H2rwkV4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 2232,
+          "like_count": 5183,
+          "listed_count": 7,
+          "media_count": 729,
+          "tweet_count": 6115
+        },
+        "url": "https://t.co/MnA78I6RSe",
+        "username": "johndutton0412",
+        "verified": true
+      }
+    ]
+  }
+}

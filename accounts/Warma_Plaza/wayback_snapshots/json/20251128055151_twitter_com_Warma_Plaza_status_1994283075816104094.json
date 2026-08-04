@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1993829762658390184",
+    "created_at": "2025-11-28T05:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994283075816104094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2215812295",
+          "start": 0,
+          "username": "NikolaTesla2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994283075816104094",
+    "in_reply_to_user_id": "2215812295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993829762658390184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikolaTesla2010 ヽ(＊｀Д´)ノ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_1993829754773082113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uBmSPakAEpROx.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1993829762658390184",
+        "created_at": "2025-11-28T05:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994283075816104094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2215812295",
+              "start": 0,
+              "username": "NikolaTesla2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994283075816104094",
+        "in_reply_to_user_id": "2215812295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993829762658390184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikolaTesla2010 ヽ(＊｀Д´)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993829754773082113"
+          ]
+        },
+        "author_id": "2215812295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993829762658390184",
+        "created_at": "2025-11-26T23:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993829762658390184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8lx4IK9gT",
+              "end": 34,
+              "expanded_url": "https://x.com/NikolaTesla2010/status/1993829762658390184/photo/1",
+              "media_key": "3_1993829754773082113",
+              "start": 11,
+              "url": "https://t.co/o8lx4IK9gT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993829762658390184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 723137,
+          "like_count": 2254,
+          "quote_count": 28,
+          "reply_count": 603,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "台灣人太惡劣了！可惡 https://t.co/o8lx4IK9gT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 7490,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 514,
+          "tweet_count": 4458
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-26T14:23:23.000Z",
+        "description": "呈現最真實，沒有濾鏡的寶島，讓世界看見台灣😁",
+        "id": "2215812295",
+        "location": "中國台灣省",
+        "name": "Tesla",
+        "pinned_tweet_id": "1993820329446383978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884785853194776576/U7JbZj26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15380,
+          "following_count": 3529,
+          "like_count": 94856,
+          "listed_count": 64,
+          "media_count": 10315,
+          "tweet_count": 23829
+        },
+        "username": "NikolaTesla2010",
+        "verified": true
+      }
+    ]
+  }
+}

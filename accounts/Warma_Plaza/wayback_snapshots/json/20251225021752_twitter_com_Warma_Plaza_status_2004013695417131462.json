@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2003765154778091645",
+    "created_at": "2025-12-25T02:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T03:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004013695417131462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "K7qWcfzcdAPW5Y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004013695417131462",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003765154778091645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K7qWcfzcdAPW5Y9 ᓀɞᓂ║"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3800,
+        "height": 640,
+        "media_key": "13_2003765051296014336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003765051296014336/img/jBPJuLxkN3xschwp.jpg",
+        "public_metrics": {
+          "view_count": 4375
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003765051296014336/vid/avc1/320x426/aFU1ibv9etEwkkop.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003765051296014336/vid/avc1/480x640/lK4DRQEbDg9tqxl2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003765051296014336/pl/7xB_Wl7OBmVgs9EM.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 111,
+        "media_key": "3_2003765141972627456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87Nx7yWsAAeva5.png",
+        "width": 523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2003765154778091645",
+        "created_at": "2025-12-25T02:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T03:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004013695417131462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "K7qWcfzcdAPW5Y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004013695417131462",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003765154778091645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K7qWcfzcdAPW5Y9 ᓀɞᓂ║"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003765051296014336",
+            "3_2003765141972627456"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2003765154778091645",
+        "created_at": "2025-12-24T09:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T10:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003765154778091645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKtLEkkZ0A",
+              "end": 150,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2003765154778091645/video/1",
+              "media_key": "13_2003765051296014336",
+              "start": 127,
+              "url": "https://t.co/yKtLEkkZ0A"
+            },
+            {
+              "display_url": "pic.x.com/yKtLEkkZ0A",
+              "end": 150,
+              "expanded_url": "https://x.com/K7qWcfzcdAPW5Y9/status/2003765154778091645/video/1",
+              "media_key": "3_2003765141972627456",
+              "start": 127,
+              "url": "https://t.co/yKtLEkkZ0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003765154778091645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13314,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，被人看不起的职业：\n\n医生：如果治不好，要被患者家属拿刀子捅。\n\n法官：小案看关系，中案看影响，大案看政治。\n\n城管：市井流氓，为非作歹。基本没什么好人，干的也都不是人事。\n\n程序员：码农，找不到工作，找不到女朋友，一个人呆在房间里慢慢变魔怔。 https://t.co/yKtLEkkZ0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4587,
+          "following_count": 7480,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 528,
+          "tweet_count": 5223
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "女，汉族，河南驻马店人，防失联请关注Telegram群：浪人新闻（极速版）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/eL54RSHsuy"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 110,
+          "like_count": 196,
+          "listed_count": 12,
+          "media_count": 132,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/eL54RSHsuy",
+        "username": "K7qWcfzcdAPW5Y9",
+        "verified": false
+      }
+    ]
+  }
+}

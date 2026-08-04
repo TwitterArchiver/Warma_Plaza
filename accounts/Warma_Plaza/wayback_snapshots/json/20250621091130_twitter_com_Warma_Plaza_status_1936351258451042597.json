@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936351255418347520"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1936351258451042597",
+    "created_at": "2025-06-21T09:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T10:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936351258451042597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHUzK5Tp8K",
+          "end": 183,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1936351258451042597/photo/1",
+          "media_key": "3_1936351255418347520",
+          "start": 160,
+          "url": "https://t.co/HHUzK5Tp8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936351258451042597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曾经，视窗系统是整个沃星的栋梁...(／_＼)\n可是不知从什么时候开始，为了“包罗万象”，故不得不加入大量冗余代码和特效，结果Bug横飞，口碑从7号的顶峰一路下滑至11号的“讨伐”...\n而某Soul团体也因大量“人员”涌入，导致了一种“混沌”局面...\n这里的“施工”亦如此，越深越复杂，进展越缓慢...\n该怎么办？ https://t.co/HHUzK5Tp8K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 82,
+        "media_key": "3_1936351255418347520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9NNSOXoAAPuJK.jpg",
+        "width": 257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936351255418347520"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1936351258451042597",
+        "created_at": "2025-06-21T09:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936351258451042597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHUzK5Tp8K",
+              "end": 183,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1936351258451042597/photo/1",
+              "media_key": "3_1936351255418347520",
+              "start": 160,
+              "url": "https://t.co/HHUzK5Tp8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936351258451042597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曾经，视窗系统是整个沃星的栋梁...(／_＼)\n可是不知从什么时候开始，为了“包罗万象”，故不得不加入大量冗余代码和特效，结果Bug横飞，口碑从7号的顶峰一路下滑至11号的“讨伐”...\n而某Soul团体也因大量“人员”涌入，导致了一种“混沌”局面...\n这里的“施工”亦如此，越深越复杂，进展越缓慢...\n该怎么办？ https://t.co/HHUzK5Tp8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3622,
+          "following_count": 7481,
+          "like_count": 620,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 1705
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

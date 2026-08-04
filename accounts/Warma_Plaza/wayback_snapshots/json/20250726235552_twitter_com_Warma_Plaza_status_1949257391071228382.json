@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1949001168249905231",
+    "created_at": "2025-07-26T23:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T00:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949257391071228382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860592153011060741",
+          "start": 0,
+          "username": "QwertyuiopsAsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949257391071228382",
+    "in_reply_to_user_id": "1860592153011060741",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949252961940742582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwertyuiopsAsS ( ﹡ˆoˆ﹡ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1949001168249905231",
+        "created_at": "2025-07-26T23:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T00:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949257391071228382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860592153011060741",
+              "start": 0,
+              "username": "QwertyuiopsAsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949257391071228382",
+        "in_reply_to_user_id": "1860592153011060741",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949252961940742582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwertyuiopsAsS ( ﹡ˆoˆ﹡ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860592153011060741",
+        "conversation_id": "1949001168249905231",
+        "created_at": "2025-07-26T23:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T00:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949252961940742582"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.6403,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949252961940742582",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949001168249905231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 恭喜🎊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 7490,
+          "like_count": 650,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 2190
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T07:52:01.000Z",
+        "description": "カンヒュが好きです\n絵を描くこと下手だと思います \n我的愿望是请让支黑和反ch的远离我\n主要日语，简体中文，繁體中文，沟通\n主要混ch，列強戦線，那兔，地政学、什么的",
+        "id": "1860592153011060741",
+        "name": "π円周率",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937850265363001344/fCuZkpaS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 49,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 39
+        },
+        "username": "QwertyuiopsAsS",
+        "verified": false
+      }
+    ]
+  }
+}

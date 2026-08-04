@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2032352565644370322",
+    "created_at": "2026-03-13T16:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032500338914402683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032500338914402683",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "ka",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032352565644370322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 ૮₍ ˶•‸•˶₎ა"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11100,
+        "height": 640,
+        "media_key": "13_2032352508815757313",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032352508815757313/img/btYJSQfU9sE4pMtw.jpg",
+        "public_metrics": {
+          "view_count": 30093
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032352508815757313/vid/avc1/320x562/SJ12wkO9Kz_TaJbo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032352508815757313/vid/avc1/364x640/s6QOgITKcYNcuFCn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032352508815757313/pl/_9--W8NZ1uPwrVI5.m3u8?v=cfc"
+          }
+        ],
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2032352565644370322",
+        "created_at": "2026-03-13T16:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032500338914402683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032500338914402683",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "ka",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032352565644370322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 ૮₍ ˶•‸•˶₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032352508815757313"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2032352565644370322",
+        "created_at": "2026-03-13T07:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T08:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032352565644370322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sm19p7VY8x",
+              "end": 54,
+              "expanded_url": "https://x.com/satireorcry1/status/2032352565644370322/video/1",
+              "media_key": "13_2032352508815757313",
+              "start": 31,
+              "url": "https://t.co/Sm19p7VY8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032352565644370322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 57532,
+          "like_count": 354,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "下一代共产主义接班人太优秀了！\n在大街上公开对习近平打飞机！ https://t.co/Sm19p7VY8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 7464,
+          "like_count": 672,
+          "listed_count": 8,
+          "media_count": 555,
+          "tweet_count": 6981
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2029873844672991616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14555,
+          "following_count": 1355,
+          "like_count": 8532,
+          "listed_count": 35,
+          "media_count": 1114,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

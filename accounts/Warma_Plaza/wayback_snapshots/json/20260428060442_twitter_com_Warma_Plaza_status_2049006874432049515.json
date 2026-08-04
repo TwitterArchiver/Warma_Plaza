@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2049005694683111720",
+    "created_at": "2026-04-28T06:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049006874432049515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049006874432049515",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049005694683111720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele (⁠╯⁠︵⁠╰⁠,⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 798458,
+        "height": 540,
+        "media_key": "13_2048666669661429760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048666669661429760/img/rbWn1gNySSuG1Ktu.jpg",
+        "public_metrics": {
+          "view_count": 193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048666669661429760/vid/avc1/480x270/cO_wKiLOKhtCu-zp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048666669661429760/vid/avc1/640x360/6rGxivVUMZPDejH2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048666669661429760/vid/avc1/960x540/4aPEJZgzXxPFnPJg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048666669661429760/pl/3JND-5k2OwQiVmU8.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 64933,
+        "height": 1920,
+        "media_key": "13_2048666669770506240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048666669770506240/img/O-o1l9GaorG7_T1S.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048666669770506240/vid/avc1/480x852/PCEuoFHrvsHxbNui.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048666669770506240/vid/avc1/320x568/QR6FOUKigbz-O5qx.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048666669770506240/vid/avc1/1080x1920/R-RIQZXS8H_F_I01.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048666669770506240/vid/avc1/720x1280/gaHWlV25AhVouOqv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048666669770506240/pl/aFkjRUj48FTWeqdx.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 794,
+        "media_key": "3_2048666681523027968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5TfhdbwAAJKOP.jpg",
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2049005694683111720",
+        "created_at": "2026-04-28T06:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049006874432049515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049006874432049515",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049005694683111720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele (⁠╯⁠︵⁠╰⁠,⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048666669661429760",
+            "13_2048666669770506240",
+            "3_2048666681523027968"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049005694683111720",
+        "created_at": "2026-04-28T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049005694683111720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uF5l1MztkM",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049005694683111720/video/1",
+              "media_key": "13_2048666669661429760",
+              "start": 106,
+              "url": "https://t.co/uF5l1MztkM"
+            },
+            {
+              "display_url": "pic.x.com/uF5l1MztkM",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049005694683111720/video/1",
+              "media_key": "13_2048666669770506240",
+              "start": 106,
+              "url": "https://t.co/uF5l1MztkM"
+            },
+            {
+              "display_url": "pic.x.com/uF5l1MztkM",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2049005694683111720/video/1",
+              "media_key": "3_2048666681523027968",
+              "start": 106,
+              "url": "https://t.co/uF5l1MztkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049005694683111720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "天津网约车司机两年发布上千条视频，控诉乘客投诉导致自己封号。\n 2024年10月15日，在天津开网约车的马先生接了一个八块钱的订单，一名姥姥带着外孙坐车，从上车起小男孩就一直哭闹不停，司机被吵得心烦，但也忍了。\n随后小孩突然把手伸向了车内的摄像头，马先生说了一句“别动我的东西”，小孩的姥姥当即表达不满，说司机当着她面威胁孩子。马先生不想多生事端，就这样沉默着开车。\n\n 一路上孩子姥姥对着司机喋喋不休了三四分钟，到达目的地后，孩子的妈妈来接他们了，姥姥一看有人给自己撑腰，直接刁难起了司机，赖在人家的车上不走了，并继续对着司机喋喋不休。\n\n 司机无奈报警，报警后警方确认司机没问题，等司机从派出所回家后，发现自己接单的账号被投诉后永久封禁。\n\n 从此五百多天马先生每天发同样的作品死磕，被网友戏称“顶级怨灵”，越来越多的人开始帮他转载发布。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1454,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天津网约车司机两年发布上千条视频，控诉乘客投诉导致自己封号。\n 2024年10月15日，在天津开网约车的马先生接了一个八块钱的订单，一名姥姥带着外孙坐车，从上车起小男孩就一直哭闹不停，司机被吵得心烦，但也忍了。 https://t.co/uF5l1MztkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 566,
+          "tweet_count": 8478
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210540,
+          "following_count": 1037,
+          "like_count": 9445,
+          "listed_count": 8683,
+          "media_count": 45890,
+          "tweet_count": 52977
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1980911029912731825",
+    "created_at": "2025-10-22T13:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T14:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980994759247450331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741798482267246592",
+          "start": 0,
+          "username": "Mogamigawa8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980994759247450331",
+    "in_reply_to_user_id": "1741798482267246592",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980911029912731825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mogamigawa8964 (๑•̌.•̑๑)ˀ̣ˀ̣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1980911014410346496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32cEoGWYAAa22a.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1980911029912731825",
+        "created_at": "2025-10-22T13:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980994759247450331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741798482267246592",
+              "start": 0,
+              "username": "Mogamigawa8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980994759247450331",
+        "in_reply_to_user_id": "1741798482267246592",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980911029912731825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mogamigawa8964 (๑•̌.•̑๑)ˀ̣ˀ̣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980911014410346496"
+          ]
+        },
+        "author_id": "1741798482267246592",
+        "conversation_id": "1980911029912731825",
+        "created_at": "2025-10-22T08:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980911029912731825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmeeeRZuzm",
+              "end": 33,
+              "expanded_url": "https://x.com/Mogamigawa8964/status/1980911029912731825/photo/1",
+              "media_key": "3_1980911014410346496",
+              "start": 10,
+              "url": "https://t.co/RmeeeRZuzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980911029912731825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还以为打开油管了😅 https://t.co/RmeeeRZuzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 7489,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 3473
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T12:29:13.000Z",
+        "description": "详见置顶推哦🤗\n看成分互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kyoto-be.ne.jp/higashiuji-hs/…",
+                "end": 23,
+                "expanded_url": "https://www.kyoto-be.ne.jp/higashiuji-hs/mt/",
+                "start": 0,
+                "url": "https://t.co/LUezxKmUdy"
+              }
+            ]
+          }
+        },
+        "id": "1741798482267246592",
+        "location": "北宇治高校吹奏楽部",
+        "name": "最上川葉月",
+        "pinned_tweet_id": "1951954202743226864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750012228248764416/yBToHS4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 3393,
+          "like_count": 20778,
+          "listed_count": 6,
+          "media_count": 1632,
+          "tweet_count": 7574
+        },
+        "url": "https://t.co/LUezxKmUdy",
+        "username": "Mogamigawa8964",
+        "verified": false
+      }
+    ]
+  }
+}

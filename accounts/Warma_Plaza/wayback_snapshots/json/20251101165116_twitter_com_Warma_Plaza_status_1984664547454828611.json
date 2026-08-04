@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984449824901525786",
+    "created_at": "2025-11-01T16:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984664547454828611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490670069877252101",
+          "start": 0,
+          "username": "Sww2080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984664547454828611",
+    "in_reply_to_user_id": "1490670069877252101",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984449824901525786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sww2080 (๑•॒̀ ູ॒•́๑)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984449824901525786",
+        "created_at": "2025-11-01T16:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984664547454828611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490670069877252101",
+              "start": 0,
+              "username": "Sww2080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984664547454828611",
+        "in_reply_to_user_id": "1490670069877252101",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984449824901525786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sww2080 (๑•॒̀ ູ॒•́๑)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490670069877252101",
+        "conversation_id": "1984449824901525786",
+        "created_at": "2025-11-01T02:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984449824901525786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984449824901525786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看粉红和反贼也是一对苦命鸳鸯啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4338,
+          "following_count": 7483,
+          "like_count": 682,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 3839
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T12:53:44.000Z",
+        "description": "粤/普/Eng\n安卓人民共和国\n奶龙公国移民",
+        "id": "1490670069877252101",
+        "location": "奶龙公国🟨🦖",
+        "name": "爱因S坦🇵🇸",
+        "pinned_tweet_id": "1715195016287752650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984294018679713795/TD6hWQeJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1590,
+          "like_count": 249877,
+          "listed_count": 17,
+          "media_count": 1241,
+          "tweet_count": 39998
+        },
+        "username": "Sww2080",
+        "verified": false
+      }
+    ]
+  }
+}

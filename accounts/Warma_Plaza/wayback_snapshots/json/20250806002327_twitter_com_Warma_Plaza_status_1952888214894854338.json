@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1952750057037734239",
+    "created_at": "2025-08-06T00:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T01:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952888214894854338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763037188164317184",
+          "start": 0,
+          "username": "juurihakenshin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952888214894854338",
+    "in_reply_to_user_id": "1763037188164317184",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952750057037734239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juurihakenshin (／_＼)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_1952750054210777088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmP1ARbsAAeJvh.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1952750057037734239",
+        "created_at": "2025-08-06T00:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T01:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952888214894854338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763037188164317184",
+              "start": 0,
+              "username": "juurihakenshin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952888214894854338",
+        "in_reply_to_user_id": "1763037188164317184",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952750057037734239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juurihakenshin (／_＼)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952750054210777088"
+          ]
+        },
+        "author_id": "1763037188164317184",
+        "conversation_id": "1952750057037734239",
+        "created_at": "2025-08-05T15:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T16:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952750057037734239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LUjP7ieUk",
+              "end": 96,
+              "expanded_url": "https://x.com/juurihakenshin/status/1952750057037734239/photo/1",
+              "media_key": "3_1952750054210777088",
+              "start": 73,
+              "url": "https://t.co/8LUjP7ieUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952750057037734239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3917,
+          "like_count": 57,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "避免我主号这次真的又死透了\n现在进入100%回fo互关状态\n在此推文下面回复和关注的账号我100%回关\n兄弟们帮忙转转推文帮我寻回推u吧，谢谢了 https://t.co/8LUjP7ieUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4034,
+          "following_count": 7488,
+          "like_count": 657,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 2295
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T03:03:51.000Z",
+        "description": "孩子们，这是我。\n一代：@Sho1919893 二代：@dahaoSho8931919 三代：@ShoBeiYong\n五代目尚未披露",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sho1919893"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "dahaoSho8931919"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "ShoBeiYong"
+              }
+            ]
+          }
+        },
+        "id": "1763037188164317184",
+        "name": "魈✟ 🇨🇦🇨🇳 仰卧起坐诈尸中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952750992749174785/sJo8b40A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 114,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 157
+        },
+        "username": "juurihakenshin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2015108171069788665",
+    "created_at": "2026-02-16T07:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023305768171372677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568722929411854337",
+          "start": 0,
+          "username": "htnmk2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023305768171372677",
+    "in_reply_to_user_id": "1568722929411854337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015108171069788665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@htnmk2007 s(・｀ヘ´・;)ゞ？\n(っ╥╯﹏╰╥c)！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 124900,
+        "height": 720,
+        "media_key": "13_2015108050735263744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015108050735263744/img/WfEZ4XL1pal2bLab.jpg",
+        "public_metrics": {
+          "view_count": 231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015108050735263744/vid/avc1/472x270/vrtUNp2_07mWMgb-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015108050735263744/vid/avc1/630x360/iWRMQSiu0jcBK_4i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015108050735263744/vid/avc1/1260x720/4jrMUgL3gc86BK4y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015108050735263744/pl/c6jCdqPfnIiNyZmE.m3u8"
+          }
+        ],
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2015108171069788665",
+        "created_at": "2026-02-16T07:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023305768171372677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568722929411854337",
+              "start": 0,
+              "username": "htnmk2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023305768171372677",
+        "in_reply_to_user_id": "1568722929411854337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015108171069788665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@htnmk2007 s(・｀ヘ´・;)ゞ？\n(っ╥╯﹏╰╥c)！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015108050735263744"
+          ]
+        },
+        "author_id": "1568722929411854337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2015108171069788665",
+        "created_at": "2026-01-24T17:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015108171069788665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "MyGO"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "千早愛音"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "願榮光歸香港"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "反送中"
+            },
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "光復香港時代革命"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEDpituZ1h",
+              "end": 85,
+              "expanded_url": "https://x.com/htnmk2007/status/2015108171069788665/video/1",
+              "media_key": "13_2015108050735263744",
+              "start": 62,
+              "url": "https://t.co/zEDpituZ1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015108171069788665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "願榮光歸香港Feat.千早愛音 #MyGO #BanGDream #千早愛音 #願榮光歸香港 #反送中 #光復香港時代革命 https://t.co/zEDpituZ1h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4739,
+          "following_count": 7492,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 540,
+          "tweet_count": 6313
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T22:07:54.000Z",
+        "description": "Meta把我的IG和脆炸了祖克柏cos福瑞習近平男娘賴清德考慮回去中華民國台派急獨華統主推： 民進黨、初音未來、Mygo、母雞卡、曉山瑞希、千早愛音、高松燈 、椎名立希、長崎素世、要樂奈 雷：國民黨（連之後）民眾黨 私は陸配二代 台灣獨立萬歲反對大中華遵循民進黨英派新潮流路線國民黨兩蔣路線堅持反共立場 最愛江澤民胡錦濤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC9vEY…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC9vEYet72sG0gF1uZqekGzQ?si=trbwrIcw-nP3oe9T",
+                "start": 0,
+                "url": "https://t.co/1gOk4eotlV"
+              }
+            ]
+          }
+        },
+        "id": "1568722929411854337",
+        "location": "英屬香港旺角/台灣共和國花蓮縣",
+        "name": "ミクちゃんの千早あのん 🏳️‍⚧️ 🇹🇼 🇯🇵",
+        "pinned_tweet_id": "2015108171069788665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019120091477286912/kWp--3OF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 369,
+          "like_count": 7880,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 2086
+        },
+        "url": "https://t.co/1gOk4eotlV",
+        "username": "htnmk2007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2038391500363706593",
+    "created_at": "2026-04-01T11:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039303585134211276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596887209835388928",
+          "start": 0,
+          "username": "Kuruolyuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039303585134211276",
+    "in_reply_to_user_id": "1596887209835388928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038391500363706593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuruolyuuki ╯▂╰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2038391500363706593",
+        "created_at": "2026-04-01T11:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039303585134211276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596887209835388928",
+              "start": 0,
+              "username": "Kuruolyuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039303585134211276",
+        "in_reply_to_user_id": "1596887209835388928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038391500363706593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuruolyuuki ╯▂╰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596887209835388928",
+        "conversation_id": "2038391500363706593",
+        "created_at": "2026-03-29T23:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038391500363706593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038391500363706593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 176003,
+          "like_count": 1668,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "有个人说，中南海的反义词是下北泽\n我特么呀笑崩溃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4910,
+          "following_count": 7495,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 557,
+          "tweet_count": 7246
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:22:45.000Z",
+        "description": "ちょっとした独り言と、好きなデザインと、私のかけら",
+        "id": "1596887209835388928",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Zeconky",
+        "pinned_tweet_id": "1935325553655169244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896281317945556992/GQLzpVr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3141,
+          "following_count": 434,
+          "like_count": 5339,
+          "listed_count": 4,
+          "media_count": 1601,
+          "tweet_count": 9991
+        },
+        "username": "Kuruolyuuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2011458127645081623",
+    "created_at": "2026-01-15T06:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T07:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011693826755477678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1940236928248627200",
+          "start": 0,
+          "username": "lirui8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011693826755477678",
+    "in_reply_to_user_id": "1940236928248627200",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011458127645081623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lirui8964 (;◓д◒`)‘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2011458120699252736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-oigOzakAAurKU.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2011458127645081623",
+        "created_at": "2026-01-15T06:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T07:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011693826755477678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1940236928248627200",
+              "start": 0,
+              "username": "lirui8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011693826755477678",
+        "in_reply_to_user_id": "1940236928248627200",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011458127645081623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lirui8964 (;◓д◒`)‘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011458120699252736"
+          ]
+        },
+        "author_id": "1940236928248627200",
+        "conversation_id": "2011458127645081623",
+        "created_at": "2026-01-14T15:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011458127645081623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rRq9MUOFNS",
+              "end": 28,
+              "expanded_url": "https://x.com/lirui8964/status/2011458127645081623/photo/1",
+              "media_key": "3_2011458120699252736",
+              "start": 5,
+              "url": "https://t.co/rRq9MUOFNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011458127645081623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8268,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这素谁？ https://t.co/rRq9MUOFNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4636,
+          "following_count": 7485,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 532,
+          "tweet_count": 5687
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-02T02:32:31.000Z",
+        "description": "过政治生活，做现代人/现代宪政民主/公民民族主义/公民抵抗/公共协商",
+        "id": "1940236928248627200",
+        "name": "荒诞主义者",
+        "pinned_tweet_id": "2000821342405570605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945265759304699904/g_0buqmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 870,
+          "like_count": 13131,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 3405
+        },
+        "username": "lirui8964",
+        "verified": false
+      }
+    ]
+  }
+}

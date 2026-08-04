@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1984342650699522118",
+    "created_at": "2025-11-01T06:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984507306609119435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490670069877252101",
+          "start": 0,
+          "username": "Sww2080"
+        },
+        {
+          "end": 20,
+          "id": "1658664482632253441",
+          "start": 9,
+          "username": "jujube8964"
+        },
+        {
+          "end": 33,
+          "id": "1944225210284314624",
+          "start": 21,
+          "username": "DongMing101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984507306609119435",
+    "in_reply_to_user_id": "1490670069877252101",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984457897401614831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sww2080 @jujube8964 @DongMing101 (▲ ( ︻ )▲)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1984342650699522118",
+        "created_at": "2025-11-01T06:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984507306609119435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490670069877252101",
+              "start": 0,
+              "username": "Sww2080"
+            },
+            {
+              "end": 20,
+              "id": "1658664482632253441",
+              "start": 9,
+              "username": "jujube8964"
+            },
+            {
+              "end": 33,
+              "id": "1944225210284314624",
+              "start": 21,
+              "username": "DongMing101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984507306609119435",
+        "in_reply_to_user_id": "1490670069877252101",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984457897401614831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sww2080 @jujube8964 @DongMing101 (▲ ( ︻ )▲)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490670069877252101",
+        "conversation_id": "1984342650699522118",
+        "created_at": "2025-11-01T03:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984457897401614831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            },
+            {
+              "end": 24,
+              "id": "1944225210284314624",
+              "start": 12,
+              "username": "DongMing101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984457897401614831",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984445446761431178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 @DongMing101 原来是他啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 7492,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3789
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T12:53:44.000Z",
+        "description": "粤/普/Eng\n安卓人民共和国\n奶龙公国移民",
+        "id": "1490670069877252101",
+        "location": "奶龙公国🟨🦖",
+        "name": "爱因S坦🇵🇸",
+        "pinned_tweet_id": "1715195016287752650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984294018679713795/TD6hWQeJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1588,
+          "like_count": 249800,
+          "listed_count": 17,
+          "media_count": 1237,
+          "tweet_count": 39960
+        },
+        "username": "Sww2080",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远             \n                我个人阳痿/风湿/前列腺炎/腰间盘突出        回fo私信立马回喵",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 644,
+          "like_count": 2162,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 3862
+        },
+        "username": "jujube8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特主义|包蜜|膜蛤|膜胡|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|三无号敢关注我一律block|粉红青鸟和极端支黑吃59式去别来烦我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu75Ih"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼🇹🇼",
+        "pinned_tweet_id": "1980272607804211253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984342729380544519/q4QN81zT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 294,
+          "like_count": 37033,
+          "listed_count": 8,
+          "media_count": 387,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/APOiQu75Ih",
+        "username": "DongMing101",
+        "verified": false
+      }
+    ]
+  }
+}

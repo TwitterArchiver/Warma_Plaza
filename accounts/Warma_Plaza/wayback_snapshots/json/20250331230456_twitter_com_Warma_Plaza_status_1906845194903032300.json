@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1906698004792496283",
+    "created_at": "2025-03-31T23:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T00:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906845194903032300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1678056194198609920",
+          "start": 0,
+          "username": "ZeroRsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906845194903032300",
+    "in_reply_to_user_id": "1678056194198609920",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906730633399091306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZeroRsc ●)o(●"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 507,
+        "media_key": "3_1906730631012446208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnYRaBfacAA8tLi.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1906698004792496283",
+        "created_at": "2025-03-31T23:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T00:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906845194903032300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1678056194198609920",
+              "start": 0,
+              "username": "ZeroRsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906845194903032300",
+        "in_reply_to_user_id": "1678056194198609920",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906730633399091306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZeroRsc ●)o(●"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906730631012446208"
+          ]
+        },
+        "author_id": "1678056194198609920",
+        "conversation_id": "1906698004792496283",
+        "created_at": "2025-03-31T15:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T16:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906730633399091306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAwO2sKB7x",
+              "end": 36,
+              "expanded_url": "https://x.com/ZeroRsc/status/1906730633399091306/photo/1",
+              "media_key": "3_1906730631012446208",
+              "start": 13,
+              "url": "https://t.co/TAwO2sKB7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906730633399091306",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906698004792496283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza https://t.co/TAwO2sKB7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3309,
+          "following_count": 7487,
+          "like_count": 561,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1211
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T14:59:30.000Z",
+        "description": "欢迎互fo，欢迎聊天",
+        "id": "1678056194198609920",
+        "location": "迷你世界",
+        "name": "澪",
+        "pinned_tweet_id": "1843099524711240055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898953432247255040/OAgBnmky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 211,
+          "like_count": 5227,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 950
+        },
+        "username": "ZeroRsc",
+        "verified": false
+      }
+    ]
+  }
+}

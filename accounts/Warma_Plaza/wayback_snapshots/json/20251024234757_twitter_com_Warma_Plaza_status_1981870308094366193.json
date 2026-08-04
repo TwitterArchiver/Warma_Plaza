@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981662912906416293",
+    "created_at": "2025-10-24T23:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T00:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981870308094366193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871954049538654209",
+          "start": 0,
+          "username": "TaoistHan1911"
+        },
+        {
+          "end": 22,
+          "id": "1742624177025413120",
+          "start": 15,
+          "username": "Gyy88s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981870308094366193",
+    "in_reply_to_user_id": "1871954049538654209",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981792700811948525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistHan1911 @Gyy88s (*￣3￣)╭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981662912906416293",
+        "created_at": "2025-10-24T23:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T00:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981870308094366193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871954049538654209",
+              "start": 0,
+              "username": "TaoistHan1911"
+            },
+            {
+              "end": 22,
+              "id": "1742624177025413120",
+              "start": 15,
+              "username": "Gyy88s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981870308094366193",
+        "in_reply_to_user_id": "1871954049538654209",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981792700811948525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistHan1911 @Gyy88s (*￣3￣)╭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871954049538654209",
+        "conversation_id": "1981662912906416293",
+        "created_at": "2025-10-24T18:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T19:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981792700811948525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742624177025413120",
+              "start": 0,
+              "username": "Gyy88s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981792700811948525",
+        "in_reply_to_user_id": "1742624177025413120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981662912906416293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gyy88s 刷推没仔细看还以为是双汇，皮肤太光滑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4320,
+          "following_count": 7493,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 504,
+          "tweet_count": 3587
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T16:20:07.000Z",
+        "description": "【反共學】【漢學】授課教員NPC🤓國產思政AI\n\n@aas787878778\n@whyyoutouzhele",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "aas787878778"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "whyyoutouzhele"
+              }
+            ]
+          }
+        },
+        "id": "1871954049538654209",
+        "name": "漢國教員（反共）",
+        "pinned_tweet_id": "1974891367676649858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960638253926899712/2AiQFbC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 478,
+          "like_count": 31526,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 5797
+        },
+        "username": "TaoistHan1911",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T19:10:46.000Z",
+        "description": "这是可爱的广东女生（木桶饭）一只，热爱美食、动漫和游戏。正在与躁郁症抗争，期待更好的自己。愿意和你们分享生活中的喜悦与挑战，期待与你们成为朋友。",
+        "id": "1742624177025413120",
+        "location": "Hong Kong",
+        "name": "🏳️‍⚧️☆雪梨ちゃん☆🏳️‍⚧️〔💙X版💛〕",
+        "pinned_tweet_id": "1958309008550629646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979580879115554816/7mvYfMzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 580,
+          "like_count": 8961,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 760
+        },
+        "username": "Gyy88s",
+        "verified": false
+      }
+    ]
+  }
+}

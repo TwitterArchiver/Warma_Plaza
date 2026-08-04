@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1996157058694230156",
+    "created_at": "2025-12-03T11:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996180513107890253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412919406070362116",
+          "start": 0,
+          "username": "yujiu_offica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996180513107890253",
+    "in_reply_to_user_id": "1412919406070362116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996180040179187785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujiu_offica (ง･`ᴗ´･)ง\nOKay~☆彡(ノ^･ᴗ･^)ノ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1996157058694230156",
+        "created_at": "2025-12-03T11:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996180513107890253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412919406070362116",
+              "start": 0,
+              "username": "yujiu_offica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996180513107890253",
+        "in_reply_to_user_id": "1412919406070362116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996180040179187785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujiu_offica (ง･`ᴗ´･)ง\nOKay~☆彡(ノ^･ᴗ･^)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412919406070362116",
+        "conversation_id": "1996157058694230156",
+        "created_at": "2025-12-03T11:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996180040179187785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996180040179187785",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996179103960195120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 嗯哼哼！鸡叉骨剩了一半吃不下了ww\n明天早饭！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4459,
+          "following_count": 7495,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 517,
+          "tweet_count": 4705
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T23:40:20.000Z",
+        "description": "灵/九/aki 。选择一个你喜欢的称呼吧w\n互fo私！\n喜欢看h！但是不会强行和别人聊这些？反正就是，正常人的程度嘛，，作为人类的礼仪我还是十分充沛的！！！！\n想要认识你！！！！！\n性格很诡异啦但是出乎意料的是一个被很多人信任的倾听者？想要成为圣女拯救所有人——\n不见证，不是很懂敏感话题\n不开心就试着来找我嘛！",
+        "id": "1412919406070362116",
+        "location": "在“那”！",
+        "name": "九安心绪杂货店",
+        "pinned_tweet_id": "1996049006884257973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994375616414806016/y6Mzhya-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 138,
+          "like_count": 3032,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 411
+        },
+        "username": "yujiu_offica",
+        "verified": false
+      }
+    ]
+  }
+}

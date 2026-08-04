@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1981937972942671999",
+    "created_at": "2025-10-25T04:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T05:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981948815029719337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "37452269",
+          "start": 0,
+          "username": "back_XiaoDiDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981948815029719337",
+    "in_reply_to_user_id": "37452269",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981937972942671999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@back_XiaoDiDi ( ｡-_-｡)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62266,
+        "height": 1280,
+        "media_key": "7_1981937920274534400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1981937920274534400/pu/img/oKaBG0PN2ozvvI9I.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981937920274534400/pu/vid/avc1/320x568/_osncLJk9HpEgZD-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981937920274534400/pu/vid/avc1/480x852/N7n5E3OpZX4g404e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1981937920274534400/pu/vid/avc1/720x1280/kNJS9w301iDmoqNd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1981937920274534400/pu/pl/WIay263aM--o17W7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1981937972942671999",
+        "created_at": "2025-10-25T04:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981948815029719337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "37452269",
+              "start": 0,
+              "username": "back_XiaoDiDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981948815029719337",
+        "in_reply_to_user_id": "37452269",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981937972942671999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@back_XiaoDiDi ( ｡-_-｡)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1981937920274534400"
+          ]
+        },
+        "author_id": "37452269",
+        "conversation_id": "1981937972942671999",
+        "created_at": "2025-10-25T04:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981937972942671999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V4z7nXUhtO",
+              "end": 71,
+              "expanded_url": "https://x.com/back_XiaoDiDi/status/1981937972942671999/video/1",
+              "media_key": "7_1981937920274534400",
+              "start": 48,
+              "url": "https://t.co/V4z7nXUhtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981937972942671999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1945年10月25日，日本对台湾长达半个世纪的侵占终结。\n\n台湾自古以来都是中国的神圣领土。 https://t.co/V4z7nXUhtO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 7493,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 504,
+          "tweet_count": 3617
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-03T16:57:39.000Z",
+        "description": "本主頁為《帝吧中央集團軍》小組官方Twitter。\n官微微博：@帝吧官微 \n\n投稿、互Fo可私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/7010131150",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/7010131150",
+                "start": 0,
+                "url": "https://t.co/koVX8zjW1b"
+              }
+            ]
+          }
+        },
+        "id": "37452269",
+        "location": "香港",
+        "name": "CHN_帝吧🇨🇳",
+        "pinned_tweet_id": "1460836223916802053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602304320166277120/BevyUBTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40050,
+          "following_count": 550,
+          "like_count": 3150,
+          "listed_count": 230,
+          "media_count": 1749,
+          "tweet_count": 4274
+        },
+        "url": "https://t.co/koVX8zjW1b",
+        "username": "back_XiaoDiDi",
+        "verified": true
+      }
+    ]
+  }
+}

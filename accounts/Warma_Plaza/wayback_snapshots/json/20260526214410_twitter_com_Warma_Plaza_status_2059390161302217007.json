@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2059169538508488914",
+    "created_at": "2026-05-26T21:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T22:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059390161302217007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557588973131730944",
+          "start": 0,
+          "username": "syeyeye_"
+        },
+        {
+          "end": 19,
+          "id": "1272930023926665216",
+          "start": 10,
+          "username": "JawenZhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059390161302217007",
+    "in_reply_to_user_id": "1557588973131730944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059387098759872809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syeyeye_ @JawenZhu (⁠づ⁠￣⁠ ⁠³⁠￣⁠)⁠づ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2059169538508488914",
+        "created_at": "2026-05-26T21:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059390161302217007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557588973131730944",
+              "start": 0,
+              "username": "syeyeye_"
+            },
+            {
+              "end": 19,
+              "id": "1272930023926665216",
+              "start": 10,
+              "username": "JawenZhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059390161302217007",
+        "in_reply_to_user_id": "1557588973131730944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059387098759872809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syeyeye_ @JawenZhu (⁠づ⁠￣⁠ ⁠³⁠￣⁠)⁠づ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557588973131730944",
+        "conversation_id": "2059169538508488914",
+        "created_at": "2026-05-26T21:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T22:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059387098759872809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 22,
+              "id": "1272930023926665216",
+              "start": 13,
+              "username": "JawenZhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059387098759872809",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059185022620549227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @JawenZhu (⁠｡⁠ŏ⁠﹏⁠ŏ⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5058,
+          "following_count": 7494,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9598
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T04:46:05.000Z",
+        "description": "淡推\n🚪50(仅限木曜日)",
+        "id": "1557588973131730944",
+        "location": "阴暗的角落(要来点蘑菇嘛)",
+        "name": "Sye𒂝",
+        "pinned_tweet_id": "1995864514294923709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042085118739935232/c-Gak-dW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 1078,
+          "like_count": 100382,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 953
+        },
+        "username": "syeyeye_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T16:32:36.000Z",
+        "description": "最爱@Masochiat 亲爱的@Zane_III_Ren 好同志@Aboubac68719912 死宅，左，反帝反修，支持LGBT。沒玩過東方正作云東方眾。不喜歡滯納笑话。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Masochiat"
+              },
+              {
+                "end": 29,
+                "start": 16,
+                "username": "Zane_III_Ren"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Aboubac68719912"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilipili.com",
+                "end": 23,
+                "expanded_url": "http://www.pilipili.com",
+                "start": 0,
+                "url": "https://t.co/wylUGcFYaG"
+              }
+            ]
+          }
+        },
+        "id": "1272930023926665216",
+        "location": "대한민국",
+        "name": "🌹Jawen🌹（淡推中）",
+        "pinned_tweet_id": "1910882349757444541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004503761163841536/XIqMmJl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4164,
+          "following_count": 2042,
+          "like_count": 75848,
+          "listed_count": 24,
+          "media_count": 1218,
+          "tweet_count": 23269
+        },
+        "url": "https://t.co/wylUGcFYaG",
+        "username": "JawenZhu",
+        "verified": false
+      }
+    ]
+  }
+}

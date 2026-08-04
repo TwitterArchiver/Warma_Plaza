@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1978781509872922768",
+    "created_at": "2025-10-16T11:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T12:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978781981652517123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412766713670635524",
+          "start": 0,
+          "username": "BoeingFontaine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978781981652517123",
+    "in_reply_to_user_id": "1412766713670635524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978781509872922768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoeingFontaine _(:3 ⌒ﾞ)_"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978781500490518528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YLSmjaEAAT5k6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978781500465405952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YLSmda4AANYnI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1978781509872922768",
+        "created_at": "2025-10-16T11:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978781981652517123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412766713670635524",
+              "start": 0,
+              "username": "BoeingFontaine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978781981652517123",
+        "in_reply_to_user_id": "1412766713670635524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978781509872922768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoeingFontaine _(:3 ⌒ﾞ)_"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978781500490518528",
+            "3_1978781500465405952"
+          ]
+        },
+        "author_id": "1412766713670635524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1978781509872922768",
+        "created_at": "2025-10-16T11:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978781509872922768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/si7iRSVFD4",
+              "end": 34,
+              "expanded_url": "https://x.com/BoeingFontaine/status/1978781509872922768/photo/1",
+              "media_key": "3_1978781500490518528",
+              "start": 11,
+              "url": "https://t.co/si7iRSVFD4"
+            },
+            {
+              "display_url": "pic.x.com/si7iRSVFD4",
+              "end": 34,
+              "expanded_url": "https://x.com/BoeingFontaine/status/1978781509872922768/photo/1",
+              "media_key": "3_1978781500465405952",
+              "start": 11,
+              "url": "https://t.co/si7iRSVFD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978781509872922768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摄入热量最美式的一集 https://t.co/si7iRSVFD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 7490,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 497,
+          "tweet_count": 3325
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T13:33:38.000Z",
+        "description": "波音商用飞机集团枫丹分公司",
+        "id": "1412766713670635524",
+        "location": "近地轨道 太空希尔顿酒店",
+        "name": "波音枫丹 @BoeingFontaine 🇺🇦",
+        "pinned_tweet_id": "1872504672558485581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837152827652853762/TS48JXL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 581,
+          "like_count": 70001,
+          "listed_count": 6,
+          "media_count": 2521,
+          "tweet_count": 11019
+        },
+        "username": "BoeingFontaine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2036439277891100761",
+    "created_at": "2026-03-24T13:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036439360132780114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "121272528",
+          "start": 0,
+          "username": "mikan_hamster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036439360132780114",
+    "in_reply_to_user_id": "121272528",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036439277891100761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikan_hamster (^_^)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2036439277891100761",
+        "created_at": "2026-03-24T13:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036439360132780114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "121272528",
+              "start": 0,
+              "username": "mikan_hamster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036439360132780114",
+        "in_reply_to_user_id": "121272528",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036439277891100761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikan_hamster (^_^)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "121272528",
+        "conversation_id": "2036439277891100761",
+        "created_at": "2026-03-24T13:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036439277891100761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "バカ仁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/oricon/status/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/oricon/status/2036393978569040233",
+              "start": 36,
+              "url": "https://t.co/QeaouyXZbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036439277891100761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036393978569040233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「言っちゃできないこと言ってないよね」いいえ、結構言いました😂#バカ仁 https://t.co/QeaouyXZbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4965,
+          "following_count": 7493,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 556,
+          "tweet_count": 7125
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-09T00:27:52.000Z",
+        "description": "中国出身\nニュージーランド在住\nゲイ🏳️‍🌈\n撮影垢\n日本語勉強中\n華やかな街を撮るのが好き📸 \n政治ネタはここではNG🙅🏻‍♂️\n現実で知らない人とネットバトルはスルーします〜",
+        "id": "121272528",
+        "location": "Ātaahua a Aotearoa",
+        "name": "みかんハムスター🍊🐹📸",
+        "pinned_tweet_id": "2034990413409657297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030624660090691584/hfhd3dnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 63,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "mikan_hamster",
+        "verified": false
+      }
+    ]
+  }
+}

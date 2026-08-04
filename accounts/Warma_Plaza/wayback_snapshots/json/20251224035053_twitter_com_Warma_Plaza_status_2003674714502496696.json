@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002671502681125308",
+    "created_at": "2025-12-24T03:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T04:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003674714502496696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "891874747",
+          "start": 0,
+          "username": "sorimking12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003674714502496696",
+    "in_reply_to_user_id": "891874747",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003424946433982528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sorimking12 ( ⚆ _ ⚆ )…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002671502681125308",
+        "created_at": "2025-12-24T03:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003674714502496696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "891874747",
+              "start": 0,
+              "username": "sorimking12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003674714502496696",
+        "in_reply_to_user_id": "891874747",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003424946433982528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorimking12 ( ⚆ _ ⚆ )…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "891874747",
+        "conversation_id": "2002671502681125308",
+        "created_at": "2025-12-23T11:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003424946433982528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003424946433982528",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002671502681125308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 🐷已互关，互帮算法推一推 🚀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 7490,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 527,
+          "tweet_count": 5189
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-19T21:22:58.000Z",
+        "description": "",
+        "id": "891874747",
+        "name": "석문(互fo)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2745597398/51090ae094c0af0993154d9f47a3fb3e_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 621,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 487
+        },
+        "username": "sorimking12",
+        "verified": false
+      }
+    ]
+  }
+}

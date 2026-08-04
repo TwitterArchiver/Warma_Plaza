@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1983044343071195506",
+    "created_at": "2025-10-29T02:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T03:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983357238111810002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830243987766255616",
+          "start": 0,
+          "username": "wynz220402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983357238111810002",
+    "in_reply_to_user_id": "1830243987766255616",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983170772983308562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wynz220402 (;。&gt;д＜)！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983170766658252806",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WjThOasAY30_C.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1983044343071195506",
+        "created_at": "2025-10-29T02:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T03:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983357238111810002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830243987766255616",
+              "start": 0,
+              "username": "wynz220402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983357238111810002",
+        "in_reply_to_user_id": "1830243987766255616",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983170772983308562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wynz220402 (;。&gt;д＜)！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983170766658252806"
+          ]
+        },
+        "author_id": "1830243987766255616",
+        "conversation_id": "1983044343071195506",
+        "created_at": "2025-10-28T13:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983170772983308562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1042458438444482560",
+              "start": 0,
+              "username": "XflJasmine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6TONgdFtI",
+              "end": 35,
+              "expanded_url": "https://x.com/wynz220402/status/1983170772983308562/photo/1",
+              "media_key": "3_1983170766658252806",
+              "start": 12,
+              "url": "https://t.co/N6TONgdFtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983170772983308562",
+        "in_reply_to_user_id": "1042458438444482560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983044343071195506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XflJasmine https://t.co/N6TONgdFtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 7485,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 507,
+          "tweet_count": 3733
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T13:59:16.000Z",
+        "description": "Yxm 136 4884 1813",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yyds58190gmail.com",
+                "end": 23,
+                "expanded_url": "http://yyds58190gmail.com",
+                "start": 0,
+                "url": "https://t.co/SY6aYX6Zgl"
+              }
+            ]
+          }
+        },
+        "id": "1830243987766255616",
+        "location": "栃木 関東地方",
+        "name": "君子藏器于身",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973813941236346880/Qor8NIQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 131,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/SY6aYX6Zgl",
+        "username": "wynz220402",
+        "verified": false
+      }
+    ]
+  }
+}

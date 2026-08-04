@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1976935807991599180",
+    "created_at": "2025-10-11T13:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976998113731830024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1559223020245331971",
+          "start": 0,
+          "username": "tiegang10086"
+        },
+        {
+          "end": 25,
+          "id": "791197",
+          "start": 14,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976998113731830024",
+    "in_reply_to_user_id": "1559223020245331971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976980423164281236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiegang10086 @bbcchinese 名言：人类都应该学会微积分的...( ´ﾟωﾟ)？\n所以，我恨人类...(ﾟ⊿ﾟ)ﾂ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1976935807991599180",
+        "created_at": "2025-10-11T13:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976998113731830024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1559223020245331971",
+              "start": 0,
+              "username": "tiegang10086"
+            },
+            {
+              "end": 25,
+              "id": "791197",
+              "start": 14,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976998113731830024",
+        "in_reply_to_user_id": "1559223020245331971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976980423164281236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiegang10086 @bbcchinese 名言：人类都应该学会微积分的...( ´ﾟωﾟ)？\n所以，我恨人类...(ﾟ⊿ﾟ)ﾂ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559223020245331971",
+        "conversation_id": "1976935807991599180",
+        "created_at": "2025-10-11T11:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976980423164281236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976980423164281236",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976935807991599180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 对不起我是傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288,
+          "following_count": 7491,
+          "like_count": 668,
+          "listed_count": 7,
+          "media_count": 495,
+          "tweet_count": 3228
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T16:58:41.000Z",
+        "description": "Love peace🌏 Love freedom❤️丨 支持台海「維持現狀」丨日本語勉強中🇯🇵丨FREEPALESTINE/無神論/東亞共同體🇨🇳🇯🇵🇰🇷/平權主義/民主自由/男女平等/反威權、霸權/自由平等博愛；附屬賬戶：@tiegang114514 丨發表的一切言論僅為自己看法，關注並轉發≠認可。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "tiegang114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tiegang114514",
+                "end": 23,
+                "expanded_url": "https://x.com/tiegang114514",
+                "start": 0,
+                "url": "https://t.co/5fMQ1vszYo"
+              }
+            ]
+          }
+        },
+        "id": "1559223020245331971",
+        "location": "理想鄉 Utopia🇺🇳",
+        "name": "漣絵樹羅EzraRan🇺🇦🇵🇸🇺🇳",
+        "pinned_tweet_id": "1968497576744984581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970506166284492802/Wyrey_UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1522,
+          "like_count": 7626,
+          "listed_count": 6,
+          "media_count": 511,
+          "tweet_count": 3423
+        },
+        "url": "https://t.co/5fMQ1vszYo",
+        "username": "tiegang10086",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5153466,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11843,
+          "media_count": 23957,
+          "tweet_count": 153982
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1982109592185434113"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1982109593405956541",
+    "created_at": "2025-10-25T15:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T16:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982109593405956541"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982109593405956541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2023.2.26 0时-2025.10.26 0时...\n唉...请问我是否需要去除ID和昵称中的“Warma”字样...？﹆(•ˇ‸ˇ•﹆)\n同意请投支持票或回复Yes；反之则投反对票或回复No，也烦请说明具体缘由...(‖。△°)\n啊啊啊啊啊啊啊ε=ε=ε=ε=(;。&gt;д＜)"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1470,
+        "end_datetime": "2025-10-26T16:08:47.000Z",
+        "id": "1982109592185434113",
+        "options": [
+          {
+            "label": "支持（Yes）",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "反对（No，或评论说明理由）",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1982109592185434113"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1982109593405956541",
+        "created_at": "2025-10-25T15:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982109593405956541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982109593405956541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2023.2.26 0时-2025.10.26 0时...\n唉...请问我是否需要去除ID和昵称中的“Warma”字样...？﹆(•ˇ‸ˇ•﹆)\n同意请投支持票或回复Yes；反之则投反对票或回复No，也烦请说明具体缘由...(‖。△°)\n啊啊啊啊啊啊啊ε=ε=ε=ε=(;。&gt;д＜)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4322,
+          "following_count": 7493,
+          "like_count": 676,
+          "listed_count": 7,
+          "media_count": 505,
+          "tweet_count": 3675
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

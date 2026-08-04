@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1976927695721447898",
+    "created_at": "2025-10-11T11:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T12:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976977254073995336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808047925676986368",
+          "start": 0,
+          "username": "xxx_zzx71446"
+        },
+        {
+          "end": 28,
+          "id": "1891475481238904832",
+          "start": 14,
+          "username": "ElberethXVIII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976977254073995336",
+    "in_reply_to_user_id": "1808047925676986368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976977075182747758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_zzx71446 @ElberethXVIII Σ( ° △ °|||)︴"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1976977075182747758].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1976977075182747758",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1976977075182747758"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1976927695721447898",
+        "created_at": "2025-10-11T11:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976977254073995336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808047925676986368",
+              "start": 0,
+              "username": "xxx_zzx71446"
+            },
+            {
+              "end": 28,
+              "id": "1891475481238904832",
+              "start": 14,
+              "username": "ElberethXVIII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976977254073995336",
+        "in_reply_to_user_id": "1808047925676986368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976977075182747758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_zzx71446 @ElberethXVIII Σ( ° △ °|||)︴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288,
+          "following_count": 7488,
+          "like_count": 668,
+          "listed_count": 7,
+          "media_count": 495,
+          "tweet_count": 3194
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "",
+        "id": "1808047925676986368",
+        "location": "Kinmen County, Taiwan",
+        "name": "8̴̫̒0̵̞͠3̵͙͂5̶̢̍0̷͙̍9̶͔͗9̶̅ͅ6̸͖͛𓋹𓇳𓆣",
+        "pinned_tweet_id": "1944555453855551750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924768965156282368/29gInSfo_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 380,
+          "like_count": 8726,
+          "listed_count": 2,
+          "media_count": 1215,
+          "tweet_count": 10218
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T13:11:19.000Z",
+        "description": "ᴀʀᴏ. ᴀᴄᴇ. ᴀɢᴇɴᴅᴇʀ. (っ◔◡◔)っ最好的薇妮姐姐~@QingY82778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "QingY82778"
+              }
+            ]
+          }
+        },
+        "id": "1891475481238904832",
+        "name": "不稱職的二次元",
+        "pinned_tweet_id": "1976963241197945028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976943115438354432/7lRfUMU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 360,
+          "like_count": 2532,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2133
+        },
+        "username": "ElberethXVIII",
+        "verified": false
+      }
+    ]
+  }
+}

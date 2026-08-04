@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1991864395560034773",
+    "created_at": "2025-12-01T10:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T11:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995440139313828348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821183623460257792",
+          "start": 0,
+          "username": "SamuelLiu544544"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995440139313828348",
+    "in_reply_to_user_id": "1821183623460257792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991864395560034773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamuelLiu544544 ╰(⇀‸↼)╯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10633,
+        "height": 1280,
+        "media_key": "13_1991863737687650304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991863737687650304/img/ABEnEGsG32t9hX-d.jpg",
+        "public_metrics": {
+          "view_count": 41098
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/vid/avc1/320x568/G4R3dXh7hepeH3Oi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/vid/avc1/480x852/TlEb9kSaKi4sa4vK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/vid/avc1/720x1280/zb0hK2ZCd6u3jERq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/pl/bzfW6srxn_yY3Xae.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1991864395560034773",
+        "created_at": "2025-12-01T10:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T11:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995440139313828348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821183623460257792",
+              "start": 0,
+              "username": "SamuelLiu544544"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995440139313828348",
+        "in_reply_to_user_id": "1821183623460257792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991864395560034773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamuelLiu544544 ╰(⇀‸↼)╯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991863737687650304"
+          ]
+        },
+        "author_id": "1821183623460257792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "1991864395560034773",
+        "created_at": "2025-11-21T13:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991864395560034773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4yKFwzrDC",
+              "end": 71,
+              "expanded_url": "https://x.com/SamuelLiu544544/status/1991864395560034773/video/1",
+              "media_key": "13_1991863737687650304",
+              "start": 48,
+              "url": "https://t.co/O4yKFwzrDC"
+            },
+            {
+              "display_url": "x.com/daihonyaku/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/daihonyaku/status/1991826613676437988",
+              "start": 72,
+              "url": "https://t.co/Xxu00rB3dX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991864395560034773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 168919,
+          "like_count": 38,
+          "quote_count": 69,
+          "reply_count": 210,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991826613676437988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😜，让某些日本狗失望了，今晚上吃大米饭搭配土豆鸡蛋汤+西红柿黄瓜炒鸡蛋，以及饭后水果两颗橙子。 https://t.co/O4yKFwzrDC https://t.co/Xxu00rB3dX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 7495,
+          "like_count": 681,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 4612
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T13:56:40.000Z",
+        "description": "A person who supports Taiwan’s military reunification, a young man born in the 1990s, a Chinese nationalist, a peace-loving person who refutes all Chinese rumor",
+        "id": "1821183623460257792",
+        "location": "中国山东",
+        "name": "Samuel Liu🇨🇳(刘)",
+        "pinned_tweet_id": "1842458726420431263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821190458602594304/SOHCe9zO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 129,
+          "like_count": 3683,
+          "listed_count": 11,
+          "media_count": 1327,
+          "tweet_count": 3540
+        },
+        "username": "SamuelLiu544544",
+        "verified": false
+      }
+    ]
+  }
+}

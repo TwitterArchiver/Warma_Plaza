@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2022874666617168127",
+    "created_at": "2026-02-16T10:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023343440713630052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874297169592934401",
+          "start": 0,
+          "username": "EdenSongSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023343440713630052",
+    "in_reply_to_user_id": "1874297169592934401",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022874666617168127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EdenSongSG ( ๑ŏ ﹏ ŏ๑ )"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1210,
+        "media_key": "3_2022874644714496000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKxxY9aIAADlgk.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2022874666617168127",
+        "created_at": "2026-02-16T10:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023343440713630052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874297169592934401",
+              "start": 0,
+              "username": "EdenSongSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023343440713630052",
+        "in_reply_to_user_id": "1874297169592934401",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022874666617168127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EdenSongSG ( ๑ŏ ﹏ ŏ๑ )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022874644714496000"
+          ]
+        },
+        "author_id": "1874297169592934401",
+        "conversation_id": "2022874666617168127",
+        "created_at": "2026-02-15T03:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022874666617168127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MDDExgCyb",
+              "end": 38,
+              "expanded_url": "https://x.com/EdenSongSG/status/2022874666617168127/photo/1",
+              "media_key": "3_2022874644714496000",
+              "start": 15,
+              "url": "https://t.co/6MDDExgCyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022874666617168127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 52812,
+          "like_count": 288,
+          "quote_count": 7,
+          "reply_count": 48,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "用这种头像的家里还有活人吗？ https://t.co/6MDDExgCyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4741,
+          "following_count": 7493,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 540,
+          "tweet_count": 6329
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T03:31:01.000Z",
+        "description": "全网最尊重邱少云的博主，全网最支持以色列的博主，乌克兰武装力量的捐赠者",
+        "id": "1874297169592934401",
+        "name": "习迈手爱人民🇨🇳（炭烤邱少云）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940300797478076422/-0LjAQ2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 364,
+          "like_count": 5422,
+          "listed_count": 13,
+          "media_count": 330,
+          "tweet_count": 3348
+        },
+        "username": "EdenSongSG",
+        "verified": false
+      }
+    ]
+  }
+}

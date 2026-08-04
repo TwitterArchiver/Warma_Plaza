@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974123227745329152"
+      ]
+    },
+    "author_id": "1628965541057642496",
+    "conversation_id": "1974123237819973699",
+    "created_at": "2025-10-03T14:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T15:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974123237819973699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1YEXJftM47",
+          "end": 180,
+          "expanded_url": "https://x.com/Warma_Plaza/status/1974123237819973699/photo/1",
+          "media_key": "3_1974123227745329152",
+          "start": 157,
+          "url": "https://t.co/1YEXJftM47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974123237819973699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "秋雨绵绵，当阴霾与雨水散去后，新一天的太阳仍然从地平线上悄然的升起~(灬´ ˘ `灬).。\n长假你们可能在家/归家，也可能坐上高铁飞机去向那未知的远方，那里也许是海岸边的沙滩，是一望无际的草原，是西部的戈壁，是繁华而又陌生的大都市...٩(^ᴗ^)۶\n无论如何，祝你们假期幸福安康啦~๑´ ³`)ノ\n(图源AI) https://t.co/1YEXJftM47"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI随手画的，望不要介意",
+        "height": 736,
+        "media_key": "3_1974123227745329152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2V-ncSboAAKp_o.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974123227745329152"
+          ]
+        },
+        "author_id": "1628965541057642496",
+        "conversation_id": "1974123237819973699",
+        "created_at": "2025-10-03T14:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974123237819973699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YEXJftM47",
+              "end": 180,
+              "expanded_url": "https://x.com/Warma_Plaza/status/1974123237819973699/photo/1",
+              "media_key": "3_1974123227745329152",
+              "start": 157,
+              "url": "https://t.co/1YEXJftM47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974123237819973699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "秋雨绵绵，当阴霾与雨水散去后，新一天的太阳仍然从地平线上悄然的升起~(灬´ ˘ `灬).。\n长假你们可能在家/归家，也可能坐上高铁飞机去向那未知的远方，那里也许是海岸边的沙滩，是一望无际的草原，是西部的戈壁，是繁华而又陌生的大都市...٩(^ᴗ^)۶\n无论如何，祝你们假期幸福安康啦~๑´ ³`)ノ\n(图源AI) https://t.co/1YEXJftM47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 7494,
+          "like_count": 666,
+          "listed_count": 7,
+          "media_count": 491,
+          "tweet_count": 2966
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      }
+    ]
+  }
+}

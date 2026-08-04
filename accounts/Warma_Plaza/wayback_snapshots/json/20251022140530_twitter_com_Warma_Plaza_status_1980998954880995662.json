@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1980953780385652851",
+    "created_at": "2025-10-22T14:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T15:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980998954880995662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1639861465183322117",
+          "start": 0,
+          "username": "Chromeedgeonion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980998954880995662",
+    "in_reply_to_user_id": "1639861465183322117",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980953780385652851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chromeedgeonion &lt;(。_。)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 973,
+        "media_key": "3_1980697193150382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zZml1XgAAaT7b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1980953780385652851",
+        "created_at": "2025-10-22T14:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980998954880995662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1639861465183322117",
+              "start": 0,
+              "username": "Chromeedgeonion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980998954880995662",
+        "in_reply_to_user_id": "1639861465183322117",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980953780385652851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chromeedgeonion &lt;(。_。)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980697193150382080"
+          ]
+        },
+        "author_id": "1639861465183322117",
+        "conversation_id": "1980953780385652851",
+        "created_at": "2025-10-22T11:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980953780385652851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2SGpLAjdMq",
+              "end": 47,
+              "expanded_url": "https://x.com/Chromeedgeonion/status/1980953780385652851/photo/1",
+              "media_key": "3_1980697193150382080",
+              "start": 24,
+              "url": "https://t.co/2SGpLAjdMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980953780385652851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉同志们一个好消息！资本主义夹着尾巴逃跑啦！ https://t.co/2SGpLAjdMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 7492,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 499,
+          "tweet_count": 3481
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T05:27:03.000Z",
+        "description": "自由民主\n普世价值\n个人权利与自由\n\ndiscord群组 https://t.co/FdmCkhpZyK\n\n朋友@Nyarsalt @Someone2077 @Algernon_114514 @aomimiao152",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Nyarsalt"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Someone2077"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Algernon_114514"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "aomimiao152"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/AWZCHHDGd",
+                "end": 52,
+                "expanded_url": "https://discord.gg/AWZCHHDGd",
+                "start": 29,
+                "url": "https://t.co/FdmCkhpZyK"
+              }
+            ]
+          }
+        },
+        "id": "1639861465183322117",
+        "name": "Gmail",
+        "pinned_tweet_id": "1976993160581857476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969315700314685440/bo5VKQdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 259,
+          "like_count": 2209,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1165
+        },
+        "username": "Chromeedgeonion",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002260668733677829",
+    "created_at": "2025-12-20T09:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T10:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002305788291735582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1632071315938213889",
+          "start": 0,
+          "username": "ZZYtheReformist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002305788291735582",
+    "in_reply_to_user_id": "1632071315938213889",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002260668733677829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZZYtheReformist (      ͒•∘• ͒)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2002260668733677829].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2002260668733677829",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2002260668733677829"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002260668733677829",
+        "created_at": "2025-12-20T09:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002305788291735582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1632071315938213889",
+              "start": 0,
+              "username": "ZZYtheReformist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002305788291735582",
+        "in_reply_to_user_id": "1632071315938213889",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002260668733677829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZZYtheReformist (      ͒•∘• ͒)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4531,
+          "following_count": 7496,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 4985
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T17:31:51.000Z",
+        "description": "赵紫阳（1919年10月17日—2005年1月17日），原名赵修业，河南滑县人，中国共产党和中华人民共和国政治人物，原正国级领导人，曾任中华人民共和国国务院总理、中国共产党中央总书记。",
+        "id": "1632071315938213889",
+        "location": "胡耀邦的卧室",
+        "name": "赵紫阳-official",
+        "pinned_tweet_id": "1979624993580535895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997589238804807680/QoluTDYt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 251,
+          "like_count": 5412,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 318
+        },
+        "username": "ZZYtheReformist",
+        "verified": false
+      }
+    ]
+  }
+}

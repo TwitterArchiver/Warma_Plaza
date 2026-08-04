@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2028839203304550827",
+    "created_at": "2026-03-04T23:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T00:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029339806027923628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2006031430120562688",
+          "start": 0,
+          "username": "alsbushiALS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029339806027923628",
+    "in_reply_to_user_id": "2006031430120562688",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029245884853305598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alsbushiALS ⦁֊⦁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2028839203304550827",
+        "created_at": "2026-03-04T23:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T00:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029339806027923628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006031430120562688",
+              "start": 0,
+              "username": "alsbushiALS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029339806027923628",
+        "in_reply_to_user_id": "2006031430120562688",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029245884853305598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alsbushiALS ⦁֊⦁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006031430120562688",
+        "conversation_id": "2028839203304550827",
+        "created_at": "2026-03-04T17:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029245884853305598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029245884853305598",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028839203304550827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 吃Warma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 7492,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 553,
+          "tweet_count": 6745
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T15:55:52.000Z",
+        "description": "大家好我叫爱丽丝，目前18岁\n目前云南大专不登校，对于动漫和游戏较感兴趣\n接触的圈子也不少（）\n包括但不限于\n钢铁雄心4，魔法少女的魔女审判，蔚蓝档案，pjsk，卡兹，JOJO...以及更多——这里就不一一列出啦～\n是个coser，日常会做点ps和打游戏，以及进行别的什么的\n欢迎互fo哦",
+        "id": "2006031430120562688",
+        "name": "爱丽丝🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006031492422750208/WZ63ZLsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 39,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 105
+        },
+        "username": "alsbushiALS",
+        "verified": false
+      }
+    ]
+  }
+}

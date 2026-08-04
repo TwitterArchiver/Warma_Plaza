@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1976966015834857595",
+    "created_at": "2025-10-13T09:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T10:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977667745170014377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975178922095775744",
+          "start": 0,
+          "username": "twiays114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977667745170014377",
+    "in_reply_to_user_id": "1975178922095775744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977637644927668543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twiays114514 _(:3 ⌒ﾞ)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1976966015834857595",
+        "created_at": "2025-10-13T09:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977667745170014377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975178922095775744",
+              "start": 0,
+              "username": "twiays114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977667745170014377",
+        "in_reply_to_user_id": "1975178922095775744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977637644927668543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twiays114514 _(:3 ⌒ﾞ)_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975178922095775744",
+        "conversation_id": "1976966015834857595",
+        "created_at": "2025-10-13T07:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977637644927668543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 26,
+              "id": "1559223020245331971",
+              "start": 13,
+              "username": "tiegang10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977637644927668543",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976976613427626093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @tiegang10086 乁⁠|⁠ ⁠･⁠ ⁠〰⁠ ⁠･⁠ ⁠|⁠ㄏ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4296,
+          "following_count": 7485,
+          "like_count": 671,
+          "listed_count": 7,
+          "media_count": 496,
+          "tweet_count": 3289
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T12:39:10.000Z",
+        "description": "捧起一束花\n向你所在的方向抛去\n月光照亮了你的背影\n我也因喜悦而哭泣\n千百腾挪，辗转反侧\n以爱恋之心祈愿相遇\n我所深信不疑的奇迹",
+        "id": "1975178922095775744",
+        "name": "爱恋的厄洛斯",
+        "pinned_tweet_id": "1977295118970532092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977053380469256192/n5OHOub4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 75,
+          "like_count": 1829,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 414
+        },
+        "username": "twiays114514",
+        "verified": false
+      }
+    ]
+  }
+}

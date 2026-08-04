@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1945028759406391733",
+    "created_at": "2025-07-16T12:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T13:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945454269403918393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922655799626936320",
+          "start": 0,
+          "username": "ZhangXianZhon9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945454269403918393",
+    "in_reply_to_user_id": "1922655799626936320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945187426072191376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhangXianZhon9 ｢(ﾟﾍﾟ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1945028759406391733",
+        "created_at": "2025-07-16T12:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945454269403918393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922655799626936320",
+              "start": 0,
+              "username": "ZhangXianZhon9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945454269403918393",
+        "in_reply_to_user_id": "1922655799626936320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945187426072191376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhangXianZhon9 ｢(ﾟﾍﾟ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922655799626936320",
+        "conversation_id": "1945028759406391733",
+        "created_at": "2025-07-15T18:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T19:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945187426072191376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945187426072191376",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5609,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945028759406391733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 香港支那，一边一国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3763,
+          "following_count": 7488,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 2027
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T14:10:48.000Z",
+        "description": "",
+        "id": "1922655799626936320",
+        "name": "ZhangXianZhon9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922656419737726976/xmVDo3Jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 31,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 367
+        },
+        "username": "ZhangXianZhon9",
+        "verified": false
+      }
+    ]
+  }
+}

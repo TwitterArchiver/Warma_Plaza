@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2060210300146831442",
+    "created_at": "2026-05-29T10:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060306434102038634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813786364930064384",
+          "start": 0,
+          "username": "zhngxny48875771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060306434102038634",
+    "in_reply_to_user_id": "1813786364930064384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060210300146831442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxny48875771 抱抱~(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2060210300146831442",
+        "created_at": "2026-05-29T10:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060306434102038634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813786364930064384",
+              "start": 0,
+              "username": "zhngxny48875771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060306434102038634",
+        "in_reply_to_user_id": "1813786364930064384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060210300146831442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxny48875771 抱抱~(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813786364930064384",
+        "conversation_id": "2060210300146831442",
+        "created_at": "2026-05-29T04:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060210300146831442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060210300146831442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1148,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5097,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 571,
+          "tweet_count": 9954
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T04:02:31.000Z",
+        "description": "抑郁症，双相，焦虑，精神分裂的小猫女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nzl.com",
+                "end": 23,
+                "expanded_url": "http://nzl.com",
+                "start": 0,
+                "url": "https://t.co/sHwAlSJT0v"
+              }
+            ]
+          }
+        },
+        "id": "1813786364930064384",
+        "location": "泰拉大陸",
+        "name": "猫呼吸",
+        "pinned_tweet_id": "2057463128204685720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058989933973704704/c5TzSLTk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 140,
+          "like_count": 9134,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 1001
+        },
+        "url": "https://t.co/sHwAlSJT0v",
+        "username": "zhngxny48875771",
+        "verified": false
+      }
+    ]
+  }
+}

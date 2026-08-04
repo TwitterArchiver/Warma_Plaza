@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1943282625801785527",
+    "created_at": "2025-07-10T12:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T13:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943282797151686989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1567505290026958848",
+          "start": 0,
+          "username": "woshiami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943282797151686989",
+    "in_reply_to_user_id": "1567505290026958848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943282625801785527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshiami s(・｀ヘ´・;)ゞ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1943282625801785527",
+        "created_at": "2025-07-10T12:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943282797151686989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1567505290026958848",
+              "start": 0,
+              "username": "woshiami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943282797151686989",
+        "in_reply_to_user_id": "1567505290026958848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943282625801785527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiami s(・｀ヘ´・;)ゞ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567505290026958848",
+        "conversation_id": "1943282625801785527",
+        "created_at": "2025-07-10T12:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T13:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943282625801785527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943282625801785527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暑假工好难找，很多平台上超多骗子的说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3719,
+          "following_count": 7487,
+          "like_count": 636,
+          "listed_count": 4,
+          "media_count": 443,
+          "tweet_count": 1958
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T13:29:57.000Z",
+        "description": "客服小祥,随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/gIDDzD0fPR"
+              }
+            ]
+          }
+        },
+        "id": "1567505290026958848",
+        "location": "距您2.8km",
+        "name": "阿mi",
+        "pinned_tweet_id": "1876099002103746722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887872470319022080/E1KjNWh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12620,
+          "following_count": 2176,
+          "like_count": 80904,
+          "listed_count": 13,
+          "media_count": 1071,
+          "tweet_count": 6056
+        },
+        "url": "https://t.co/gIDDzD0fPR",
+        "username": "woshiami",
+        "verified": false
+      }
+    ]
+  }
+}

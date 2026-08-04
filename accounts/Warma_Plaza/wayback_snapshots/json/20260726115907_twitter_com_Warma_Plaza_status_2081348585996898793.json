@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2081344591081431272",
+    "created_at": "2026-07-26T11:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081348585996898793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775149090881560580",
+          "start": 0,
+          "username": "LemonCandy_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081348585996898793",
+    "in_reply_to_user_id": "1775149090881560580",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081344591081431272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonCandy_OvO ಠ⁠ ͜⁠ʖ⁠ ⁠ಠ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2081344550677684224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJr12ZWoAAcera.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2055,
+        "media_key": "3_2081344564325982208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJr2pPXIAAVWgZ.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2055,
+        "media_key": "3_2081344579861725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJr3jHXwAAqgrP.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2081344591081431272",
+        "created_at": "2026-07-26T11:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081348585996898793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775149090881560580",
+              "start": 0,
+              "username": "LemonCandy_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081348585996898793",
+        "in_reply_to_user_id": "1775149090881560580",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081344591081431272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonCandy_OvO ಠ⁠ ͜⁠ʖ⁠ ⁠ಠ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081344550677684224",
+            "3_2081344564325982208",
+            "3_2081344579861725184"
+          ]
+        },
+        "author_id": "1775149090881560580",
+        "conversation_id": "2081344591081431272",
+        "created_at": "2026-07-26T11:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081344591081431272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POiQMksLWC",
+              "end": 39,
+              "expanded_url": "https://x.com/LemonCandy_OvO/status/2081344591081431272/photo/1",
+              "media_key": "3_2081344550677684224",
+              "start": 16,
+              "url": "https://t.co/POiQMksLWC"
+            },
+            {
+              "display_url": "pic.x.com/POiQMksLWC",
+              "end": 39,
+              "expanded_url": "https://x.com/LemonCandy_OvO/status/2081344591081431272/photo/1",
+              "media_key": "3_2081344564325982208",
+              "start": 16,
+              "url": "https://t.co/POiQMksLWC"
+            },
+            {
+              "display_url": "pic.x.com/POiQMksLWC",
+              "end": 39,
+              "expanded_url": "https://x.com/LemonCandy_OvO/status/2081344591081431272/photo/1",
+              "media_key": "3_2081344579861725184",
+              "start": 16,
+              "url": "https://t.co/POiQMksLWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081344591081431272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎各位加入本喵的群，很好玩的 https://t.co/POiQMksLWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5398,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 11764
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T13:12:09.000Z",
+        "description": "09年/无业/单身/无证含糖mtf/高度近视/身高180/🚪30(同类免费)/pvz/mc/术力口/JK制服/喵斯，浮木已逝 qq:2198461644(需要过门槛) 老保们最严厉的母亲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2027182697",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/2027182697",
+                "start": 0,
+                "url": "https://t.co/0qAMIXgYtl"
+              }
+            ]
+          }
+        },
+        "id": "1775149090881560580",
+        "location": "鱼板游戏",
+        "name": "柠檬味软糖_XYN喵🏳️‍⚧️🍥🍬🍭🎀",
+        "pinned_tweet_id": "2072684570021863750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074116137294467072/NHAXk5gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 584,
+          "like_count": 413,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/0qAMIXgYtl",
+        "username": "LemonCandy_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

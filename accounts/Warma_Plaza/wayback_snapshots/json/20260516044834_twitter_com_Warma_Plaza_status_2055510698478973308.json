@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2055503258706411622",
+    "created_at": "2026-05-16T04:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055510698478973308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1218062013173157891",
+          "start": 0,
+          "username": "NengJia5cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055510698478973308",
+    "in_reply_to_user_id": "1218062013173157891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055503258706411622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NengJia5cm ༼⁠ ⁠つ⁠ ⁠◕⁠‿⁠◕⁠ ⁠༽⁠つ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26000,
+        "height": 1080,
+        "media_key": "13_2055503176766504960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055503176766504960/img/VHLZvWn_a41O-dnz.jpg",
+        "public_metrics": {
+          "view_count": 26
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055503176766504960/vid/avc1/480x270/EOU826iBPJEPob0u.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055503176766504960/vid/avc1/1920x1080/g8pRr7EgdnrU_uvt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055503176766504960/pl/2lursrh6FDhvJkn7.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055503176766504960/vid/avc1/640x360/OtcvfxTQBxjfzIt8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055503176766504960/vid/avc1/1280x720/vEQI1NWKG39Zb3K0.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2055503258706411622",
+        "created_at": "2026-05-16T04:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055510698478973308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1218062013173157891",
+              "start": 0,
+              "username": "NengJia5cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055510698478973308",
+        "in_reply_to_user_id": "1218062013173157891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055503258706411622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NengJia5cm ༼⁠ ⁠つ⁠ ⁠◕⁠‿⁠◕⁠ ⁠༽⁠つ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055503176766504960"
+          ]
+        },
+        "author_id": "1218062013173157891",
+        "conversation_id": "2055503258706411622",
+        "created_at": "2026-05-16T04:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055503258706411622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VK8IMJTYB4",
+              "end": 39,
+              "expanded_url": "https://x.com/NengJia5cm/status/2055503258706411622/video/1",
+              "media_key": "13_2055503176766504960",
+              "start": 16,
+              "url": "https://t.co/VK8IMJTYB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055503258706411622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我看看有互关的么\n\n最爱比熊 https://t.co/VK8IMJTYB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5011,
+          "following_count": 7499,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 9090
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T06:46:40.000Z",
+        "description": "币圈就是5cm的壮汉\n拳打枕头500下 | 奶甩币圈5条街\n抽象圣体今天也曼妙了\n\n18+ crypto degen girl",
+        "id": "1218062013173157891",
+        "name": "@腹肌预制菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055338465785737216/lkJePqaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 796,
+          "like_count": 597,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 299
+        },
+        "username": "NengJia5cm",
+        "verified": true
+      }
+    ]
+  }
+}

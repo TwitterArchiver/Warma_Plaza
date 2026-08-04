@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938817601125392486",
+    "created_at": "2025-06-28T06:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T07:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938840230720864506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1244424427313348608",
+          "start": 0,
+          "username": "Errrrese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938840230720864506",
+    "in_reply_to_user_id": "1244424427313348608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938817601125392486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Errrrese ε(*´･ω･)з揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938817601125392486",
+        "created_at": "2025-06-28T06:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938840230720864506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1244424427313348608",
+              "start": 0,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938840230720864506",
+        "in_reply_to_user_id": "1244424427313348608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938817601125392486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Errrrese ε(*´･ω･)з揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244424427313348608",
+        "conversation_id": "1938817601125392486",
+        "created_at": "2025-06-28T04:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938817601125392486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938817601125392486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊夢到一個推油取fo我了還發條動態控訴我天天發些不務正業的東西早上醒來趕緊去找那個推油發現還在互fo太好了啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 7497,
+          "like_count": 628,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 1848
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T00:41:24.000Z",
+        "description": "이재명 동지의 지도 아래 밝은 미래를 향해 계속 나아갑니다",
+        "id": "1244424427313348608",
+        "location": "Sapporo-shi Shiroishi",
+        "name": "빌시나",
+        "pinned_tweet_id": "1925479606196609469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921856690368245760/nlzzHDfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 1930,
+          "like_count": 77956,
+          "listed_count": 16,
+          "media_count": 2135,
+          "tweet_count": 22552
+        },
+        "username": "Errrrese",
+        "verified": false
+      }
+    ]
+  }
+}

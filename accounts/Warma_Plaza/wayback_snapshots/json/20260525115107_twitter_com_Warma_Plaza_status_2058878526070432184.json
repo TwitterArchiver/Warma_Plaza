@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2058761836011704371",
+    "created_at": "2026-05-25T11:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058878526070432184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2012159603660947456",
+          "start": 0,
+          "username": "Shinkai26421_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058878526070432184",
+    "in_reply_to_user_id": "2012159603660947456",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058761836011704371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shinkai26421_9 (⁠・⁠_⁠・⁠;⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2058761831263727616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIw-k2bcAArtSG.jpg",
+        "width": 673
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2058761836011704371",
+        "created_at": "2026-05-25T11:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058878526070432184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2012159603660947456",
+              "start": 0,
+              "username": "Shinkai26421_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058878526070432184",
+        "in_reply_to_user_id": "2012159603660947456",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058761836011704371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shinkai26421_9 (⁠・⁠_⁠・⁠;⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058761831263727616"
+          ]
+        },
+        "author_id": "2012159603660947456",
+        "conversation_id": "2058761836011704371",
+        "created_at": "2026-05-25T04:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058761836011704371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uK1vENFToz",
+              "end": 33,
+              "expanded_url": "https://x.com/Shinkai26421_9/status/2058761836011704371/photo/1",
+              "media_key": "3_2058761831263727616",
+              "start": 10,
+              "url": "https://t.co/uK1vENFToz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058761836011704371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10210,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "東亞🧊夫 菜就多練 https://t.co/uK1vENFToz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5036,
+          "following_count": 7494,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9431
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T13:46:58.000Z",
+        "description": "★ 親米親日 ★ 元台湾籍の日本兵 \n@chinagotohell64\n(永久備用帳) ★9代目アカウント ★ tâi-oân-lâng káng tâi-oân-ōe ★前帳號 \n@Shinkai2638_8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "chinagotohell64"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "Shinkai2638_8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shinagotohell…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@shinagotohell1213?si=38f0R7mGhPfJCQ9T",
+                "start": 0,
+                "url": "https://t.co/gP6L7jbjkV"
+              }
+            ]
+          }
+        },
+        "id": "2012159603660947456",
+        "location": "大日本帝國高雄州",
+        "name": "新海輝⁹🎌",
+        "pinned_tweet_id": "2046558353506398317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046556847960883200/Y6t-m1Ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 457,
+          "like_count": 3305,
+          "listed_count": 4,
+          "media_count": 159,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/gP6L7jbjkV",
+        "username": "Shinkai26421_9",
+        "verified": false
+      }
+    ]
+  }
+}

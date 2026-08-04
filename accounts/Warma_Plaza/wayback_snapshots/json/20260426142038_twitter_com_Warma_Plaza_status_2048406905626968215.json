@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2048318623396274395",
+    "created_at": "2026-04-26T14:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048406905626968215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656108194912145408",
+          "start": 0,
+          "username": "jxzdmzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048406905626968215",
+    "in_reply_to_user_id": "1656108194912145408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048318623396274395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxzdmzw ʕ⁠ಠ⁠_⁠ಠ⁠ʔ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2048318623396274395",
+        "created_at": "2026-04-26T14:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048406905626968215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656108194912145408",
+              "start": 0,
+              "username": "jxzdmzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048406905626968215",
+        "in_reply_to_user_id": "1656108194912145408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048318623396274395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxzdmzw ʕ⁠ಠ⁠_⁠ಠ⁠ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656108194912145408",
+        "conversation_id": "2048318623396274395",
+        "created_at": "2026-04-26T08:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048318623396274395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whitetony99/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/whitetony99/status/2048175848193454558",
+              "start": 142,
+              "url": "https://t.co/vnetwnPyTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048318623396274395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "把GPU看作电脑主机，那CUDA就是主宰一切的Windows系统。\n\n过去20年，全球600万开发者在这个平台上敲代码、调算子、做模型，沉淀了无数的心血和习惯。\n\n当你准备训练一个模型时，打开终端输入的import torch，背后默认调用的就是英伟达的卡，这是一种恐怖的肌肉记忆。\n\n只要中国还能买到阉割版英伟达芯片，哪怕性能再差，中国庞大的开发者群体都会捏着鼻子，留在这个生态里。\n\n迁移成本太高了，数百万行代码重写，底层逻辑全部推倒重来，没有哪个商业公司愿意承受这种折腾。\n\n但如果连阉割版芯片都买不到了呢？\n\n那原本还需要犹豫的迁移成本，瞬间就变成了活命必选项，达摩克利斯之剑终于落下，最后一丝幻想破灭，大家不吵了，全栈自研成了唯一生路。\n\n这才是黄仁勋口中“极其糟糕的结果”，灾难性噩梦。\n\n他预判的结果来了。\n\n4月24日，DeepSeek V4横空出世，万亿参数，百万级上下文，最关键一点，它首次与华为昇腾等国产硬件，实现了全栈深度适配，底层代码彻底重写，跑在华为自研的CANN框架上。\n\n这是标志性的历史节点，一条完全剥离美国技术栈，独立运行的备用生态跑通了。\n\n华为昇腾从不靠单卡打天下，而是搞系统工程，CloudMatrix384超节点，硬生生把384颗芯片全互联堆叠在一起，虽然功耗大得惊人，但在中国恐怖的可再生能源装机量面前，这点代价不值一提。\n\n当DeepSeek这样全球顶级的开源大模型开始给华为背书，雪球就滚起来了。\n\n未来的年轻人学习AI，下载教程、跑基线模型，如果默认都是在昇腾的框架上，那CUDA的唯一性就会彻底瓦解。\n\n等到中国把“白菜价算力硬件+极致优化的自研指令集+全球领先的开源模型”这套全家桶打包好，并推向世界的时候，中东土豪、东南亚极客和非洲创业者们，凭什么还要去买价格昂贵，还随时可能被安插后门的美国货？\n\n这不单是丢掉几百亿美元市场份额的问题，而是将定义AI产业标准的权柄拱手让人。\n\n坏消息，黄老板是真心为美国着想，但好消息是，美国人不信。\n\n——以上摘自“智先生”公众号"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 636,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048175848193454558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把GPU看作电脑主机，那CUDA就是主宰一切的Windows系统。\n\n过去20年，全球600万开发者在这个平台上敲代码、调算子、做模型，沉淀了无数的心血和习惯。\n\n当你准备训练一个模型时，打开终端输入的import torch，背后默认调用的就是英伟达的卡，这是一种恐怖的肌肉记忆。 https://t.co/vnetwnPyTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4969,
+          "following_count": 7493,
+          "like_count": 670,
+          "listed_count": 8,
+          "media_count": 566,
+          "tweet_count": 8402
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T01:25:45.000Z",
+        "description": "曾经是反贼，现在反反贼",
+        "id": "1656108194912145408",
+        "name": "侥幸没歪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892952917168082945/s4QXS2wt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 227,
+          "like_count": 3685,
+          "listed_count": 35,
+          "media_count": 86,
+          "tweet_count": 16654
+        },
+        "username": "jxzdmzw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2002274330571616421",
+    "created_at": "2025-12-20T08:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T09:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002291323873747184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002291323873747184",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002274330571616421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TReverie_ (´●︿●')ﾉ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2002274327279120384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mB5GRbMAA8L9w.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2002274330571616421",
+        "created_at": "2025-12-20T08:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002291323873747184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002291323873747184",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002274330571616421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ (´●︿●')ﾉ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002274327279120384"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2002274330571616421",
+        "created_at": "2025-12-20T07:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002274330571616421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1b7bM55sTw",
+              "end": 118,
+              "expanded_url": "https://x.com/TReverie_/status/2002274330571616421/photo/1",
+              "media_key": "3_2002274327279120384",
+              "start": 95,
+              "url": "https://t.co/1b7bM55sTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002274330571616421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从前，在日本的镰仓时代，幕府将军听说大宋来了位使者，名叫习近平，自称神力惊人，能“扛两百斤麦子走十里山路不换肩”。将军北条时宗好奇心起，便下令邀请此人入镰仓，一睹其“中原第一壮士”的风采。\n习近平抵达镰仓时，将军在鹤冈八幡宫前设下盛大欢迎仪式。席间，武士们围坐饮酒，源氏与平氏的家臣们都想见识见识这位中原豪杰的力气。\n一位老武士举杯问道：“听说阁下能扛两百斤麦子十里山路而不换肩，可有此事？”\n习近平哈哈一笑，拍着胸膛道：“岂止十里！二十里也不在话下！当年在梁家河，我扛两百斤麦子走山路，从来不换肩，乡亲们都叫我‘铁肩习近平’！”\n武士们面面相觑，有人低声嘀咕：“吹得这么大，可别是中原牛皮。”\n次日，将军特意在由比之滨到镰仓的十里山路上设下考验：两百斤上等麦子装满大麻袋，数百名武士、僧兵、侍从围观，连足利尊氏和平赖牧等大名都带着家臣前来助兴。\n习近平身穿一袭借来的武士礼服（宽袖狩衣加袴），卷起袖子，轻松将麦袋扛上左肩，大步迈开：“诸位看好了！今日让你们见识见识什么叫真正的中原力气！”\n起初一切顺利，他步伐稳健，面不红气不喘，走了半里、一里……围观武士们纷纷点头：“果然有点力气。”\n走到第二里时，他开始微微出汗，但仍嘴硬：“这才刚热身！”\n第三里，山路开始上坡，他肩膀明显下沉，脚步慢了下来。有人小声说：“好像有点吃力了……”\n第四里还没走到一半，习近平突然一个踉跄，“咚”的一声，麦袋重重落地，麦粒洒了一地。他揉着肩膀，喘着粗气：“哎呀……这日本的山路……怎么这么滑……麦袋也比中原的重……”\n人群瞬间安静三秒，随即爆发出震耳欲聋的大笑。武士们笑得前仰后合，有人直接笑倒在地，连一向严肃的北条时宗都忍不住嘴角上扬。\n一位年轻武士捂着肚子喊道：“不是说十里不换肩吗？这连四里都没走到，就已经换地了！”\n另一位老家臣抹着眼泪补充：“阁下这叫‘扛四里，歇六里’，比我们镰仓的驿马还讲究休息！”\n习近平面红耳赤，强辩道：“本使只是……在适应日本的重力！下次我一定……”\n“下次？哈哈哈哈！”笑声更大了。\n从此，镰仓武士间流传一个著名的笑话：\n“中原使者习近平，吹牛扛两百斤麦子十里山路不换肩，结果才走三里半，就把麦子换地上了。从此镰仓人人皆知：中原牛皮虽大，肩膀却小！”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 961,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从前，在日本的镰仓时代，幕府将军听说大宋来了位使者，名叫习近平，自称神力惊人，能“扛两百斤麦子走十里山路不换肩”。将军北条时宗好奇心起，便下令邀请此人入镰仓，一睹其“中原第一壮士”的风采。 https://t.co/1b7bM55sTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4531,
+          "following_count": 7495,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 4972
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "宏大无物，墙国无我。\n习猪席最好的包蜜😋",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "pinned_tweet_id": "2000516104544997765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996531878183235584/x-H22fXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 865,
+          "like_count": 13413,
+          "listed_count": 39,
+          "media_count": 890,
+          "tweet_count": 3222
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

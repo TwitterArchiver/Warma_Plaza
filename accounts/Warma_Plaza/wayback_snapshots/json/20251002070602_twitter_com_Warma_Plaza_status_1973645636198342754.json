@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1973643708898955385",
+    "created_at": "2025-10-02T07:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T08:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973645636198342754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395565481361219584",
+          "start": 0,
+          "username": "liuguangchui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973645636198342754",
+    "in_reply_to_user_id": "1395565481361219584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973643708898955385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuguangchui θ＼(；￢_￢)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_1973643015358164993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PJ3ZvasAEMcR1.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1712,
+        "media_key": "3_1973643052683247616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PJ5kyaQAAEP-L.jpg",
+        "width": 1314
+      },
+      {
+        "height": 1720,
+        "media_key": "3_1973643090545221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PJ7x1aIAAiDzs.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1739,
+        "media_key": "3_1973643139027238912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PJ-mcbAAAhcut.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1973643708898955385",
+        "created_at": "2025-10-02T07:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973645636198342754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973645636198342754",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973643708898955385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui θ＼(；￢_￢)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973643015358164993",
+            "3_1973643052683247616",
+            "3_1973643090545221632",
+            "3_1973643139027238912"
+          ]
+        },
+        "author_id": "1395565481361219584",
+        "conversation_id": "1973643708898955385",
+        "created_at": "2025-10-02T06:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T07:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973643708898955385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zh2tyKpVxg",
+              "end": 83,
+              "expanded_url": "https://x.com/liuguangchui/status/1973643708898955385/photo/1",
+              "media_key": "3_1973643015358164993",
+              "start": 60,
+              "url": "https://t.co/zh2tyKpVxg"
+            },
+            {
+              "display_url": "pic.x.com/zh2tyKpVxg",
+              "end": 83,
+              "expanded_url": "https://x.com/liuguangchui/status/1973643708898955385/photo/1",
+              "media_key": "3_1973643052683247616",
+              "start": 60,
+              "url": "https://t.co/zh2tyKpVxg"
+            },
+            {
+              "display_url": "pic.x.com/zh2tyKpVxg",
+              "end": 83,
+              "expanded_url": "https://x.com/liuguangchui/status/1973643708898955385/photo/1",
+              "media_key": "3_1973643090545221632",
+              "start": 60,
+              "url": "https://t.co/zh2tyKpVxg"
+            },
+            {
+              "display_url": "pic.x.com/zh2tyKpVxg",
+              "end": 83,
+              "expanded_url": "https://x.com/liuguangchui/status/1973643708898955385/photo/1",
+              "media_key": "3_1973643139027238912",
+              "start": 60,
+              "url": "https://t.co/zh2tyKpVxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973643708898955385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一方有难，八方打卡。\n假惺惺的自由民主， 赤裸裸的自私剥削。\n你说，台湾省还有什么资格谈民主？\n救灾场所变成了秀场了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一方有难，八方打卡。\n假惺惺的自由民主， 赤裸裸的自私剥削。\n你说，台湾省还有什么资格谈民主？\n救灾场所变成了秀场了。 https://t.co/zh2tyKpVxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 7495,
+          "like_count": 666,
+          "listed_count": 7,
+          "media_count": 490,
+          "tweet_count": 2918
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "你知道：零敲牛皮糖、597.9，什麼意思吗？\n我拥护：中国式现代化：Chinese path to modernization\n人民有信仰，民族有希望，國家有力量。實現中華民族偉大復興。\n防走失fo：@LQniupitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "LQniupitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCK9Pk"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970519809537581056/CWOQ0gvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26417,
+          "following_count": 1321,
+          "like_count": 47423,
+          "listed_count": 134,
+          "media_count": 7738,
+          "tweet_count": 30643
+        },
+        "url": "https://t.co/JFVpOCK9Pk",
+        "username": "liuguangchui",
+        "verified": false
+      }
+    ]
+  }
+}

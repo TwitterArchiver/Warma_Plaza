@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1988148049613611370",
+    "created_at": "2025-11-11T09:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T10:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988178403045110140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640674561980260354",
+          "start": 0,
+          "username": "NmsleseResearch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988178403045110140",
+    "in_reply_to_user_id": "1640674561980260354",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988148049613611370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NmsleseResearch ʅ( ´・∧・｀)ʃ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_1988148040801415170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dSHATbcAI1wgU.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1988148049613611370",
+        "created_at": "2025-11-11T09:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988178403045110140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640674561980260354",
+              "start": 0,
+              "username": "NmsleseResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988178403045110140",
+        "in_reply_to_user_id": "1640674561980260354",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988148049613611370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NmsleseResearch ʅ( ´・∧・｀)ʃ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988148040801415170"
+          ]
+        },
+        "author_id": "1640674561980260354",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988148049613611370",
+        "created_at": "2025-11-11T07:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988148049613611370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbY8hzNF7Q",
+              "end": 23,
+              "expanded_url": "https://x.com/NmsleseResearch/status/1988148049613611370/photo/1",
+              "media_key": "3_1988148040801415170",
+              "start": 0,
+              "url": "https://t.co/HbY8hzNF7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988148049613611370",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 900,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HbY8hzNF7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4359,
+          "following_count": 7484,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 509,
+          "tweet_count": 3941
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "location": "Nmslese City",
+        "name": "熊老大 🔬 兔友研究院B🐻t",
+        "pinned_tweet_id": "1939673186796548497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16147,
+          "following_count": 2716,
+          "like_count": 437131,
+          "listed_count": 77,
+          "media_count": 8662,
+          "tweet_count": 24598
+        },
+        "username": "NmsleseResearch",
+        "verified": false
+      }
+    ]
+  }
+}

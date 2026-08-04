@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938823787010801692",
+    "created_at": "2025-06-28T05:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938828756204036506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803288616539668480",
+          "start": 0,
+          "username": "KitaIkuyo870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938828756204036506",
+    "in_reply_to_user_id": "1803288616539668480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938823787010801692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitaIkuyo870 (°ー°〃)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_1938823784183615488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugV9ZpX0AAk4N9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938823787010801692",
+        "created_at": "2025-06-28T05:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938828756204036506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803288616539668480",
+              "start": 0,
+              "username": "KitaIkuyo870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938828756204036506",
+        "in_reply_to_user_id": "1803288616539668480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938823787010801692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitaIkuyo870 (°ー°〃)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938823784183615488"
+          ]
+        },
+        "author_id": "1803288616539668480",
+        "conversation_id": "1938823787010801692",
+        "created_at": "2025-06-28T04:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T05:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938823787010801692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgioV9uipN",
+              "end": 23,
+              "expanded_url": "https://x.com/KitaIkuyo870/status/1938823787010801692/photo/1",
+              "media_key": "3_1938823784183615488",
+              "start": 0,
+              "url": "https://t.co/wgioV9uipN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938823787010801692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wgioV9uipN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 7491,
+          "like_count": 627,
+          "listed_count": 3,
+          "media_count": 430,
+          "tweet_count": 1845
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "ငါမင်းကိုကြိုက်တယ်၊ မင်းငါ့ကိုကြိုက်တယ်။",
+        "id": "1803288616539668480",
+        "location": "缅甸联邦共和国",
+        "name": "Kita Ikuyo",
+        "pinned_tweet_id": "1935660027555324155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899379290342617088/EZmnCJTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 724,
+          "like_count": 5466,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 2214
+        },
+        "username": "KitaIkuyo870",
+        "verified": false
+      }
+    ]
+  }
+}

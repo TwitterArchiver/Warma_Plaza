@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990958201999929599",
+    "created_at": "2025-11-19T15:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T16:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991165942873968778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        },
+        {
+          "end": 29,
+          "id": "1793964158658158592",
+          "start": 15,
+          "username": "benzi_mofashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991165942873968778",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990958201999929599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 @benzi_mofashi (⊙o⊙)\n开小号问问？(ﾟ⊿ﾟ)ﾂ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1990571641357918208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_uXH8a4AA4ehk.jpg",
+        "width": 634
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1990571641357959168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_uXH8bgAAUG35.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990958201999929599",
+        "created_at": "2025-11-19T15:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991165942873968778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            },
+            {
+              "end": 29,
+              "id": "1793964158658158592",
+              "start": 15,
+              "username": "benzi_mofashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991165942873968778",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990958201999929599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 @benzi_mofashi (⊙o⊙)\n开小号问问？(ﾟ⊿ﾟ)ﾂ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990571641357918208",
+            "3_1990571641357959168"
+          ]
+        },
+        "author_id": "1164467672819499008",
+        "conversation_id": "1990958201999929599",
+        "created_at": "2025-11-19T01:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T02:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990958201999929599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1793964158658158592",
+              "start": 16,
+              "username": "benzi_mofashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyB3vqj5HX",
+              "end": 54,
+              "expanded_url": "https://x.com/whitelate0001/status/1990958201999929599/photo/1",
+              "media_key": "3_1990571641357918208",
+              "start": 31,
+              "url": "https://t.co/YyB3vqj5HX"
+            },
+            {
+              "display_url": "pic.x.com/YyB3vqj5HX",
+              "end": 54,
+              "expanded_url": "https://x.com/whitelate0001/status/1990958201999929599/photo/1",
+              "media_key": "3_1990571641357959168",
+              "start": 31,
+              "url": "https://t.co/YyB3vqj5HX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990958201999929599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1303,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你解釋一下為何要B了我😭😭😭\n\n@benzi_mofashi https://t.co/YyB3vqj5HX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4384,
+          "following_count": 7493,
+          "like_count": 684,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 4141
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "台灣中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/中華民國派/泛藍/左翼/人道主義/科學主義的支持者 | Glory to China | \n\n1000粉了！感謝支持🙏  |\n\n賽博搬史王|偶爾發抽象tv｜\n\n沒有義務的權利必將導致濫用，沒有權利的義務必將導致壓迫|\n\n鍵政勉強中。。",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1034,
+          "like_count": 8522,
+          "listed_count": 6,
+          "media_count": 790,
+          "tweet_count": 8518
+        },
+        "username": "whitelate0001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T11:16:08.000Z",
+        "description": "B站新號：喵子魔法本",
+        "id": "1793964158658158592",
+        "location": "距離你-13cm",
+        "name": "本子魔法使",
+        "pinned_tweet_id": "1898579040673616289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891850937347743744/OFOuu5ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87505,
+          "following_count": 1794,
+          "like_count": 6373,
+          "listed_count": 137,
+          "media_count": 311,
+          "tweet_count": 466
+        },
+        "username": "benzi_mofashi",
+        "verified": false
+      }
+    ]
+  }
+}

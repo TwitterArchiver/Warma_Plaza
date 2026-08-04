@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1990540607409041750",
+    "created_at": "2025-11-18T11:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990741288321191955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1194305042578362368",
+          "start": 0,
+          "username": "Jam79922967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990741288321191955",
+    "in_reply_to_user_id": "1194305042578362368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990540607409041750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jam79922967 (・_・)ヾ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_1990540604833447936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_SIj4WwAAsUvi.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1990540607409041750",
+        "created_at": "2025-11-18T11:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990741288321191955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194305042578362368",
+              "start": 0,
+              "username": "Jam79922967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990741288321191955",
+        "in_reply_to_user_id": "1194305042578362368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990540607409041750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jam79922967 (・_・)ヾ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990540604833447936"
+          ]
+        },
+        "author_id": "1194305042578362368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1990540607409041750",
+        "created_at": "2025-11-17T22:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T23:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990540607409041750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVI7Pkm2bI",
+              "end": 140,
+              "expanded_url": "https://x.com/Jam79922967/status/1990540607409041750/photo/1",
+              "media_key": "3_1990540604833447936",
+              "start": 117,
+              "url": "https://t.co/xVI7Pkm2bI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990540607409041750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 47935,
+          "like_count": 288,
+          "quote_count": 3,
+          "reply_count": 63,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "所以，习近平超越了中国历史上所有的帝王，也超越了中共朝高祖皇帝毛泽东。毛泽东活着时仅出书四卷，习近平已经出书120多本。过去皇帝再不要脸，也没有出书让臣民学习。古代大臣对皇帝奉承也就当皇的面说说，也不敢写出来印成书，怕因此遗臭万年。 https://t.co/xVI7Pkm2bI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 7491,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4069
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T17:25:09.000Z",
+        "description": "專業人士，人格獨立。無論批評或褒揚什麽，皆基於事實，而非出於個人恩怨。",
+        "id": "1194305042578362368",
+        "location": "Taiwan",
+        "name": "Petrichor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555428587083366400/Ao7hhUWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632573,
+          "following_count": 1174,
+          "like_count": 2255,
+          "listed_count": 1186,
+          "media_count": 18737,
+          "tweet_count": 30380
+        },
+        "username": "Jam79922967",
+        "verified": true
+      }
+    ]
+  }
+}

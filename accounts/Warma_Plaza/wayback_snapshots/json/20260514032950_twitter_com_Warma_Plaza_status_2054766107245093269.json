@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2054713301406454204",
+    "created_at": "2026-05-14T03:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054766107245093269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054766107245093269",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054713301406454204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele (⁠ー⁠_⁠ー⁠゛⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53638,
+        "height": 1080,
+        "media_key": "13_2054471044912820224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054471044912820224/img/W1lKY4r5eFdaaGK7.jpg",
+        "public_metrics": {
+          "view_count": 17087
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054471044912820224/vid/avc1/640x360/D-NyOmB2QIvq6tC7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054471044912820224/vid/avc1/1920x1080/rrBiDhDkRXSO1Euo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054471044912820224/vid/avc1/1280x720/YsP4kjv6y5Bw81n1.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054471044912820224/vid/avc1/480x270/lz5En57iGEKhRuDY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054471044912820224/pl/cl4EGwhMui4eIldu.m3u8?v=d6f"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 738,
+        "media_key": "3_2054471044938059776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILyh8Lb0AASz1Z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 473,
+        "media_key": "3_2054471045030264832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILyh8hawAA9uIN.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2054713301406454204",
+        "created_at": "2026-05-14T03:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054766107245093269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054766107245093269",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054713301406454204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele (⁠ー⁠_⁠ー⁠゛⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054471044912820224",
+            "3_2054471044938059776",
+            "3_2054471045030264832"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2054713301406454204",
+        "created_at": "2026-05-14T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054713301406454204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l30J89GfBf",
+              "end": 62,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054713301406454204/video/1",
+              "media_key": "13_2054471044912820224",
+              "start": 39,
+              "url": "https://t.co/l30J89GfBf"
+            },
+            {
+              "display_url": "pic.x.com/l30J89GfBf",
+              "end": 62,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054713301406454204/video/1",
+              "media_key": "3_2054471044938059776",
+              "start": 39,
+              "url": "https://t.co/l30J89GfBf"
+            },
+            {
+              "display_url": "pic.x.com/l30J89GfBf",
+              "end": 62,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2054713301406454204/video/1",
+              "media_key": "3_2054471045030264832",
+              "start": 39,
+              "url": "https://t.co/l30J89GfBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054713301406454204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月12日，云南省昭通市，博主采访了一位环卫工人，得知其一天的工资仅为56元\n\n随后博主发出了昭通市昭阳区人力资源和社会保障局的答复件，昭阳区人社局回复称：经核实，一名58岁环卫工人与公司签订的是劳务合同而非劳动合同，因此不适用最低工资标准。其约定报酬约1380元/月，不休另有补助，实际月均收入约1723元。\n\n公司表示因其超过法定退休年龄，无法签订劳动合同并缴纳社保，仅为其购买雇主责任险。\n\n当地最低工资为2020元/月，但仅适用于劳动关系，劳务关系按双方约定执行，不在劳动监察受理范围。\n\n评论区体制内的网友们纷纷留言表示自己也是遇到了类似的状况，有的甚至表示自己去年11月的工资至今还未发。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 36314,
+          "like_count": 143,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "5月12日，云南省昭通市，博主采访了一位环卫工人，得知其一天的工资仅为56元 https://t.co/l30J89GfBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 7497,
+          "like_count": 669,
+          "listed_count": 8,
+          "media_count": 569,
+          "tweet_count": 8961
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221052,
+          "following_count": 1052,
+          "like_count": 9505,
+          "listed_count": 8719,
+          "media_count": 46722,
+          "tweet_count": 53831
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

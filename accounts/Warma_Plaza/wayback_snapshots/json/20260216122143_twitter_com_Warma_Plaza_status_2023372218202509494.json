@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2023354559733915849",
+    "created_at": "2026-02-16T12:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023372218202509494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011873376445612032",
+          "start": 0,
+          "username": "zhinaqingchu"
+        },
+        {
+          "end": 25,
+          "id": "1819944260239851520",
+          "start": 14,
+          "username": "Alice14_88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023372218202509494",
+    "in_reply_to_user_id": "2011873376445612032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023354559733915849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinaqingchu @Alice14_88 o(╥﹏╥)o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023354554734227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRmP1GaMAAAFl0.jpg",
+        "width": 965
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023354555761938432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRmP47b0AAaG0b.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2023354559733915849",
+        "created_at": "2026-02-16T12:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023372218202509494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "zhinaqingchu"
+            },
+            {
+              "end": 25,
+              "id": "1819944260239851520",
+              "start": 14,
+              "username": "Alice14_88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023372218202509494",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023354559733915849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinaqingchu @Alice14_88 o(╥﹏╥)o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023354554734227456",
+            "3_2023354555761938432"
+          ]
+        },
+        "author_id": "2011873376445612032",
+        "conversation_id": "2023354559733915849",
+        "created_at": "2026-02-16T11:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023354559733915849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 126,
+              "id": "1819944260239851520",
+              "start": 115,
+              "username": "Alice14_88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRbJ5xTcxN",
+              "end": 150,
+              "expanded_url": "https://x.com/zhinaqingchu/status/2023354559733915849/photo/1",
+              "media_key": "3_2023354554734227456",
+              "start": 127,
+              "url": "https://t.co/CRbJ5xTcxN"
+            },
+            {
+              "display_url": "pic.x.com/CRbJ5xTcxN",
+              "end": 150,
+              "expanded_url": "https://x.com/zhinaqingchu/status/2023354559733915849/photo/1",
+              "media_key": "3_2023354555761938432",
+              "start": 127,
+              "url": "https://t.co/CRbJ5xTcxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023354559733915849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 618,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开出来了喵\n宝宝这个是不是你的qq号?\n呼叫警察，我已经关联到了这个翻墙+吸毒分子的内网真实身份，请迅速抓人😊\n大家如果对这位有什么不满的话，也可以加他qq网络霸凌他哦，但是切记霸凌所使用的qq号要彻底和自己外网账号信息断关联♥\n@alice14_88 https://t.co/CRbJ5xTcxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 7493,
+          "like_count": 673,
+          "listed_count": 8,
+          "media_count": 540,
+          "tweet_count": 6331
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "小睦静待死亡中......\n如果这个账号突然不再更新了，那就是小睦抵挡不住自我消亡的诱惑了~\n      永远的好朋友：@Natsumeann13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Natsumeann13"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "name": "支那人种清除计划Ver2.0 🇯🇵",
+        "pinned_tweet_id": "2015471136423948295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 397,
+          "like_count": 2117,
+          "listed_count": 19,
+          "media_count": 28,
+          "tweet_count": 588
+        },
+        "username": "zhinaqingchu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T03:51:46.000Z",
+        "description": "Ne les laisse pas me voler mon ame",
+        "id": "1819944260239851520",
+        "location": "Caelum deva",
+        "name": "⸸𝔄𝔩𝔦𝔠𝔢⸸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022663284365889539/6sZvnLc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 2649,
+          "like_count": 38205,
+          "listed_count": 2,
+          "media_count": 1341,
+          "tweet_count": 16987
+        },
+        "username": "Alice14_88",
+        "verified": false
+      }
+    ]
+  }
+}

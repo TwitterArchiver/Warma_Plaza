@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1989553020665737363",
+    "created_at": "2025-11-16T09:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T10:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989995649358782592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913631704914219008",
+          "start": 0,
+          "username": "NovaBabelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989995649358782592",
+    "in_reply_to_user_id": "1913631704914219008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989995562180174073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NovaBabelo 不懂QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1989553020665737363",
+        "created_at": "2025-11-16T09:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T10:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989995649358782592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913631704914219008",
+              "start": 0,
+              "username": "NovaBabelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989995649358782592",
+        "in_reply_to_user_id": "1913631704914219008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989995562180174073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NovaBabelo 不懂QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913631704914219008",
+        "conversation_id": "1989553020665737363",
+        "created_at": "2025-11-16T09:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T10:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989995562180174073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989995562180174073",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989995505804579300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza 😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4368,
+          "following_count": 7490,
+          "like_count": 685,
+          "listed_count": 7,
+          "media_count": 511,
+          "tweet_count": 4005
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T16:32:38.000Z",
+        "description": "野蠻其思想，文明其體魄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/973907",
+                "end": 23,
+                "expanded_url": "https://ngl.link/973907",
+                "start": 0,
+                "url": "https://t.co/irpyGN974U"
+              }
+            ]
+          }
+        },
+        "id": "1913631704914219008",
+        "location": "你我的共同世界！",
+        "name": "Lekanteto.",
+        "pinned_tweet_id": "1989756392891453751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984251469177171968/ocAeN3MJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 1288,
+          "like_count": 21900,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 8075
+        },
+        "url": "https://t.co/irpyGN974U",
+        "username": "NovaBabelo",
+        "verified": false
+      }
+    ]
+  }
+}

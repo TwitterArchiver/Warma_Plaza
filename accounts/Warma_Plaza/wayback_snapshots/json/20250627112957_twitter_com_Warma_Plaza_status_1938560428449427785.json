@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938496149411008856",
+    "created_at": "2025-06-27T11:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938560428449427785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1789837129247531008",
+          "start": 0,
+          "username": "Shirasu8964228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938560428449427785",
+    "in_reply_to_user_id": "1789837129247531008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938496149411008856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirasu8964228 乁( ˙ω˙ )厂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938496146122674178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gubr-WwbEAIqQ-d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938496149411008856",
+        "created_at": "2025-06-27T11:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938560428449427785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1789837129247531008",
+              "start": 0,
+              "username": "Shirasu8964228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938560428449427785",
+        "in_reply_to_user_id": "1789837129247531008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938496149411008856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirasu8964228 乁( ˙ω˙ )厂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938496146122674178"
+          ]
+        },
+        "author_id": "1789837129247531008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1938496149411008856",
+        "created_at": "2025-06-27T07:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938496149411008856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbWrrNtiMT",
+              "end": 35,
+              "expanded_url": "https://x.com/Shirasu8964228/status/1938496149411008856/photo/1",
+              "media_key": "3_1938496146122674178",
+              "start": 12,
+              "url": "https://t.co/cbWrrNtiMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938496149411008856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中非人吃得起嗎？🤓☝️ https://t.co/cbWrrNtiMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 7493,
+          "like_count": 622,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 1798
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T01:58:49.000Z",
+        "description": "轉化為血十字復仇型態\n貓貓：@honxine8964\n妹妹：@6thCutek1tten\n鼠鼠：@kazuko045\n外文推：@assam228226\n液態貓貓：@owl8964cat\n閨蜜：@Je1nFaur_l\n好朋友：@Kirayoumiya\n@brandon94623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "honxine8964"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "6thCutek1tten"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "kazuko045"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "assam228226"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "owl8964cat"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Je1nFaur_l"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "Kirayoumiya"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "brandon94623"
+              }
+            ]
+          }
+        },
+        "id": "1789837129247531008",
+        "location": "大日本帝國台北州",
+        "name": "✠✝️🇦🇹楓糖茉莉奶茶🇯🇵🌸🧋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925052900293918720/0ZZZRshm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 2754,
+          "like_count": 68353,
+          "listed_count": 13,
+          "media_count": 3101,
+          "tweet_count": 22921
+        },
+        "username": "Shirasu8964228",
+        "verified": false
+      }
+    ]
+  }
+}

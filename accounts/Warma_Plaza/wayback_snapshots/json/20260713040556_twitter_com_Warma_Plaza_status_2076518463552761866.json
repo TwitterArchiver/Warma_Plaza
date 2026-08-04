@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2076474132641055091",
+    "created_at": "2026-07-13T04:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076518463552761866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1395565481361219584",
+          "start": 0,
+          "username": "liuguangchui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076518463552761866",
+    "in_reply_to_user_id": "1395565481361219584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076474132641055091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuguangchui ( ；´Д｀)…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2076473852398628864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNEd95WbcAASnU7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2076474132641055091",
+        "created_at": "2026-07-13T04:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076518463552761866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1395565481361219584",
+              "start": 0,
+              "username": "liuguangchui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076518463552761866",
+        "in_reply_to_user_id": "1395565481361219584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076474132641055091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuguangchui ( ；´Д｀)…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076473852398628864"
+          ]
+        },
+        "author_id": "1395565481361219584",
+        "conversation_id": "2076474132641055091",
+        "created_at": "2026-07-13T01:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076474132641055091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8KprujcNl",
+              "end": 59,
+              "expanded_url": "https://x.com/liuguangchui/status/2076474132641055091/photo/1",
+              "media_key": "3_2076473852398628864",
+              "start": 36,
+              "url": "https://t.co/B8KprujcNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076474132641055091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1819,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至有点期待想看看他们俩怎么团结一致，用实际行动来支持美军的了。\n😂 https://t.co/B8KprujcNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 577,
+          "tweet_count": 11099
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-21T02:22:16.000Z",
+        "description": "你知道：零敲牛皮糖、597.9，什麼意思吗？\n我拥护中国式现代化：Chinese path to modernization",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://www.xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/JFVpOCK9Pk"
+              }
+            ]
+          }
+        },
+        "id": "1395565481361219584",
+        "location": "中国贵州省遵义市红花岗区子尹路96号",
+        "name": "零敲牛皮糖597.9",
+        "pinned_tweet_id": "1935320045397360865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069770080632619008/L2pufU3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29395,
+          "following_count": 1355,
+          "like_count": 54095,
+          "listed_count": 179,
+          "media_count": 8717,
+          "tweet_count": 32361
+        },
+        "url": "https://t.co/JFVpOCK9Pk",
+        "username": "liuguangchui",
+        "verified": false
+      }
+    ]
+  }
+}

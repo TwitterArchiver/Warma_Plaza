@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1938661828554621042",
+    "created_at": "2025-06-27T19:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T20:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938674281682215019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "99324252",
+          "start": 0,
+          "username": "XiJinPig_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938674281682215019",
+    "in_reply_to_user_id": "99324252",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938661828554621042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiJinPig_8964 ┌(。Д。)┐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1938661824729161728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GueCqHqXoAA3noi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1938661828554621042",
+        "created_at": "2025-06-27T19:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T20:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938674281682215019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "99324252",
+              "start": 0,
+              "username": "XiJinPig_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938674281682215019",
+        "in_reply_to_user_id": "99324252",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938661828554621042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiJinPig_8964 ┌(。Д。)┐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938661824729161728"
+          ]
+        },
+        "author_id": "99324252",
+        "conversation_id": "1938661828554621042",
+        "created_at": "2025-06-27T18:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T19:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938661828554621042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQMucv9W8H",
+              "end": 30,
+              "expanded_url": "https://x.com/XiJinPig_8964/status/1938661828554621042/photo/1",
+              "media_key": "3_1938661824729161728",
+              "start": 7,
+              "url": "https://t.co/PQMucv9W8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938661828554621042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚安推油們😴 https://t.co/PQMucv9W8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 7486,
+          "like_count": 625,
+          "listed_count": 3,
+          "media_count": 429,
+          "tweet_count": 1836
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-25T17:09:12.000Z",
+        "description": "☀️🇹🇼民國派🇹🇼☀️［35°41′38″N 139°44′34″E］⭐鍵政英雄⭐辱華大師⭐反共義士⭐                                  坦克碾碎不了真理•民主終會戰勝歸來                      🚪8964¥，918¥，731¥，105¥，106¥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/svipdaddy",
+                "end": 23,
+                "expanded_url": "https://t.me/svipdaddy",
+                "start": 0,
+                "url": "https://t.co/miUXlNzIWe"
+              }
+            ]
+          }
+        },
+        "id": "99324252",
+        "location": "东突厥斯坦再教育营☪",
+        "name": "楓糖大白A夢🍁🍬",
+        "pinned_tweet_id": "1936886110996582824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937028005697658880/NbjbhIPZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 2751,
+          "like_count": 16762,
+          "listed_count": 19,
+          "media_count": 640,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/miUXlNzIWe",
+        "username": "XiJinPig_8964",
+        "verified": false
+      }
+    ]
+  }
+}

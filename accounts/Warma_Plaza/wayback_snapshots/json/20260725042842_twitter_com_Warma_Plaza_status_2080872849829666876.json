@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2080650474722832883",
+    "created_at": "2026-07-25T04:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080872849829666876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1717090595586584577",
+          "start": 0,
+          "username": "uncleTomat0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080872849829666876",
+    "in_reply_to_user_id": "1717090595586584577",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080650474722832883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uncleTomat0 :⁠-⁠("
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 276400,
+        "height": 480,
+        "media_key": "13_2080650310704574464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080650310704574464/img/Yr0wvdbIv0ePaLQg.jpg",
+        "public_metrics": {
+          "view_count": 66483
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080650310704574464/vid/avc1/360x270/mGwaEHzwZMDJQo7K.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080650310704574464/vid/avc1/480x360/hAorLYI1Ec6hhDZg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080650310704574464/vid/avc1/640x480/wFplJJTVUdxiQ8TB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080650310704574464/pl/6j1SX6aQ4nnzWUd8.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2080650474722832883",
+        "created_at": "2026-07-25T04:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080872849829666876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717090595586584577",
+              "start": 0,
+              "username": "uncleTomat0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080872849829666876",
+        "in_reply_to_user_id": "1717090595586584577",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080650474722832883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uncleTomat0 :⁠-⁠("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080650310704574464"
+          ]
+        },
+        "author_id": "1717090595586584577",
+        "conversation_id": "2080650474722832883",
+        "created_at": "2026-07-24T13:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080650474722832883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00S8YNEwBk",
+              "end": 140,
+              "expanded_url": "https://x.com/uncleTomat0/status/2080650474722832883/video/1",
+              "media_key": "13_2080650310704574464",
+              "start": 117,
+              "url": "https://t.co/00S8YNEwBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080650474722832883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 91683,
+          "like_count": 722,
+          "quote_count": 5,
+          "reply_count": 221,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "大陆美女在香港候机遇到地勤人员歧视。同行朋友和地勤人员说普通话直接被地勤忽视，只服务说英语的老外。被美女当场质疑你为什么歧视，地勤用普通话回复“抱歉，我不是中国人”\n随后，美女录视频当场投诉，结果大快人心，地勤很快就失去了这份工作🤣 https://t.co/00S8YNEwBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5374,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 11561
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T08:08:03.000Z",
+        "description": "如果您是志同道合的同志，欢迎互关，互动起来🥰 🇨🇳🇨🇳🇨🇳一位有趣的时政军事爱好者，与您分享最新有趣的时政军事信息！ 中国共产党万岁！为共产主义奋斗终身！打倒美帝国主义，打倒绿色恐怖政权！ 反贼、岛蛙欢迎battle",
+        "id": "1717090595586584577",
+        "location": "香港",
+        "name": "番茄大叔🇨🇳",
+        "pinned_tweet_id": "2052011082353701200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995444805271453696/a6DPJ7o2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22732,
+          "following_count": 4035,
+          "like_count": 9619,
+          "listed_count": 110,
+          "media_count": 2547,
+          "tweet_count": 21630
+        },
+        "url": "",
+        "username": "uncleTomat0",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

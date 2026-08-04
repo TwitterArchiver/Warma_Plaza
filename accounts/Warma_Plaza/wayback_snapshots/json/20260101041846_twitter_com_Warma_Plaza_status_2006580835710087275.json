@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2006409604209750314",
+    "created_at": "2026-01-01T04:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T05:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006580835710087275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1183608954296946688",
+          "start": 0,
+          "username": "tuiburen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006580835710087275",
+    "in_reply_to_user_id": "1183608954296946688",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006409604209750314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuiburen (ᇂ_ᇂ|||)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2006409598933356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gy5lpbUAA-Qy-.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2006409604209750314",
+        "created_at": "2026-01-01T04:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T05:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006580835710087275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1183608954296946688",
+              "start": 0,
+              "username": "tuiburen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006580835710087275",
+        "in_reply_to_user_id": "1183608954296946688",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006409604209750314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuiburen (ᇂ_ᇂ|||)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006409598933356544"
+          ]
+        },
+        "author_id": "1183608954296946688",
+        "conversation_id": "2006409604209750314",
+        "created_at": "2025-12-31T16:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006409604209750314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EVfvXjVdRY",
+              "end": 52,
+              "expanded_url": "https://x.com/tuiburen/status/2006409604209750314/photo/1",
+              "media_key": "3_2006409598933356544",
+              "start": 29,
+              "url": "https://t.co/EVfvXjVdRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006409604209750314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21157,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是西雅图绿教社区的阿訇，你会让这样的牢A进清真寺吗 https://t.co/EVfvXjVdRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616,
+          "following_count": 7488,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5341
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-14T05:02:29.000Z",
+        "description": "冥顽不化的退步分子；人性尽失的黄皮纳粹；屡教不改的愚昧红脖；随波逐流的乌合之众；逼瘾难解的小吊处男；内心变态的反俄畜生",
+        "id": "1183608954296946688",
+        "name": "被迫上分",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507774412212215813/YtdLHvg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6936,
+          "following_count": 1234,
+          "like_count": 95338,
+          "listed_count": 52,
+          "media_count": 240,
+          "tweet_count": 7978
+        },
+        "username": "tuiburen",
+        "verified": false
+      }
+    ]
+  }
+}

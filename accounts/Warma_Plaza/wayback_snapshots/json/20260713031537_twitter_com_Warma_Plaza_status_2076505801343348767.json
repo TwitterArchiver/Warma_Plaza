@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1961584713052921955",
+    "created_at": "2026-07-13T03:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T04:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076505801343348767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2900565097",
+          "start": 0,
+          "username": "johnny_onpuchan"
+        },
+        {
+          "end": 28,
+          "id": "1629688098505510912",
+          "start": 17,
+          "username": "Unknow_CVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076505801343348767",
+    "in_reply_to_user_id": "2900565097",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961584713052921955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnny_onpuchan @Unknow_CVC o(︶︿︶)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1961584713052921955",
+        "created_at": "2026-07-13T03:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076505801343348767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2900565097",
+              "start": 0,
+              "username": "johnny_onpuchan"
+            },
+            {
+              "end": 28,
+              "id": "1629688098505510912",
+              "start": 17,
+              "username": "Unknow_CVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076505801343348767",
+        "in_reply_to_user_id": "2900565097",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961584713052921955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnny_onpuchan @Unknow_CVC o(︶︿︶)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2900565097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          }
+        ],
+        "conversation_id": "1961584713052921955",
+        "created_at": "2025-08-30T00:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T01:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961584713052921955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tc8vbrslanawir…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/tc8vbrslanawirz/status/1960632108915023920",
+              "start": 138,
+              "url": "https://t.co/bE4TUNeFwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961584713052921955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 57471,
+          "like_count": 575,
+          "quote_count": 15,
+          "reply_count": 65,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960632108915023920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正常精日：学日语，查词典，啃生肉，找日本人沟通，等着润日的机会\n非正常精日：在X整天都用汉语而悲叹令和日本丢失了昭和精神，高呼大日本帝国万岁然而连平假名都看不懂，狂爱昭和军国日本然而轻蔑享受和平跟自由的令和小日本屁民，反驳也依頼于grok，唯一的擅长的是看二次元美少女而手淫 https://t.co/bE4TUNeFwF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5303,
+          "following_count": 7498,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 577,
+          "tweet_count": 11097
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/学习中文/包蜜",
+        "id": "2900565097",
+        "location": "福冈反革命根据地",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14872,
+          "following_count": 1365,
+          "like_count": 137690,
+          "listed_count": 102,
+          "media_count": 7732,
+          "tweet_count": 139963
+        },
+        "url": "",
+        "username": "johnny_onpuchan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch苦手|粤|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|全系结肠炎享受者\n私帐：@CenKawaru21120|https://t.co/q0TRSt2d53",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "CenKawaru21120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/unknow_c",
+                "end": 154,
+                "expanded_url": "http://t.me/unknow_c",
+                "start": 131,
+                "url": "https://t.co/q0TRSt2d53"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9ej9s"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級の𝒞𝑒𝓃𝒱𝒞𝑒𝑒🍤",
+        "pinned_tweet_id": "2002402192716632415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 1631,
+          "like_count": 28659,
+          "listed_count": 0,
+          "media_count": 2456,
+          "tweet_count": 17818
+        },
+        "url": "https://t.co/3dxIv9ej9s",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

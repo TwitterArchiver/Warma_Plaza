@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1966130499262492913",
+    "created_at": "2025-09-11T13:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T14:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966131039086289363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906980311218696192",
+          "start": 0,
+          "username": "aqua_roiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966131039086289363",
+    "in_reply_to_user_id": "1906980311218696192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966130499262492913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aqua_roiiiii 虽然朋友远去(⇀‸↼‶)\n但是他们也许从未离开过你...ヽ(愛´∀｀愛)ノ\n加油，祝你幸福(づ′▽`)づ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1966130499262492913",
+        "created_at": "2025-09-11T13:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T14:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966131039086289363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906980311218696192",
+              "start": 0,
+              "username": "aqua_roiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966131039086289363",
+        "in_reply_to_user_id": "1906980311218696192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966130499262492913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aqua_roiiiii 虽然朋友远去(⇀‸↼‶)\n但是他们也许从未离开过你...ヽ(愛´∀｀愛)ノ\n加油，祝你幸福(づ′▽`)づ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906980311218696192",
+        "conversation_id": "1966130499262492913",
+        "created_at": "2025-09-11T13:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T14:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966130499262492913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966130499262492913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的朋友们都离开了上海……\n没有人陪我了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4140,
+          "following_count": 7488,
+          "like_count": 663,
+          "listed_count": 8,
+          "media_count": 483,
+          "tweet_count": 2659
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T08:01:59.000Z",
+        "description": "",
+        "id": "1906980311218696192",
+        "location": "Shanghai",
+        "name": "_Aqua_",
+        "pinned_tweet_id": "1964928221486739929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936792903654748160/6ZjgQ56O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 107,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 32
+        },
+        "username": "aqua_roiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

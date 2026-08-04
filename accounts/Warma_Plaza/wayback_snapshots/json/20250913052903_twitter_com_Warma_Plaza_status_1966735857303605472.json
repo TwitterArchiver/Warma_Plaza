@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1966712638919876965",
+    "created_at": "2025-09-13T05:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T06:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966735857303605472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903061664137912320",
+          "start": 0,
+          "username": "blackna1201"
+        },
+        {
+          "end": 29,
+          "id": "1794617194954850304",
+          "start": 13,
+          "username": "Baixiaoming0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966735857303605472",
+    "in_reply_to_user_id": "1903061664137912320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966735735190438021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackna1201 @Baixiaoming0707 (=ＴェＴ=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1966712638919876965",
+        "created_at": "2025-09-13T05:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966735857303605472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "blackna1201"
+            },
+            {
+              "end": 29,
+              "id": "1794617194954850304",
+              "start": 13,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966735857303605472",
+        "in_reply_to_user_id": "1903061664137912320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966735735190438021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackna1201 @Baixiaoming0707 (=ＴェＴ=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903061664137912320",
+        "conversation_id": "1966712638919876965",
+        "created_at": "2025-09-13T05:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966735735190438021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 29,
+              "id": "1794617194954850304",
+              "start": 13,
+              "username": "Baixiaoming0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966735735190438021",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966725013152698482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @Baixiaoming0707 你不买 我也不买了╮(︶﹏︶)╭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4147,
+          "following_count": 7492,
+          "like_count": 664,
+          "listed_count": 8,
+          "media_count": 484,
+          "tweet_count": 2674
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T12:32:02.000Z",
+        "description": "（在录取通知书出来后的1个月才想起来写的）\n重新认识一下 我是一位上海理工大学附属中学的学生\n喜欢音游（phigros osu malody等等） 赛车（f1 gt3之类的）骑车（一窍不通 骑着上下学玩）羽毛球（不是很会打）等事物\n永远喜欢伊蕾娜\n喜欢平常简单的事物 也喜欢干一些疯狂的事情\n只是一个梦想落空的笨蛋罢了",
+        "id": "1903061664137912320",
+        "location": "和平国洛贝塔",
+        "name": "blackna1201",
+        "pinned_tweet_id": "1958470668862759213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904515651596873728/Glc0mx6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 256,
+          "like_count": 2135,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 1468
+        },
+        "username": "blackna1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "总有一天我会离去，在此之前我会发光到最后一刻 | 08年广西土著 | 简中/正體/English | 政史地亡命文科生 | 快品尝国宾酒尊尼获加 | 都去关注@virtual_kaf ！ | 永远追随国王→@oldsddl4gunmu @diangunottosm @otto_houguoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 117,
+                "start": 103,
+                "username": "oldsddl4gunmu"
+              },
+              {
+                "end": 132,
+                "start": 118,
+                "username": "diangunottosm"
+              },
+              {
+                "end": 147,
+                "start": 133,
+                "username": "otto_houguoyu"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "无处不在 无影无踪",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1215,
+          "like_count": 16287,
+          "listed_count": 5,
+          "media_count": 818,
+          "tweet_count": 4877
+        },
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

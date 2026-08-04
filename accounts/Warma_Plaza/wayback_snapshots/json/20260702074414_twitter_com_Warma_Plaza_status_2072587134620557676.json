@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2072511826437476678",
+    "created_at": "2026-07-02T07:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072587134620557676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009174908581134336",
+          "start": 0,
+          "username": "cswxiaowei6302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072587134620557676",
+    "in_reply_to_user_id": "2009174908581134336",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072511826437476678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cswxiaowei6302 (-.-)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2072511826437476678",
+        "created_at": "2026-07-02T07:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072587134620557676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009174908581134336",
+              "start": 0,
+              "username": "cswxiaowei6302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072587134620557676",
+        "in_reply_to_user_id": "2009174908581134336",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072511826437476678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cswxiaowei6302 (-.-)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009174908581134336",
+        "conversation_id": "2072511826437476678",
+        "created_at": "2026-07-02T02:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072511826437476678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kMuDmZvzWJ7731…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kMuDmZvzWJ77310/status/2072316845567226177",
+              "start": 17,
+              "url": "https://t.co/kxg18LjCa9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072511826437476678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072316845567226177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毛右边那个老人有点像胡志明（?） https://t.co/kxg18LjCa9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5230,
+          "following_count": 7496,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 576,
+          "tweet_count": 10816
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T08:06:56.000Z",
+        "description": "我只知道，我自己不是马克思主义者",
+        "id": "2009174908581134336",
+        "name": "Wei",
+        "pinned_tweet_id": "2070183405187461393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067871333745352704/2tMJPN4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 211,
+          "like_count": 8901,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "cswxiaowei6302",
+        "verified": false
+      }
+    ]
+  }
+}

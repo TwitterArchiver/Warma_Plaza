@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1936225006117413029",
+    "created_at": "2025-06-21T01:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T02:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936231219030892770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1830493173099208704",
+          "start": 0,
+          "username": "LeeWilliam99928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936231219030892770",
+    "in_reply_to_user_id": "1830493173099208704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936225006117413029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeWilliam99928 其实...2019-2020的时候，华为家的麒麟990（老旗舰芯片）机子曾经干到过2K+档位，就是其它的配置很“性价比”（够用就行）\n(◞‸◟ )......\n如果华为做性价比，那么把老旗舰芯片下放或者当代旗舰芯阉割一下上中端机子，然后外围大刀...( ´ﾟжﾟ｀)\n（不对即刻删）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1936225006117413029",
+        "created_at": "2025-06-21T01:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T02:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936231219030892770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1830493173099208704",
+              "start": 0,
+              "username": "LeeWilliam99928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936231219030892770",
+        "in_reply_to_user_id": "1830493173099208704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936225006117413029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeWilliam99928 其实...2019-2020的时候，华为家的麒麟990（老旗舰芯片）机子曾经干到过2K+档位，就是其它的配置很“性价比”（够用就行）\n(◞‸◟ )......\n如果华为做性价比，那么把老旗舰芯片下放或者当代旗舰芯阉割一下上中端机子，然后外围大刀...( ´ﾟжﾟ｀)\n（不对即刻删）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830493173099208704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1936225006117413029",
+        "created_at": "2025-06-21T00:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T01:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936225006117413029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gjncho360716/s…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/gjncho360716/status/1935922740852347386",
+              "start": 134,
+              "url": "https://t.co/KLMOb9KGyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936225006117413029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935922740852347386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华为mate70按照中国人的工资购买力卖1999我不会喷他，现在他卖的比国行苹果三星都贵，很大利润就是到了官僚资本1亿体制内口袋里。\n中国人工资低，供应链整合高，其实制造成本比东南亚国家都低，有的东西卖得那么贵，明显就是国产品牌通过权力不对等垄断后开始作恶了 🤪🤪🤪 https://t.co/KLMOb9KGyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住回忆的点滴与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 7476,
+          "like_count": 620,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 1674
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T06:29:47.000Z",
+        "description": "",
+        "id": "1830493173099208704",
+        "name": "艾蓮·山魚·翁Eileen Mntfish Ong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927338057742565376/jgVUflE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 2374,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 470,
+          "tweet_count": 5012
+        },
+        "username": "LeeWilliam99928",
+        "verified": false
+      }
+    ]
+  }
+}

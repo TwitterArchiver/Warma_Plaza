@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1921193493583495354",
+    "created_at": "2025-05-10T14:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T15:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921214680283955264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803288616539668480",
+          "start": 0,
+          "username": "KitaIkuyo870"
+        },
+        {
+          "end": 30,
+          "id": "1915099918189867008",
+          "start": 14,
+          "username": "SenronBanka0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921214680283955264",
+    "in_reply_to_user_id": "1803288616539668480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921214148316172703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitaIkuyo870 @SenronBanka0721 (*ﾟﾛﾟ)/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1921193493583495354",
+        "created_at": "2025-05-10T14:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921214680283955264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803288616539668480",
+              "start": 0,
+              "username": "KitaIkuyo870"
+            },
+            {
+              "end": 30,
+              "id": "1915099918189867008",
+              "start": 14,
+              "username": "SenronBanka0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921214680283955264",
+        "in_reply_to_user_id": "1803288616539668480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921214148316172703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitaIkuyo870 @SenronBanka0721 (*ﾟﾛﾟ)/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803288616539668480",
+        "conversation_id": "1921193493583495354",
+        "created_at": "2025-05-10T14:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921214148316172703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915099918189867008",
+              "start": 0,
+              "username": "SenronBanka0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921214148316172703",
+        "in_reply_to_user_id": "1915099918189867008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921193493583495354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenronBanka0721 唉，你要不是跑别人帖子底下挑事，别人也不会拷打你😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临这里！每一篇动人的故事，每一个温暖的回忆，都终将被时空定格。祝愿各位都能永远幸福！不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3459,
+          "following_count": 7494,
+          "like_count": 580,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1349
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "ငါမင်းကိုကြိုက်တယ်၊ မင်းငါ့ကိုကြိုက်တယ်။",
+        "id": "1803288616539668480",
+        "location": "缅甸联邦共和国",
+        "name": "Kita Ikuyo",
+        "pinned_tweet_id": "1824905551681380465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899379290342617088/EZmnCJTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 517,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1413
+        },
+        "username": "KitaIkuyo870",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T17:46:36.000Z",
+        "description": "不熟：@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1915099918189867008",
+        "location": "Pasir Ris, Singapore🇸🇬",
+        "name": "叢我雨籍 茉我子籍",
+        "pinned_tweet_id": "1916927605779165208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915100316514619392/lpC36_36_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 297,
+          "like_count": 1253,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 727
+        },
+        "username": "SenronBanka0721",
+        "verified": false
+      }
+    ]
+  }
+}

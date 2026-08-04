@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2007712029696831619",
+    "created_at": "2026-01-06T11:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T12:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008499900338893254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008499900338893254",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007712029696831619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog (ŎдŎ|||)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27608,
+        "height": 1280,
+        "media_key": "7_2007711955981676544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007711955981676544/pu/img/tOg3KBjuA53-yEmi.jpg",
+        "public_metrics": {
+          "view_count": 656217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007711955981676544/pu/vid/avc1/320x568/J-Dxr2UU9pJul8PN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007711955981676544/pu/vid/avc1/480x852/2R4JTkyQh7JwEZ7l.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007711955981676544/pu/vid/avc1/720x1280/i4oQGwdiVTOImHHs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007711955981676544/pu/pl/cBsWYHYCE5X_pLL9.m3u8?v=37a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2007712029696831619",
+        "created_at": "2026-01-06T11:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008499900338893254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008499900338893254",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007712029696831619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog (ŎдŎ|||)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007711955981676544"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2007712029696831619",
+        "created_at": "2026-01-04T07:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007712029696831619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "中国斩杀线"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjsMMHHdJg",
+              "end": 38,
+              "expanded_url": "https://x.com/GFWfrog/status/2007712029696831619/video/1",
+              "media_key": "7_2007711955981676544",
+              "start": 15,
+              "url": "https://t.co/EjsMMHHdJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007712029696831619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 659,
+          "impression_count": 838389,
+          "like_count": 3009,
+          "quote_count": 24,
+          "reply_count": 237,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "#中国斩杀线\n\n😎 匿名投稿 https://t.co/EjsMMHHdJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~٩(๑•ㅂ•)۶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 7492,
+          "like_count": 677,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5482
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信投稿 新加坡/XJP/习近平粉丝群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 45,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 22,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 72,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 49,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸(习近平=新加坡=XJP)",
+        "pinned_tweet_id": "2007586275759665358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257520,
+          "following_count": 2205,
+          "like_count": 113152,
+          "listed_count": 880,
+          "media_count": 6295,
+          "tweet_count": 11694
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2080763622721233066",
+    "created_at": "2026-07-25T03:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080857018110497205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785683748006264833",
+          "start": 0,
+          "username": "ChenXu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080857018110497205",
+    "in_reply_to_user_id": "1785683748006264833",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080763622721233066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenXu233 (⁠ᗒ⁠ᗩ⁠ᗕ⁠)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080763622721233066].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080763622721233066",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080763622721233066"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2080763622721233066",
+        "created_at": "2026-07-25T03:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080857018110497205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785683748006264833",
+              "start": 0,
+              "username": "ChenXu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080857018110497205",
+        "in_reply_to_user_id": "1785683748006264833",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080763622721233066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenXu233 (⁠ᗒ⁠ᗩ⁠ᗕ⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5373,
+          "following_count": 7497,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 11509
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-01T14:52:46.000Z",
+        "description": "我还要趁着年轻好好变美",
+        "id": "1785683748006264833",
+        "location": "银河系",
+        "name": "齐诗煦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947514408609189888/ZcGI3ubV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 318,
+          "like_count": 11635,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2586
+        },
+        "url": "",
+        "username": "ChenXu233",
+        "verified": false
+      }
+    ]
+  }
+}

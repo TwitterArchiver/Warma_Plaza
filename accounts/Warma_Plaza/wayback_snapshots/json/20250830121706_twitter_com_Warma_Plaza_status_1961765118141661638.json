@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "1961753701996965951",
+    "created_at": "2025-08-30T12:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T13:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961765118141661638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883724954468057088",
+          "start": 0,
+          "username": "Itis_pft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961765118141661638",
+    "in_reply_to_user_id": "1883724954468057088",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961753701996965951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Itis_pft ((유∀유|||))"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "1961753701996965951",
+        "created_at": "2025-08-30T12:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961765118141661638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883724954468057088",
+              "start": 0,
+              "username": "Itis_pft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961765118141661638",
+        "in_reply_to_user_id": "1883724954468057088",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961753701996965951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Itis_pft ((유∀유|||))"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883724954468057088",
+        "conversation_id": "1961753701996965951",
+        "created_at": "2025-08-30T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961753701996965951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961753701996965951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "才发现我真的好久没上推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861717784486670336/KHpqsqd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4131,
+          "following_count": 7492,
+          "like_count": 661,
+          "listed_count": 8,
+          "media_count": 477,
+          "tweet_count": 2548
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T03:54:22.000Z",
+        "description": "可能是某人的另一个账户？无所谓吧？\n政治派别我从不站，帽子太高我戴不起\n不避讳任何话题，但并不讨论不感兴趣的东西【至于我说的话，真假自辩\n（简介中第2.3条绝对为真）】",
+        "id": "1883724954468057088",
+        "location": "无法被定义，甚至可能根本不存在的宫殿",
+        "name": "百变小丑帕霏特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907855971872874496/GjlUsYh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 721,
+          "like_count": 7361,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 5464
+        },
+        "username": "Itis_pft",
+        "verified": false
+      }
+    ]
+  }
+}
