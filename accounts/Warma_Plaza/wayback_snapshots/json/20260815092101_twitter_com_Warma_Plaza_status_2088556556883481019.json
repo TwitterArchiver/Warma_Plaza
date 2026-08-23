@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2088417161433719061",
+    "created_at": "2026-08-15T09:21:01.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088556556883481019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1242079997981937664",
+          "start": 0,
+          "username": "HaigeSenmokko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088556556883481019",
+    "in_reply_to_user_id": "1242079997981937664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088417161433719061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaigeSenmokko ᐡɞ̴̶̷⌁⚇⌁ɞ̴̶̷ᐡ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2088417161433719061",
+        "created_at": "2026-08-15T09:21:01.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088556556883481019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1242079997981937664",
+              "start": 0,
+              "username": "HaigeSenmokko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088556556883481019",
+        "in_reply_to_user_id": "1242079997981937664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088417161433719061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaigeSenmokko ᐡɞ̴̶̷⌁⚇⌁ɞ̴̶̷ᐡ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242079997981937664",
+        "conversation_id": "2088417161433719061",
+        "created_at": "2026-08-15T00:07:06.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088417161433719061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088417161433719061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拨乱反正，恢复原名"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2088556556883481019",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 7496,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 12642
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-23T13:25:33.000Z",
+        "description": "背井离乡的夫，\n快回到家乡的小屋，\n家乡是那么亲切，\n家乡是那么可爱，\n在忧愁中唱起快乐的歌……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@haigesenmokko",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@haigesenmokko",
+                "start": 0,
+                "url": "https://t.co/FUEZpwUVhA"
+              }
+            ]
+          }
+        },
+        "id": "1242079997981937664",
+        "is_identity_verified": false,
+        "location": "云香组",
+        "most_recent_tweet_id": "2088547800350851110",
+        "name": "灰毛川木香",
+        "pinned_tweet_id": "2078811517969920121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242079997981937664/1785814182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087894901744619520/uh4tSjLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 1677,
+          "like_count": 2404,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/FUEZpwUVhA",
+        "username": "HaigeSenmokko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
