@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2095850104737665368",
+    "created_at": "2026-09-05T12:17:03.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096211003478532370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096211003478532370",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095850104737665368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 （；￣д￣）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2095850104737665368",
+        "created_at": "2026-09-05T12:17:03.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096211003478532370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096211003478532370",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095850104737665368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 （；￣д￣）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2095850104737665368",
+        "created_at": "2026-09-04T12:22:58.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095850104737665368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Eliserette/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Eliserette/status/2095271635633029468",
+              "start": 32,
+              "url": "https://t.co/Fzs32ryMUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095850104737665368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14243,
+          "like_count": 184,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095271635633029468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也就是grok，换成豆包早给跨➗安排明明白白的地狱雅座一位了 https://t.co/Fzs32ryMUm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2096211003478532370",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5457,
+          "following_count": 7500,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 583,
+          "tweet_count": 12992
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu\n小游戏网站https://t.co/B8UuvKnzYf…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "biwabokubo1996.github.io/pugna2232.gith",
+                "end": 106,
+                "expanded_url": "http://biwabokubo1996.github.io/pugna2232.gith",
+                "start": 83,
+                "url": "https://t.co/B8UuvKnzYf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是tg频道",
+        "most_recent_tweet_id": "2096206392608833706",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2094787999112568989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17578,
+          "following_count": 1086,
+          "like_count": 133437,
+          "listed_count": 80,
+          "media_count": 3690,
+          "tweet_count": 32144
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

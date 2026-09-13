@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2092318986683949360",
+    "created_at": "2026-08-26T02:26:42.000Z",
+    "display_text_range": [
+      11,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T03:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092438559773118853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075187156268773376",
+          "start": 0,
+          "username": "seaskyfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092438559773118853",
+    "in_reply_to_user_id": "2075187156268773376",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092318986683949360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaskyfor (⸝⸝⸝&gt;`﹏ˊ&lt;⸝⸝⸝)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2092318976097591297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlpBe8bIAEg3D7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 696,
+        "media_key": "3_2092318981235601408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlpByFa8AAuh9H.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2092318986683949360",
+        "created_at": "2026-08-26T02:26:42.000Z",
+        "display_text_range": [
+          11,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092438559773118853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075187156268773376",
+              "start": 0,
+              "username": "seaskyfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092438559773118853",
+        "in_reply_to_user_id": "2075187156268773376",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092318986683949360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaskyfor (⸝⸝⸝&gt;`﹏ˊ&lt;⸝⸝⸝)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092318976097591297",
+            "3_2092318981235601408"
+          ]
+        },
+        "author_id": "2075187156268773376",
+        "conversation_id": "2092318986683949360",
+        "created_at": "2026-08-25T18:31:34.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092318986683949360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOG1Xg555E",
+              "end": 158,
+              "expanded_url": "https://x.com/seaskyfor/status/2092318986683949360/photo/1",
+              "media_key": "3_2092318976097591297",
+              "start": 135,
+              "url": "https://t.co/nOG1Xg555E"
+            },
+            {
+              "display_url": "pic.x.com/nOG1Xg555E",
+              "end": 158,
+              "expanded_url": "https://x.com/seaskyfor/status/2092318986683949360/photo/1",
+              "media_key": "3_2092318981235601408",
+              "start": 135,
+              "url": "https://t.co/nOG1Xg555E"
+            },
+            {
+              "display_url": "x.com/seaskyfor/stat…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/seaskyfor/status/2092138576444281262",
+              "start": 159,
+              "url": "https://t.co/DcoYFuJDIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092318986683949360",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092318976097591297"
+          },
+          {
+            "media_key": "3_2092318981235601408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这次突发情况  结局坦然  并非常规情况\n我父母以为很他们精明 想把人民警察当枪使  但警察不傻 我的事情涉及合肥 南京 杭州 宁波的公安局  需要多地区联合协助 同时我是成年人 在没有闭环证据链的前提下  警方不会拿守护国家平安的权力去赌我父母口中的满嘴谎话\n\n第一  我朋友的父母以证据不足和侵权将所有无关人员拒之门外 \n第二  当警方询问情况  我要求他们联系南京南站公安局  理由是南京处理我的案件  应由南京交接  \n第三  当120 医生查看我的情况并不符合我父母的谎言  医生让我签字便离开 \n第四  从一开始我就询问警方 医生 我是否可以拍摄 得到允许后便全程录音录像  \n\n总之  对于那些人来说 我就是个定时炸弹  随时可能爆炸  谁碰谁遭殃  带刺才能保护自己\n\n希望能帮助到那些受到家长迫害的朋友们"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4678,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092138576444281262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这次突发情况  结局坦然  并非常规情况\n我父母以为很他们精明 想把人民警察当枪使  但警察不傻 我的事情涉及合肥 南京 杭州 宁波的公安局  需要多地区联合协助 同时我是成年人 在没有闭环证据链的前提下  警方不会拿守护国家平安的权力去赌我父母口中的满嘴谎话\n\n第一 https://t.co/nOG1Xg555E https://t.co/DcoYFuJDIK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2092438559773118853",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5448,
+          "following_count": 7489,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 12813
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "永远的南京城 / 永远的illusion  / crypto trader / 许你岁岁平安 / 不像男生 不是女生 / 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2092427312121991467",
+        "name": "ill skysea",
+        "pinned_tweet_id": "2090228053733777908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 186,
+          "like_count": 114,
+          "listed_count": 4,
+          "media_count": 39,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

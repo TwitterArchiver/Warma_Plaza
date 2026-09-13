@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2097528254475227327",
+    "created_at": "2026-09-09T13:53:58.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097684945082646872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1635476041438461952",
+          "start": 0,
+          "username": "JiaweiShen2568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097684945082646872",
+    "in_reply_to_user_id": "1635476041438461952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097528254475227327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaweiShen2568 ⊙︿⊙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2097528254475227327",
+        "created_at": "2026-09-09T13:53:58.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097684945082646872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635476041438461952",
+              "start": 0,
+              "username": "JiaweiShen2568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097684945082646872",
+        "in_reply_to_user_id": "1635476041438461952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097528254475227327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaweiShen2568 ⊙︿⊙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635476041438461952",
+        "conversation_id": "2097528254475227327",
+        "created_at": "2026-09-09T03:31:20.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097528254475227327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097528254475227327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5449,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "毛主席万岁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2097684945082646872",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5459,
+          "following_count": 7490,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 583,
+          "tweet_count": 13013
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "is_identity_verified": false,
+        "location": "广州，深圳",
+        "most_recent_tweet_id": "2097680497832771783",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38388,
+          "following_count": 2410,
+          "like_count": 66122,
+          "listed_count": 132,
+          "media_count": 6481,
+          "tweet_count": 47031
+        },
+        "url": "",
+        "username": "JiaweiShen2568",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

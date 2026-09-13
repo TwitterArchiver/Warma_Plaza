@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2092531735867326545",
+    "created_at": "2026-08-26T15:48:19.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092640291367112961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1604181895721504771",
+          "start": 0,
+          "username": "mengtunwudaimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092640291367112961",
+    "in_reply_to_user_id": "1604181895721504771",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092531735867326545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengtunwudaimu (´ . .̫ . `)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 1072,
+        "media_key": "13_2092183196112941056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092183196112941056/img/wcbyqQfhMu0hz_ul.jpg",
+        "public_metrics": {
+          "view_count": 178651
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092183196112941056/vid/avc1/320x404/JUewqOtvtAJAipK5.mp4?tag=25"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092183196112941056/vid/avc1/480x606/DjSFhL5kvpUHbRE2.mp4?tag=25"
+          },
+          {
+            "bit_rate": 12128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092183196112941056/vid/avc1/848x1072/G1KBcw8sjZSqoQxQ.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092183196112941056/pl/hcy9v710drQ3mEsZ.m3u8?tag=25"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2092531735867326545",
+        "created_at": "2026-08-26T15:48:19.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092640291367112961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092640291367112961",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092531735867326545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu (´ . .̫ . `)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092183196112941056"
+          ],
+          "media_source_tweet_id": [
+            "2092183214303613094"
+          ]
+        },
+        "author_id": "1604181895721504771",
+        "conversation_id": "2092531735867326545",
+        "created_at": "2026-08-26T08:36:57.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092531735867326545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V7HQ9lQMP7",
+              "end": 46,
+              "expanded_url": "https://x.com/parksundal0528/status/2092183214303613094/video/1",
+              "media_key": "13_2092183196112941056",
+              "start": 23,
+              "url": "https://t.co/V7HQ9lQMP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092531735867326545",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092183196112941056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 16091,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "只有一个国家的品味在退化，你们觉得是哪一个？ https://t.co/V7HQ9lQMP7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2092640291367112961",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5450,
+          "following_count": 7497,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 12830
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "我爱大家",
+        "id": "1604181895721504771",
+        "is_identity_verified": false,
+        "location": "IP属地：南京",
+        "most_recent_tweet_id": "2092577917440348547",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1604181895721504771/1697508022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067680240068083713/vzZpnDsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14725,
+          "following_count": 3134,
+          "like_count": 31886,
+          "listed_count": 150,
+          "media_count": 2961,
+          "tweet_count": 18897
+        },
+        "url": "",
+        "username": "mengtunwudaimu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

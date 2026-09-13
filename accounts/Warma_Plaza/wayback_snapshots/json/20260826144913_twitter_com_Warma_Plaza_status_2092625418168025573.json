@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2092379584880853182",
+    "created_at": "2026-08-26T14:49:13.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092625418168025573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1668693781791784961",
+          "start": 0,
+          "username": "yifu0753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092625418168025573",
+    "in_reply_to_user_id": "1668693781791784961",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092379584880853182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifu0753 &lt;(。_。)&gt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2092379584880853182",
+        "created_at": "2026-08-26T14:49:13.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092625418168025573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1668693781791784961",
+              "start": 0,
+              "username": "yifu0753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092625418168025573",
+        "in_reply_to_user_id": "1668693781791784961",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092379584880853182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifu0753 &lt;(。_。)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668693781791784961",
+        "conversation_id": "2092379584880853182",
+        "created_at": "2026-08-25T22:32:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T23:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092379584880853182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092379584880853182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2549,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "去江城武汉了。但不是去找寒涟漪。以及各位以后也别@涟漪干预了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2092625418168025573",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5444,
+          "following_count": 7487,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 12821
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "is_identity_verified": false,
+        "location": "廣東省",
+        "most_recent_tweet_id": "2092540002836394377",
+        "name": "伊芙🍥",
+        "pinned_tweet_id": "2091038266661507372",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1440,
+          "like_count": 9795,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 2580
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

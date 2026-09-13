@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2092351164411163031",
+    "created_at": "2026-08-26T16:02:11.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092643779618701495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092643779618701495",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092351164411163031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle ╮(︶﹏︶)╭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092344770299613184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmAe51a0AAiZUU.jpg",
+        "width": 2276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2092351164411163031",
+        "created_at": "2026-08-26T16:02:11.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092643779618701495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092643779618701495",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092351164411163031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle ╮(︶﹏︶)╭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092344770299613184"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2092351164411163031",
+        "created_at": "2026-08-25T20:39:26.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:14:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092344788414829023",
+          "2092351164411163031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j67wv1cGba",
+              "end": 94,
+              "expanded_url": "https://x.com/ServalCandle/status/2092351164411163031/photo/1",
+              "media_key": "3_2092344770299613184",
+              "start": 71,
+              "url": "https://t.co/j67wv1cGba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092351164411163031",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092344770299613184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 28657,
+          "like_count": 224,
+          "quote_count": 10,
+          "reply_count": 66,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "做了没有什么实际意义的漫画_(:з」∠)_\n\n单纯是因为今天看到这两条推肩并肩出现在时间线上有点抽象（（（\n\n“跨性别也要参加男女对立吗？” https://t.co/j67wv1cGba"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2092643779618701495",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5450,
+          "following_count": 7498,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 12842
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2092642744422502442",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1773447136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077249341929164800/EBapClID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34178,
+          "following_count": 422,
+          "like_count": 237695,
+          "listed_count": 110,
+          "media_count": 9393,
+          "tweet_count": 61207
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

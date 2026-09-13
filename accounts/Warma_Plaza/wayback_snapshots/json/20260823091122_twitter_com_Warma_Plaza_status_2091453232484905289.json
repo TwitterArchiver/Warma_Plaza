@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2091452063733731654",
+    "created_at": "2026-08-23T09:11:22.000Z",
+    "display_text_range": [
+      8,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T10:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091453232484905289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1277855073565982721",
+          "start": 0,
+          "username": "zeguo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091453232484905289",
+    "in_reply_to_user_id": "1277855073565982721",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091452063733731654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeguo4 (⸝⸝⸝&gt;`﹏ˊ&lt;⸝⸝⸝)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091452063733731654].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091452063733731654",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091452063733731654"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2091452063733731654",
+        "created_at": "2026-08-23T09:11:22.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091453232484905289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1277855073565982721",
+              "start": 0,
+              "username": "zeguo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091453232484905289",
+        "in_reply_to_user_id": "1277855073565982721",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091452063733731654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeguo4 (⸝⸝⸝&gt;`﹏ˊ&lt;⸝⸝⸝)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2091453232484905289",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5448,
+          "following_count": 7499,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 12774
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-30T06:42:53.000Z",
+        "description": "新生代民主运动人士 实名抵制以中共为代表的大一统中华秩序 为墙内下一代做民主启蒙 消除造就极权的腐朽思想 我是自由主义者 自由斗士 欢迎中国匪警找我本人对峙",
+        "id": "1277855073565982721",
+        "is_identity_verified": false,
+        "location": "中国陕西省延安市延川县梁家河村",
+        "most_recent_tweet_id": "2063184623367315842",
+        "name": "墙国脱北者",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1277855073565982721/1748189930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926674281464774656/beCIq_Im_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 35,
+          "like_count": 2932,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 3559
+        },
+        "url": "",
+        "username": "zeguo4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

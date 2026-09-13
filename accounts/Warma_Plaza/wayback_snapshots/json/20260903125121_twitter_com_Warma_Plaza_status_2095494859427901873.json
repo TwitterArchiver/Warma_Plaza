@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2095483696979788025",
+    "created_at": "2026-09-03T12:51:21.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095494859427901873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1664742004423794688",
+          "start": 0,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095494859427901873",
+    "in_reply_to_user_id": "1664742004423794688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095483696979788025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwayne (ﾟ⊿ﾟ)ﾂ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2095483696979788025",
+        "created_at": "2026-09-03T12:51:21.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095494859427901873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095494859427901873",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095483696979788025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne (ﾟ⊿ﾟ)ﾂ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664742004423794688",
+        "conversation_id": "2095483696979788025",
+        "created_at": "2026-09-03T12:07:00.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095483696979788025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095483696979788025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见过一些非常离谱的故障或者事故\n\n比如在上海的一家金融机构，他们为了所谓的绿色环保，周末把机房的空调给关了\n\n注意，不是独立的空调啊。结果导致服务器宕机，责任全在公司。\n\n派工程师去现场的时候，门一打开，还以为机房着火了呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2095494859427901873",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5457,
+          "following_count": 7499,
+          "like_count": 679,
+          "listed_count": 7,
+          "media_count": 583,
+          "tweet_count": 12922
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🇦🇺PhD ing @UQ_News | 医学与经济学\n创造知识，创造价值\nAIPC玩家，AI知识库 & GEO & 本地模型\n持续开源：AIPC小白入门指南｜FDE作战计划\n我的科研skill：https://t.co/lS7xJPBj3X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "UQ_News"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/ozrwayne/rw-re…",
+                "end": 121,
+                "expanded_url": "https://github.com/ozrwayne/rw-research-skill",
+                "start": 98,
+                "url": "https://t.co/lS7xJPBj3X"
+              }
+            ]
+          }
+        },
+        "id": "1664742004423794688",
+        "is_identity_verified": false,
+        "location": "Australia",
+        "most_recent_tweet_id": "2095491247699820689",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2094762479599632516",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664742004423794688/1786454680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57035,
+          "following_count": 871,
+          "like_count": 43054,
+          "listed_count": 283,
+          "media_count": 8259,
+          "tweet_count": 24858
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

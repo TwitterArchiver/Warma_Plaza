@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2091013999982969161",
+    "created_at": "2026-08-22T13:11:19.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091151229791658427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091151229791658427",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091013999982969161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir (ᗒᗣᗕ)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65573,
+        "height": 1280,
+        "media_key": "13_2091013429394018304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091013429394018304/img/y4i1tXMB-ne88VVs.jpg",
+        "public_metrics": {
+          "view_count": 1777
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091013429394018304/vid/avc1/320x568/x9AmAfsfxJZh8PMX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091013429394018304/vid/avc1/480x852/-cE_TuCXPoQUlVxY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091013429394018304/vid/avc1/720x1280/ByskczKfdrt3Xrz8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091013429394018304/pl/8-RJ4DXX3_CGFVaT.m3u8?v=ddc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2091013999982969161",
+        "created_at": "2026-08-22T13:11:19.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091151229791658427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091151229791658427",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091013999982969161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir (ᗒᗣᗕ)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091013429394018304"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2091013999982969161",
+        "created_at": "2026-08-22T04:06:01.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091013999982969161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHWnOt4lnU",
+              "end": 61,
+              "expanded_url": "https://x.com/bigjusir/status/2091013999982969161/video/1",
+              "media_key": "13_2091013429394018304",
+              "start": 38,
+              "url": "https://t.co/lHWnOt4lnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091013999982969161",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091013429394018304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3836,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "今天是马列左臂和目田最严厉的父亲，邓小平同志122周年的生日\n\n向他致敬！ https://t.co/lHWnOt4lnU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2091151229791658427",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5441,
+          "following_count": 7498,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 12742
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，私信互fo)\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "bigjusir"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "littlejusir"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2091128722485309744",
+        "name": "jusir",
+        "pinned_tweet_id": "2087100350092181848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523,
+          "following_count": 3677,
+          "like_count": 8202,
+          "listed_count": 11,
+          "media_count": 1005,
+          "tweet_count": 4264
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
