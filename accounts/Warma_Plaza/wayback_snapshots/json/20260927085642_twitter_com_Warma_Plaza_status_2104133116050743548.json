@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2103296051038093417",
+    "created_at": "2026-09-27T08:56:42.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104133116050743548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1764133814824284160",
+          "start": 0,
+          "username": "_jun11__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104133116050743548",
+    "in_reply_to_user_id": "1764133814824284160",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103296051038093417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_jun11__ ( ๑ŏ ﹏ ŏ๑ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2103296051038093417",
+        "created_at": "2026-09-27T08:56:42.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104133116050743548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1764133814824284160",
+              "start": 0,
+              "username": "_jun11__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104133116050743548",
+        "in_reply_to_user_id": "1764133814824284160",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103296051038093417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_jun11__ ( ๑ŏ ﹏ ŏ๑ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764133814824284160",
+        "conversation_id": "2103296051038093417",
+        "created_at": "2026-09-25T01:30:30.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T02:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103296051038093417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103296051038093417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 33633,
+          "like_count": 1027,
+          "quote_count": 5,
+          "reply_count": 228,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "台灣是一個國家🇹🇼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2104133116050743548",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 586,
+          "tweet_count": 13295
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-03T03:41:19.000Z",
+        "description": "🇲🇾🇹🇼",
+        "id": "1764133814824284160",
+        "is_identity_verified": false,
+        "location": "Malaysia",
+        "most_recent_tweet_id": "2103661678466670990",
+        "name": "ジュン",
+        "pinned_tweet_id": "2094974579093729704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1764133814824284160/1787246943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519988477911040/0c78wXnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 57,
+          "like_count": 68471,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 7249
+        },
+        "url": "",
+        "username": "_jun11__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

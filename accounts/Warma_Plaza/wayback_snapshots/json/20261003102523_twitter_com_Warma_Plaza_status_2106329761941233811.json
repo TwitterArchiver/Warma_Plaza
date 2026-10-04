@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2106246304921714761",
+    "created_at": "2026-10-03T10:25:23.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106329761941233811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050914237397286912",
+          "start": 0,
+          "username": "FurukawaNagisaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106329761941233811",
+    "in_reply_to_user_id": "2050914237397286912",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106246304921714761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurukawaNagisaa (O_O)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10356,
+        "height": 720,
+        "media_key": "13_2106246270809444352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106246270809444352/img/-oOqQeFrxwygQWX2.jpg",
+        "public_metrics": {
+          "view_count": 7649
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106246270809444352/vid/avc1/360x270/tX0FjpKYAYemfJq3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106246270809444352/vid/avc1/482x360/Gd0QI2GpkAHhoFgJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106246270809444352/vid/avc1/964x720/euWT60ZYzrT4k5gF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106246270809444352/pl/xCQJln_Xg3wd4XXy.m3u8?v=a43"
+          }
+        ],
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2106246304921714761",
+        "created_at": "2026-10-03T10:25:23.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106329761941233811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050914237397286912",
+              "start": 0,
+              "username": "FurukawaNagisaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106329761941233811",
+        "in_reply_to_user_id": "2050914237397286912",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106246304921714761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurukawaNagisaa (O_O)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106246270809444352"
+          ]
+        },
+        "author_id": "2050914237397286912",
+        "conversation_id": "2106246304921714761",
+        "created_at": "2026-10-03T04:53:45.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106246304921714761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAZLHwmr3U",
+              "end": 83,
+              "expanded_url": "https://x.com/FurukawaNagisaa/status/2106246304921714761/video/1",
+              "media_key": "13_2106246270809444352",
+              "start": 60,
+              "url": "https://t.co/qAZLHwmr3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106246304921714761",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106246270809444352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 11537,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "民主宪政的风格才是王道\n你那修宪连任根本没技巧\n萌趣的维尼才受大众喜爱\n你那民主集中早就被时代落败\n转载自 小习没烦恼 https://t.co/qAZLHwmr3U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2106329761941233811",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5483,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 13529
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T12:24:20.000Z",
+        "description": "我是睿睿Chiang｜如果你愿意的话可以叫我Ricky🥰……\n戾气跟刻薄麻烦走走开，友善与美好请进来看看^_^\n问我问题：https://t.co/VkGmIzO2UF\n宝宝🥺：@maorenzhina8964💗\nOsaka是Osaka，明乃是明乃\nOsaka跟明乃一边一人😡👊🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "maorenzhina8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jrz121",
+                "end": 84,
+                "expanded_url": "https://ngl.link/jrz121",
+                "start": 61,
+                "url": "https://t.co/VkGmIzO2UF"
+              }
+            ]
+          }
+        },
+        "id": "2050914237397286912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106329162793558315",
+        "name": "东云第20099号",
+        "pinned_tweet_id": "2104479713809027531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050914237397286912/1790689086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092617589990309888/D1YlTBgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 141,
+          "like_count": 1928,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "FurukawaNagisaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

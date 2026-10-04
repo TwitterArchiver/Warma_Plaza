@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2104415290805379147",
+    "created_at": "2026-09-28T14:04:06.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T15:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104572865261511114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104572865261511114",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104415290805379147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 （＿ε＿）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 459917,
+        "height": 720,
+        "media_key": "13_2104415044738207745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104415044738207745/img/RuE9Fw7MxHGuBW43.jpg",
+        "public_metrics": {
+          "view_count": 1577
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/vid/avc1/480x270/f1TE_pGyT0yKbBpe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/vid/avc1/640x360/Y1husP-ARemnWTEh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/vid/avc1/1280x720/rqQ9mg_oGgfBTqXV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/pl/VMl9pJZ_5p2aFDVX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2104415290805379147",
+        "created_at": "2026-09-28T14:04:06.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104572865261511114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104572865261511114",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104415290805379147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 （＿ε＿）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104415044738207745"
+          ]
+        },
+        "author_id": "1853777198018404352",
+        "conversation_id": "2104415290805379147",
+        "created_at": "2026-09-28T03:37:58.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104415290805379147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1x2khYBlXP",
+              "end": 29,
+              "expanded_url": "https://x.com/huthawar17115/status/2104415290805379147/video/1",
+              "media_key": "13_2104415044738207745",
+              "start": 6,
+              "url": "https://t.co/1x2khYBlXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104415290805379147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104415044738207745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 3428,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "键政小剧场 https://t.co/1x2khYBlXP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2104572865261511114",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5471,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 586,
+          "tweet_count": 13362
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/我只是想安心上网而已、请晶哥、粉红、极端人士不要来找我麻烦 我是纯良人/🚪1919180VND",
+        "id": "1853777198018404352",
+        "is_identity_verified": false,
+        "location": "距离你4.2光年",
+        "most_recent_tweet_id": "2104554265587171390",
+        "name": "✠葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853777198018404352/1751728134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 1869,
+          "like_count": 53487,
+          "listed_count": 6,
+          "media_count": 1488,
+          "tweet_count": 18731
+        },
+        "url": "",
+        "username": "huthawar17115",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

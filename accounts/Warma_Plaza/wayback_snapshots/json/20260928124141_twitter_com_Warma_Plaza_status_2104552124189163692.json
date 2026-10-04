@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2104230449107370231",
+    "created_at": "2026-09-28T12:41:41.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104552124189163692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822130523059490816",
+          "start": 0,
+          "username": "Girl_in_HuaXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104552124189163692",
+    "in_reply_to_user_id": "1822130523059490816",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104230449107370231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Girl_in_HuaXi (╥_╥)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1197,
+        "media_key": "3_2104230429155008512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO6bTdaIAA6IaM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1976,
+        "media_key": "3_2104230439812759552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO6b7KagAAju3Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2104230449107370231",
+        "created_at": "2026-09-28T12:41:41.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104552124189163692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822130523059490816",
+              "start": 0,
+              "username": "Girl_in_HuaXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104552124189163692",
+        "in_reply_to_user_id": "1822130523059490816",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104230449107370231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Girl_in_HuaXi (╥_╥)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104230429155008512",
+            "3_2104230439812759552"
+          ]
+        },
+        "author_id": "1822130523059490816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2104230449107370231",
+        "created_at": "2026-09-27T15:23:28.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104230449107370231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04YwqsVrnI",
+              "end": 96,
+              "expanded_url": "https://x.com/Girl_in_HuaXi/status/2104230449107370231/photo/1",
+              "media_key": "3_2104230429155008512",
+              "start": 73,
+              "url": "https://t.co/04YwqsVrnI"
+            },
+            {
+              "display_url": "pic.x.com/04YwqsVrnI",
+              "end": 96,
+              "expanded_url": "https://x.com/Girl_in_HuaXi/status/2104230449107370231/photo/1",
+              "media_key": "3_2104230439812759552",
+              "start": 73,
+              "url": "https://t.co/04YwqsVrnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104230449107370231",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104230429155008512"
+          },
+          {
+            "media_key": "3_2104230439812759552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5307,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当我们把这两个帖子放在一起看的时候，总感觉有点莫名喜感，人还是要有一些妄想的，不保持着让习近平让位给自己当首相的幻想，拿什么让自己坚持送外卖…… https://t.co/04YwqsVrnI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2104552124189163692",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5470,
+          "following_count": 7497,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 586,
+          "tweet_count": 13344
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T04:39:22.000Z",
+        "description": "爱生活、爱分享的女孩，欢迎互 fo～",
+        "id": "1822130523059490816",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2104488959166279949",
+        "name": "姜是姜子牙的姜",
+        "pinned_tweet_id": "1849756018974261522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822130523059490816/1724166523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825469312129273856/VCJMMvTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9084,
+          "following_count": 4619,
+          "like_count": 46467,
+          "listed_count": 45,
+          "media_count": 2874,
+          "tweet_count": 14599
+        },
+        "url": "",
+        "username": "Girl_in_HuaXi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

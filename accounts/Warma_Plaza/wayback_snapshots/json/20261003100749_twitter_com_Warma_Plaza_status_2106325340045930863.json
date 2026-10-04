@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2105867149214703698",
+    "created_at": "2026-10-03T10:07:49.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106325340045930863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1653278595719081986",
+          "start": 0,
+          "username": "QuanLujun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106325340045930863",
+    "in_reply_to_user_id": "1653278595719081986",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105867149214703698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuanLujun :("
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29747,
+        "height": 1048,
+        "media_key": "13_2105866245182787584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105866245182787584/img/Qrerca_cjzvlhoTP.jpg",
+        "public_metrics": {
+          "view_count": 217139
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105866245182787584/vid/avc1/320x464/UDH-WiI9Y6uubsgZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105866245182787584/vid/avc1/480x698/A9st_eMUWFVhHG4K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105866245182787584/vid/avc1/720x1048/6ocMwkWlXXX137ov.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105866245182787584/pl/xT21mdLznwFs8dq-.m3u8?v=67c"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1539,
+        "media_key": "3_2105866245170184192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmKMU_awAAhe9h.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2105867149214703698",
+        "created_at": "2026-10-03T10:07:49.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106325340045930863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1653278595719081986",
+              "start": 0,
+              "username": "QuanLujun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106325340045930863",
+        "in_reply_to_user_id": "1653278595719081986",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105867149214703698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuanLujun :("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105866245182787584",
+            "3_2105866245170184192"
+          ]
+        },
+        "author_id": "1653278595719081986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105867149214703698",
+        "created_at": "2026-10-02T03:47:08.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:43:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105866345976058162",
+          "2105867149214703698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xw1Ya9aB8n",
+              "end": 166,
+              "expanded_url": "https://x.com/QuanLujun/status/2105867149214703698/video/1",
+              "media_key": "13_2105866245182787584",
+              "start": 143,
+              "url": "https://t.co/Xw1Ya9aB8n"
+            },
+            {
+              "display_url": "pic.x.com/Xw1Ya9aB8n",
+              "end": 166,
+              "expanded_url": "https://x.com/QuanLujun/status/2105867149214703698/video/1",
+              "media_key": "3_2105866245170184192",
+              "start": 143,
+              "url": "https://t.co/Xw1Ya9aB8n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105867149214703698",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2105866245182787584"
+          },
+          {
+            "media_key": "3_2105866245170184192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "中国可怕的“打生桩”，就是将活人浇筑在水泥建筑的地基之中，大多是被骗，就像这名毫不知情的大学生。用毫无人性来形容用还是太过肤浅，这简直就是阴险邪恶至极！幸好有人及时发现这名大学生才避免邪恶的发生，中国每年都有好几百万人消失…，网友形容到“我们距离文明还有几万年”，何止几万年，有了中共的加持，前面还得再加一个负号！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 291757,
+          "like_count": 1280,
+          "quote_count": 51,
+          "reply_count": 146,
+          "retweet_count": 431
+        },
+        "reply_settings": "everyone",
+        "text": "中国可怕的“打生桩”，就是将活人浇筑在水泥建筑的地基之中，大多是被骗，就像这名毫不知情的大学生。用毫无人性来形容用还是太过肤浅，这简直就是阴险邪恶至极！幸好有人及时发现这名大学生才避免邪恶的发生，中国每年都有好几百万人消失…，网友形容到“我们距离文明还有几万年”，何止几万年，有了中共 https://t.co/Xw1Ya9aB8n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2106325340045930863",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5482,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 13513
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T06:02:43.000Z",
+        "description": "台湾就是台湾；守护民主自由就是守护普世价值与人类的底线未来，对邪恶中共说不！结束习近平皇帝中共封建独裁专制纳粹暴政祸害世界；「世界需要真实的声音」 ！🔥【欢迎加入反共电报群https://t.co/xxJHoK35Yl】基督✝️文明世界必将战胜邪恶撒旦；守护民主自由/荣耀基督联盟 Luke-权录军",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_MojCr8soxMyN…",
+                "end": 109,
+                "expanded_url": "https://t.me/+_MojCr8soxMyNGEx",
+                "start": 86,
+                "url": "https://t.co/xxJHoK35Yl"
+              }
+            ]
+          }
+        },
+        "id": "1653278595719081986",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2106298662066479390",
+        "name": "LuJun Quan",
+        "pinned_tweet_id": "2101207120050106637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653278595719081986/1761814774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780063090182365184/OY7ky_fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34731,
+          "following_count": 11095,
+          "like_count": 41822,
+          "listed_count": 148,
+          "media_count": 4463,
+          "tweet_count": 22914
+        },
+        "url": "",
+        "username": "QuanLujun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

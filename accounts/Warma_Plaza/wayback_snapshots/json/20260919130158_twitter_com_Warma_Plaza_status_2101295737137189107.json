@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2101294912239259791",
+    "created_at": "2026-09-19T13:01:58.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101295737137189107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770121572600225801",
+          "start": 0,
+          "username": "BBC1145148964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101295737137189107",
+    "in_reply_to_user_id": "1770121572600225801",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101294912239259791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BBC1145148964 (´ . .̫ . `)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2101294912239259791",
+        "created_at": "2026-09-19T13:01:58.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101295737137189107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770121572600225801",
+              "start": 0,
+              "username": "BBC1145148964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101295737137189107",
+        "in_reply_to_user_id": "1770121572600225801",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101294912239259791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BBC1145148964 (´ . .̫ . `)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770121572600225801",
+        "conversation_id": "2101294912239259791",
+        "created_at": "2026-09-19T12:58:41.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101294912239259791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101294912239259791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一個中國人.我正在學習日語.每當我感覺學不下去的時候.我就會看著書桌上面印著BUNDESREPUBLIK DEUTSCHLAND的豬肝紅.看了一下又有動力學習一個小時了."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2101295737137189107",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5453,
+          "following_count": 7501,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 13135
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-19T16:14:23.000Z",
+        "description": "一般路过大陆屁民,中国戶口,中国手机,不结婚,不生娃,不买车,不买房,愛说话,沒米线,不要盒我,并更改了自己的定位保护自己住的地方",
+        "id": "1770121572600225801",
+        "is_identity_verified": false,
+        "location": "0.01m",
+        "most_recent_tweet_id": "2101294912239259791",
+        "name": "Surpresa🎭",
+        "pinned_tweet_id": "2071265388948775394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1770121572600225801/1789313580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096523017795088384/vhXUpUDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 126,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1434
+        },
+        "url": "",
+        "username": "BBC1145148964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

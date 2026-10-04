@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2104085074018783680",
+    "created_at": "2026-09-27T08:46:26.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104130534402404671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974041928552624130",
+          "start": 0,
+          "username": "detectivepeter0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104130534402404671",
+    "in_reply_to_user_id": "1974041928552624130",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104085074018783680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@detectivepeter0 (⋟﹏⋞)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2104085059951005696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTM2Ns-WEAAL5he.jpg",
+        "width": 700
+      },
+      {
+        "height": 810,
+        "media_key": "3_2104085059984666624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTM2NtGXsAA-T4d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 547,
+        "media_key": "3_2104085060810858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTM2NwLWYAAFJ6t.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2104085074018783680",
+        "created_at": "2026-09-27T08:46:26.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104130534402404671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974041928552624130",
+              "start": 0,
+              "username": "detectivepeter0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104130534402404671",
+        "in_reply_to_user_id": "1974041928552624130",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104085074018783680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@detectivepeter0 (⋟﹏⋞)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104085059951005696",
+            "3_2104085059984666624",
+            "3_2104085060810858496"
+          ]
+        },
+        "author_id": "1974041928552624130",
+        "conversation_id": "2104085074018783680",
+        "created_at": "2026-09-27T05:45:48.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104085074018783680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MMN171MmDz",
+              "end": 129,
+              "expanded_url": "https://x.com/detectivepeter0/status/2104085074018783680/photo/1",
+              "media_key": "3_2104085059951005696",
+              "start": 106,
+              "url": "https://t.co/MMN171MmDz"
+            },
+            {
+              "display_url": "pic.x.com/MMN171MmDz",
+              "end": 129,
+              "expanded_url": "https://x.com/detectivepeter0/status/2104085074018783680/photo/1",
+              "media_key": "3_2104085059984666624",
+              "start": 106,
+              "url": "https://t.co/MMN171MmDz"
+            },
+            {
+              "display_url": "pic.x.com/MMN171MmDz",
+              "end": 129,
+              "expanded_url": "https://x.com/detectivepeter0/status/2104085074018783680/photo/1",
+              "media_key": "3_2104085060810858496",
+              "start": 106,
+              "url": "https://t.co/MMN171MmDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104085074018783680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104085059951005696"
+          },
+          {
+            "media_key": "3_2104085059984666624"
+          },
+          {
+            "media_key": "3_2104085060810858496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "历史上的今天：\n1992年9月27日下午6时，中国著名漫画家张乐平在上海华东医院病逝，享年82岁。今天是他离开34周年的日子。那个大脑袋、圆鼻头、头顶只剩三根头发的小男孩“三毛”，至今仍活在几代中国人的记忆里。 \n\n张乐平1910年11月10日出生于浙江海盐海塘乡黄庵头村。父亲是乡村教师，母亲擅长刺绣和剪纸，是他最早的美术启蒙者。少年时他就画过讽刺曹锟贿选的漫画《一豕负五千元》。1935年春夏之交，他在上海创作出三毛这一形象，最初是为了通过孩子的眼睛，表现战争与贫困带给底层儿童的苦难。 \n\n抗战爆发后，他加入抗战漫画宣传队，辗转多地宣传抗日。战后回到上海，1946年在《申报》连载《三毛从军记》，1947年在《大公报》连载《三毛流浪记》，作品以近乎无字的画面，把旧上海流浪儿童的饥饿、屈辱、善良与顽强画了出来，引起强烈社会反响。1949年，在宋庆龄支持下，他还义卖原作筹款创办“三毛乐园”，救助流浪儿童。\n\n1983年起他患上严重帕金森氏症，手抖得厉害，仍坚持作画。1991年4月4日，他在《解放日报》发表最后一幅漫画《猫哺鼠》。同年冬，他决定将《三毛从军记》原稿捐给上海美术馆。\n\n晚年还有一段两岸佳话。台湾女作家陈平因幼时读《三毛流浪记》而取笔名“三毛”。1989年4月，她专程来上海五原路张家，当面喊张乐平夫妇“爸爸妈妈”，并在张家住了数日。张乐平感叹：“没有想到画三毛会‘画’出个女儿来。”他后来以《我的“女儿”三毛》一文获中央人民广播电台“海峡两岸情”征文特等奖。台湾作家三毛1991年自杀去世后，张乐平十分痛心。\n\n电影《三毛从军记》的拍摄，正是在他住院期间进行的。导演张建亚1991年初去找他谈改编，当时张乐平已经在病榻上，起初很犹豫，觉得三毛像自己的亲骨肉，担心电影拍不出漫画的神韵。剧组多次沟通后，他才同意授权，并被署名为编剧之一。拍摄大约持续了三个多月。他的夫人冯雏音去过片场探班。剧组原本还想把张乐平把《三毛从军记》原稿捐给上海美术馆的仪式拍进电影当结尾，器材都运到了美术馆，结果前一天晚上他住进医院，仪式取消。电影在1992年10月8日上映，然而张乐平老师在9月27日就去世了，最终仍然没能等到电影杀青的那一天，这对于《三毛从军记》的导演、剧组和张乐平的家人都是极其巨大的遗憾。\n\n今天是张乐平老师去世34周年，他生前对中国的漫画事业和美术发展有着深远的影响，在当时国弱民贫的中国建起独属中国人的文化自豪，而他亲手创造的三毛形象则仍然用“打不死、压不垮”的精神激励着当下的文娱工作者和更多在现实生活中找不到希望的普通人们。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "历史上的今天：\n1992年9月27日下午6时，中国著名漫画家张乐平在上海华东医院病逝，享年82岁。今天是他离开34周年的日子。那个大脑袋、圆鼻头、头顶只剩三根头发的小男孩“三毛”，至今仍活在几代中国人的记忆里。 https://t.co/MMN171MmDz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2104130534402404671",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 6,
+          "media_count": 586,
+          "tweet_count": 13293
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-03T09:20:58.000Z",
+        "description": "驯宠大师：家里养了一条狗，一头熊和一匹狼。\n历史细节复原家：专业复刻古代近现代平民小人的生活细节和气候变化！\n瓷洗太后：专注治理小粉红、基本盘、二次元小保一百五十年，信誉极优！",
+        "id": "1974041928552624130",
+        "is_identity_verified": false,
+        "location": "Sydney, New South Wales",
+        "most_recent_tweet_id": "2104121580682911875",
+        "name": "名偵探格里芬",
+        "pinned_tweet_id": "2079150154196652244",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974041928552624130/1765701353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974042321475022850/qMxpZnR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 614,
+          "like_count": 37728,
+          "listed_count": 1,
+          "media_count": 493,
+          "tweet_count": 3449
+        },
+        "url": "",
+        "username": "detectivepeter0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

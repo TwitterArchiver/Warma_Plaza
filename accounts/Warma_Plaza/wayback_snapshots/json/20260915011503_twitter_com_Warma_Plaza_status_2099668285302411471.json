@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2099394836839502049",
+    "created_at": "2026-09-15T01:15:03.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T02:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099668285302411471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047295680138362880",
+          "start": 0,
+          "username": "littlejusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099668285302411471",
+    "in_reply_to_user_id": "2047295680138362880",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099394836839502049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlejusir :("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2474,
+        "media_key": "3_2099394487625867264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKMKdZaYAApCFo.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2099394836839502049",
+        "created_at": "2026-09-15T01:15:03.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T02:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099668285302411471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047295680138362880",
+              "start": 0,
+              "username": "littlejusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099668285302411471",
+        "in_reply_to_user_id": "2047295680138362880",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099394836839502049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlejusir :("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099394487625867264"
+          ]
+        },
+        "author_id": "2047295680138362880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2099394836839502049",
+        "created_at": "2026-09-14T07:08:28.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099394836839502049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1y3VWMF9q",
+              "end": 93,
+              "expanded_url": "https://x.com/littlejusir/status/2099394836839502049/photo/1",
+              "media_key": "3_2099394487625867264",
+              "start": 70,
+              "url": "https://t.co/P1y3VWMF9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099394836839502049",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099394487625867264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某地铁上的女执勤人员不顾地铁站内不能抽烟的规定，笑眯眯的亲自给洋人点烟\n\n原视频已被抖音平台官方强制删除，比删除侮辱习近平的视频还要快👍🏻 https://t.co/P1y3VWMF9q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2099668285302411471",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5454,
+          "following_count": 7498,
+          "like_count": 680,
+          "listed_count": 7,
+          "media_count": 584,
+          "tweet_count": 13090
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T12:45:27.000Z",
+        "description": "中国人，互fo\n\n大号@bigjusir\n二号机@littlejusir\n三号机@jusirlieyan\n\n自制AI图转载请勿去除水印",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "bigjusir"
+              },
+              {
+                "end": 36,
+                "start": 24,
+                "username": "littlejusir"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "jusirlieyan"
+              }
+            ]
+          }
+        },
+        "id": "2047295680138362880",
+        "is_identity_verified": true,
+        "location": "中华人民共和国",
+        "most_recent_tweet_id": "2099457328592695617",
+        "name": "jusir的二号机(求关)",
+        "pinned_tweet_id": "2078785397061005348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047295680138362880/1781274652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078783984847237120/YXgravfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 903,
+          "like_count": 1931,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "littlejusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2106265997070262416",
+    "created_at": "2026-10-03T09:59:49.000Z",
+    "display_text_range": [
+      19,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106323325785952313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        },
+        {
+          "end": 18,
+          "id": "1882678524596867072",
+          "start": 10,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106323325785952313",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106265997070262416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen @gdioiui (●︿●)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2106265935204274176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr1tWZbUAAXAr1.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2106265997070262416",
+        "created_at": "2026-10-03T09:59:49.000Z",
+        "display_text_range": [
+          19,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106323325785952313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            },
+            {
+              "end": 18,
+              "id": "1882678524596867072",
+              "start": 10,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106323325785952313",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106265997070262416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen @gdioiui (●︿●)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106265935204274176"
+          ]
+        },
+        "author_id": "1955218488185982980",
+        "conversation_id": "2106265997070262416",
+        "created_at": "2026-10-03T06:12:00.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106265997070262416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1882678524596867072",
+              "start": 18,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzuFqwQ6gm",
+              "end": 60,
+              "expanded_url": "https://x.com/bbbkamen/status/2106265997070262416/photo/1",
+              "media_key": "3_2106265935204274176",
+              "start": 37,
+              "url": "https://t.co/ZzuFqwQ6gm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106265997070262416",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106265935204274176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1512,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紧急！紧急！🆘圣三一被关在精卫求救！@gdioiui\n（怎么看着像假的） https://t.co/ZzuFqwQ6gm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2106323325785952313",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5481,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 13507
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "MTF？/MTX/出厂日09.7.11/164cm/50kg/高二物化生/不政/🍥💊/正在尝试炒作/周末党/家长严管党（不管党？）/最喜欢的宝@sukimiku0831/前世@aaakamen来生@ccckamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "sukimiku0831"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "aaakamen"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "ccckamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "is_identity_verified": false,
+        "location": "内蒙++这地方真的有同类吗",
+        "most_recent_tweet_id": "2106279548254113982",
+        "name": "☬脊髓☬S. cord",
+        "pinned_tweet_id": "2073474277446434873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955218488185982980/1778319324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 337,
+          "like_count": 4234,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "bbbkamen",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "最喜欢的僚舰@kurazawanaki\n首次编译 08.12.3\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2106316498390393250",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3401,
+          "following_count": 485,
+          "like_count": 5501,
+          "listed_count": 5,
+          "media_count": 1999,
+          "tweet_count": 9428
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

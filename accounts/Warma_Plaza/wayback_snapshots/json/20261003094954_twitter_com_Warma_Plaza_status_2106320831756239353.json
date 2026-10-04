@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2106064263957934555",
+    "created_at": "2026-10-03T09:49:54.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106320831756239353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2087271762165915648",
+          "start": 0,
+          "username": "LeNai_tuzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106320831756239353",
+    "in_reply_to_user_id": "2087271762165915648",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106064263957934555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeNai_tuzhi (＠_＠;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36100,
+        "height": 1280,
+        "media_key": "13_2106064157263212544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106064157263212544/img/lAfob0u8c9HuJQ55.jpg",
+        "public_metrics": {
+          "view_count": 45949
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106064157263212544/vid/avc1/320x568/xpnbxU17tS8PVweb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106064157263212544/vid/avc1/480x852/B5JafC57mEARzNsu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106064157263212544/vid/avc1/720x1280/VL-ZcPXpc6FAMiY0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106064157263212544/pl/8VGpi_WsjucYAc-w.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2106064263957934555",
+        "created_at": "2026-10-03T09:49:54.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106320831756239353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2087271762165915648",
+              "start": 0,
+              "username": "LeNai_tuzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106320831756239353",
+        "in_reply_to_user_id": "2087271762165915648",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106064263957934555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeNai_tuzhi (＠_＠;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106064157263212544"
+          ]
+        },
+        "author_id": "2087271762165915648",
+        "conversation_id": "2106064263957934555",
+        "created_at": "2026-10-02T16:50:23.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106064263957934555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRXvwVr8N1",
+              "end": 47,
+              "expanded_url": "https://x.com/LeNai_tuzhi/status/2106064263957934555/video/1",
+              "media_key": "13_2106064157263212544",
+              "start": 24,
+              "url": "https://t.co/FRXvwVr8N1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106064263957934555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2106064157263212544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 72900,
+          "like_count": 407,
+          "quote_count": 5,
+          "reply_count": 130,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "支黑都是有原因的，支那的劣根性导致了支黑的诞生 https://t.co/FRXvwVr8N1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2106320831756239353",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5481,
+          "following_count": 7499,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 13499
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-11T20:18:53.000Z",
+        "description": "“未来的东亚必是插满🇯🇵的东亚”\n此账号以后作主号使用，不发表仇恨言\n论\n分身：@mao_tuzhi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "mao_tuzhi"
+              }
+            ]
+          }
+        },
+        "id": "2087271762165915648",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2106318456740344078",
+        "name": "乐奈🕷️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087271762165915648/1790673128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104949503887351809/9vhSSo7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 69,
+          "like_count": 19,
+          "listed_count": 4,
+          "media_count": 708,
+          "tweet_count": 1534
+        },
+        "url": "",
+        "username": "LeNai_tuzhi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

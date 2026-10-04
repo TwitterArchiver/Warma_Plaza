@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1628965541057642496",
+    "conversation_id": "2106177265692508561",
+    "created_at": "2026-10-03T10:38:42.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106333111881478295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2081779662104236032",
+          "start": 0,
+          "username": "Kusuriawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106333111881478295",
+    "in_reply_to_user_id": "2081779662104236032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106177265692508561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusuriawa (´ . .̫ . `)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2106177265692508561",
+        "created_at": "2026-10-03T10:38:42.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106333111881478295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2081779662104236032",
+              "start": 0,
+              "username": "Kusuriawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106333111881478295",
+        "in_reply_to_user_id": "2081779662104236032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106177265692508561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusuriawa (´ . .̫ . `)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081779662104236032",
+        "conversation_id": "2106177265692508561",
+        "created_at": "2026-10-03T00:19:25.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T01:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106177265692508561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106177265692508561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 740,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊卧槽你们怎么全去 HK 的 GBC 演唱会了\n我 xmsl😭👊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "is_identity_verified": false,
+        "location": "忆雨座-沃玛星",
+        "most_recent_tweet_id": "2106333111881478295",
+        "name": "Warma广场",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1628965541057642496/1750075070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5485,
+          "following_count": 7500,
+          "like_count": 678,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 13534
+        },
+        "url": "",
+        "username": "Warma_Plaza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T16:33:40.000Z",
+        "description": "ワタシは誰か？\nSecond account: @KusuriSecond",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "KusuriSecond"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusuriawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Kusuriawa",
+                "start": 0,
+                "url": "https://t.co/jop92rDtDb"
+              }
+            ]
+          }
+        },
+        "id": "2081779662104236032",
+        "is_identity_verified": false,
+        "location": "キミのココロ",
+        "most_recent_tweet_id": "2106332453082460427",
+        "name": "Kusuri",
+        "pinned_tweet_id": "2103090331042668696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081779662104236032/1790381599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103638247461335040/T2g7_wog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 454,
+          "like_count": 3179,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/jop92rDtDb",
+        "username": "Kusuriawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
